@@ -145,9 +145,13 @@ async function boot(){
   try{ SEGOV=await (await fetch(gd('seg_overrides.json'),NS)).json(); }catch(e){SEGOV={}}
   try{ DIRECTED=await (await fetch(gd('directed.json'),NS)).json(); }catch(e){}
   side();
+  // Show Magnific connection status immediately — it must NOT depend on the ElevenLabs quota
+  // call, which fails here (no EL key). Otherwise the Connect link never renders and there's
+  // nothing to click.
+  const mcp=S.mcpConnected?'<span style="color:var(--good)">Magnific: connected ✓</span>'
+    :'<a href="/oauth/login" style="color:var(--acc)">Connect Magnific (one-time login)</a>';
+  $('quota').innerHTML=mcp;
   api('/api/quota').then(q=>{
-    const mcp=S.mcpConnected?'<span style="color:var(--good)">Magnific: direct ✓</span>'
-      :'<a href="/oauth/login" style="color:var(--acc)">Connect Magnific (one-time login)</a>';
     $('quota').innerHTML=`ElevenLabs ${q.tier}: ${q.used.toLocaleString()} / ${q.limit.toLocaleString()} chars · ${mcp}`;
   }).catch(()=>{});
   // Magnific catalog is primary (no slot limits, identical to bulk production);

@@ -32,3 +32,8 @@ __pycache__/
 *.pyc
 lab/audio/
 lab-server.log
+
+# secrets (Magnific MCP OAuth) - never commit
+.mcp_client.json
+.mcp_tokens.json
+.elevenlabs.key
