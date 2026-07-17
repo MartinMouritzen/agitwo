@@ -1,0 +1,32 @@
+# --- Large / external: ScummVM checkout (captured as patches/agitwo-scummvm.patch) ---
+scummvm/
+
+# --- Copyrighted game data (NEVER commit) ---
+games/
+
+# --- Generated voice audio (the distributable pack; ships via release/Nexus, not git) ---
+*.mp3
+*.wav
+dist/
+voices-out/
+
+# --- Build / tool logs ---
+*.log
+
+# --- Editor / OS cruft ---
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+node_modules/
+
+# --- Scratch ---
+/tmp/
+*.tmp
+
+# NOTE (public-release footgun): text/ and voices-src/*-lines.json contain
+# verbatim Sierra game script (speaker-tagged). Fine in a PRIVATE repo. Strip
+# them before making this repo public. See README "Distribution & legal".
+__pycache__/
+*.pyc

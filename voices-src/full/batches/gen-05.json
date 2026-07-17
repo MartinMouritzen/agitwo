@@ -1,0 +1,1353 @@
+[
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 41,
+  "text": "\"It is also a good place to talk about adventures on a cold afternoon.  We used to play cards here once a week, as well, but there are too few adventurers in Spielburg anymore.  They all died at the hands of monsters or brigands, or they just became too old.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1750-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 42,
+  "text": "\"You can see some of the types of monsters that live around here if you look at our walls.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1751-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 43,
+  "text": "\"There is a reward for anyone who can stop the brigands by capturing or killing their leaders.  The information is on the bulletin board.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1752-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 44,
+  "text": "\"Oh, those are nothing.  Anyone can kill a Saurus.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1753-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 45,
+  "text": "\"It's been a while since Schultz and I killed the one on the wall.  It is fortunate that few Trolls remain; they're deadly.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1754-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 46,
+  "text": "\"Watch out for Cheetaurs.  I bear the scars of my last fight with one to this day.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1755-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 47,
+  "text": "\"I remember the day I killed one.  It was the biggest one I had ever seen.  It put up a tough fight, but I was tougher.  You can see the result on the wall.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1756-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 48,
+  "text": "\"One day, years ago, a pair of dragons tried to take over our valley.  We adventurers rode out to meet them.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1757-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 49,
+  "text": "\"I can still see Stefan von Spielburg charging forward on his black horse.  He slew the one whose head adorns the wall above our fireplace.  The other one flew off.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1758-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 50,
+  "text": "\"People say that they can sometimes see that other dragon flying high overhead, but it has never dared attack us again.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1759-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 51,
+  "text": "\"One year, this valley was overrun by those odd and terrible monsters.  Schultz and I fought long and hard to eliminate them completely.  We might have failed even so, had it not been for those two peculiar tourists who came to our aid.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1760-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 52,
+  "text": "\"That was the most vicious moose I ever ran into.  Nearly bit my nose off!\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1761-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 53,
+  "text": "\"They certainly were strange.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1762-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 54,
+  "text": "\"That's where the tourists said they came from.  Must be some place up North -- I sure never heard of it.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1763-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 55,
+  "text": "\"Not much of an adventurer, but he did kill one Saurus before he made the mistake of tangling with an Ogre.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1764-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 56,
+  "text": "\"Ogres are a lot like Goons, but even meaner.  Not as bright, though.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1765-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 57,
+  "text": "\"A Goon is a lot like an Ogre, not as tough, but a little smarter.  We have two Goons in town, Otto and Crusher.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1766-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 58,
+  "text": "\"I am Wolfgang Abenteuer, Guild Master of this hall.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1767-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 59,
+  "text": "\"A real hero is someone who did not start out strong or powerful, but who uses his courage, brains, and skills to become the best he can be.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1768-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 60,
+  "text": "\"I'm sorry.  I only know what's written on the poster.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1769-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 61,
+  "text": "\"The castle is just north of the Healer's house.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1770-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 62,
+  "text": "\"The Healer's house is just north of the crossroads outside of town.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1771-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 63,
+  "text": "\"You know, that reminds me very little of the time old Schultz and I.......\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1772-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 64,
+  "text": "\"Wait a minute. It'll come to me.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1773-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 65,
+  "text": "\"ZZZZZZZZZZZZZZZZ.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1774-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 66,
+  "text": "\"Ach! I was so busy I didn't notice you come in. Welcome, welcome! It is so seldom that we have new adventurers here. Most people think this valley is cursed!\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1775-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 1,
+  "text": "The town gate is locked for the night.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1776-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 2,
+  "text": "The gate is open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1777-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 3,
+  "text": "The town gate is closed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1778-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 4,
+  "text": "The gate is kept open during the day.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1779-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 5,
+  "text": "After making sure nobody is watching, you climb over the town's wall.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1780-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 6,
+  "text": "Climbing the wall proves too difficult for your current level of skill, but keep practicing.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1781-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 8,
+  "text": "The town gate is wide open.  You would look silly climbing the wall.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1782-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 9,
+  "text": "The road from town branches here.  The eastern fork is the road which brought you into this valley.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1783-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 10,
+  "text": "The town wall is made of very sturdy carved rock.  The sign has been carved from wood.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1784-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 11,
+  "text": "The full moon portends dangerous times.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1785-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 12,
+  "text": "What can be seen of the sky through the trees is bright and clear.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1786-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 13,
+  "text": "You can see pines, cedars, birches and other trees frequently associated with mountain forests.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1787-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 14,
+  "text": "Heavy forest looms to the south.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1788-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 15,
+  "text": "The main road by which you entered this valley winds its way through the dense forest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1789-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 16,
+  "text": "The north road winds its way through the woods.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1790-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 17,
+  "text": "The breeze is cool, but you feel a shiver deeper than just the cold.  You are on your own in a very dangerous place.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1791-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 18,
+  "text": "Bruno is big and a tough fighter.  He's also very adept at throwing daggers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1792-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 19,
+  "text": "Next to the town's wall, you notice a man who appears to be waiting for someone.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1793-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 20,
+  "text": "Bruno hangs around the town gates.  He will sell information.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1794-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 21,
+  "text": "It looks like a particularly deadly weapon, and the thief handles it with great skill.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1795-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 22,
+  "text": "Bruno nods and makes the countersign.  \"Ya need ta talk to Sneak about the password.  Ya can find him in the alley at night.\"",
+  "say": "Ya need ta talk to Sneak about the password. Ya can find him in the alley at night.",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1796-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 23,
+  "text": "\"Get outta my face.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1797-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 24,
+  "text": "\"Give me dough- ya know.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1798-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 25,
+  "text": "\"A little silver might loosen my lip.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1799-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 26,
+  "text": "You had better talk with him and find out how much he wants for his information.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1800-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 27,
+  "text": "\"What's in it for me?  If ya give me a silver, I might have a bit of info you can use.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1801-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 28,
+  "text": "\"For another silver, I can tell ya about where to go to find the Baron, Baba Yaga, or some goblins who have a lot of treasure. So if ya want some information, hand me some cash.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1802-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 29,
+  "text": "Don't mess around with Bruno.  You don't have a silver.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1803-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 30,
+  "text": "(Specify how many gold coins to give him.)",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1804-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 31,
+  "text": "\"Okay, whaddaya wanna know\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1805-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 32,
+  "text": "\"Go south and you'll see a hollow log.  Then head west until ya can go south again.  Then go east until you can go south again.  From there go west. Them brigands just love vistors.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1806-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 33,
+  "text": "\"What's this for?\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1807-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 34,
+  "text": "\"Don't get me wrong.  I'll take it!\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1808-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 35,
+  "text": "You don't have enough money.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1809-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 36,
+  "text": "\"I seen her one time yelling out to the house, 'Hut of brown, now sit down.'  That's one spooky dame, let me tell you.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1810-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 37,
+  "text": "\"For ten golds, I'll tell ya where to find some of the robbers what have been robbing people coming into the valley.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1811-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 38,
+  "text": "\"They hide it in the graveyard.  It's under one of the tombstones.  You can see the thieves if you go there at night.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1812-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 39,
+  "text": "\"Okay, whaddaya wanna know?\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1813-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 40,
+  "text": "\"For ten golds, I'll even tell ya where to find some of the robbers what have been robbing people coming into the valley.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1814-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 41,
+  "text": "\"Go south and you'll see a hollow log.  Then head west until ya can go south again.  Then go east until you can go south again.  From there, go west.  Them brigands just love visitors.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1815-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 42,
+  "text": "\"For two gold, I'll tell ya how to get into old Baba Yaga's hut.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1816-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 43,
+  "text": "\"Nobody knows much about the leader.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1817-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 44,
+  "text": "\"For ten gold, I'll tell ya where some of those robbers are that're robbin' folks as they come inta the valley.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1818-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 45,
+  "text": "\"Just call me Bruno.  That was an easy silver.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1819-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 46,
+  "text": "\"She's an ugly hag who knows some magic.  She lives in a weird house.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1820-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 47,
+  "text": "\"Her place is due west of the Baron's place.  Can't miss it.  And for two gold, I'll tell ya how to get into her hut.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1821-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 48,
+  "text": "\"Ya just take the road north from here past the Healer's and go till ya get to his castle.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1822-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 49,
+  "text": "\"The little pests are just northwest of the cemetery.  They're a bunch of wimps.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1823-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 50,
+  "text": "\"It's due west of town.  Nice place to visit, but I wouldn't want to stay, if ya know what I mean.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1824-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 51,
+  "text": "\"Everyone loves Dragon's Breath.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1825-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 52,
+  "text": "\"The Sheriff and the goon are pals.   Otto even lives with the Sheriff and his wife.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1826-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 53,
+  "text": "\"He's a pal of mine.  He usually hangs out in the bar.  A real sweet guy.  Give him a slap on the back for me.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1827-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 54,
+  "text": "\"The thieves' password?  Sorry, I can't risk losing my thief license.  Chief wouldn't like it if I blabbed that to the likes'a you.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1828-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 55,
+  "text": "\"He's the only one in the valley who can beat me at daggers.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1829-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 56,
+  "text": "\"She's got some good potions.  Her hut is just to the north of here.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1830-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 57,
+  "text": "\"He's some kinda magic user.  And he laughs alot.  That's all I know.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1831-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 58,
+  "text": "\"Hahahaha!  Yeh, the antwerp is a good monster for you to fight.  It loves to play.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1832-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 59,
+  "text": "\"Lots'a monsters in this valley.  Most of 'em are wimps, though.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1833-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 60,
+  "text": "\"Hey, I just know what I know.  If you want other info, ask someone else.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1834-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 61,
+  "text": "\"For a gold, well, I can tell where the Thieves' Guild is hidden.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1835-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 62,
+  "text": "\"You talk'n ta me?\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1836-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 63,
+  "text": "The town gates are closed and barred at night.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1837-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 64,
+  "text": "The carved wooden sign reads \"SPIELBURG.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1838-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 65,
+  "text": "He saw you casting a spell, and he already had a dagger in his hand.  It doesn't pay to try to fight someone who uses poisoned daggers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1839-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 66,
+  "text": "It takes too long to draw your weapon against someone with a dagger in his hand.  It doesn't pay to try to fight someone who uses poisoned daggers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1840-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 67,
+  "text": "\"Why dontcha leave me alone?  I ain't done nothin'.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1841-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 68,
+  "text": "\"Hey, I'm just trying to make a buck.  No need to give me a hard time.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1842-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 69,
+  "text": "\"You look nervous.  Why dontcha take a walk and cool off.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1843-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 70,
+  "text": "\"Bug off.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1844-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 71,
+  "text": "\"I think I hear your momma calling you.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1845-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 65,
+  "idx": 72,
+  "text": "\"Your boot's untied.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1846-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 0,
+  "text": "Looking around, you get the feeling that this is not a very friendly place to be.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1847-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 1,
+  "text": "\"All the other skulls have glowing eyes. But me?....noooo!  I don't need lovely glowing eyes!  Just open and close the gate, that's all I'm good for.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1848-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 2,
+  "text": "\"But if you can give me a glowing gem for my eyes, then I'll let you in the gate.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1849-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 3,
+  "text": "\"Well, is it a deal or isn't it?\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1850-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 4,
+  "text": "\"You know the deal!  Get me a glowing gem for my eyes, and I'll let you in.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1851-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 5,
+  "text": "\"Do you agree to the deal?\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1852-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 6,
+  "text": "Nothing happens.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1853-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 7,
+  "text": "\"I'm moving as fast as I can!\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1854-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 8,
+  "text": "The hut is a strange little house perched on chicken legs.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1855-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 9,
+  "text": "Those are the biggest chicken legs you've ever seen.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1856-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 10,
+  "text": "The sharp ends of the fence are covered with some nasty-looking green slime.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1857-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 11,
+  "text": "The gate's gone.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1858-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 12,
+  "text": "The large skull on the gate seems to stare vacantly at you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1859-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 13,
+  "text": "It looks a lot like the slime that was eating away the barstool at the tavern.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1860-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 14,
+  "text": "You've never seen anything like it.  It looks quite unhealthy.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1861-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 15,
+  "text": "The skulls on top of the fence have eerily glowing eyes.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1862-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 16,
+  "text": "The eyes of the large skull on the gate flash merrily away at you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1863-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 17,
+  "text": "You can see nothing through the windows of the hut.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1864-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 18,
+  "text": "The door is open, but hardly inviting.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1865-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 19,
+  "text": "The door of the hut is ornately decorated.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1866-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 20,
+  "text": "Your eyes are drawn to the incredible hut on chicken legs.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1867-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 21,
+  "text": "Now???",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1868-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 22,
+  "text": "The green slime dripping off of the fence top makes you realize that climbing is not a good idea.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1869-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 23,
+  "text": "What's to climb?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1870-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 24,
+  "text": "You have second thoughts, and you decide not to attempt such a potentially dangerous excursion.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1871-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 25,
+  "text": "You have to get there, first.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1872-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 26,
+  "text": "Too much work.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1873-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 27,
+  "text": "Huh?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1874-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 28,
+  "text": "Ok, go ahead and say the rhyme.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1875-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 29,
+  "text": "\"The deal is made, then.  A glowing gem in exchange for an opportunity to see Baba Yaga herself.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1876-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 30,
+  "text": "\"Give me my gem!!\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1877-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 31,
+  "text": "\"Hey, it's your life!\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1878-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 32,
+  "text": "\"No gem, no entry.  That's the deal.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1879-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 33,
+  "text": "\"What kind of hero are you?  Can't even find a little glowing gem for me to see with!\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1880-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 34,
+  "text": "\"Just answer the question, will ya?\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1881-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 35,
+  "text": "\"Do you have my gem?\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1882-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 36,
+  "text": "\"Do you want back in?\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1883-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 37,
+  "text": "\"Is it a deal or not?\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1884-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 38,
+  "text": "\"Right!\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1885-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 39,
+  "text": "\"Not until you get my gem!\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1886-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 40,
+  "text": "\"Hey!  Where's your manners?  Let me tell you something, here!\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1887-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 41,
+  "text": "\"Wait a minute...I'll get around to that.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1888-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 42,
+  "text": "\"You kept your end of the deal, all right!\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1889-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 43,
+  "text": "\"What's to tell?  You've seen her for yourself.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1890-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 44,
+  "text": "\"Baba Yaga is the most powerful Ogress around.  If you have any brains (and it looks like you don't), you'll stay away from her.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1891-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 45,
+  "text": "\"Some hero YOU are!  Don't know what an Ogre is.  Just check out Baba Yaga!\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1892-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 46,
+  "text": "\"All I ask for is a little gem or jewel that glows in the dark.   You're the big hero, so go find one.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1893-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 47,
+  "text": "\"It's just the right color!\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1894-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 48,
+  "text": "\"I wish I had some.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1895-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 49,
+  "text": "\"I'm thrilled to have some!\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1896-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 50,
+  "text": "\"The bone brains on top of the fence are Baba Yaga's spies.  That's why THEY have glowing eyes.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1897-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 51,
+  "text": "\"It's not much, but I call it home.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1898-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 52,
+  "text": "\"You've seen one, you've seen them all, I say.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1899-bonehead.mp3"
+ }
+]

@@ -1,0 +1,1352 @@
+[
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 21,
+  "text": "\"YOU DON'T GIVE UP EASILY,\nDO YOU?\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3700-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 22,
+  "text": "\"OH!  YOU AGAIN!\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3701-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 23,
+  "text": "\"STAND FAST!\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3702-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 24,
+  "text": "\"CAN YOU HEAR ME?\nYOU HAVE THREE QUESTIONS.\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3703-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 25,
+  "text": "\"HERE COME YOUR QUESTIONS:\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3704-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 26,
+  "text": "\"HE WHO WOULD THE WIZARD SEE\nFIRST MUST ANSWER QUESTIONS THREE.\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3705-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 27,
+  "text": "\"BEAT IT, BUB!\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3706-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 28,
+  "text": "\"WRONG!\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3707-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 29,
+  "text": "ASKING QUESTIONS\nIS *MY* JOB, BUB!",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3708-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 30,
+  "text": "\"NO THIEVES ALLOWED!\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3709-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 31,
+  "text": "The Wizard is not running an inn.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3710-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 32,
+  "text": "\"THAT'S NOT NICE!\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3711-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 33,
+  "text": "\"WHAT IS YOUR NAME?\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3712-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 34,
+  "text": "\"WHAT IS YOUR FAVORITE COLOR?\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3713-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 35,
+  "text": "\"WHAT IS YOUR QUEST?\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3714-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 36,
+  "text": "\"WHO DO YOU SEEK HERE?\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3715-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 37,
+  "text": "\"WHAT IS THE MEAN AIRSPEED\nOF AN UNLADEN SWALLOW?\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3716-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 38,
+  "text": "\"WHAT IS THE MEANING OF LIFE,\nTHE UNIVERSE, AND EVERYTHING?\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3717-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 39,
+  "text": "\"IS IT FURTHER TO SHAPEIR,\nOR BY CAMEL?\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3718-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 40,
+  "text": "\"IS THIS A YES OR NO QUESTION?\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3719-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 41,
+  "text": "\"WHAT IS THE BARON'S FIRST NAME?\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3720-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 42,
+  "text": "\"WHOSE SPELL PROTECTS THE TOWN?\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3721-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 43,
+  "text": "\"WHAT IS THE THIEVES' PASSWORD?\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3722-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 44,
+  "text": "\"GOOD.  YOU'RE NOT A THIEF!\"",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3723-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 45,
+  "text": "THAT IS CORRECT.",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3724-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 46,
+  "text": "THE WIZARD WILL NOW SEE YOU.",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3725-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 47,
+  "text": "GO DIRECTLY UP TO THE TOWER.\nDO NOT DALLY!",
+  "speaker": "gargoyle",
+  "voiceId": 543,
+  "file": "qfg1-3726-gargoyle.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 0,
+  "text": "There seems to be a fox north of the road.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3727-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 1,
+  "text": "The forest deepens north and south of you.  To the east, the road twists it's way up the mountain.  To the west, the road is hidden by trees.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3728-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 2,
+  "text": "For a moment there, you thought you saw something. You can't see anything now.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3729-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 3,
+  "text": "It seems to be a simple spring trap and you can easily open it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3730-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 4,
+  "text": "The trap seems to be caught on something.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3731-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 5,
+  "text": "You can see no sign of a trap here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3732-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 6,
+  "text": "The fox seems to have a foot caught in a trap.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3733-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 7,
+  "text": "The fox is gone.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3734-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 8,
+  "text": "You must free the fox first.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3735-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 9,
+  "text": "Walk over to the trap.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3736-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 10,
+  "text": "You don't see the trap now.  It seems to have vanished.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3737-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 11,
+  "text": "There is an aura of magic around the fox.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3738-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 12,
+  "text": "There is no magic present.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3739-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 13,
+  "text": "The fox is in such pain that it's already dazzled.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3740-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 15,
+  "text": "\"You don't have to put me out of my misery, you just have to get me out of this trap.\"",
+  "speaker": "fox",
+  "voiceId": 442,
+  "file": "qfg1-3741-fox.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 16,
+  "text": "\"You realize, of course, I really find it hard to relax with this thing on my leg.\"",
+  "speaker": "fox",
+  "voiceId": 442,
+  "file": "qfg1-3742-fox.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 17,
+  "text": "\"Help me, Brave and Kind Hero.\"",
+  "speaker": "fox",
+  "voiceId": 442,
+  "file": "qfg1-3743-fox.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 18,
+  "text": "\"Please help me, Brave and Kind Hero.\"",
+  "speaker": "fox",
+  "voiceId": 442,
+  "file": "qfg1-3744-fox.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 19,
+  "text": "\"Please have mercy on a creature who is in great pain.\"",
+  "speaker": "fox",
+  "voiceId": 442,
+  "file": "qfg1-3745-fox.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 20,
+  "text": "The fox does not seem to want to fight.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3746-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 21,
+  "text": "\"My foot is caught in this cruel trap and I am in great pain.  Surely you could take a minute and set me free.\"",
+  "speaker": "fox",
+  "voiceId": 442,
+  "file": "qfg1-3747-fox.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 22,
+  "text": "That was strange, no sooner did you kill the fox than it vanishes.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3748-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 23,
+  "text": "Hmmm.  Perhaps it needed a stronger spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3749-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 24,
+  "text": "Your powerful Open spell springs the trap.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3750-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 25,
+  "text": "You spring the trap.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3751-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 26,
+  "text": "\"In exchange for your kindness, I will give you some advice and a bit of information.  First of all, it sometimes pays off to be polite, even to rude people.\"",
+  "speaker": "fox",
+  "voiceId": 442,
+  "file": "qfg1-3752-fox.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 27,
+  "text": "\"As for the amusing tidbit - Baba Yaga put an enchantment on the Baron's Daughter some years back.  To break the spell you need to talk to the Dryad.  Au Revoir, Ta-ta, see you sometime.\"",
+  "speaker": "fox",
+  "voiceId": 442,
+  "file": "qfg1-3753-fox.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 28,
+  "text": "The trap seems to be caught on something.  You can't pull it loose.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3754-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 29,
+  "text": "\"I am in such pain and agony I cannot think.   Help me, good adventurer, please.\"",
+  "speaker": "fox",
+  "voiceId": 442,
+  "file": "qfg1-3755-fox.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 30,
+  "text": "That's not worth any game points, and will not make the fox feel any better.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3756-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 31,
+  "text": "\"My foot is caught in this trap.  If I had hands like you, instead of paws, I could free myself.\"",
+  "speaker": "fox",
+  "voiceId": 442,
+  "file": "qfg1-3757-fox.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 32,
+  "text": "Walk around to the other side of the fox, where the trap is.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3758-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 33,
+  "text": "There's no one here to fight.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3759-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 34,
+  "text": "You would need a sword.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3760-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 3,
+  "text": "Ten silver coins equal a gold coin in value.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3761-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 5,
+  "text": "Each gold coin is worth 10 silver coins.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3762-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 7,
+  "text": "Standard adventuring rations.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3763-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 9,
+  "text": "Root of a Mandrake plant.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3764-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 11,
+  "text": "A large, metallic key.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3765-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 13,
+  "text": "A heavy, one-handed broadsword.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3766-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 15,
+  "text": "Daggers for throwing and close-in fighting.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3767-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 17,
+  "text": "Armor made of leather boiled in wax.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3768-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 19,
+  "text": "A strong (and heavy) iron shield.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3769-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 21,
+  "text": "Blank pieces of paper.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3770-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 23,
+  "text": "Small apples from last Fall's harvest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3771-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 25,
+  "text": "Vegetables from the Centaur farmers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3772-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 27,
+  "text": "This gem glows with a magic of its own.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3773-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 29,
+  "text": "A lovely alabaster flower vase.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3774-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 31,
+  "text": "A heavy golden candelabra.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3775-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 33,
+  "text": "The gaudily-ornamented music box plays \"Fur Elise\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3776-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 35,
+  "text": "A finely-made silver candlestick",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3777-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 37,
+  "text": "A string of pearls",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3778-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 39,
+  "text": "A fine golden ring.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3779-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 41,
+  "text": "Seed of the Spore-Spitting Spirea.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3780-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 43,
+  "text": "Small rocks, suitable for throwing.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3781-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 45,
+  "text": "A flask of beautiful flowers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3782-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 47,
+  "text": "An Acme Lock Pick.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3783-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 49,
+  "text": "Tool kit with several types of lockpicks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3784-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 51,
+  "text": "Your Thieves' Guild License.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3785-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 53,
+  "text": "An empty flask with a cork stopper.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3786-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 55,
+  "text": "Soft green Meep fur.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3787-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 57,
+  "text": "A flask of genuine Fairy Dust.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3788-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 59,
+  "text": "Crystal clear water in a glass flask.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3789-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 61,
+  "text": "Magic mushrooms.  Or maybe toadstools.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3790-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 63,
+  "text": "Claws from a Cheetah-Centaur.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3791-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 65,
+  "text": "Troll beard with hairs as tough as wire.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3792-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 67,
+  "text": "Chainmail Armor (*very* heavy!)",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3793-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 69,
+  "text": "A potion to restore Health Points.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3794-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 71,
+  "text": "A potion to restore Magic Points.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3795-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 73,
+  "text": "A potion to restore Stamina Points.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3796-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 77,
+  "text": "A potion for dispelling enchantments.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3797-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 79,
+  "text": "An oil to protect you from the Living Dead.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3798-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 81,
+  "text": "A mirror with a face (not yours) on it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3799-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 83,
+  "text": "Acorn from the Dryad's tree.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3800-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 0,
+  "text": "You're kidding, right?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3801-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 1,
+  "text": "You don't have a knife.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3802-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 2,
+  "text": "There are none here to search.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3803-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 3,
+  "text": "The Ogre's body must have been carried away during the night by some marauding beasties.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3804-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 4,
+  "text": "However, there is a dead Ogre here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3805-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 5,
+  "text": "However, there is a very large Ogre here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3806-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 6,
+  "text": "There is a cave entrance large enough to admit a man.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3807-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 7,
+  "text": "There is a big, ugly, dead Ogre here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3808-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 8,
+  "text": "This Ogre is in a bad mood.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3809-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 9,
+  "text": "And big. Very BIG.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3810-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 10,
+  "text": "The dead Ogre's chest lies open and empty.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3811-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 11,
+  "text": "The dead Ogre's chest lies open, its contents glittering brightly.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3812-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 12,
+  "text": "The Ogre is carrying a chest in his massive arms.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3813-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 13,
+  "text": "The chest has a heavy lid with a strong lock.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3814-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 14,
+  "text": "There is nobody here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3815-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 15,
+  "text": "This Ogre will never eat again.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3816-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 16,
+  "text": "This Ogre looks like it would rather eat you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3817-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 17,
+  "text": "There are no locks here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3818-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 18,
+  "text": "The chest is already open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3819-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 19,
+  "text": "It's locked -- you'll have to use another skill to open this.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3820-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 20,
+  "text": "You don't have the right tools -- you'll have to find another way to open it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3821-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 21,
+  "text": "The lock is beyond your current skill.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3822-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 22,
+  "text": "There's nothing like that here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3823-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 23,
+  "text": "It's already unlocked.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3824-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 24,
+  "text": "A magical aura emanates from the cave's entrance.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3825-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 25,
+  "text": "You've wasted a spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3826-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 26,
+  "text": "Ok, he'll be a dazzled cadaver.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3827-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 27,
+  "text": "How much more calm can he get?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3828-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 28,
+  "text": "You're wasting a spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3829-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 29,
+  "text": "There's nothing here to open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3830-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 30,
+  "text": "The Ogre's chest is already unlocked.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3831-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 31,
+  "text": "Your spell unlocks the Ogre's chest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3832-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 32,
+  "text": "Your spell is too weak to open the Ogre's chest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3833-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 33,
+  "text": "The chest is held shut by the Ogre's massive arms.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3834-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 36,
+  "text": "You want to fetch THAT?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3835-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 37,
+  "text": "The dead Ogre's huge club is much too heavy for you to lift.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3836-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 39,
+  "text": "You need to get closer to the dead Ogre.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3837-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 41,
+  "text": "A search of the dead Ogre's body produces no treasure.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3838-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 42,
+  "text": "However, the treasure chest he was carrying lies beside his body.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3839-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 43,
+  "text": "The lock on the Ogre's chest clicks open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3840-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 44,
+  "text": "The dead Ogre's chest contains 1 gold and 43 silver, which you take and put away.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3841-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 45,
+  "text": "You force the Ogre's chest open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3842-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 46,
+  "text": "The chest is locked.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3843-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 47,
+  "text": "The dead Ogre's chest is empty.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3844-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 48,
+  "text": "The Ogre appears to have recovered from your spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3845-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 0,
+  "text": "They're like stalagmites, but they go the other way.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3846-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 1,
+  "text": "They're like stalactites, but they go the other way.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3847-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 2,
+  "text": "The cavern contains some impressive formations and is rather beautiful, as caves go.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3848-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 3,
+  "text": "The stalactites, stalagmites, and cave walls glow from a phosphorescent fungus growing there.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3849-narrator.mp3"
+ }
+]

@@ -1,0 +1,1352 @@
+[
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 21,
+  "text": "\"Look pets...we have a visitor!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1300-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 22,
+  "text": "\"Powers of Night,\nShadows of Day\nHeed now my Words!\nHenceforth you STAY!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1301-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 23,
+  "text": "Your body is frozen by the power of the witch's spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1302-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 24,
+  "text": "\"Well Dearies!  What shall we have for supper today?\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1303-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 25,
+  "text": "\"Hero sandwiches?\nI had something more formal in mind.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1304-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 26,
+  "text": "\"Ah...that's it!\nFrog Legs Fricassee.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1305-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 27,
+  "text": "\"Now how does that spell go.....?\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1306-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 28,
+  "text": "\"Hear me, oh Powers\nOf Klatha and Mana!\nTurn now my guest\nInto species called Rana!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1307-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 29,
+  "text": "\"I learned that spell from Erasmus, kids. Doesn't it look delicious?\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1308-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 30,
+  "text": "\"Stubborn, aren't you?\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1309-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 31,
+  "text": "\"Well, you won't be so tough after you've simmered in a little wine sauce.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1310-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 32,
+  "text": "\"Bon appetit, Dearies!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1311-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 33,
+  "text": "Next time you are asked a question by someone who has just turned you into a frog, perhaps you should be more polite.  It's better than being fricasseed!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1312-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 34,
+  "text": "\"It's just as well.  I'd lose my dinner if you were brave.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1313-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 35,
+  "text": "\"Lovies, it's about time we dine.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1314-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 36,
+  "text": "Didn't anyone ever tell you that a hero is supposed to be brave even when he isn't?  Looks like you found the coward's way out...sauteed in wine sauce.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1315-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 37,
+  "text": "\"Well, if you won't be a sweet, then you'll be my meat!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1316-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 38,
+  "text": "\"Nothin' says lovin' like frog legs in the oven.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1317-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 39,
+  "text": "It seems a shame to have such a promising career go up in flames (assuming she decides to flambe you).   Wouldn't it have been better just to do a small favor for such a sweet little old Ogress?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1318-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 40,
+  "text": "\"No mandrake for me, eh?  What a waste of spells you turned out to be.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1319-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 41,
+  "text": "\"Actually, since it's my breakfast time, we'll have some amphibian omelette with bacon and legs.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1320-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 42,
+  "text": "At least you could have said \"Yes\" before you croaked!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1321-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 43,
+  "text": "\"You again?\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1322-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 44,
+  "text": "\"Hello, Hero.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1323-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 45,
+  "text": "\"Powers that rule\nOver regions soggy:\nChange this creature\nBack into a froggy!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1324-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 46,
+  "text": "\"Ooooh...yummy!  I'm glad you returned.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1325-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 47,
+  "text": "Before you confront someone who is obviously more powerful than you are, give yourself a chance to reflect.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1326-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 48,
+  "text": "The witch is hopping mad.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1327-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 49,
+  "text": "\"What have you DONE to me?\nHow DARE you use my own spell against me?\nI'll, I'll....Oh oh!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1328-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 50,
+  "text": "\"Hear me, Oh Element of Air and Wind.\nGive me the power to save my own skin.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1329-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 1,
+  "text": "There aren't any loose daggers here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1330-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 2,
+  "text": "The objects on the ground are a brigand's shield and spear.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1331-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 3,
+  "text": "The dead brigand lies very still.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1332-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 4,
+  "text": "You see a hard-looking character who appears to be a thief.  He must be one of the Brigands!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1333-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 5,
+  "text": "The dead brigand's shield is not worth your while.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1334-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 7,
+  "text": "Get closer to him.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1335-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 9,
+  "text": "You are using the old archery target for dagger practice.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1336-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 10,
+  "text": "The old archery target looks as though it has not been used in quite some time.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1337-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 11,
+  "text": "The only daggers around here are the ones you've thrown at the target.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1338-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 12,
+  "text": "There are no useable spears near you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1339-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 13,
+  "text": "These bushes are full of thorns. You decide not to risk it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1340-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 14,
+  "text": "Some marauding beast must have taken the brigand's body away.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1341-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 15,
+  "text": "He isn't here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1342-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 16,
+  "text": "You detect no magic here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1343-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 17,
+  "text": "You waste a spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1344-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 19,
+  "text": "The brigand is too angry to calm.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1345-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 23,
+  "text": "You waste a spell. Fetch is only good for fetching small, visible objects.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1346-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 24,
+  "text": "Just wait. The nice brigand will throw you his knife.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1347-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 25,
+  "text": "That spell is not useful here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1348-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 29,
+  "text": "You would have trouble convincing people you are a Hero if you climbed the wall into town during the day.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1349-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 30,
+  "text": "The forest is very overgrown near here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1350-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 31,
+  "text": "The wall and buildings of Spielburg can be seen over the heavy brush.  An old target leans against the town wall.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1351-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 32,
+  "text": "You see a couple of hard-looking characters talking.  One looks like a thief; the other appears to be a fighter of some sort.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1352-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 33,
+  "text": "\"So what's this about, anyway?\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1353-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 34,
+  "text": "\"Her Nibs is starting to get suspicious about us.\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1354-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 35,
+  "text": "\"What's the bee in her bonnet?\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1355-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 36,
+  "text": "\"Seems the \"hero\" wandering around here has her leery.  She thinks he's going to go for the gold on her head.\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1356-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 37,
+  "text": "\"What's it ta do with us?\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1357-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 38,
+  "text": "\"She's been asking too many questions 'bout us.\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1358-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 39,
+  "text": "\"And the laughing jackass' eyeing me.  I had to sneak out.\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1359-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 40,
+  "text": "\"Then we got to avoid the ambush and use the back for a bit, 'til the heat is off.\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1360-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 41,
+  "text": "\"Maybe we should just make our move now.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1361-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 42,
+  "text": "\"Naw, let's wait for the creep to go first.\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1362-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 43,
+  "text": "\"While she's busy with him, we take over.\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1363-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 44,
+  "text": "\"She'll take him out easy, then we take her out.\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1364-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 45,
+  "text": "\"Where's the back door, then?\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1365-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 46,
+  "text": "\"Where the bouncer hops around.  Ya got your key still?\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1366-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 47,
+  "text": "\"Yeah.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1367-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 48,
+  "text": "\"Don't lose it.  I got the only other one.  Yull haveta search the rock for the keyhole.  It's hidden good.  And remember the 'word'.\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1368-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 49,
+  "text": "\"What Word?\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1369-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 50,
+  "text": "\"The 'word' what lets ya in so that Fred goes away.\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1370-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 51,
+  "text": "\"Oh yeah, sure.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1371-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 52,
+  "text": "\"What is it?\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1372-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 53,
+  "text": "\"Hiden Goseke.  Ya better learn it.\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1373-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 54,
+  "text": "\"You think I'm a dummy or somethin'?\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1374-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 55,
+  "text": "\"Say the 'word' before ya open the door or ya might make Fred mad.\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1375-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 56,
+  "text": "\"Ya don't want Fred ta get mad.\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1376-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 57,
+  "text": "\"Hey, no problem.  What's the 'word' again?\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1377-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 58,
+  "text": "\"Hiden Goseke.\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1378-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 59,
+  "text": "\"Hiden Goseke.  Got it.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1379-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 60,
+  "text": "\"I gotta get back before the Chief misses me.  Be back in a bit.\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1380-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 61,
+  "text": "\"Hiden Goseke.  See ya.\"",
+  "speaker": "bruno",
+  "voiceId": 686,
+  "file": "qfg1-1381-bruno.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 63,
+  "text": "\"Hey, watchu doin' here? Spyin', I'll wager!\"",
+  "speaker": "brutus",
+  "voiceId": 685,
+  "file": "qfg1-1382-brutus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 64,
+  "text": "Done in by daggers and a desperate desperado!  Try to avoid annoying that deadly duo next time.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1383-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 65,
+  "text": "There are too many bushes between you and the target.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1384-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 66,
+  "text": "You're too close to the target for it to be a challange.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1385-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 67,
+  "text": "You have no daggers to throw.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1386-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 68,
+  "text": "You find nothing else on the brigand's body.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1387-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 73,
+  "idx": 69,
+  "text": "You find a single key on the brigand's body, and put it away.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1388-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 0,
+  "text": "\"A word of warning to you -- don't drink the Dragon's Breath!\"",
+  "speaker": "beggar",
+  "voiceId": 796,
+  "file": "qfg1-1389-beggar.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 1,
+  "text": "\"Alms?  Alms for the poor?\"",
+  "speaker": "beggar",
+  "voiceId": 796,
+  "file": "qfg1-1390-beggar.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 2,
+  "text": "\"About time I got back to work.  Alms for the poor.  Alms!\"",
+  "speaker": "beggar",
+  "voiceId": 796,
+  "file": "qfg1-1391-beggar.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 3,
+  "text": "\"My name is Sam.  I've lived here for five years now, and I think I'll be heading on once the pass clears of snow.  There's supposed to be some good begging towns to the south.\"",
+  "speaker": "beggar",
+  "voiceId": 796,
+  "file": "qfg1-1392-beggar.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 4,
+  "text": "\"A beggar gets cash only when others get cash, and nobody's got much money here right now.\"",
+  "speaker": "beggar",
+  "voiceId": 796,
+  "file": "qfg1-1393-beggar.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 5,
+  "text": "\"There's honest work up at the Baron's castle, I hear.  But begging's my business.\"",
+  "speaker": "beggar",
+  "voiceId": 796,
+  "file": "qfg1-1394-beggar.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 6,
+  "text": "\"I remember when people used to stroll around town at night.  Now, the only people out late are the thieves.  And outside of town, man, you don't dare go out there after dark.  The Night Gaunts'll get you for sure.\"",
+  "speaker": "beggar",
+  "voiceId": 796,
+  "file": "qfg1-1395-beggar.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 7,
+  "text": "\"The most dangerous monsters come out at night.  I'd stay inside then if I were you.\"",
+  "speaker": "beggar",
+  "voiceId": 796,
+  "file": "qfg1-1396-beggar.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 8,
+  "text": "\"Nobody's ever lived to tell what the Night Gaunts are.  I sure don't want to find out.\"",
+  "speaker": "beggar",
+  "voiceId": 796,
+  "file": "qfg1-1397-beggar.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 9,
+  "text": "\"Thieves prowl the streets at night.  They don't bother me because I have nothing to steal.  The brigands are worse.  They sure hurt business; no one's getting rich but them.\"",
+  "speaker": "beggar",
+  "voiceId": 796,
+  "file": "qfg1-1398-beggar.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 10,
+  "text": "\"You can get a job cleaning the Baron's stable, I understand.  It's good work if you want to build up your muscles or have a place to spend the night, but you won't get rich.  I'd rather beg, myself.\"",
+  "speaker": "beggar",
+  "voiceId": 796,
+  "file": "qfg1-1399-beggar.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 11,
+  "text": "\"I'm afraid I can't tell you much about that.\"",
+  "speaker": "beggar",
+  "voiceId": 796,
+  "file": "qfg1-1400-beggar.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 12,
+  "text": "Stealing from a beggar is not a heroic action.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1401-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 13,
+  "text": "Some sharp object appears to have been thrown at these walls several times.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1402-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 14,
+  "text": "You can't make them out from here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1403-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 15,
+  "text": "This grubby place must be an alley.  You feel a strange, cold feeling here.  You see some discarded barrels, and a beggar holds out a bowl towards you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1404-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 16,
+  "text": "A thin man with very patched clothing holds out a bowl containing only your kind contribution.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1405-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 17,
+  "text": "A thin man with very patched clothing holds out an empty bowl.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1406-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 18,
+  "text": "The beggar's bowl contains your donation.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1407-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 19,
+  "text": "The beggar's bowl looks sadly empty.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1408-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 20,
+  "text": "Nice place.  How does this guy expect to make a living begging in this alley.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1409-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 21,
+  "text": "It's a vessel made of staves, headings and hoops. \nMore commonly known as a barrel.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1410-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 22,
+  "text": "This barrel reeks of Troll's Sweat.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1411-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 23,
+  "text": "The walls seem pretty normal, but there are some curious marks at the north ends of the buildings.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1412-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 24,
+  "text": "The barrels are empty, and smell of sour beer.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1413-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 25,
+  "text": "Although a beggar, the man in the alley appears to be sober.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1414-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 26,
+  "text": "The barrels are too heavy to move.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1415-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 27,
+  "text": "You can't.  The beggar is holding onto it with an iron grip.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1416-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 28,
+  "text": "\"Thanks.  You know, it's really tough trying to make a living begging in this town since the brigands started scaring all the trade away.\"",
+  "speaker": "beggar",
+  "voiceId": 796,
+  "file": "qfg1-1417-beggar.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 29,
+  "text": "\"This used to be such a nice place to live.  My advice to you is not to take up begging.  It just doesn't pay.  And don't go out at night.\"",
+  "speaker": "beggar",
+  "voiceId": 796,
+  "file": "qfg1-1418-beggar.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 30,
+  "text": "You reach in your pocket, and suddenly realize that you have no money to give.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1419-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 333,
+  "idx": 31,
+  "text": "\"Silver for the poor.\"",
+  "speaker": "beggar",
+  "voiceId": 796,
+  "file": "qfg1-1420-beggar.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 0,
+  "text": "\"Haven't you got anything better to do than hang around here?  Come back some other time you want to get rich.\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1421-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 1,
+  "text": "The stable looks much better since you cleaned it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1422-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 2,
+  "text": "It doesn't look like the stableman spends much of his time cleaning.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1423-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 3,
+  "text": "The castle's stable looks like it holds about six horses.  It could use some cleaning up.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1424-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 4,
+  "text": "The Baron was once known for his many fine and noble steeds.  Only a few aging animals remain in his stable.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1425-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 5,
+  "text": "The moon lights the Baron's courtyard.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1426-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 6,
+  "text": "It is a beautiful day.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1427-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 7,
+  "text": "You have raked the manure and covered the stable floor with new straw.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1428-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 8,
+  "text": "In the stable, the manure is beginning to pile up.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1429-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 9,
+  "text": "The castle is across the courtyard to the northeast.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1430-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 10,
+  "text": "The stable marks the eastern boundary of the Baron's courtyard.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1431-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 12,
+  "text": "Across the main courtyard to the west are the soldiers' barracks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1432-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 13,
+  "text": "There is a fenced corral next to the stable building.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1433-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 14,
+  "text": "A low-looking lout.  HE could use some cleaning up.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1434-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 15,
+  "text": "He's not standing where you can see him.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1435-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 16,
+  "text": "\"Don't tire me out with a bunch of questions.  Can't you see what a hard life I have?\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1436-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 17,
+  "text": "The stableman can't hear you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1437-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 18,
+  "text": "It's too early in the day; come back later.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1438-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 19,
+  "text": "It would be more comfortable to sleep on clean hay in the stable.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1439-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 20,
+  "text": "\"Hey you!  It's bad enough you hang around here all day, but I sure ain't gonna let you sleep here before you've worked enough to earn it!\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1440-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 21,
+  "text": "Wait a minute!",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1441-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 22,
+  "text": "\"If you put in a day's work, and you wanna take a nap, it's OK with me.\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1442-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 23,
+  "text": "\"These horses, they act just like animals or somethin'.\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1443-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 24,
+  "text": "\"Just get out and wander around a little.  You'll find out.\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1444-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 25,
+  "text": "\"Don't ask me about anything to do with magic.  I don't wanna know.\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1445-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 26,
+  "text": "\"Those things scare me silly!\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1446-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 27,
+  "text": "\"Ha-ha-ha-ha-ha!  Hee-hee-hee-ho-ho!\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1447-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 28,
+  "text": "\"Sure!  C'mon in and grab a rake.\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1448-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 29,
+  "text": "\"Don't tire me out with a bunch of questions.  I don't need your comments, either.  Can't you see what a hard life I have?\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1449-stableman.mp3"
+ }
+]

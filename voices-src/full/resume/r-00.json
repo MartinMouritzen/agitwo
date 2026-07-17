@@ -1,0 +1,1353 @@
+[
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 40,
+  "text": "\"This is Baba Yaga's curse, cast upon the Baron years ago:\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2428-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 41,
+  "text": "\"Upon von Spielburg and all his clan, this Curse I now demand:  What I will shall come full measure, so shall ye lose all that ye treasure.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2429-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 42,
+  "text": "\"There is always a way to break a curse; possibly Erasmus knows more about this one.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2430-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 43,
+  "text": "\"Baba Yaga's hut is Magical.  It stands on chicken legs, and you must know the rhyme to enter.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2431-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 44,
+  "text": "\"I have no interest in entering Baba Yaga's hut and therefore do not know the rhyme.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2432-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 45,
+  "text": "\"He was once the great leader of this land until he was foolish enough to anger Baba Yaga.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2433-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 46,
+  "text": "\"Erana was a powerful Spellcaster who lived long ago.  She brought peace to this valley.  Even now her spell protects this town from violence or foul Magic.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2434-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 47,
+  "text": "\"Her final resting place is due north of town, and it is a place of both safety and healing.  It is known as `Erana's Peace'\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2435-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 48,
+  "text": "\"Erasmus is a Wizard and a Spellcaster who knows much about this area.  He lives in a tower eastward of town.  He can be very helpful if approached properly, but he has a strange sense of humor.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2436-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 49,
+  "text": "\"It is a steep mountain to the northeast.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2437-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 50,
+  "text": "\"That is the Spell that lets you cast a Magical Flame upon your enemy.  The Spell Scroll will cost you 60 silver.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2438-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 51,
+  "text": "\"That is the Spell that lets you place magical energy upon a weapon.  The energy will be released as magical damage when you hit your enemy.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2439-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 52,
+  "text": "\"It is a Spell that allows you at first to unfasten simple locks and knots.  As you gain in skill, then you may open doors with it.  This Spell Scroll will cost you 30 silver.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2440-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 53,
+  "text": "\"The Fetch Spell allows you to lift or lower a lightweight object from a distance.  The Spell Scroll will cost you 40 silver.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2441-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 54,
+  "text": "\"We sell several Magical Spells on study scrolls.  You may purchase Flame Dart for 60 silver, Fetch for 40 silver, or the Open spell for 30 silver.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2442-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 55,
+  "text": "\"The Scrolls we sell are Magical.  You have but to read the Spell, and you will learn it.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2443-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 56,
+  "text": "\"I also know that you can find a wonderful Spell if you learn the secret of Erana's Peace.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2444-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 57,
+  "text": "\"Secrets are made to be kept.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2445-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 58,
+  "text": "\"We can sell you spell learning scrolls and enchanted potions.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2446-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 59,
+  "text": "\"The Healing Potion will cost you 50 silver.  It is made by the Healer outside of town.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2447-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 60,
+  "text": "\"Vigor Potions restore your Stamina after you have exerted yourself.  They cost 25 silver each.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2448-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 61,
+  "text": "\"Power is the essence of magic, that which the wizard shapes and is shaped by.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2449-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 62,
+  "text": "\"The Power Potion restores your magical energy, and costs 75 silver.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2450-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 63,
+  "text": "\"We have Healing, Vigor, and Power Potions.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2451-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 64,
+  "text": "\"Master the Arts Arcane, use those skills to vanquish the evil curse, and you will become a true Hero!\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2452-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 65,
+  "text": "Just look at the shelves.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2453-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 66,
+  "text": "\"We are entities of Magic and Power.  Matters such as that are of little importance.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2454-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 67,
+  "text": "\"We choose only to answer questions which interest us.  Do not persist with uninteresting questions.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2455-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 68,
+  "text": "\"We shall not waste our time further.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2456-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 69,
+  "text": "\"You may choose from the Fetch, Open, or Flame Dart Spells.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2457-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 70,
+  "text": "\"You may choose from the Healing, Vigor, or Power Potions.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2458-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 71,
+  "text": "\"I do not sell such things to such as you.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2459-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 72,
+  "text": "Zara ignores you.  You would do better if you showed some respect by walking up to the counter before talking to her.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2460-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 73,
+  "text": "\"So, you return to my shop.  Ask of me what you will, but keep to the point.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2461-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 74,
+  "text": "\"I am Zara, and my companion is Damiano.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2462-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 75,
+  "text": "\"The items in this shop are designed for those skilled in the use of magic.  We have very little for ones such as you who have not been initiated, but what we have could prove useful.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2463-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 76,
+  "text": "It's a frog.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2464-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 77,
+  "text": "A pentagram, used in incantations to conjure spirits.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2465-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 78,
+  "text": "Impressive design, but merely decorative.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2466-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 79,
+  "text": "Paraphernalia and apparatus.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2467-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 80,
+  "text": "Accoutrements and equipment.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2468-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 81,
+  "text": "Darned if I know!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2469-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 82,
+  "text": "Odds and ends.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2470-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 83,
+  "text": "Ends and odds.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2471-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 84,
+  "text": "Things and stuff.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2472-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 85,
+  "text": "Jeff's jimcracks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2473-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 86,
+  "text": "Magical junk and mystical garbage.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2474-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 0,
+  "text": "This dark, seedy place is less than you expected of a Thieves' Guild.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2475-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 1,
+  "text": "The man seated by the table greets you with a scowl;  Crusher is his usual, amiable self;  and you can't quite make out what lurks behind that massive door.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2476-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 2,
+  "text": "You feel uneasy about the sinister mood here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2477-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 3,
+  "text": "\"I don't have time to talk to unlicensed scum.  Pay your guild license fee, and then we can talk.\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-2478-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 4,
+  "text": "\"What do you think this is, your home?  Crusher, deal with this deadbeat.\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-2479-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 5,
+  "text": "The door is locked, and Boris won't let you in.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2480-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 6,
+  "text": "Picking locks in the Thieves' Guild is a singularly stupid idea.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2481-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 7,
+  "text": "Crusher ignores you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2482-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 8,
+  "text": "\"A Thief's license will cost you 25 silvers.  You will need a license to use any of our services.\"",
+  "speaker": "boris",
+  "voiceId": 264,
+  "file": "qfg1-2483-boris.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 9,
+  "text": "\"Perhaps I could sell you a good lockpick for fifteen silvers, or a wonderful Acme Thief Tool Kit for one hundred silvers.\"",
+  "speaker": "boris",
+  "voiceId": 264,
+  "file": "qfg1-2484-boris.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 10,
+  "text": "\"I have no time for idle talk.  Why don't you do something constructive like stealing Otto's yo-yo?\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-2485-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 11,
+  "text": "\"I can't hear you.  Please come a little closer to the window.\"",
+  "speaker": "boris",
+  "voiceId": 264,
+  "file": "qfg1-2486-boris.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 12,
+  "text": "From his expensive clothes to his carefully trimmed mustache, there is an air of sophistication to this villain.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2487-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 13,
+  "text": "Crusher is his usual, amiable self (every bit the Goon).",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2488-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 14,
+  "text": "The opening in the door is covered with a wire grate, but there is space below it where objects can be passed through.  The mysterious-looking man on the other side is Boris, the cashier and fence for the Guild.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2489-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 15,
+  "text": "The ladder up to the tavern is very sturdy.  It has to be to support Crusher's weight.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2490-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 16,
+  "text": "It looks like an oversized, well-used dartboard.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2491-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 17,
+  "text": "There sure are a lot of daggers in the board.  You wonder where the Chief Thief keeps them all.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2492-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 18,
+  "text": "The shadowy figure behind the door is Boris, the cashier and fence for the Guild.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2493-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 19,
+  "text": "The floor is surprisingly clean, compared to that of the bar upstairs.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2494-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 20,
+  "text": "The plaster is chipping in several places.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2495-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 21,
+  "text": "You can tell where the bar is by the seep marks of spilled beer.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2496-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 22,
+  "text": "The daggers are nicely made, and apparently designed for throwing.  Besides the Chief Thief's seemingly endless collection, there are two matched sets with differently-colored hilts for playing Dag-Nab-It.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2497-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 23,
+  "text": "Even thieves get thirsty.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2498-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 24,
+  "text": "You're probably wondering if there is any honor among thieves.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2499-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 63,
+  "text": "\"It will cost you 25 silvers to work in town.  Just pay Boris at the door.  If you don't have the cash, go steal something.\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-2536-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 0,
+  "text": "You reach for your money but come up empty-handed.  Unable to pay for your goods, you put the merchandise back.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2537-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 5,
+  "text": "This house is the same color as the Sheriff's office around the corner.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2538-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 6,
+  "text": "A simple but prosperous-looking edifice it is.  It looks like it might provide some staples that would prove useful to a traveler.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2539-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 7,
+  "text": "It is but a small stall, used for the daily sale of whatever local produce has not been confiscated by the brigands.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2540-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 10,
+  "text": "There is no response.  The store must be closed for the evening.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2541-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 13,
+  "text": "There is no one around.  The markets are closed for the night.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2542-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 14,
+  "text": "All of the produce has been taken in for the night.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2543-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 15,
+  "text": "The creature in charge of the Farmer's Mart is a rather lovely and shy-looking young centaur.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2544-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 16,
+  "text": "The selection is meagre and the appearance is not of the best, but the aromas are strangely enticing.  A barrel contains some small apples, and there are several types of vegetables on the counter.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2545-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 17,
+  "text": "This appears to be a Market street.  In the corner is a fruit and vegetable stand, or Farmer's Mart.  Next to it is a dry goods store, and next to that is a house.  Across the street you see the back of the barber's shop and the Sheriff's office.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2546-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 18,
+  "text": "You see the backs of buildings.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2547-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 19,
+  "text": "Unlike an Ogre, YOU can read!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2548-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 20,
+  "text": "The lock appears to be an extra heavy-duty model.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2549-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 21,
+  "text": "The door appears to be locked, but the lock is of a simple type.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2550-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 22,
+  "text": "\"I will be happy to take your silver.  Please pick out what you want.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2551-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 24,
+  "text": "\"As you wish, sir.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2552-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 25,
+  "text": "The pretty young centaur looks at you and says, \"Good day, and welcome to Spielburg!  Do you wish to buy some nice fresh fruits or vegetables?\"",
+  "say": "Good day, and welcome to Spielburg!  Do you wish to buy some nice fresh fruits or vegetables?",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2553-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 26,
+  "text": "\"I am Hilde, daughter of Heinrich Pferdefedern, the farmer.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2554-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 27,
+  "text": "\"My father and I are the only centaurs in this valley.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2555-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 28,
+  "text": "\"We have many kinds of fresh vegetables for sale today.  There are lettuce, carrots, potatoes, and turnips right from the ground at five for a silver.  They are very good for you!\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2556-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 29,
+  "text": "\"It is much too early in the season for those.  Sorry.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2557-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 30,
+  "text": "\"I'm sorry, but the cherry harvest is not yet in.  But we will have very nice cherries two months from now.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2558-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 31,
+  "text": "\"There are still some apples left from last season in the barrel.  You may buy ten for a silver, since they are so small.  We will have fresh cherries in a couple of months.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2559-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 32,
+  "text": "\"They have twice robbed my Father of his money, and they have tried to steal our food this winter.  That is because we farm outside of town.  They would not dare to try that in town.  The Sheriff would stop them fast!\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2560-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 33,
+  "text": "\"Many robbers have run up to Father as he trotted back to town.  My Father tried to fight, but they hurt him badly.  They always ran away to the west.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2561-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 34,
+  "text": "\"We have some land to the north of town.  It isn't very big, but we grow many things.  You should be here during the harvest time.  Then you would see many fruits and vegetables.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2562-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 35,
+  "text": "\"You know...in the autumn!  But then, perhaps you have never been a farmer.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2563-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 36,
+  "text": "\"The Healer lives in a nice little cottage on the North road, near my Father's fields.  She is a very nice woman.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2564-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 37,
+  "text": "\"Thank you, but my Father thinks I am too young.  He would not permit it.  But perhaps next year...\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2565-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 38,
+  "text": "\"My Father is Heinrich Pferdefedern, who works our farm just north of town.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2566-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 39,
+  "text": "\"I am sorry.  I do not get about very much, and I do not really know about many things.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2567-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 40,
+  "text": "If you want to buy something, go over to the vendor.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2568-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 41,
+  "text": "You pick out the freshest-looking vegetables you can find, and pay the lady a silver piece.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2569-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 42,
+  "text": "You carefully select ten of the best apples from the barrel, and pay the lady a silver piece.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2570-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 43,
+  "text": "\"As I told you, sir, it is too early in the season.  You would not want to buy any.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2571-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 44,
+  "text": "\"I'm afraid I can't help you with that, sir.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2572-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 45,
+  "text": "\"Just pick out what you would like to purchase, then you can pay me.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2573-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 46,
+  "text": "The creature in charge of the Farmer's Mart is a rather lovely and shy-looking young Centaur.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2574-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 47,
+  "text": "The barrel contains potent looking potatoes more suited to throwing than eating.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2575-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 48,
+  "text": "The small apples give off a sweet but pungent odor.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2576-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 49,
+  "text": "Carrots are good for night vision and lower one's cholesterol.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2577-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 50,
+  "text": "The turnips seem to blush with pride.  You wonder if the farmer has been using Alar.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2578-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 51,
+  "text": "Lettuce and other leafy plants.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2579-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 52,
+  "text": "You can smell apples as you approach this corner.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2580-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 53,
+  "text": "However, this was not a good place to sleep.  You're stiff and sore all over and your wallet feels very light.  You give the Hilde the centaur a suspicious look, but you are too sore to pursue the matter.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2581-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 320,
+  "idx": 54,
+  "text": "\"I'm sorry, but I had to move you out of my stall!  It is very dangerous to sleep in the street at night.  I fear you have been robbed.\"",
+  "speaker": "hilde",
+  "voiceId": 347,
+  "file": "qfg1-2582-hilde.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 0,
+  "text": "The smell of lavender and dust fills your nose as you walk in.  This reminds you of a great aunt's house you once visited.  The couch looks every bit as uncomfortable as your aunt's.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2583-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 1,
+  "text": "There is a covered birdcage near the stairs, and a knitting basket beside the couch.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2584-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 2,
+  "text": "Just wait. He'll catch up to you",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2585-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 3,
+  "text": "In the purse, you find 20 silvers and some soiled hankies. You take the silver.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2586-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 4,
+  "text": "A string of pearls seems to have fallen into the bag among the knitting. You take the pearls, of course.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2587-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 5,
+  "text": "You find nothing else of value in the desk.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2588-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 6,
+  "text": "You find nothing else by searching the couch.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2589-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 7,
+  "text": "You find 3 silvers that have fallen down into the cushions.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2590-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 8,
+  "text": "Nothing but dirt and leaves there.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2591-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 9,
+  "text": "You take the silver candlesticks and stow them in your pack.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2592-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 10,
+  "text": "Call Mayflower!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2593-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 11,
+  "text": "Nothing up there.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2594-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 12,
+  "text": "The rug is blue, and the floor has recently been painted red.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2595-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 13,
+  "text": "The house is tidy, but there is a layer of dust over everything.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2596-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 14,
+  "text": "The oval rug is blue to match the walls.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2597-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 15,
+  "text": "The stairs lead to the door to an upstairs room.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2598-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 16,
+  "text": "The door to the upstairs room.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2599-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 17,
+  "text": "The walls are a deep shade of blue.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2600-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 18,
+  "text": "The fire is out, but the heat from the hearth is still felt in the room.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2601-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 19,
+  "text": "The Little Old Lady left her purse on the couch.  Mighty careless.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2602-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 20,
+  "text": "On the mantle sits an ordinary hurricane lamp which provides the only light in the room.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2603-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 21,
+  "text": "The candlesticks are heavy, ornate and made of sterling silver.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2604-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 22,
+  "text": "There is a lace doily on the wooden table.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2605-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 23,
+  "text": "There is a lace doily in the center of the wooden table and a pair of silver candlesticks on either side of it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2606-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 24,
+  "text": "The doily is lacy and shows fine workmanship. It is slightly yellow with age.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2607-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 25,
+  "text": "The birdcage is on a tall brass stand. There is a cover draped over it to keep the bird warm and quiet.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2608-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 26,
+  "text": "Cute but NOISY!.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2609-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 27,
+  "text": "The cage is covered, and you can't see the bird.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2610-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 28,
+  "text": "The little house cat seems harmless, but strangely restless.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2611-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 29,
+  "text": "Against the wall, there is a small wooden desk with a potted plant on it. The desk has one drawer.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2612-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 30,
+  "text": "It's a rubber plant.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2613-narrator.mp3"
+ }
+]

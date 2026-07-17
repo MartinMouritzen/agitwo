@@ -1,0 +1,1353 @@
+[
+ {
+  "res": "text",
+  "num": 8,
+  "idx": 0,
+  "text": "You're too impatient to rest right now.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3100-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 74,
+  "idx": 0,
+  "text": "For a moment there, you thought you saw something.  But nothing is there now.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3101-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 465,
+  "idx": 0,
+  "text": "You've taken out the brigand, but... oh, no!  Here comes another one!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3102-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 9,
+  "idx": 0,
+  "text": "Congratulations!\nYou have discovered the first bug in this game.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3103-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 97,
+  "idx": 26,
+  "text": "Wearing out your welcome.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3104-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 97,
+  "idx": 28,
+  "text": "One thrust...and that's it???",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3105-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 292,
+  "idx": 1,
+  "text": "You put the seed into your pack and climb down.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3106-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 41,
+  "idx": 1,
+  "text": "Getting into the castle the hard way.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3107-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 64,
+  "idx": 0,
+  "text": " Oh-h-h-h-h-h-h! ",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3108-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 64,
+  "idx": 16,
+  "text": " Watch your step! ",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3109-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 101,
+  "idx": 0,
+  "text": "You do not have any daggers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3110-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 225,
+  "idx": 0,
+  "text": "You're the Fall Guy again.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3111-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 36,
+  "idx": 0,
+  "text": "Have I been here before?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3112-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 271,
+  "idx": 0,
+  "text": "Greedy Greedy Greedy .",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3113-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 96,
+  "idx": 30,
+  "text": "He who hesitates...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3114-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 191,
+  "idx": 0,
+  "text": "A travelling man.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3115-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 88,
+  "idx": 7,
+  "text": "WHATA TROLL!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3116-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 1,
+  "text": "There is nobody to open the portcullis.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3117-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 2,
+  "text": "Leave the climbing to those who know how.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3118-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 3,
+  "text": "You're not in a good place to climb.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3119-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 4,
+  "text": "The guards won't allow you to do that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3120-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 5,
+  "text": "The castle looms over the gatehouse and looks rather impressive.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3121-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 7,
+  "text": "The towers stand out above the castle walls.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3122-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 8,
+  "text": "The sky is clear except for a few clouds.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3123-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 9,
+  "text": "The grass seems to grow well here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3124-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 10,
+  "text": "You see the road leading past the Healer's house.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3125-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 11,
+  "text": "You see the forest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3126-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 12,
+  "text": "\"Come in.  Come in.  You have been expected.  Baron von Spielburg awaits you in the castle.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3127-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 13,
+  "text": "\"Are you speaking to me?\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3128-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 14,
+  "text": "\"Who's there? Come out and show yourself!\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3129-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 15,
+  "text": "\"Well?  Enter the castle grounds!\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3130-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 16,
+  "text": "Once more the guard raises the portcullis.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3131-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 17,
+  "text": "The guard, sensing something is awry, raises the portcullis.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3132-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 18,
+  "text": "You're not a quick learner.  Now you known why the grass grows so well around the portcullis.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3133-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 19,
+  "text": "That smarts.  Maybe you should move a little more quickly.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3134-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 20,
+  "text": "Had you been healthier, you probably could have survived that fall.  In your weakened condition, however, you succumbed to your injuries.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3135-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 21,
+  "text": "Experience is the best teacher.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3136-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 22,
+  "text": "Practice makes perfect.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3137-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 23,
+  "text": "Try, try again etc...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3138-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 24,
+  "text": "Take a break.  It's Mueller time.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3139-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 25,
+  "text": "The gatehouse is more difficult to climb than it first appeared.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3140-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 26,
+  "text": "Remember what happened to Humpty Dumpty.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3141-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 27,
+  "text": "After climbing down the wall you says to yourself, \"Self\", you says, \"that wasn't too bad.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3142-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 28,
+  "text": "You can't see much of the gatekeeper over the battlements.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3143-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 29,
+  "text": "\"As you can see, the gate is open.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3144-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 30,
+  "text": "\"I will not open for a faceless voice. Come out where I can see you.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3145-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 31,
+  "text": "\"Very well.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3146-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 32,
+  "text": "\"If you wish.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3147-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 33,
+  "text": "\"As you can see, the gate is closed.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3148-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 34,
+  "text": "Don't keep everybody waiting with idle talk.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3149-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 38,
+  "text": "\"Then go, before I close the portcullis.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3150-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 39,
+  "text": "\"Sorry.  I wasn't listening.  Could you repeat youself?\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3151-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 40,
+  "text": "\"OK.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3152-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 42,
+  "text": "\"My name is Karl.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3153-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 43,
+  "text": "\"That's me. I guard the portcullis day after day.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3154-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 44,
+  "text": "\"The portcullis is the metal grate that bars the entrance to the castle yard.",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3155-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 45,
+  "text": "\"This is the Castle of the Baron Stefan von Spielburg, Lord of this Valley.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3156-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 46,
+  "text": "\"My Lord is busy organizing his troops.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3157-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 47,
+  "text": "\"My Lord sees no one since the loss of his son and daughter.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3158-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 48,
+  "text": "\"Ten years ago the Baron's daughter, Elsa, was stolen away by magic.  Five years back, the Baronet Barnard von Spielburg went on a hunt from which he did not return.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3159-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 49,
+  "text": "\"This was all clearly part of Baba Yaga's curse.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3160-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 50,
+  "text": "\"The Baronet is busy hibernating.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3161-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 51,
+  "text": "\"The Baronet Barnard von Spielburg was a proud young man with the dark hair and eyes of his father, the Baron.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3162-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 52,
+  "text": "\"He rode off one morning and his horse returned without him.  The horse had been raked by the claws of some large animal.  There is still a reward offered for the safe return of the Baronet, but I fear he is dead.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3163-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 53,
+  "text": "\"Elsa von Spielburg was a lovely young child with braided brown hair and bright blue eyes, like her mother, the Baroness, used to have.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3164-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 54,
+  "text": "\"A large winged creature flew over the castle walls, grabbed Elsa, and vanished before the guards could fire upon it.  We searched everywhere for her, but to no avail.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3165-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 55,
+  "text": "\"Even the jester, Yorick, joined the search for her.  The Baron sent a troup of guards to storm Baba Yaga's hut, but I think their skulls sit atop her fence now.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3166-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 56,
+  "text": "\"Elsa von Spielburg would be about eighteen now.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3167-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 57,
+  "text": "\"The stablekeeper could use a strong young person to help clean out the stable.  It does not pay much, but it is good, honest work.  If you would like to take the job, just ask me to open the portcullis.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3168-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 58,
+  "text": "\"Cleaning up after the horses is a good way to build up your muscles.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3169-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 59,
+  "text": "\"The Baron ordered Baba Yaga to leave and she first cursed the graveyard.  When he then sent the Baronial Guards after her, only the captain returned to the castle.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3170-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 60,
+  "text": "\"He spoke the words,\n   'Hear me, oh mighty Baron.\nYou have angered me, and thus you are cursed.\nAll that you value you shall lose;\nall that you treasure shall be taken from you.'\nThe captain then dissolved into a pool of sticky blackness.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3171-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 61,
+  "text": "\"He was a very jolly fool who loved to laugh.  He was devoted to Elsa and swore he would not return until Elsa was safe.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3172-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 62,
+  "text": "\"The powerful Ogress Baba Yaga is the cause of all the Baron's misfortune.  She is a vile creature who knows much magic.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3173-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 63,
+  "text": "\"There is still a reward of 50 gold offered for the safe return of the Baronet and Elsa von Spielburg.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3174-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 64,
+  "text": "\"For the capture or death of the brigand Leader there is the reward of 60 gold and the title of 'Hero of the Realm of Spielburg'.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3175-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 65,
+  "text": "\"The brigands are protected by a magic user.  Not much is known about him, but he seems to use more magic potions and powders than spells.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3176-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 66,
+  "text": "\"The leader of the brigands must be a good strategist.  He has organized and led many raids which result in much treasure and little loss on the part of the brigands.  Without their leader, the brigands would soon flee.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3177-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 67,
+  "text": "\"There are now too few guards to take out the brigands, who still rob our people and drive away the traders.  They hide somewhere near the edge of this valley.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3178-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 68,
+  "text": "\"This was once a very wealthy valley.  Many merchants have been robbed by the brigands.  There is a merchant in town who could tell you about his recent loss.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3179-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 69,
+  "text": "\"Baba Yaga cursed the graveyard such that the dead can not rest at night.  One cannot go near the graveyard at dark without risking one's own death unless one uses protection.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3180-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 70,
+  "text": "\"There is an unguent you can purchase from the Healer which protects against the dead that walk at night.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3181-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 71,
+  "text": "\"'Hero of the Realm of Spielburg' is a title of respect and honor.  A true hero can release this land from its curse by using intelligence and courage.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3182-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 72,
+  "text": "\"There are many foul creatures stalking the forest.  The Baron has too few guards to protect this valley from them.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3183-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 73,
+  "text": "\"Spielburg Valley was once a prosperous and peaceful place before the Baron lost his family.  Now the Baron will not leave his castle and has no idea of the ruin this land has come to.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3184-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 74,
+  "text": "\"Baba Yaga has her hut to the northwest.  It is a very dangerous place and many Baronial Guards were lost there.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3185-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 75,
+  "text": "\"The Baroness died soon after the birth of her daughter.  The Baron still mourns for her.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3186-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 76,
+  "text": "\"The Baron von Spielburg lost most of his guards trying to defeat Baba Yaga.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3187-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 77,
+  "text": "\"The gatehouse is a shelter and resting place for the guards.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3188-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 78,
+  "text": "\"Everybody talks about the weather, but nobody does anything about it.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3189-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 79,
+  "text": "\"The Weapons Master often practices in the castle courtyard.  He gives lessons in the art of swordplay.  The lessons are expensive, but well worth the price.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3190-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 80,
+  "text": "\"I wouldn't know about that, I don't get around much these days.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-3191-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 81,
+  "text": "The castle is securely locked for the night.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3192-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 82,
+  "text": "The portcullis has been drawn, and the way to the castle is clear.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3193-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 83,
+  "text": "The portcullis presents a severe obstacle for entry to the castle.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3194-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 84,
+  "text": "The castle of the Baron Stefan von Spielburg, Lord of the valley.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3195-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 85,
+  "text": "The gatehouse is a massive structure which houses the guards.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3196-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 86,
+  "text": "The gatehouse is a massive structure.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3197-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 87,
+  "text": "The mountains in the distance ring the valley of Spielburg, creating a formidable barrier to travelers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3198-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 0,
+  "text": "It looks like the talking is over.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3199-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 1,
+  "text": "\"No more talking, my friend.  Let's have fun!\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3200-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 2,
+  "text": "Now??",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3201-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 3,
+  "text": "\"ME\" sees you preparing your spell and...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3202-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 4,
+  "text": "You're too busy.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3203-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 5,
+  "text": "\"ME\" sees you preparing to throw and...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3204-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 6,
+  "text": "Why would you want to throw that?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3205-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 7,
+  "text": "\"You know me?  Then perhaps you have come to help.  Perhaps you are able to take the child from the band.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3206-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 8,
+  "text": "\"Be more specific, my friend.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3207-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 9,
+  "text": "\"Talking is a speciality of those who know not what they talk about.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3208-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 10,
+  "text": "\"You know Elsa?  Then perhaps you have come to help.  Perhaps you are able to take the child from the band.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3209-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 11,
+  "text": "After you have explained what you know about Elsa, Yorick speaks:",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3210-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 12,
+  "text": "\"It's about time that someone else helped Elsa before it's too late!  Toro and I are the only friends she's got here.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3211-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 13,
+  "text": "\"She's a lot like her dad, though.  She organized these brigands and changed them from mere thugs to major raiders!\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3212-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 14,
+  "text": "\"She plans to move the entire band away from the valley as soon as the snow clears.  If that happens, I know she will never be disenchanted.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3213-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 15,
+  "text": "\"You know about the enchantment?  Then perhaps you have come to help.  Perhaps you are able to take the child from the band.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3214-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 16,
+  "text": "\"Elsa doesn't know who she really is.  That's part of the enchantment.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3215-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 17,
+  "text": "\"When Elsa was left with some brigands ten years ago, all her memories were taken away from her.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3216-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 18,
+  "text": "\"I borrowed a Magic Mirror from a friend to try to break the spell, but it only works when spells are cast directly at you.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3217-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 19,
+  "text": "\"If you're going to be the big Hero, I hope you brought a Dispel Potion or something.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3218-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 20,
+  "text": "\"Alas, poor Yorick!  I know me well.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3219-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 21,
+  "text": "\"Ten years ago, I swore I would find Elsa no matter what.  It took me two years to find her, here with the brigands, and I've posed as her warlock ever since.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3220-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 22,
+  "text": "\"I couldn't break the spell on her, nor could I leave her to grow up into an attractive woman surrounded by rogues and scoundrels.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3221-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 23,
+  "text": "\"Someone had to defend her honor!\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3222-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 24,
+  "text": "\"Can't you see that I am he?  I try to inspire (before they expire) a sense of awe and majesty in those that enter here.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3223-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 25,
+  "text": "\"After all, I am the Brigand Warlock.  One has to keep up one's appearances, or appear to keep up with one's peers.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3224-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 26,
+  "text": "\"Everybody needs to know a few magic tricks to get by these days.  You'd be surprised how effective Sleeping Powder is for taking out the guards of a caravan.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3225-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 27,
+  "text": "\"You snooze, you lose.  And my banana trick has appeal of its own.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3226-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 28,
+  "text": "\"For thirty years I was the Court Jester.  Now I jest enjoy watching other people take the pratfalls.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3227-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 29,
+  "text": "\"I'll protect the Brigand Leader with everything I've got.  That's no laughing matter as I get madder.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3228-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 30,
+  "text": "\"The true Dispel Potion will break an enchantment.  You must splash the potion on Elsa as soon as you can, or she'll skewer you for sure.  She's more than a match for old \"Swordy Lordy\" now!\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3229-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 31,
+  "text": "\"Of which potion do you speak?\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3230-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 32,
+  "text": "\"You must know the \"Blade Braggart\".  He used to show off in the castle courtyard all the time.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3231-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 33,
+  "text": "\"Elsa once asked if \"Rapier Ruler\" would teach her to use the sword, and the \"Sword Bore\" told her he would not waste his talent on females.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3232-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 34,
+  "text": "\"She came to me in tears.  After all, she was only nine at the time.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3233-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 35,
+  "text": "\"She can teach old \"Weapon Windbag\" a thing or two now!  Her arm is true, and she's truly disarming.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3234-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 36,
+  "text": "\"There are plenty of doors.  You wouldn't want me to spoil your fun, now!\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3235-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 37,
+  "text": "\"Either you'll figure it out in the end, or you'll end it before you're out.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3236-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 38,
+  "text": "\"This room is my way of keeping the brigands from bothering the Leader about raises, since it tends to raze the brigands.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3237-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 39,
+  "text": "\"I designed it myself!  This place has people rolling in the aisles.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3238-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 40,
+  "text": "\"Ah yes, the \"Mirror with the Leer\", as Erasmus calls it (or was it Fenrus?).  It reflects a spell back on the caster of the spell.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3239-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 41,
+  "text": "The Warlock ruminates:\n\"Now where did I put that mirror...\nwas it on the desk in Elsa's office?\"",
+  "say": "Now where did I put that mirror... was it on the desk in Elsa's office?",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3240-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 42,
+  "text": "\"Toro is the minotaur that guards this fortress.  Elsa found him when he was just a calf, and he's kowtowed to her ever since.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3241-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 43,
+  "text": "He guarantees that the brigands won't give Elsa any bull.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3242-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 44,
+  "text": "\"This fort is the brigand's palace.  It has been well-constructed.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3243-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 45,
+  "text": "\"Would he be surprised to see his little girl now!\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3244-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 46,
+  "text": "\"If you have business to do, then get busy doing your business.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3245-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 47,
+  "text": "\"Can't you see that's nothing to me?  You'd better flee.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3246-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 48,
+  "text": "\"The brigands will come to spoil your fun.  You'll be undone.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3247-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 49,
+  "text": "\"The brigands tend to hold a grudge, and they won't begrudge to tend to you.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3248-warlock.mp3"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 50,
+  "text": "\"If you have any famous last statements, you'd better say the secret word, or you'll lament your last state.\"",
+  "speaker": "warlock",
+  "voiceId": 511,
+  "file": "qfg1-3249-warlock.mp3"
+ }
+]

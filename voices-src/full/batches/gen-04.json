@@ -1,0 +1,1353 @@
+[
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 10,
+  "text": "There's no need.  You're not hungry.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1600-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 11,
+  "text": "You eat some of the apples.  They actually taste quite good.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1601-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 12,
+  "text": "You don't have any fruit.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1602-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 13,
+  "text": "You eat some vegetables.  You think they would have been better saved for cows or horses.\nReal Heroes eat preserved dry rations.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1603-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 14,
+  "text": "You don't have any vegetables.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1604-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 15,
+  "text": "The rations are tasteless but filling.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1605-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 16,
+  "text": "You aren't carrying any rations.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1606-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 17,
+  "text": "Ugh.  You don't want to eat *that*.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1607-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 997,
+  "idx": 3,
+  "text": "\nYou can change your mind\n   if you have one.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1608-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 997,
+  "idx": 4,
+  "text": "Every hero needs a break now and then.  Have a nice nap.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1609-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 997,
+  "idx": 5,
+  "text": "Sorry, there's not enough room to see that here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1610-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 224,
+  "idx": 0,
+  "text": "\"Even as we fought, I could detect your skills improving through practice.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-1611-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 224,
+  "idx": 1,
+  "text": "\"It was most prudent that you should give in to my superior skill.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-1612-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 224,
+  "idx": 2,
+  "text": "\"Still, you seem to tire more easily than you should.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-1613-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 224,
+  "idx": 3,
+  "text": "\"Be more aware of the angle with which your weapon approaches your opponent.  The thrust bites quick and deep, but the swing will do more damage if it connects.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-1614-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 224,
+  "idx": 4,
+  "text": "\"The art of dancing would be a good skill for you to practice, my friend.  The balance of the body over the rapidly moving feet has won many a contest.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-1615-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 224,
+  "idx": 5,
+  "text": "\"You have a tendency to overbalance when you dodge a blow.  This will adversely affect the timing and effectiveness of your counterattack.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-1616-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 224,
+  "idx": 6,
+  "text": "\"Put your attention to the control of your legs when you duck a swing.  Your springiness makes you seem to bounce, and a good opponent (like myself) will always take advantage of the opening.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-1617-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 224,
+  "idx": 7,
+  "text": "\"If you would like a stretcher, my weak, tired friend...\nYou seem a shadow of the person who began this little lesson.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-1618-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 224,
+  "idx": 8,
+  "text": "\"Should we meet again, I would not be adverse to another go-round.  Farewell, friend!\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-1619-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 39,
+  "idx": 0,
+  "text": "You are in the courtyard of Castle Spielburg.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1620-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 39,
+  "idx": 1,
+  "text": "The courtyard is paved with granite paving stones, carefully placed by a skilled craftsman.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1621-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 39,
+  "idx": 2,
+  "text": "There is nobody else here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1622-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 39,
+  "idx": 3,
+  "text": "There are two guards near the castle door.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1623-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 39,
+  "idx": 4,
+  "text": "He isn't here at the moment.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1624-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 39,
+  "idx": 5,
+  "text": "What you see, along with what you smell, gives the impression that the building on the east side of the courtyard contains the stables.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1625-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 39,
+  "idx": 6,
+  "text": "On the west side of the courtyard is a building that looks like soldier's barracks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1626-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 39,
+  "idx": 7,
+  "text": "As a matter of fact, there's a soldier sleeping in front of it now.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1627-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 39,
+  "idx": 8,
+  "text": "The door to the Baron's castle is well guarded.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1628-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 39,
+  "idx": 9,
+  "text": "As you look back at the castle gate, you see a line of bushes along the south wall and the gatehouse and portcullis.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1629-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 39,
+  "idx": 10,
+  "text": "You barely get to sleep when you hear the guards searching the castle grounds for bums.  You decide it's time to make like a tree and leave.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1630-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 39,
+  "idx": 11,
+  "text": "There are too many guards around.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1631-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 336,
+  "idx": 0,
+  "text": "This tastes as sour as it smells, and it burns your throat as you swallow it. Still, it isn't the worst beer you've ever drunk.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1632-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 336,
+  "idx": 1,
+  "text": "You know, that actually tasted fine! This really isn't such a bad place, after all, and the bartender reminds you of an old friend you used to know.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1633-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 336,
+  "idx": 2,
+  "text": "Suddenly, you don't feel so good...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1634-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 336,
+  "idx": 3,
+  "text": "Smells like Troll's Sweat. Tastes like Troll's Sweat. By golly, it IS Troll's Sweat....",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1635-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 336,
+  "idx": 4,
+  "text": "You've never tasted anything like it before.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1636-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 336,
+  "idx": 5,
+  "text": "Too much beer.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1637-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 336,
+  "idx": 6,
+  "text": "...and one Troll's Sweat is too many.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1638-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 336,
+  "idx": 7,
+  "text": "Ohhhhhhhhh woooowwwwwww!!!",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-1639-hero.mp3"
+ },
+ {
+  "res": "text",
+  "num": 336,
+  "idx": 8,
+  "text": "Maybe you really shouldn't have tried the Dragon's Breath!  Better luck next time, and we hope you saved your game.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1640-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 806,
+  "idx": 0,
+  "text": "The late frosts of winter give way to to the greenery of spring. There is the crisp smell of cedar in the air. This forest seems to be unusually still and quiet.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1641-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 806,
+  "idx": 1,
+  "text": "It IS a ghost...a transparent, decaying, writhing, slimy, undead fragment of undulating ectoplasm!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1642-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 806,
+  "idx": 2,
+  "text": "You might be near a graveyard!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1643-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 806,
+  "idx": 3,
+  "text": "There are no ghosts here to look at.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1644-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 806,
+  "idx": 4,
+  "text": "Pine needles, moss and early spring grasses cover the forest floor.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1645-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 806,
+  "idx": 8,
+  "text": "The low-lying bushes form tight tangles between the trees.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1646-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 806,
+  "idx": 9,
+  "text": "The valley floor is covered by fine, moist soil with few large rocks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1647-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 806,
+  "idx": 13,
+  "text": "You don't get ghosts.  Ghosts get YOU!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1648-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 806,
+  "idx": 14,
+  "text": "There aren't any.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1649-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 806,
+  "idx": 15,
+  "text": "That isn't drinkable -- it's an oil.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1650-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 116,
+  "idx": 0,
+  "text": "You pry at the sealed lid of the chest, and...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1651-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 116,
+  "idx": 1,
+  "text": "You hack and pry at the chest, but you are not strong enough to force its lid.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1652-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 116,
+  "idx": 2,
+  "text": "You hear a very satisfying \"Snick\" as your pick catches the lock just right.  Then you sense powerful magics dissipating around the lock, and your hands shake as you realize you have narrowly avoided some sort of Magical Doom.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1653-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 116,
+  "idx": 3,
+  "text": "Your fingers shift slightly, and you feel an odd prickling sensation coming from the lock.  You have a bad feeling about this.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1654-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 332,
+  "idx": 0,
+  "text": "Mighty careless of you to walk right in front of that knife!  Or did the Chief Thief hit you on purpose?  Or did you just discover an obscure bug in the program???  Maybe you'll never really know. ",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1655-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 332,
+  "idx": 1,
+  "text": "You can't believe the Chief Thief's reflexes as he instantly reacts to your intention to pull a fast one.  A dagger flies like lightning and.... ",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1656-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 332,
+  "idx": 2,
+  "text": "Trouble with sharp, pointy objects",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1657-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 332,
+  "idx": 3,
+  "text": "These guys are MEAN!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1658-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 215,
+  "idx": 1,
+  "text": "You cannot escape this encounter.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1659-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 215,
+  "idx": 3,
+  "text": "You cannot make the arcane gestures to cast spells while carrying your shield.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1660-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 215,
+  "idx": 4,
+  "text": "This might not be the best time for practicing non-combat spells.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1661-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 215,
+  "idx": 5,
+  "text": "Go ahead!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1662-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 215,
+  "idx": 6,
+  "text": "You're too close.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1663-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 215,
+  "idx": 7,
+  "text": "You don't have time for that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1664-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 215,
+  "idx": 8,
+  "text": "Caught in combat with neither sword nor dagger, you are unable to resist the monster's fierce onslaught.  Try to be better equipped in your next life.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1665-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 172,
+  "idx": 2,
+  "text": "You see the brigand leader.  From the look in her eyes you've only got seconds to live.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1666-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 172,
+  "idx": 3,
+  "text": "Casting a spell isn't useful now.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1667-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 172,
+  "idx": 4,
+  "text": "She's not in a talking mood.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1668-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 172,
+  "idx": 5,
+  "text": "Not a good idea.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1669-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 172,
+  "idx": 6,
+  "text": "No time for that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1670-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 172,
+  "idx": 7,
+  "text": "The Brigand leader looks tough!  This may be the toughest battle of your career so far.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1671-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 190,
+  "idx": 0,
+  "text": "There is a small sign which reads \"Booby Trap\".  You are now in a pitiful situation as you hear the brigands approach to see the booby they've caught.  You think to yourself, \"If it looks like a trap, and it feels like a trap, then maybe it IS a trap\".",
+  "say": "If it looks like a trap, and it feels like a trap, then maybe it IS a trap.",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-1672-hero.mp3"
+ },
+ {
+  "res": "text",
+  "num": 228,
+  "idx": 0,
+  "text": "You feel disoriented.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1673-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 228,
+  "idx": 1,
+  "text": "How does he DO this?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1674-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 228,
+  "idx": 2,
+  "text": "There's an ECHO IN HERE...Echo In Here...echo in here...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1675-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 228,
+  "idx": 3,
+  "text": "M. C. Escher would LOVE this place.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1676-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 228,
+  "idx": 4,
+  "text": "OK, enough fooling around!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1677-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 228,
+  "idx": 5,
+  "text": "This is getting old!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1678-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 228,
+  "idx": 6,
+  "text": "A person COULD get used to this.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1679-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 237,
+  "idx": 0,
+  "text": "You carefully bend down and reach into the nest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1680-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 237,
+  "idx": 1,
+  "text": "In the nest, you find a gold ring.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1681-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 237,
+  "idx": 2,
+  "text": "You take the ring and move carefully back along the limb.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1682-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 237,
+  "idx": 3,
+  "text": "Made it!  Now back down the tree.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1683-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 114,
+  "idx": 0,
+  "text": "The Kobold doesn't look very calm.  In fact, it looks totally unaffected by your spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1684-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 114,
+  "idx": 1,
+  "text": "Uh oh, you've woken the Kobold.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1685-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 114,
+  "idx": 2,
+  "text": "You now have the Kobold's key.  Nice work!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1686-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 186,
+  "idx": 0,
+  "text": "I score that about a 3.  Those diving lessons were a complete waste.  Maybe you should have taken up bowling.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1687-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 313,
+  "idx": 11,
+  "text": " Better stay downstairs next time. ",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1688-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 313,
+  "idx": 12,
+  "text": " What a cute little kitty! ",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1689-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 191,
+  "idx": 0,
+  "text": "You seem to be having a rugged time of it.  You've had a terrible ca-tapestry.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1690-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 231,
+  "idx": 0,
+  "text": "\"Elsa is right next door.  I'll go set up the secret exit for your escape.\"",
+  "speaker": "yorick",
+  "voiceId": 518,
+  "file": "qfg1-1691-yorick.mp3"
+ },
+ {
+  "res": "script",
+  "num": 70,
+  "idx": 13,
+  "text": "Dance!",
+  "speaker": "fairy",
+  "voiceId": 527,
+  "file": "qfg1-1692-fairy.mp3"
+ },
+ {
+  "res": "script",
+  "num": 70,
+  "idx": 14,
+  "text": "He's no fun!  He fell right over!",
+  "speaker": "fairy",
+  "voiceId": 527,
+  "file": "qfg1-1693-fairy.mp3"
+ },
+ {
+  "res": "script",
+  "num": 70,
+  "idx": 15,
+  "text": "Land of 1000 Dances",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1694-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 27,
+  "idx": 0,
+  "text": "You see snow and feel a cold wind blowing from the east.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1695-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 233,
+  "idx": 0,
+  "text": "Oops!  You thought this door led SOMEWHERE!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1696-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 22,
+  "idx": 19,
+  "text": "hut of brown",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-1697-hero.mp3"
+ },
+ {
+  "res": "script",
+  "num": 22,
+  "idx": 20,
+  "text": "now sit down",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-1698-hero.mp3"
+ },
+ {
+  "res": "script",
+  "num": 22,
+  "idx": 28,
+  "text": " Bad strategy! ",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1699-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 94,
+  "idx": 40,
+  "text": "You knew this job was dangerous....",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1700-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 150,
+  "idx": 0,
+  "text": "You should have studied harder",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1701-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 102,
+  "idx": 0,
+  "text": "You do not have any rocks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1702-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 257,
+  "idx": 1,
+  "text": "Ach du lieber",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1703-heinrich.mp3"
+ },
+ {
+  "res": "script",
+  "num": 76,
+  "idx": 16,
+  "text": "Plant it, fella!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1704-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 76,
+  "idx": 18,
+  "text": "Oh, deer!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1705-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 139,
+  "idx": 0,
+  "text": "the Hermit mutters...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1706-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 445,
+  "idx": 0,
+  "text": "You killed a goblin.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1707-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 186,
+  "idx": 0,
+  "text": "I wasn't ready.",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-1708-hero.mp3"
+ },
+ {
+  "res": "script",
+  "num": 38,
+  "idx": 1,
+  "text": "OH NOOOOOOO!",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-1709-hero.mp3"
+ },
+ {
+  "res": "text",
+  "num": 274,
+  "idx": 0,
+  "text": "\"I'M BAAD!\"",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1710-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 0,
+  "text": "Get closer for a good look.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1711-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 1,
+  "text": "The remaining pages are blank, awaiting further tales of adventure.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1712-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 4,
+  "text": "The other pages record the exploits of the great adventurers of Spielburg's past.  The names Wolfgang Abenteuer and Baron Stefan von Spielburg appear most often.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1713-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 5,
+  "text": "It looks like this old Guild Master doesn't do too much adventuring any more.  Still, he looks like he was plenty tough in his day, and he probably has many a tale to tell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1714-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 6,
+  "text": "The fire blazing cheerily in the fireplace helps warm the Guild Master's old bones.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1715-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 7,
+  "text": "The plaque under the Moose says: \"Courtesy of Sierra Online Prop Dept.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1716-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 8,
+  "text": "You never saw a purple Saurus before you came to Spielburg, but it looks like a really stupid monster.  The plaque reads:  \"Saurus slain by Hans Halfwitten\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1717-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 9,
+  "text": "It looks like it must have been a particularly nasty Troll.  You wouldn't want to meet him in a dark forest.  The plaque reads:  \"Troll slain by Wolfgang Abenteuer\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1718-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 10,
+  "text": "This crossbreed of eagle and lion could have torn a man apart when it was alive.  The plaque reads: \"Gryphon slain by Wolfgang Abenteuer\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1719-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 11,
+  "text": "Even in death, this monster remains awesome.  The plaque reads: \"Dragon slain by Baron Stefan von Spielburg\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1720-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 12,
+  "text": "The head is like a panther's, but with a strong human-like quality.  It is still rather frightening.  The plaque reads:  \"Cheetaur slain by Wolfgang Abenteuer\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1721-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 13,
+  "text": "This is certainly a weird one! You've never seen anything quite like it.  The plaque reads: \"Antwerp slain by Two Guys From Andromeda\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1722-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 14,
+  "text": "This Adventurer's Guild Hall reminds you of the one in your home town.  The traditional Moose head and other stuffed monsters (Saurus, Troll, Gryphon, Dragon, Cheetaur, and the terrible Antwerp) adorn the walls.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1723-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 15,
+  "text": "You see the registration book on the desk and the bulletin board full of job listings.  The man seated by the fire must be the Guild Master.  He is snoring.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1724-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 16,
+  "text": "There is nothing here that you need, and the Guild Master may be more aware than he seems.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1725-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 17,
+  "text": "The desk drawers are empty.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1726-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 18,
+  "text": "There is no way to close the desk.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1727-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 19,
+  "text": "On the desk are an old but ornate leather-bound book and a quill pen in the ink bottle.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1728-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 20,
+  "text": "You see an ordinary pen and ink.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1729-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 21,
+  "text": "On the walls hang dusty, moth-eaten monster heads.  You recognize the purple Saurus, the Troll, the Gryphon, and the Dragon.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1730-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 22,
+  "text": "You figure that the black head must belong to the Cheetaur, and you have no idea what the four-eyed creature might be.  You are also not quite sure why the Moose head is considered traditional, but every Guild Hall seems to have one.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1731-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 23,
+  "text": "The desk holds a pen, an inkwell, and the Adventurer's Guild Registration and Log Book.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1732-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 24,
+  "text": "But you've already done that!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1733-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 25,
+  "text": "You sign your name into the Adventurer's Log Book with a flourish.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1734-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 26,
+  "text": "He already is.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1735-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 27,
+  "text": "\"Oh, my young friend!  What shall we talk about?  I have so many stories.  Just ask me about something.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1736-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 28,
+  "text": "\"Ja.  What with the baron losing his son and daughter, all the monsters, Baba Yaga, and now the brigands, it has been one thing after another.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1737-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 29,
+  "text": "\"Baron von Spielburg was once a brave protector of our valley.  We used to adventure together when we were younger.  No brigand or monster would dare show his face here if the Baron had not angered Baba Yaga.  Now it is said that he goes nowhere and sees no one.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1738-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 30,
+  "text": "\"He was a hero and worthy of the name Barnard von Spielburg.  He rode off to hunt one morning five years ago, and his horse returned with large and deep claw marks.  No sign of the Baronet's body was ever found.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1739-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 31,
+  "text": "\"Elsa was a beautiful eight-year-old child with blonde hair and sky-blue eyes.  She was the Baron's pride and joy.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1740-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 32,
+  "text": "\"Ten years ago she was carried off by something which came over the wall and flew off with her.  The search for her lasted many years, but at last everyone gave up.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1741-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 33,
+  "text": "\"Everyone, that is, except for the Baron's Jester, Yorick.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1742-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 34,
+  "text": "\"Yorick was a funny little man, but brave.  He swore he would spend his life searching for the Baron's Elsa.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1743-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 35,
+  "text": "\"She is the center of our problems, I think.  Baba Yaga is a powerful Ogress.  Baron von Spielburg tried to force her to leave this valley, but she cursed him.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1744-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 36,
+  "text": "\"Now the Baron has lost everything but his land, and I don't know how long he will keep that.  What our valley needs is a Hero.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1745-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 37,
+  "text": "\"Did I ever tell you about the days when Schultz and I rid this valley of Antwerps?  Ja, we were real adventurers then, and this was a true Guild Hall.  Now we are just old men, and this is just a place to tell old stories.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1746-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 38,
+  "text": "\"Schultz and I have been friends for a long time.  He too has been a real adventurer.  Now, he is just the Sheriff of the town.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1747-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 39,
+  "text": "\"Even a thief can be a hero sometimes, as long as uses his skills only for good purposes.  But most thieves are far from being heroes.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1748-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 311,
+  "idx": 40,
+  "text": "\"This is, of course, where an adventurer can find out where there is a need for someone brave and courageous.  There are jobs on the bulletin board over there.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-1749-wolfgang.mp3"
+ }
+]

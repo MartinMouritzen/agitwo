@@ -1,0 +1,19 @@
+--- a/src/video/emscripten/SDL_emscriptenevents.c
++++ b/src/video/emscripten/SDL_emscriptenevents.c
+@@ Emscripten_UnregisterEventHandlers @@
+     target = SDL_GetHint(SDL_HINT_EMSCRIPTEN_KEYBOARD_ELEMENT);
+-    if (!target) {
++    if (!target || !*target) {
+         target = EMSCRIPTEN_EVENT_TARGET_WINDOW;
+     }
+ 
+-    if (*target) {
++    /* agitwo fix: EMSCRIPTEN_EVENT_TARGET_WINDOW is a magic pointer ((const char*)2),
++     * so dereferencing it to test for emptiness reads unrelated memory and (reading 0)
++     * skipped unregistration entirely, leaking one keyboard listener set per window
++     * recreate. Mirror the registration path's condition instead. */
++    if (SDL_strcmp(target, "#none") != 0) {
+         emscripten_set_keydown_callback(target, NULL, 0, NULL);
+         emscripten_set_keyup_callback(target, NULL, 0, NULL);
+         emscripten_set_keypress_callback(target, NULL, 0, NULL);
+     }

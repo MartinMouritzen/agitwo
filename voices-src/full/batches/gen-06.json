@@ -1,0 +1,1353 @@
+[
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 53,
+  "text": "\"Of course, most fences aren't poisoned on top!\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1900-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 54,
+  "text": "\"Baba Yaga's hut will squat down if you say the rhyme.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1901-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 55,
+  "text": "\"The rhyme is:  'Hut of brown, now sit down'.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1902-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 56,
+  "text": "\"My time is important, and I'm very busy, as you can well see.  Ask me about something important.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1903-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 57,
+  "text": "You place the glowing gem inside the skull.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1904-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 58,
+  "text": "\"I can see!  I have eyes again!!\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1905-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 59,
+  "text": "\"Yeccchhh!  Is THAT what you look like???\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1906-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 60,
+  "text": "\"Oh well!  Have fun visiting Baba Yaga.  And good luck....you'll need it!\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1907-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 61,
+  "text": "\"Baba Yaga does not welcome strangers!  You have to deal with me before you can enter.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1908-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 62,
+  "text": "\"Baba Yaga is one tough magic user.  If you're so stupid that you want to enter, perhaps we can make a deal.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1909-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 63,
+  "text": "\"So you're back!  Changed your mind about making a little deal, hero?\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1910-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 64,
+  "text": "\"Did you get it?  Did you get my glowing gem???\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1911-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 65,
+  "text": "\"So you made it back, did you?  She is expecting you.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1912-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 66,
+  "text": "\"You again??  Do you really want to go back in there?\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1913-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 67,
+  "text": "\"I hope you can remember the rhyme.\"",
+  "speaker": "bonehead",
+  "voiceId": 585,
+  "file": "qfg1-1914-bonehead.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 69,
+  "text": "You really brought down the house!  Too bad you were under it at the time.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1915-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 70,
+  "text": "There goes Baba Yaga.  Now you've REALLY made her soar!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1916-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 71,
+  "text": "From a distance, you hear the witch intone:",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1917-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 72,
+  "text": "\"Oops!  I very nearly forgot...\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1918-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 73,
+  "text": "\"Hear me, oh Powers\nOf Mana and More:\nTurn this fool back\nAs he was before.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-1919-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 74,
+  "text": "As you contemplate the occurrences of the last few minutes, you conclude that you'd better find her mandrake root...and fast!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1920-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 22,
+  "idx": 75,
+  "text": "\"What an awful creature, to turn me into a FROG!\", you say to yourself.  \"Someday, I must return the favor.\"",
+  "say": "What an awful creature, to turn me into a FROG! Someday, I must return the favor.",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-1921-hero.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 0,
+  "text": "\"I am sorry, but I'm much too broken to talk about such things right now.  I have lost everything!\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1922-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 2,
+  "text": "The merchant consumes your meal in record time.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1923-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 3,
+  "text": "He then procedes to finish your drink in one gulp.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1924-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 4,
+  "text": "The merchant gratefully accepts your food ration, and consumes it in record time.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1925-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 5,
+  "text": "You can't give what you don't have.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1926-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 6,
+  "text": "The merchant finishes your drink in one gulp.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1927-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 7,
+  "text": "It is the merchant's hat.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1928-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 8,
+  "text": "It is the merchant's turban.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1929-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 9,
+  "text": "\"There were about twelve brigands, including a Minotaur, if you can believe it!  Their leader was wearing a hooded cloak.  I could not see the face, but he had a high-pitched voice.  There was also some sort of warlock who giggled a lot.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1930-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 10,
+  "text": "\"Although worn with age, the brigand leader's cloak must have, at one time, been an exquisite garment.  No doubt it was stolen, as were all of my goods!\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1931-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 11,
+  "text": "\"Perhaps it was my eyes that deceived me, but I could swear there was Gnome blood in that odd magician.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1932-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 12,
+  "text": "\"The magician who travels with the brigands is no wizard.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1933-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 13,
+  "text": "\"It is my hat.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1934-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 14,
+  "text": "\"It is my turban.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1935-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 15,
+  "text": "\"I am Abdulla Doo, son of Ali, grandson of Hasan, and formerly Master Merchant of Shapeir.  Now I am but a penniless burden upon my friends.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1936-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 16,
+  "text": "\"Even though they, too, lost a fortune when the brigands stole from me, Shameen and Shema are caring for this frail shadow of a great man.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1937-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 17,
+  "text": "\"Oh, I cannot bear to talk about my family at this sad time!\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1938-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 18,
+  "text": "\"You must not have heard of the brigands who prey upon the innocent and unwary.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1939-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 19,
+  "text": "\"All that I once owned is gone, alas!\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1940-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 20,
+  "text": "\"Who would have thought that there could be such trouble entering this valley during the off-season?\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1941-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 21,
+  "text": "\"My good friends Shema and Shameen, owners of this inn, are the finest of all the Katta people that ever graced Shapeir!  But for their kindness, I would have starved long since.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1942-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 22,
+  "text": "\"If you have never seen such a beast before, you may count yourself lucky.  It is like a giant of a man with a bull's head.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1943-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 23,
+  "text": "\"Two weeks ago, I was about to become wealthy beyond my dreams.  I, Abdulla Doo, would be the first merchant into the valley this year.  But my life was shattered by those vile brigands!\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1944-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 24,
+  "text": "\"The band of brigands ambushed us just as we crossed the pass into the valley. They first used some magic which blinded us.  Then they overwhelmed my six guards and my assistants.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1945-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 25,
+  "text": "\"All of my trade goods were taken from me, right before my very eyes!  Why the brigand leader spared my life, I do not know.  I am now but a beggar, living off the generosity of my friends.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1946-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 26,
+  "text": "\"Ah, Shapeir!  Beautiful land of golden sands and shining sun! The heart of civilization!  Alas, she is plagued with fierce Djinni and Efreets, who seek to drive all men and Kattas from the land.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1947-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 27,
+  "text": "\"But I can speak no more of the homeland I shall never see again.  Instead, I will die in this cold, forsaken land, bereft of all I love!\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1948-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 28,
+  "text": "\"Alas, had I known magic, perhaps I could have turned the tide against those abominable brigands.  Their magic did not seem so strong, but they outnumbered my poor caravan by two to one!\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1949-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 29,
+  "text": "\"My guards are all gone, killed or run away like dogs!  I, too, would be lying dead had not the strange brigand leader spared my life, for what reason I know not!\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1950-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 30,
+  "text": "\"Your kindness overwhelms me.  I can tell you will someday be a great hero.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1951-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 31,
+  "text": "\"Now you will have a secret.  Among the items they stole from me was a magic rug.  I alone know the words to command it.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1952-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 32,
+  "text": "\"If you help recover my treasure, I will take you, Shameen, and Shema back to our land by way of the flying carpet.  Shapeir needs powerful heroes, too!\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1953-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 33,
+  "text": "\"Oh, it is indeed sad and dangerous times we live in when a man who struggles daily to keep from starving should be robbed of all his earthly possessions!\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1954-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 166,
+  "idx": 34,
+  "text": "\"Hello again, my friend.\"",
+  "speaker": "abdulla",
+  "voiceId": 26,
+  "file": "qfg1-1955-abdulla.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 0,
+  "text": "Looking at the Centaur's muscles, his hoe, and his four gleaming hooves, you get the feeling that hostility is not the best of ideas.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1956-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 1,
+  "text": "The farmer has painstakingly removed all the rocks from his fields.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1957-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 2,
+  "text": "Don't throw things here.  The farmer wouldn't appreciate it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1958-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 3,
+  "text": "The majestic Centaur watches you carefully.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1959-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 4,
+  "text": "The handsome Centaur has a look of pride and dignity as he rakes his field.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1960-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 5,
+  "text": "There's a world of difference between a horse and a Centaur!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1961-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 6,
+  "text": "The Centaur is half man, half horse.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1962-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 7,
+  "text": "It is a sturdy iron rake with a wooden handle.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1963-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 8,
+  "text": "\"You must go see my daughter, Hilde, who sells our fruits and vegetables on Market Street.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1964-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 9,
+  "text": "Go ahead.  Ask him something.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1965-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 10,
+  "text": "\"I am Heinrich Pferdefedern.  I live in town with my daughter Hilde, who sells our produce on Market Street.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1966-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 11,
+  "text": "I'm sorry.  I know little about the Baron and his family.",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1967-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 12,
+  "text": "\"Hilde is a bright little filly.  I'm very proud of her.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1968-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 13,
+  "text": "\"We Centaurs are a very ancient and proud people.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1969-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 14,
+  "text": "\"It is truly a sight to see.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1970-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 15,
+  "text": "\"There are a few carrots and potatoes left from last season, but I'm just starting to plant this year's crops.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1971-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 16,
+  "text": "\"I can grow enough on this little plot to feed my family and the village.  You should see this field at harvest time!\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1972-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 17,
+  "text": "\"The brigands attacked me a few months ago.  I am a strong fighter and my hooves are deadly, but there were too many of them.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1973-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 18,
+  "text": "\"They nearly killed me.  My right leg was broken, and there is no pride for a Centaur who cannot run.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1974-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 19,
+  "text": "\"If it had not been for the unlikely intervention of their leader, I would be dead.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1975-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 20,
+  "text": "\"The leader came up while the brigands attacked me and forced them to stop, ordering them not to hurt people from the town.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1976-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 21,
+  "text": "\"Then, to my amazement, the leader gave me a Healing Potion and had me carried to the Healer's house.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1977-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 22,
+  "text": "\"It was hard to judge the leader, whose face was obscured by a large helm, but there was compassion unlike a brigand.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1978-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 23,
+  "text": "\"The Healer lives just east of here.  She is very skilled with potions.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1979-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 24,
+  "text": "\"The late snow has made the mountains very pretty.  Fortunately, our valley is sheltered, so the frost has not come to my fields.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1980-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 25,
+  "text": "\"Fields must be carefully tended to produce the best crops.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1981-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 26,
+  "text": "\"Our stand is in the northeast corner of Spielburg.  The produce is not of the finest this time of year, but you will not find better than Pferdefedern fruit come harvest time.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1982-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 27,
+  "text": "We grow fine fruit in our little orchard, and sell it at our stand in town.  There you will find fresh cherries in the spring, peaches in summer, and apples in the fall.\"",
+  "speaker": "heinrich",
+  "voiceId": 500,
+  "file": "qfg1-1983-heinrich.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 29,
+  "text": "Climbing this wall is too difficult for your level of skill.  Keep practicing.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1984-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 30,
+  "text": "You're not in a good spot for climbing the wall.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1985-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 31,
+  "text": "The town gate is wide open during the day.  You would look silly climbing the wall.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1986-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 34,
+  "text": "The field is hoed and fertilized.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1987-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 35,
+  "text": "The garden's dark dirt awaits a new day's sunshine.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1988-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 36,
+  "text": "You see a nicely manicured field.  A Centaur rakes the rows.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1989-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 37,
+  "text": "The trees have tiny fruit forming.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1990-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 38,
+  "text": "The forest surrounds the farmer's small fields and orchard.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1991-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 39,
+  "text": "The crops have yet to be planted.  There are only a few weeds and some grasses at edge of the forest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1992-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 40,
+  "text": "You can see the roofs of Spielburg beyond the town wall.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1993-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 41,
+  "text": "You can see a small house.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1994-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 43,
+  "text": "Beyond the farmer's orchard, you see the forest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1995-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 44,
+  "text": "Noticing that you are addressing him, the Centaur stops and gives you his attention.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1996-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 45,
+  "text": "The Centaur turns toward you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1997-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 53,
+  "idx": 46,
+  "text": "The Centaur stops raking as you approach.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1998-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 0,
+  "text": "In a hole, hidden beneath the ancient stone, someone has placed a scroll.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1999-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 1,
+  "text": "The scroll is no longer here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2000-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 2,
+  "text": "You see no scroll here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2001-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 3,
+  "text": "The scroll vanishes even as you read the magical runes upon it.   You now have the knowledge to cast a \"Calm\" spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2002-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 4,
+  "text": "Your hunger has been totally satisfied.  You don't need another piece of fruit.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2003-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 5,
+  "text": "The stone has the words \"Guruka's Peace\" carved upon the top.  Funny.  You thought it said something else the last time you looked at it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2004-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 6,
+  "text": "The stone has the words \"Erana's Peace\" carved upon the top.  Maybe you need glasses.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2005-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 7,
+  "text": "The stone has the words \"Erana's Peace\" carved upon the top.  There are some runes carved along the side.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2006-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 8,
+  "text": "It reads:  \"If thy Will is Magic, so shall I share.  Open this Stone and claim what is there.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2007-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 9,
+  "text": "No amount of physical effort will be able to move this stone.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2008-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 10,
+  "text": "The meadow lies covered with a blanket of flowers, unusual for this early in the spring.  It is warm, even though surrounded by the late snows of winter.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2009-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 11,
+  "text": "The air has the fresh, clean scent of the mountains, accompanied by numerous perfume-like fragrances.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2010-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 12,
+  "text": "A large, carved stone lies flat on the ground.  You feel as though someone gentle was watching over you.  You feel that you are safe here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2011-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 13,
+  "text": "All kinds of colorful and fragrant flowers and grasses cover the meadow.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2012-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 14,
+  "text": "The sky is clear.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2013-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 15,
+  "text": "The stars shine.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2014-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 16,
+  "text": "The sun feels warm.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2015-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 17,
+  "text": "The tree's blossoms are soft, green and fragrant.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2016-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 18,
+  "text": "The fruit glows and shimmers in the moonlight.  It produces a fragrance like a sun-ripened strawberry.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2017-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 19,
+  "text": "The fruit sparkles in the sunlight, yet it appears soft and fuzzy.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2018-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 20,
+  "text": "To the north, the high, snowy peaks of the Dragon Smoke mountains are clearly visible.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2019-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 21,
+  "text": "The meadow is an oasis at the edge of the snowline.  The rocky hillside looks very steep and slippery.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2020-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 22,
+  "text": "You are at the snowline.  All around you, except for the forest, the rocks and mountains glisten with slippery snow.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2021-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 23,
+  "text": "To the south, you see the deep forest through which you came to this meadow.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2022-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 24,
+  "text": "The stone has been moved.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2023-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 25,
+  "text": "The large stone appears to be ancient and deliberately placed.  Marks carved into the stone almost look like writing.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2024-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 26,
+  "text": "You see no holes.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2025-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 27,
+  "text": "The hole that was beneath the stone is empty.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2026-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 28,
+  "text": "Go over to the tree and pick some.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2027-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 29,
+  "text": "The sweet, juicy fruit of the tree is amazingly satisfying and refreshing.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2028-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 30,
+  "text": "The lovely blossoms should stay on the tree.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2029-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 31,
+  "text": "The fruit is very soft and juicy.   It would be impossible to keep in your pack.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2030-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 32,
+  "text": "The grasses in the meadow are covered over with flowers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2031-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 33,
+  "text": "You take another handful of the lovely, fragrant flowers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2032-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 34,
+  "text": "As you pick a variety of the sweet-smelling flowers, they seem to glow in your hands.  You put them safely away.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2033-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 35,
+  "text": "The smell reminds you of laughter.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2034-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 36,
+  "text": "There is no further purpose in casting the Open spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2035-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 37,
+  "text": "There is an aura of magic throughout this meadow.  It seems to be benevolent and restorative.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2036-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 39,
+  "text": "The rock faces are slippery with melted snow, and there is no need to climb the little tree.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2037-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 40,
+  "text": "The atmosphere here is peaceful and calm.   There is no need to throw anything.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2038-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 41,
+  "text": "You sleep comfortably among the fragrant flowers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2039-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 10,
+  "idx": 42,
+  "text": "The small tree is most amazing.  It bears blossoms and fruit at the same time, and the fruit on its boughs seems to shyly appear and disappear, shimmering.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2040-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 0,
+  "text": "Never met her.  I only built this vacation home here a century ago.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2041-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 1,
+  "text": "Erana has a nice little magical meadow in her name northeast of here.  Pretty respectable Spellcaster, I imagine.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2042-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 2,
+  "text": "The Protection spell she cast over the town is fairly good, but I believe she missed a few places.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2043-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 3,
+  "text": "You're just jealous because the only thing anyone named after you was a soft drink.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2044-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 4,
+  "text": "I thought that \"Erasmus' Rootin' Tootin' Root Beer\" was a WONDERFUL name for a product!  It's a shame the company went broke after that.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2045-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 5,
+  "text": "Erana's spell prevents the use of excessive violence or hostile magic within Spielburg's walls, with the exception of a couple of places.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2046-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 6,
+  "text": "It looks to me from up here as if she missed the back part of the alley, and the spell applies only to areas in town above the ground.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2047-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 7,
+  "text": "Pretty shoddy work, if you ask me!",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2048-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 8,
+  "text": "Nobody asked you.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2049-erasmus.mp3"
+ }
+]

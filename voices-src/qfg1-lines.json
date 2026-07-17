@@ -1,0 +1,227 @@
+[
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 0,
+  "text": "This seems like a quiet little town.  On the porch ahead of you are two people.  The standing one is large, rather ugly, and playing with a yo-yo.  The seated person smoking a pipe looks like he might be the Sheriff.",
+  "file": "qfg1-000-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 5,
+  "text": "The Sheriff's office doubles as a jail for the town and a hangout for the Sheriff and the Goon.",
+  "file": "qfg1-001-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 6,
+  "text": "The Sign of the Scissors above the door, along with the striped pole, indicates that the building contains a Barber Shop.",
+  "file": "qfg1-002-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 10,
+  "text": "The windows glow from the light inside. The sign reads \"Hero's Tale Inn\".",
+  "file": "qfg1-003-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 17,
+  "text": "There are signs over each of the buildings informing you of their purpose.",
+  "file": "qfg1-004-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 26,
+  "text": "The town gate is standing wide open, as it does every day.",
+  "file": "qfg1-005-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 29,
+  "text": "Spielburg remains colorful, even at night.",
+  "file": "qfg1-006-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 9,
+  "text": "The shades are drawn, and it appears that the Inn is closed.",
+  "file": "qfg1-007-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 11,
+  "text": "The town gate is made of sturdy logs.",
+  "file": "qfg1-008-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 19,
+  "text": "The door appears to be locked, and breaking into the Sheriff's office might evoke the wrath of Otto Von Goon.",
+  "file": "qfg1-009-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 0,
+  "idx": 0,
+  "text": "You are carrying so much that you can hardly move.  You'd better drop something soon.",
+  "file": "qfg1-010-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 0,
+  "idx": 8,
+  "text": "You can't get that.",
+  "file": "qfg1-011-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 0,
+  "idx": 10,
+  "text": "There aren't any here.",
+  "file": "qfg1-012-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 0,
+  "idx": 11,
+  "text": "You don't have time -- there's the slight matter of the monster that wants to eat you.",
+  "file": "qfg1-013-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 7,
+  "text": "You can't see it.",
+  "file": "qfg1-014-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 23,
+  "text": "Turn around.",
+  "file": "qfg1-015-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 24,
+  "text": "That's the Sheriff's job.",
+  "file": "qfg1-016-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 18,
+  "text": "Searching a law enforcer is a bad idea.",
+  "file": "qfg1-017-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 22,
+  "text": "The door is locked.",
+  "file": "qfg1-018-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 12,
+  "text": "It stands open.",
+  "file": "qfg1-019-narrator.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "shameen",
+  "voiceId": 266,
+  "num": 165,
+  "idx": 0,
+  "text": "\"Welcome!  Welcome, traveler, to the Hero's Tale Inn!  I am Shameen, at your service.  May you find what you seek here.\"",
+  "file": "qfg1-020-shameen.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "shameen",
+  "voiceId": 266,
+  "num": 167,
+  "idx": 0,
+  "text": "\"May you dream of all the rewards you deserve.\"",
+  "file": "qfg1-021-shameen.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "guard",
+  "voiceId": 319,
+  "num": 37,
+  "idx": 0,
+  "text": "\"Please step where I can see you.\"",
+  "file": "qfg1-022-guard.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "guard",
+  "voiceId": 319,
+  "num": 65,
+  "idx": 0,
+  "text": "\"If ya want a good time, try the 'Dragon's Breath' at the bar.\"",
+  "file": "qfg1-023-guard.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 2,
+  "idx": 0,
+  "text": "The software you are now using was produced\nthrough the efforts of many people:\ndesigners, artists, programmers, musicians,\nand lots of other hard-working folks.\n\nIf you make copies of this software for any\nreason other than to make a personal backup,\nyou are not only breaking the law, but raising\nthe cost of software for all legitimate users.\n\nPLEASE\nDO NOT MAKE ILLEGAL COPIES OF THIS GAME !",
+  "file": "qfg1-024-narrator.mp3"
+ }
+]

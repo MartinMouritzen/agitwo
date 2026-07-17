@@ -1,0 +1,1357 @@
+[
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 15,
+  "text": "Although looking somewhat scorched, the bear is still very dangerous.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2200-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 16,
+  "text": "On one side of this cavern is a creature which looks like a large bear.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2201-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 17,
+  "text": "The bear looks menacing and angry.  There is something attached to its leg.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2202-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 18,
+  "text": "There is no sign of the bear or his chains.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2203-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 19,
+  "text": "You can't see very well.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2204-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 20,
+  "text": "There is a manacle and chain attached to the bear's leg.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2205-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 21,
+  "text": "I just don't know what to tell you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2206-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 24,
+  "text": "Better not.  You might make the bear angry.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2207-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 25,
+  "text": "That won't help you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2208-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 26,
+  "text": "The walls are too slimy to climb.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2209-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 27,
+  "text": "There is no magic in the cave.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2210-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 28,
+  "text": "There is an aura of magic throughout the cavern.  It seems to center on the bear.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2211-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 29,
+  "text": "There is no point to that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2212-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 30,
+  "text": "The magic about the bear's manacle is too great for your Open spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2213-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 31,
+  "text": "You'd better not.  The bear isn't wearing a flea collar.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2214-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 32,
+  "text": "Hi there!  I represent Ditto Realty.  We have some LOVELY properties that are PROVEN bargains.  We know that's true, because we've sold them so many times.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2215-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 33,
+  "text": "You know that bears can't talk!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2216-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 34,
+  "text": "The Flame Dart has spoiled the bear's appetite.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2217-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 35,
+  "text": "Its hunger diminished, the bear takes a new attitude toward you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2218-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 36,
+  "text": "You need to find the key.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2219-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 37,
+  "text": "The bear won't let you near the lock.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2220-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 38,
+  "text": "Sorry, this lock is enchanted.  You'll need a magical key.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2221-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 39,
+  "text": "As your eyes adjust from sunlight to darkness, you examine the interior of this eerie cavern.  You sense something moving off to your right.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2222-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 40,
+  "text": "A very large bear rears up as you approach.  It looks hungry and dangerous.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2223-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 41,
+  "text": "Boy, that smarts!  Your last thoughts, although trivial, gently nudge you toward infinity.  \"I wonder if the bear's paws were clean..........\"",
+  "say": "I wonder if the bear's paws were clean...",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-2224-hero.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 42,
+  "text": "Boy, that smarts!  Your last thoughts, although trivial, gently loft you toward infinity.  \"I wonder if the bear's paws were clean..........\"",
+  "say": "I wonder if the bear's paws were clean...",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-2225-hero.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 43,
+  "text": "The Kobold's key disappears as you turn it in the lock.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2226-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 0,
+  "text": "You get the feeling that you're not alone.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2227-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 1,
+  "text": "The Brigands oblige you by making your pleasant rest permanent!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2228-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 2,
+  "text": "No spells are active here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2229-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 3,
+  "text": "That was a useless gesture.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2230-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 4,
+  "text": "None of the brigands notices your Calm spell.  There is too much negative thought energy here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2231-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 5,
+  "text": "That was a useless spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2232-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 6,
+  "text": "There is nothing near that you can get over.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2233-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 7,
+  "text": "The door is open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2234-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 8,
+  "text": "You must get closer.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2235-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 9,
+  "text": "This is no time for casual conversation.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2236-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 10,
+  "text": "You're too busy trying not to become a human pincushion.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2237-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 11,
+  "text": "His aim in life is to make shish kebab.  I hope you're not skewered.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2238-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 12,
+  "text": "Life as an archer is not dull or pointless.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2239-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 13,
+  "text": "He has an arrow with your name on it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2240-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 14,
+  "text": "He has an IQ so low he can't spell IQ.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2241-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 15,
+  "text": "Sacks of grain.  Stored for the winter.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2242-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 16,
+  "text": "Empty wine barrels.  The winters here are very cold.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2243-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 17,
+  "text": "Rug with message \"Step Here\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2244-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 18,
+  "text": "These rolled-up rugs are spares for use when the rug at the left is lost.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2245-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 19,
+  "text": "A rope tautly strung.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2246-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 20,
+  "text": "Sturdy looking bridge with one support pole across the chasm.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2247-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 21,
+  "text": "Sturdy looking bridge with two support poles across the chasm.  A message reading \"Cross Here\" is on this bridge.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2248-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 22,
+  "text": "Chasm across the room.  The only safe passage is across the bridges.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2249-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 23,
+  "text": "Door to some other room.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2250-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 24,
+  "text": "Window showing vague outlines and shapes.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2251-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 25,
+  "text": "Some kind of cabinet showing a flip top secured by a hasp.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2252-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 26,
+  "text": "Some kind of cabinet.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2253-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 27,
+  "text": "Fortification for archers to stand behind.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2254-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 28,
+  "text": "The stuff that dreams are made of.  Left here by some somnambulistic brigand.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2255-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 29,
+  "text": "This was not the ending you had in mind when you read the manual on \"How to be a Hero\".  Either you just aren't ready to take on this situation, or there's got to be a better way to accomplish your mission.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2256-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 94,
+  "idx": 30,
+  "text": "You hear a snick as the hasp on the Jack in the Box is released.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2257-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 0,
+  "text": "The \"Open\" spell lets you open things with a mere gesture.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2258-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 1,
+  "text": "If you're really good at it, you can open locks.  It's useful when you lose your keys.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2259-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 2,
+  "text": "Your keys are in the study under the skull.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2260-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 3,
+  "text": "Why would they be there?",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2261-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 4,
+  "text": "They're skeleton keys, aren't they?",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2262-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 5,
+  "text": "\"Fetch\" is a useful spell for catching and retrieving small objects at a distance.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2263-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 6,
+  "text": "It's good for putting things in their place.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2264-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 7,
+  "text": "Like uppity familiars?",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2265-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 8,
+  "text": "I'd put you in your place, but I'm above such things.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2266-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 9,
+  "text": "Besides, my place is above your reach.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2267-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 10,
+  "text": "The \"Trigger\" spell is used to set off an existing spell, just like pulling the spell's \"trigger\".",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2268-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 11,
+  "text": "For example, if a chest has a magical trap on it, you can set off the trap by casting a \"Trigger\" spell.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2269-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 12,
+  "text": "Just make sure you're out of range of the trap.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2270-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 13,
+  "text": "I can set up other spells and let someone else \"Trigger\" them.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2271-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 14,
+  "text": "I fixed Henry the Hermit's cave for him so that he can do alot of magic with only one spell.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2272-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 15,
+  "text": "Now that's a spell with charm!",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2273-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 16,
+  "text": "It's true name is Erasmus' Razzle Dazzle, by the way.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2274-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 17,
+  "text": "You cast the spell and anyone looking directly at its corruscating light is blinded for awhile and can't do anything.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2275-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 18,
+  "text": "Magical traps are a good way to keep thieves out of your chests and other places.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2276-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 19,
+  "text": "Put a fire trap, for example, on a chest.  When someone tries to open it, the thief will go up in smoke!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2277-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 20,
+  "text": "Tell our hero here what happens when you forget and try to open the chest yourself.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2278-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 132,
+  "idx": 21,
+  "text": "I only got singed the last time.  Nothing major.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2279-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 600,
+  "idx": 1,
+  "text": "Thus the hero from the East\nFreed the man from form of beast\nSaved beauty from the brigand's band\nAnd forced the Ogress to flee the land.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2280-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 600,
+  "idx": 2,
+  "text": "You have defeated the brigands\nAnd become a true Hero of Spielburg",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2281-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 600,
+  "idx": 3,
+  "text": "The brigand band has been dispersed\nTheir treasure has been reimbursed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2282-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 600,
+  "idx": 4,
+  "text": "So with the Kattas and the Merchant\nYou board a magic carpet to the land of Shapeir.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2283-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 600,
+  "idx": 5,
+  "text": "And so with Kattas and Abdulla Doo\nYou bid the valley a fond adieu.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2284-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 600,
+  "idx": 6,
+  "text": "Unfortunately, since the Baron is still\ncursed, and Baba Yaga remains to work her evil deeds, terror will continue to rule the land.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2285-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 289,
+  "idx": 0,
+  "text": "Naughty, naughty.  The Sheriff and Otto arrive on the scene and arrest you for \"blatant power-gaming\".  You have to *work* at it to become a *real* hero!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2286-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 289,
+  "idx": 1,
+  "text": "Obviously, you shouldn't have done that!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2287-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 289,
+  "idx": 2,
+  "text": "Now you've done it!  It's hard to be a hero when you're locked up for breaking and entering (or entering and breaking, as the case may be).  Be a little more intelligent (and a lot quieter) if you ever try something like this again.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2288-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 289,
+  "idx": 3,
+  "text": "Gently and stealthily, you lift the lid on the little box.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2289-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 289,
+  "idx": 4,
+  "text": "As the little music box begins to play, you hear the Sheriff yell out: \"Otto, stop playing with that music box and GO TO BED!\"",
+  "say": "Otto, stop playing with that music box and GO TO BED!",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "file": "qfg1-2290-sheriff.mp3"
+ },
+ {
+  "res": "text",
+  "num": 289,
+  "idx": 5,
+  "text": "Boy, did YOU make a mistake!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2291-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 289,
+  "idx": 6,
+  "text": "Otto can't find the music box, but he's too dim and sleepy to figure it out, so he heads on back to bed",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2292-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 289,
+  "idx": 7,
+  "text": "Otto, even in his sleepy state, winds the music box and closes the lid before he heads back to bed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2293-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 289,
+  "idx": 8,
+  "text": "Otto stares sleepily at the closed music box for a moment and heads back to bed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2294-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 289,
+  "idx": 9,
+  "text": "That was close! The goon must've been so dumb or sleepy or both that he didn't even see you standing there.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2295-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 289,
+  "idx": 10,
+  "text": "Obviously, getting in the goon's way was not one of your brighter ideas. You've had it now!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2296-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 87,
+  "idx": 0,
+  "text": "You see your own reflection in the crystal-clear waters.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2297-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 87,
+  "idx": 1,
+  "text": "You see a lovely waterfall in the distance, feeding the lake with ice cold mountain water.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2298-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 87,
+  "idx": 2,
+  "text": "You see a flock of geese as it passes overhead.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2299-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 87,
+  "idx": 3,
+  "text": "You see the reflection of a flock of geese as it passes overhead.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2300-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 87,
+  "idx": 4,
+  "text": "It must be your imagination.  What would a submarine be doing in a fantasy adventure?  Perhaps you'd rather be playing `Code Name: Iceman' -- it has a submarine.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2301-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 87,
+  "idx": 5,
+  "text": "You don't want to do that.  A walking pace is more appropriate for enjoying the majestic beauty of this scene.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2302-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 87,
+  "idx": 6,
+  "text": "Swimming in the Spiegelsee is a bad idea.  The lake is fed from mountain run-off, and the water is ice cold.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2303-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 87,
+  "idx": 7,
+  "text": "The lake water tastes pretty good, if a bit flat.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2304-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 87,
+  "idx": 8,
+  "text": "... but this is not the water you want.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2305-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 87,
+  "idx": 9,
+  "text": "You fill a flask with the clear lake water.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2306-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 87,
+  "idx": 10,
+  "text": "You don't have anything in which to carry the water.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2307-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 87,
+  "idx": 11,
+  "text": "It's the beautiful Spiegelsee (Mirror Lake).  You pause for some peaceful reflection.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2308-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 0,
+  "text": "A simple yes or no will suffice.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2309-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 1,
+  "text": "Come in and sit down.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2310-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 2,
+  "text": "Fenrus, our guest has arrived.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2311-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 3,
+  "text": "Cheese, please!",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2312-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 4,
+  "text": "Ahhhhhh!",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2313-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 5,
+  "text": "Since you are a practitioner of the magical arts, you might be interested in a little game I have.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2314-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 6,
+  "text": "I'll teach you the Dazzle spell if you win.  You do want to play, don't you?",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2315-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 9,
+  "text": "Nice to see you back.  Shall we play a game of Mage's Maze?",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2316-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 10,
+  "text": "Wonderful!  Then you can play a game of Mage's Maze with me.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2317-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 11,
+  "text": "Oh, well.  It is a good game.  Good practice, too.  Maybe we can play the next time you visit.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2318-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 12,
+  "text": "I believe I gave a learning scroll to the Hermit.  You should talk to him about it.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2319-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 13,
+  "text": "Too bad.  You really can't play the game without it.  You can buy a learning scroll at Zara's magic shop in town.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2320-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 14,
+  "text": "I so enjoy playing the Mage's Maze.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2321-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 288,
+  "idx": 0,
+  "text": "As you reach toward the painting...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2322-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 288,
+  "idx": 1,
+  "text": "From somewhere upstairs, you hear the Sheriff shout: \"Otto!\".",
+  "say": "Otto!",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "file": "qfg1-2323-sheriff.mp3"
+ },
+ {
+  "res": "text",
+  "num": 288,
+  "idx": 2,
+  "text": "The people who own this house must have some money. Everything looks new and there is not a speck of dust visible.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2324-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 288,
+  "idx": 3,
+  "text": "The room smells vaguely of sauerkraut and bratwurst, with just a faint odor of smoke from pinewood. From somewhere in the house you can hear someone snoring.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2325-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 288,
+  "idx": 4,
+  "text": "By lifting the painting, you can see what certainly must be a safe, hidden in the wall.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2326-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 288,
+  "idx": 5,
+  "text": "You carefully lower the painting into its original position.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2327-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 291,
+  "idx": 0,
+  "text": "It looks difficult. You look around for a good place to climb.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2328-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 291,
+  "idx": 1,
+  "text": "This looks like a good place to you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2329-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 291,
+  "idx": 2,
+  "text": "You valiantly scrabble against the cliff wall, but it looks like your climbing skill could stand some improvement.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2330-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 291,
+  "idx": 3,
+  "text": "Perhaps there is some other way to get to your objective.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2331-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 291,
+  "idx": 4,
+  "text": "You look for an appropriate place to climb.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2332-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 291,
+  "idx": 6,
+  "text": "Ohhhhhhh!",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-2333-hero.mp3"
+ },
+ {
+  "res": "text",
+  "num": 291,
+  "idx": 7,
+  "text": "You remain unconscious on the ground for an indeterminate amount of time. As you finally revive, you realize that you've caused yourself a fair amount of damage.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2334-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 341,
+  "idx": 0,
+  "text": "The game is called Dag-Nab-It.  You take turns with the Chief Thief throwing daggers at the board.  Each player gets three turns, and throws three daggers in each turn.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2335-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 341,
+  "idx": 1,
+  "text": "More points are scored the closer each dagger hits to the center of the board.  Highest score wins the bet.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2336-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 341,
+  "idx": 2,
+  "text": "Adjust force and angle of throw with the arrow keys or mouse, according to your hand position.  Press Enter or click on the small dag-nab-it board to throw.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2337-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 994,
+  "idx": 0,
+  "text": "Your save game disk is full. You must either use another disk or save over an existing saved game.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2338-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 994,
+  "idx": 1,
+  "text": "That game was saved under a different interpreter. It cannot be restored.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2339-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 994,
+  "idx": 3,
+  "text": "That doesn't appear to be a proper sentence.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2340-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 994,
+  "idx": 4,
+  "text": "That sentence doesn't make sense.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2341-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 994,
+  "idx": 5,
+  "text": "You've left me responseless.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2342-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 113,
+  "idx": 0,
+  "text": "A strong magical aura radiates from the Kobold's key.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2343-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 113,
+  "idx": 1,
+  "text": "You see the outline of a chest glowing in the south end of the cavern.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2344-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 113,
+  "idx": 2,
+  "text": "You can detect a faint glimmering of magic from the shattered remains of the chest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2345-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 113,
+  "idx": 3,
+  "text": "There no longer seem to be any magical effects or spells active in this part of the cavern.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2346-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 279,
+  "idx": 0,
+  "text": "'DING DING DING DING....' \n\"Well, maybe the brigands aren't such inhospitable creatures after all.\"",
+  "say": "Well, maybe the brigands aren't such inhospitable creatures after all.",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-2347-hero.mp3"
+ },
+ {
+  "res": "text",
+  "num": 279,
+  "idx": 1,
+  "text": "Then again, maybe they are.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2348-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 279,
+  "idx": 2,
+  "text": "The brigands have an even temperament...all bad!   You seem to have a knack for doing the wrong thing.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2349-narrator.mp3"
+ }
+]

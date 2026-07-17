@@ -1,0 +1,121 @@
+diff --git a/common/module.mk b/common/module.mk
+index 3a1e22f9..7d5f1df8 100644
+--- a/common/module.mk
++++ b/common/module.mk
+@@ -46,6 +46,7 @@ MODULE_OBJS := \
+ 	unicode-bidi.o \
+ 	ustr.o \
+ 	util.o \
++	voiceover.o \
+ 	xpfloat.o \
+ 	zip-set.o \
+ 	std/std.o
+diff --git a/dists/emscripten/custom_shell.html b/dists/emscripten/custom_shell.html
+index 1d655a2a..5c2aa799 100644
+--- a/dists/emscripten/custom_shell.html
++++ b/dists/emscripten/custom_shell.html
+@@ -207,6 +207,46 @@
+       }
+     };
+     Module.setStatus('Downloading ScummVM...');
++
++    // agitwo voice-over playback. The engine calls window.agitwoPlayVoice(target, hash)
++    // (via common/voiceover.cpp) for every displayed text; hash is the 64-bit FNV-1a
++    // of the whitespace-normalized string. Clips + manifests live under voices/<target>/.
++    (function () {
++      var manifests = {};   // target -> Map(hash -> clip file) | null (missing) | 'loading'
++      var currentAudio = null;
++      var currentHash = null;
++      function loadManifest(target) {
++        if (manifests[target] !== undefined) return;
++        manifests[target] = 'loading';
++        fetch('voices/' + target + '/manifest.json')
++          .then(function (r) { return r.ok ? r.json() : null; })
++          .then(function (json) {
++            manifests[target] = json ? new Map(Object.entries(json)) : null;
++            if (json) console.log('agitwo: loaded voice manifest for ' + target + ' (' + Object.keys(json).length + ' clips)');
++          })
++          .catch(function () { manifests[target] = null; });
++      }
++      window.agitwoPlayVoice = function (target, hash) {
++        var m = manifests[target];
++        if (m === undefined) { loadManifest(target); return false; }
++        if (m === 'loading' || m === null) return false;
++        var clip = m.get(hash);
++        if (!clip) return false;
++        if (currentHash === hash && currentAudio && !currentAudio.ended) return true; // don't restart same line
++        if (currentAudio) { currentAudio.pause(); currentAudio = null; }
++        currentAudio = new Audio('voices/' + target + '/' + clip);
++        currentHash = hash;
++        currentAudio.play().catch(function (e) { console.log('agitwo: voice play blocked/failed: ' + e); });
++        return true;
++      };
++      // Start manifest fetch early for the target passed in the URL hash, so the
++      // first lines of the game already have voices.
++      if (window.location.hash.length > 1) {
++        var args = decodeURI(window.location.hash.substring(1)).split(' ');
++        loadManifest(args[args.length - 1]);
++      }
++    })();
++
+     window.onerror = function () {
+       statusElement.classList.add("error")
+       Module.setStatus('Exception thrown, see JavaScript console');
+diff --git a/engines/agi/agi.cpp b/engines/agi/agi.cpp
+index 95d4ad40..5684ecfb 100644
+--- a/engines/agi/agi.cpp
++++ b/engines/agi/agi.cpp
+@@ -27,6 +27,7 @@
+ #include "common/debug-channels.h"
+ #include "common/random.h"
+ #include "common/textconsole.h"
++#include "common/voiceover.h"
+ 
+ #include "engines/util.h"
+ 
+@@ -649,6 +650,15 @@ void AgiEngine::sayText(const Common::String &text, Common::TextToSpeechManager:
+ 		return;
+ 	}
+ 
++	// agitwo voice-over: when a pre-generated clip exists for this text,
++	// play it and skip TTS for this string.
++	if (!checkPreviousSaid || _previousSaid != text) {
++		if (Common::playVoiceOver(text)) {
++			_previousSaid = text;
++			return;
++		}
++	}
++
+ 	Common::TextToSpeechManager *ttsMan = g_system->getTextToSpeechManager();
+ 	if (ttsMan && ConfMan.getBool("tts_enabled") && (!checkPreviousSaid || _previousSaid != text)) {
+ 		Common::String ttsMessage = text;
+diff --git a/engines/sci/engine/tts.cpp b/engines/sci/engine/tts.cpp
+index 7c16a9b5..8aa01aad 100644
+--- a/engines/sci/engine/tts.cpp
++++ b/engines/sci/engine/tts.cpp
+@@ -25,6 +25,7 @@
+ #include "common/system.h"
+ #include "common/text-to-speech.h"
+ #include "common/config-manager.h"
++#include "common/voiceover.h"
+ 
+ namespace Sci {
+ 
+@@ -37,11 +38,17 @@ SciTTS::SciTTS() : _curMessage("") {
+ }
+ 
+ void SciTTS::button(const Common::String &text) {
++	// agitwo voice-over: pre-generated clip replaces TTS when available
++	if (shouldPerformTTS(text) && Common::playVoiceOver(getMessage(text)))
++		return;
+ 	if (_ttsMan != nullptr && shouldPerformTTS(text))
+ 		_ttsMan->say(getMessage(text), Common::TextToSpeechManager::QUEUE_NO_REPEAT);
+ }
+ 
+ void SciTTS::text(const Common::String &text) {
++	// agitwo voice-over: pre-generated clip replaces TTS when available
++	if (shouldPerformTTS(text) && Common::playVoiceOver(getMessage(text)))
++		return;
+ 	if (_ttsMan != nullptr && shouldPerformTTS(text))
+ 		_ttsMan->say(getMessage(text), Common::TextToSpeechManager::INTERRUPT);
+ }

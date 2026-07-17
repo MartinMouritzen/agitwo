@@ -1,0 +1,6861 @@
+[
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 1,
+  "text": "There is nobody to open the portcullis.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 2,
+  "text": "Leave the climbing to those who know how.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 3,
+  "text": "You're not in a good place to climb.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 4,
+  "text": "The guards won't allow you to do that.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 5,
+  "text": "The castle looms over the gatehouse and looks rather impressive.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 7,
+  "text": "The towers stand out above the castle walls.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 8,
+  "text": "The sky is clear except for a few clouds.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 9,
+  "text": "The grass seems to grow well here.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 10,
+  "text": "You see the road leading past the Healer's house.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 11,
+  "text": "You see the forest.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 12,
+  "text": "\"Come in.  Come in.  You have been expected.  Baron von Spielburg awaits you in the castle.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 13,
+  "text": "\"Are you speaking to me?\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 14,
+  "text": "\"Who's there? Come out and show yourself!\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 15,
+  "text": "\"Well?  Enter the castle grounds!\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 16,
+  "text": "Once more the guard raises the portcullis.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 17,
+  "text": "The guard, sensing something is awry, raises the portcullis.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 18,
+  "text": "You're not a quick learner.  Now you known why the grass grows so well around the portcullis.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 19,
+  "text": "That smarts.  Maybe you should move a little more quickly.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 20,
+  "text": "Had you been healthier, you probably could have survived that fall.  In your weakened condition, however, you succumbed to your injuries.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 21,
+  "text": "Experience is the best teacher.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 22,
+  "text": "Practice makes perfect.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 23,
+  "text": "Try, try again etc...",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 24,
+  "text": "Take a break.  It's Mueller time.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 25,
+  "text": "The gatehouse is more difficult to climb than it first appeared.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 26,
+  "text": "Remember what happened to Humpty Dumpty.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 27,
+  "text": "After climbing down the wall you says to yourself, \"Self\", you says, \"that wasn't too bad.\"",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 28,
+  "text": "You can't see much of the gatekeeper over the battlements.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 29,
+  "text": "\"As you can see, the gate is open.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 30,
+  "text": "\"I will not open for a faceless voice. Come out where I can see you.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 31,
+  "text": "\"Very well.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 32,
+  "text": "\"If you wish.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 33,
+  "text": "\"As you can see, the gate is closed.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 34,
+  "text": "Don't keep everybody waiting with idle talk.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 38,
+  "text": "\"Then go, before I close the portcullis.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 39,
+  "text": "\"Sorry.  I wasn't listening.  Could you repeat youself?\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 40,
+  "text": "\"OK.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 42,
+  "text": "\"My name is Karl.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 43,
+  "text": "\"That's me. I guard the portcullis day after day.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 44,
+  "text": "\"The portcullis is the metal grate that bars the entrance to the castle yard.",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 45,
+  "text": "\"This is the Castle of the Baron Stefan von Spielburg, Lord of this Valley.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 46,
+  "text": "\"My Lord is busy organizing his troops.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 47,
+  "text": "\"My Lord sees no one since the loss of his son and daughter.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 48,
+  "text": "\"Ten years ago the Baron's daughter, Elsa, was stolen away by magic.  Five years back, the Baronet Barnard von Spielburg went on a hunt from which he did not return.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 49,
+  "text": "\"This was all clearly part of Baba Yaga's curse.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 50,
+  "text": "\"The Baronet is busy hibernating.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 51,
+  "text": "\"The Baronet Barnard von Spielburg was a proud young man with the dark hair and eyes of his father, the Baron.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 52,
+  "text": "\"He rode off one morning and his horse returned without him.  The horse had been raked by the claws of some large animal.  There is still a reward offered for the safe return of the Baronet, but I fear he is dead.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 53,
+  "text": "\"Elsa von Spielburg was a lovely young child with braided brown hair and bright blue eyes, like her mother, the Baroness, used to have.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 54,
+  "text": "\"A large winged creature flew over the castle walls, grabbed Elsa, and vanished before the guards could fire upon it.  We searched everywhere for her, but to no avail.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 55,
+  "text": "\"Even the jester, Yorick, joined the search for her.  The Baron sent a troup of guards to storm Baba Yaga's hut, but I think their skulls sit atop her fence now.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 56,
+  "text": "\"Elsa von Spielburg would be about eighteen now.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 57,
+  "text": "\"The stablekeeper could use a strong young person to help clean out the stable.  It does not pay much, but it is good, honest work.  If you would like to take the job, just ask me to open the portcullis.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 58,
+  "text": "\"Cleaning up after the horses is a good way to build up your muscles.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 59,
+  "text": "\"The Baron ordered Baba Yaga to leave and she first cursed the graveyard.  When he then sent the Baronial Guards after her, only the captain returned to the castle.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 60,
+  "text": "\"He spoke the words,\n   'Hear me, oh mighty Baron.\nYou have angered me, and thus you are cursed.\nAll that you value you shall lose;\nall that you treasure shall be taken from you.'\nThe captain then dissolved into a pool of sticky blackness.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 61,
+  "text": "\"He was a very jolly fool who loved to laugh.  He was devoted to Elsa and swore he would not return until Elsa was safe.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 62,
+  "text": "\"The powerful Ogress Baba Yaga is the cause of all the Baron's misfortune.  She is a vile creature who knows much magic.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 63,
+  "text": "\"There is still a reward of 50 gold offered for the safe return of the Baronet and Elsa von Spielburg.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 64,
+  "text": "\"For the capture or death of the brigand Leader there is the reward of 60 gold and the title of 'Hero of the Realm of Spielburg'.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 65,
+  "text": "\"The brigands are protected by a magic user.  Not much is known about him, but he seems to use more magic potions and powders than spells.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 66,
+  "text": "\"The leader of the brigands must be a good strategist.  He has organized and led many raids which result in much treasure and little loss on the part of the brigands.  Without their leader, the brigands would soon flee.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 67,
+  "text": "\"There are now too few guards to take out the brigands, who still rob our people and drive away the traders.  They hide somewhere near the edge of this valley.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 68,
+  "text": "\"This was once a very wealthy valley.  Many merchants have been robbed by the brigands.  There is a merchant in town who could tell you about his recent loss.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 69,
+  "text": "\"Baba Yaga cursed the graveyard such that the dead can not rest at night.  One cannot go near the graveyard at dark without risking one's own death unless one uses protection.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 70,
+  "text": "\"There is an unguent you can purchase from the Healer which protects against the dead that walk at night.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 71,
+  "text": "\"'Hero of the Realm of Spielburg' is a title of respect and honor.  A true hero can release this land from its curse by using intelligence and courage.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 72,
+  "text": "\"There are many foul creatures stalking the forest.  The Baron has too few guards to protect this valley from them.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 73,
+  "text": "\"Spielburg Valley was once a prosperous and peaceful place before the Baron lost his family.  Now the Baron will not leave his castle and has no idea of the ruin this land has come to.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 74,
+  "text": "\"Baba Yaga has her hut to the northwest.  It is a very dangerous place and many Baronial Guards were lost there.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 75,
+  "text": "\"The Baroness died soon after the birth of her daughter.  The Baron still mourns for her.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 76,
+  "text": "\"The Baron von Spielburg lost most of his guards trying to defeat Baba Yaga.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 77,
+  "text": "\"The gatehouse is a shelter and resting place for the guards.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 78,
+  "text": "\"Everybody talks about the weather, but nobody does anything about it.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 79,
+  "text": "\"The Weapons Master often practices in the castle courtyard.  He gives lessons in the art of swordplay.  The lessons are expensive, but well worth the price.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 80,
+  "text": "\"I wouldn't know about that, I don't get around much these days.\"",
+  "speaker": "guard"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 81,
+  "text": "The castle is securely locked for the night.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 82,
+  "text": "The portcullis has been drawn, and the way to the castle is clear.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 83,
+  "text": "The portcullis presents a severe obstacle for entry to the castle.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 84,
+  "text": "The castle of the Baron Stefan von Spielburg, Lord of the valley.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 85,
+  "text": "The gatehouse is a massive structure which houses the guards.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 86,
+  "text": "The gatehouse is a massive structure.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 37,
+  "idx": 87,
+  "text": "The mountains in the distance ring the valley of Spielburg, creating a formidable barrier to travelers.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 0,
+  "text": "It looks like the talking is over.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 1,
+  "text": "\"No more talking, my friend.  Let's have fun!\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 2,
+  "text": "Now??",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 3,
+  "text": "\"ME\" sees you preparing your spell and...",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 4,
+  "text": "You're too busy.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 5,
+  "text": "\"ME\" sees you preparing to throw and...",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 6,
+  "text": "Why would you want to throw that?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 7,
+  "text": "\"You know me?  Then perhaps you have come to help.  Perhaps you are able to take the child from the band.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 8,
+  "text": "\"Be more specific, my friend.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 9,
+  "text": "\"Talking is a speciality of those who know not what they talk about.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 10,
+  "text": "\"You know Elsa?  Then perhaps you have come to help.  Perhaps you are able to take the child from the band.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 11,
+  "text": "After you have explained what you know about Elsa, Yorick speaks:",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 12,
+  "text": "\"It's about time that someone else helped Elsa before it's too late!  Toro and I are the only friends she's got here.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 13,
+  "text": "\"She's a lot like her dad, though.  She organized these brigands and changed them from mere thugs to major raiders!\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 14,
+  "text": "\"She plans to move the entire band away from the valley as soon as the snow clears.  If that happens, I know she will never be disenchanted.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 15,
+  "text": "\"You know about the enchantment?  Then perhaps you have come to help.  Perhaps you are able to take the child from the band.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 16,
+  "text": "\"Elsa doesn't know who she really is.  That's part of the enchantment.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 17,
+  "text": "\"When Elsa was left with some brigands ten years ago, all her memories were taken away from her.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 18,
+  "text": "\"I borrowed a Magic Mirror from a friend to try to break the spell, but it only works when spells are cast directly at you.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 19,
+  "text": "\"If you're going to be the big Hero, I hope you brought a Dispel Potion or something.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 20,
+  "text": "\"Alas, poor Yorick!  I know me well.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 21,
+  "text": "\"Ten years ago, I swore I would find Elsa no matter what.  It took me two years to find her, here with the brigands, and I've posed as her warlock ever since.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 22,
+  "text": "\"I couldn't break the spell on her, nor could I leave her to grow up into an attractive woman surrounded by rogues and scoundrels.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 23,
+  "text": "\"Someone had to defend her honor!\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 24,
+  "text": "\"Can't you see that I am he?  I try to inspire (before they expire) a sense of awe and majesty in those that enter here.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 25,
+  "text": "\"After all, I am the Brigand Warlock.  One has to keep up one's appearances, or appear to keep up with one's peers.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 26,
+  "text": "\"Everybody needs to know a few magic tricks to get by these days.  You'd be surprised how effective Sleeping Powder is for taking out the guards of a caravan.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 27,
+  "text": "\"You snooze, you lose.  And my banana trick has appeal of its own.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 28,
+  "text": "\"For thirty years I was the Court Jester.  Now I jest enjoy watching other people take the pratfalls.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 29,
+  "text": "\"I'll protect the Brigand Leader with everything I've got.  That's no laughing matter as I get madder.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 30,
+  "text": "\"The true Dispel Potion will break an enchantment.  You must splash the potion on Elsa as soon as you can, or she'll skewer you for sure.  She's more than a match for old \"Swordy Lordy\" now!\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 31,
+  "text": "\"Of which potion do you speak?\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 32,
+  "text": "\"You must know the \"Blade Braggart\".  He used to show off in the castle courtyard all the time.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 33,
+  "text": "\"Elsa once asked if \"Rapier Ruler\" would teach her to use the sword, and the \"Sword Bore\" told her he would not waste his talent on females.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 34,
+  "text": "\"She came to me in tears.  After all, she was only nine at the time.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 35,
+  "text": "\"She can teach old \"Weapon Windbag\" a thing or two now!  Her arm is true, and she's truly disarming.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 36,
+  "text": "\"There are plenty of doors.  You wouldn't want me to spoil your fun, now!\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 37,
+  "text": "\"Either you'll figure it out in the end, or you'll end it before you're out.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 38,
+  "text": "\"This room is my way of keeping the brigands from bothering the Leader about raises, since it tends to raze the brigands.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 39,
+  "text": "\"I designed it myself!  This place has people rolling in the aisles.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 40,
+  "text": "\"Ah yes, the \"Mirror with the Leer\", as Erasmus calls it (or was it Fenrus?).  It reflects a spell back on the caster of the spell.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 41,
+  "text": "The Warlock ruminates:\n\"Now where did I put that mirror...\nwas it on the desk in Elsa's office?\"",
+  "speaker": "yorick",
+  "say": "Now where did I put that mirror... was it on the desk in Elsa's office?"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 42,
+  "text": "\"Toro is the minotaur that guards this fortress.  Elsa found him when he was just a calf, and he's kowtowed to her ever since.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 43,
+  "text": "He guarantees that the brigands won't give Elsa any bull.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 44,
+  "text": "\"This fort is the brigand's palace.  It has been well-constructed.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 45,
+  "text": "\"Would he be surprised to see his little girl now!\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 46,
+  "text": "\"If you have business to do, then get busy doing your business.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 47,
+  "text": "\"Can't you see that's nothing to me?  You'd better flee.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 48,
+  "text": "\"The brigands will come to spoil your fun.  You'll be undone.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 49,
+  "text": "\"The brigands tend to hold a grudge, and they won't begrudge to tend to you.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 50,
+  "text": "\"If you have any famous last statements, you'd better say the secret word, or you'll lament your last state.\"",
+  "speaker": "yorick"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 51,
+  "text": "It IS!  It's a bowl of fireflies, used as a light source.  What won't they think of next?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 52,
+  "text": "It's \"ME\".",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 53,
+  "text": "The arrow points to \"ME\".",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 54,
+  "text": "It's an entrance...or is it an exit?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 55,
+  "text": "It's an exit...or is it an entrance?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 56,
+  "text": "The attic exit?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 57,
+  "text": "The arrow points to a door.  Who could've guessed?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 58,
+  "text": "The arrow points to a door.  How secret is that?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 59,
+  "text": "A sign points to a door.  The egress?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 60,
+  "text": "It's another door!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 61,
+  "text": "It looks like a picture of an upside-down door painted on the wall.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 62,
+  "text": "Engraved on the button are the words: \"PUSH ME\".",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 63,
+  "text": "It's a box of some sort...or so the sign says.  There is a button next to the box.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 64,
+  "text": "A pet door?  It's shorter than you are.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 65,
+  "text": "It's a sign, but you'll have to be closer to read it.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 66,
+  "text": "Stairs lead up to the platform on which \"ME\" is located.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 67,
+  "text": "Have a nice day!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 68,
+  "text": "It reminds you of a tie you once received as a present on All-Fools Day.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 69,
+  "text": "\"DOOR\"\n\"SECRET ENTRANCE\"\n\"EXIT\"\n\"ME\"\n\"BOX\"",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 70,
+  "text": "There appear to be stairs leading up (?) to nowhere.  There is also what looks like a bowl full of fireflies.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 71,
+  "text": "There is a deep pit with a walkway winding above it.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 72,
+  "text": "Wow!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 73,
+  "text": "In the \"upstairs\" doorway, there is a chain with a handle attached.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 74,
+  "text": "The arrows point to various orifices.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 75,
+  "text": "Take yourself there.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 76,
+  "text": "With the Brigands pounding at the door, you decide not to rest until you're safe.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 77,
+  "text": "Your magic has no effect.  It must be something about this room.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 78,
+  "text": "It would serve no purpose.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 79,
+  "text": "You curl up for a nice little nap.\nThe brigands break down the door.\nYou wake up dead.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 80,
+  "text": "Get closer.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 81,
+  "text": "You can't do that from where you're standing.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 82,
+  "text": "You dare not unbar the door.  You hear hordes of brigands massing beyond it.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 83,
+  "text": "You can't do it.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 96,
+  "idx": 84,
+  "text": "Nothing is locked.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 0,
+  "text": "You pick up the Dryad's gift of a Magic Acorn.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 1,
+  "text": "You find an ordinary acorn on the ground.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 2,
+  "text": "That acorn tasted awfully bitter...\njust like an ordinary acorn.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 3,
+  "text": "\"Until you have done so, you are only intruding on my concentration.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 4,
+  "text": "\"You need to become a friend of the forest.  Harm not the gentle creatures or plants. See with all your senses the magic of the trees and wild places.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 5,
+  "text": "\"Wander and learn.  Then you too will be in harmony with the forest.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 6,
+  "text": "The stag looks more surprised than hurt.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 7,
+  "text": "The stag is startled by your action.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 8,
+  "text": "\"Give the seed to me.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 9,
+  "text": "You are forced to confess that you lied to the Dryad.  You don't have the magic seed.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 10,
+  "text": "She tells you:  \"It's not nice to fool Mother Nature.\"",
+  "speaker": "dryad",
+  "say": "It's not nice to fool Mother Nature."
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 11,
+  "text": "\"Then you shall aid me, and I shall aid you in your quest.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 12,
+  "text": "\"Bring me a seed from the Spore Spitting Spirea of the North that I may plant it elsewhere in order to preserve these rare and magical plants.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 13,
+  "text": "\"Thus will you become a true friend of the forest.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 14,
+  "text": "\"I detect that you have in your possession such a seed.  Are you willing to give me the seed?\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 15,
+  "text": "\"Please.  Just answer my question.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 17,
+  "text": "The Dryad radiates magic.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 18,
+  "text": "The oak tree radiates magic.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 19,
+  "text": "He's beyond your reach.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 21,
+  "text": "Something about the old oak tree makes you reluctant to climb upon it.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 22,
+  "text": "The rocks to the north look too steep.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 23,
+  "text": "\"Perhaps the farmer has dates in his field.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 24,
+  "text": "\"I beg your pardon?\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 25,
+  "text": "Does a Dryad bark?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 26,
+  "text": "No, but she's a real birch.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 27,
+  "text": "Don't make an ash of yourself.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 28,
+  "text": "As you begin to form thoughts of violence...",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 29,
+  "text": "You think better of burning up the woods.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 30,
+  "text": "She's beyond your reach.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 31,
+  "text": "You needn't dull your blade playing woodsman.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 32,
+  "text": "She's rooted to the ground.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 33,
+  "text": "The stag remains out of your reach.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 34,
+  "text": "You are in a strange and beautiful part of the forest.  There is something special about this place.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 35,
+  "text": "The large, gnarled oak seems to draw your attention.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 36,
+  "text": "The Dryad appears to be a woman made of wood and leaves.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 37,
+  "text": "You cannot look at what you cannot see.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 38,
+  "text": "There is a rock wall northwest of the large oak tree.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 39,
+  "text": "The majestic white stag is an outstanding example of the beauty of the animal kingdom.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 40,
+  "text": "You see no such animal.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 41,
+  "text": "There is a large, slightly glowing acorn on the ground.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 42,
+  "text": "There are acorns here and there on the ground.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 43,
+  "text": "The forest becomes so lush and thick that it is difficult to see far.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 44,
+  "text": "The brush and undergrowth has formed an impassable thicket.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 45,
+  "text": "You see thick brush, rocks, and heavy woods to the north.  A large oak tree dominates the view.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 46,
+  "text": "You see a clearing back the way you came.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 47,
+  "text": "Most of the bushes around here seem to be bramble and are very thorny.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 48,
+  "text": "You follow the stag into this forest corner.  You feel as though the eyes of the forest are watching you.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 49,
+  "text": "Again, you feel a sense of closeness with nature.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 50,
+  "text": "You watch the stag, fascinated with his grace and beauty.  There is something special about this place.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 51,
+  "text": "What a beautiful animal!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 52,
+  "text": "\"Have you brought the seed I requested?\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 53,
+  "text": "\"Well, Hero-to-be!  Are you yet a friend of the woods?\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 54,
+  "text": "\"I am the Dryad, keeper of the woods.  Are you one with the woods?\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 55,
+  "text": "You see an acorn fall slowly to the ground.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 56,
+  "text": "You drop the seed into the Dryad's limbs.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 57,
+  "text": "You tell the Dryad:  \"No amount of persuasion could convince the flowers to relinquish their seed easily, so I was forced to hack my way to the seed with my weapon.\"",
+  "speaker": "hero",
+  "say": "No amount of persuasion could convince the flowers to relinquish their seed easily, so I was forced to hack my way to the seed with my weapon."
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 58,
+  "text": "\"Now this will boldly grow where none has grown before!\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 59,
+  "text": "\"Heed now my words, friend of the forest, and heed them well.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 60,
+  "text": "\"Friend, you must know that there is an evil in this valley which perverts the ways of nature.  The prophecy says that a hero will bring a young human from out this darkness.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 61,
+  "text": "\"If you are the one to accomplish this task, there is a potion to break enchantments which you must have the Healer make.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 62,
+  "text": "\"You must gather these ingredients:\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 63,
+  "text": "\"Flowers from Erana's Peace,\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 64,
+  "text": "\"Green Fur,\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 65,
+  "text": "\"Fairy Dust,\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 66,
+  "text": "\"a Magic Acorn,\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 67,
+  "text": "\"and Flying Water.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 68,
+  "text": "\"Farewell, friend.  I must return to my concentration.  May the forest forever surround you.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 69,
+  "text": "You pick it up and eat it.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 70,
+  "text": "The acorn appears too ordinary.  You drop it back on the ground.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 71,
+  "text": "\"You did WHAT???\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 72,
+  "text": "\"You have destroyed the plant that was to be preserved!\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 73,
+  "text": "\"As you have destroyed, so shall you now become!\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 74,
+  "text": "Well, it looks like the Dryad really made you eat dirt.  You're the spitting image of a Spirea plant, and you'll be hanging around for a long, long time.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 75,
+  "text": "\"You have attempted to harm a free creature of the forest!\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 76,
+  "text": "\"You shall now become a part of the forest!\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 77,
+  "text": "\"You have misused your skills, oh Magician!  You have used the Flame Dart on my forest.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 78,
+  "text": "\"You must be made less dangerous.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 79,
+  "text": "\"You dare to harm the Dryad of this forest!  You must be made less dangerous.\"",
+  "speaker": "dryad"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 80,
+  "text": "You are staggered by the Dryad's spell.  She appears to enjoy having lots of bucks.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 81,
+  "text": "You sleep comfortably and well in this quiet and protected corner of the woods.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 0,
+  "text": "Ooh, looky.  A human!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 1,
+  "text": "What's it doing here?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 2,
+  "text": "Yuck!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 3,
+  "text": "Let's have some fun with it.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 4,
+  "text": "Humans!  Why is it always humans?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 5,
+  "text": "Go away.  You can't play!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 6,
+  "text": "I think it wants to play with us.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 7,
+  "text": "Human, do you know how to dance?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 8,
+  "text": "How do you dance?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 9,
+  "text": "Dance?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 10,
+  "text": "Dance??",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 11,
+  "text": "Will you dance for us?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 12,
+  "text": "Can you dance?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 13,
+  "text": "Then dance for us!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 14,
+  "text": "Humans can't dance.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 15,
+  "text": "Let's see you dance.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 16,
+  "text": "I bet you can't dance!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 17,
+  "text": "Dance for us!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 18,
+  "text": "All he wants to do is dance.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 19,
+  "text": "Let's see you!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 21,
+  "text": "Dance!!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 22,
+  "text": "We can show it how, can't we?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 23,
+  "text": "We know how to make you dance.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 24,
+  "text": "You can dance.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 25,
+  "text": "We love to teach you how to dance.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 26,
+  "text": "How to dance.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 27,
+  "text": "Dance?  Dance?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 28,
+  "text": "Dance?  Dance!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 29,
+  "text": "Dance!  Dance!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 30,
+  "text": "Dance!  Dance!  Dance!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 31,
+  "text": "DanceDanceDanceDance!!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 32,
+  "text": "Hee, Hee!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 33,
+  "text": "That's a dance?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 34,
+  "text": "What can you expect from a human?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 35,
+  "text": "Well, I think it's cute.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 36,
+  "text": "You think anything is cute!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 37,
+  "text": "Ha, ha, ha!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 38,
+  "text": "Ooooh!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 39,
+  "text": "It does know how to dance.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 40,
+  "text": "Wowie!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 41,
+  "text": "This is neat!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 42,
+  "text": "Gee, I didn't think it could do this.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 43,
+  "text": "Well, I just love it!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 44,
+  "text": "You love an Antwerp!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 45,
+  "text": "Do not!!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 46,
+  "text": "Do too!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 47,
+  "text": "So what do you want?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 48,
+  "text": "Why are you here?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 49,
+  "text": "Do you suppose it's hungry?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 50,
+  "text": "What do humans eat?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 51,
+  "text": "Fairies!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 52,
+  "text": "Fairies?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 53,
+  "text": "Everyone knows humans eat animals.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 54,
+  "text": "Yuckie!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 55,
+  "text": "What are you bothering us for?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 56,
+  "text": "Why don't humans ever answer?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 57,
+  "text": "What is this all about?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 58,
+  "text": "What do you want from us?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 59,
+  "text": "He came into our circle!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 60,
+  "text": "Who invited you here?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 61,
+  "text": "How rude!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 62,
+  "text": "You can't come in here!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 63,
+  "text": "Now you're really going to get it!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 64,
+  "text": "What an insult!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 65,
+  "text": "You'll just have to dance!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 66,
+  "text": "Have to dance!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 67,
+  "text": "Dance!  Dance!!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 68,
+  "text": "Dance!!  Dance!!  Dance!!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 69,
+  "text": "Nyaah, nyaah!  You missed me!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 70,
+  "text": "It wants to play!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 71,
+  "text": "Can't get me!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 72,
+  "text": "Naughty, naughty, naughty.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 73,
+  "text": "Attercop, Attercop!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 74,
+  "text": "Missed me, missed me...",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 75,
+  "text": "...now you've got to kiss me!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 76,
+  "text": "Oooh!  Scary magic!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 77,
+  "text": "You'll never catch me.  Ha, ha!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 78,
+  "text": "Fairy dust is very magical.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 79,
+  "text": "Is that why you're here?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 80,
+  "text": "Why should we give it any dust?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 81,
+  "text": "It danced for us, didn't it?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 82,
+  "text": "Well, I say we give it some dust.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 83,
+  "text": "That's because you have a crush on it.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 84,
+  "text": "Do not!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 85,
+  "text": "Dewdrop's in love with a human.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 86,
+  "text": "Am not!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 87,
+  "text": "Are too!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 88,
+  "text": "If you love it, YOU give it some dust.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 89,
+  "text": "Ick!  Not me...you!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 90,
+  "text": "You!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 91,
+  "text": "No, You!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 92,
+  "text": "No way!  You!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 93,
+  "text": "Not me!  You!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 94,
+  "text": "Make Mikey do it.  She'll touch anything!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 95,
+  "text": "Mikey!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 96,
+  "text": "All right, all right, but you all owe me!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 97,
+  "text": "All right, human.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 98,
+  "text": "Hold out your hand and close your eyes.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 99,
+  "text": "You will get a big surprise!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 100,
+  "text": "No peeking!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 101,
+  "text": "I think it's cheating!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 102,
+  "text": "Oh, just give it some dust!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 103,
+  "text": "You needed a bath, anyway.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 104,
+  "text": "Our mushrooms are special!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 105,
+  "text": "Yeah.  They're magical!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 106,
+  "text": "That's why we dance in rings of mushrooms.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 107,
+  "text": "You better not come into our ring!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 108,
+  "text": "We never let humans into our ring.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 109,
+  "text": "It takes forever to get the smell out!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 110,
+  "text": "It spoils the magic when a human comes in.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 111,
+  "text": "It makes us very, very angry!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 112,
+  "text": "We love our mushrooms!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 113,
+  "text": "We are magic!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 114,
+  "text": "We make rainbows!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 115,
+  "text": "We dance to make the flowers grow.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 116,
+  "text": "We sing to make the colors.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 117,
+  "text": "We're the prettiest things in the world!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 118,
+  "text": "We just want to have fun!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 119,
+  "text": "Fairies live in forests.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 120,
+  "text": "Fairies are GREAT!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 121,
+  "text": "This is our home.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 122,
+  "text": "Woods are wonderful!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 123,
+  "text": "We love trees!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 124,
+  "text": "We love flowers!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 125,
+  "text": "We rule the whole forest!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 126,
+  "text": "Don't tell the Dryad that!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 127,
+  "text": "We make the trees grow!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 128,
+  "text": "She protects the forest and everything.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 129,
+  "text": "She even protects us!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 130,
+  "text": "You'd better not make her mad!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 131,
+  "text": "She'll zap you.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 132,
+  "text": "Her tree is nearby.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 133,
+  "text": "The Dryad is a tree nymph.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 134,
+  "text": "She's very magical.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 135,
+  "text": "This is boring!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 136,
+  "text": "Is that all you care about?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 137,
+  "text": "Shall we dance again?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 138,
+  "text": "What about the human?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 139,
+  "text": "Maybe if we ignore it, it'll go away!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 140,
+  "text": "Let's dance!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 141,
+  "text": "How rude!!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 142,
+  "text": "Why, I never!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 143,
+  "text": "Nobody tries that with us!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 144,
+  "text": "Now you're really going to get it!!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 145,
+  "text": "What an insult!!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 146,
+  "text": "You'll just have to dance!!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 147,
+  "text": "Have to dance!!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 148,
+  "text": "Dance for us!!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 149,
+  "text": "Dance now!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 150,
+  "text": "Dance!!!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 151,
+  "text": "Oh, it's you again!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 152,
+  "text": "Can you dance better now?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 153,
+  "text": "We love to watch you dance.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 154,
+  "text": "You'd better play nice!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 155,
+  "text": "Did you meet the Dryad?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 156,
+  "text": "We'd love to see you dance.",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 157,
+  "text": "Will you dance for us??",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 158,
+  "text": "Will you dance?",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 159,
+  "text": "Dance?  Dance??",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 296,
+  "idx": 160,
+  "text": "Dance???",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 0,
+  "text": "This place seems sinister at night. You see a strangely glowing object at the far end of the alley.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 3,
+  "text": "These two men may be smiling at you, but they don't seem very friendly.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 6,
+  "text": "The dagger looks sharp and very deadly.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 7,
+  "text": "It's a glowing golden coin.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 8,
+  "text": "You just see a glint from here.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 9,
+  "text": "He may be short, but the dagger makes him look 7 feet tall.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 10,
+  "text": "The florid face tells you that this thief is a regular at the \"Aces and Eights\" tavern.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 11,
+  "text": "The whole place is in need of repair.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 12,
+  "text": "Looks like this barrel once contained Dragon's Breath.  The bottom's eaten out.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 13,
+  "text": "A whiff of Troll's Sweat indicates that this barrel is from the \"Aces and Eights\" tavern.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 15,
+  "text": "You're too far away from the back wall.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 16,
+  "text": "\"Aw, now look what ya done.  You made poor Slink run out of patience.\"",
+  "speaker": "slink"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 17,
+  "text": "\"Aw, ya forgot to pay.  What a shame.\"",
+  "speaker": "slink"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 18,
+  "text": "That's a pretty tall wall.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 19,
+  "text": "The thieves seem to be ignoring you.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 20,
+  "text": "\"Yeah, yeah, we know, you're in the Guild too.  How's a poor independent businessman supposed to make a living around here with all this competition?\"",
+  "speaker": "slink"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 21,
+  "text": "\"Now go before I forget you made the sign and I make you pay anyway.\"",
+  "speaker": "slink"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 22,
+  "text": "\"What's that supposed to be?  You trying to pretend you're a thief or something?  Har, har.\"",
+  "speaker": "slink"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 23,
+  "text": "\"You mean to say that the first customer we've had in months is a fellow thief?  And here I thought we were going to make some money.\"",
+  "speaker": "slink"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 24,
+  "text": "\"You had better check in at the Thieves' Guild before you get in trouble for practicing without a license.  Find Crusher in the tavern, and give him the password.\"",
+  "speaker": "slink"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 25,
+  "text": "\"The password is '%s'.\"",
+  "speaker": "slink",
+  "skip": true,
+  "why": "contains printf-style substitution code (%s)"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 26,
+  "text": "\"That's all right; we already have all your money.  But it was certainly nice of you to offer.\"",
+  "speaker": "slink"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 27,
+  "text": "\"Hey!  You don't have enough money to be worth our while.  How do you expect us poor independent businessmen to make a living?\"",
+  "speaker": "slink"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 28,
+  "text": "Slink: \"Thanks, it's been a pleasure doing business with you.  You can find your way out, I'm sure.  But better hurry before my dagger starts to slip.\"",
+  "speaker": "slink",
+  "say": "Thanks, it's been a pleasure doing business with you. You can find your way out, I'm sure. But better hurry before my dagger starts to slip."
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 29,
+  "text": "Slink:  \"My finger is starting to get a bit twitchy, so forget about questions, just pay the man and get out alive.\"",
+  "speaker": "slink",
+  "say": "My finger is starting to get a bit twitchy, so forget about questions, just pay the man and get out alive."
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 30,
+  "text": "As you start to draw your weapon, the thieves jump you.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 31,
+  "text": "Before you can begin to use any magic, the thieves decide that you're up to no good.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 32,
+  "text": "Slink says, \"That coin light spell gets them every time.  See that dagger?  The next one is centered on your back.  Give Sneak there your cash and you walk out of here.  It's a simple trade, your life for your money.\"",
+  "speaker": "slink",
+  "say": "That coin light spell gets them every time. See that dagger? The next one is centered on your back. Give Sneak there your cash and you walk out of here. It's a simple trade, your life for your money."
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 33,
+  "text": "Slink:  \"Why, how nice to see you again.  I do hope (for your sake) you brought us some nice shiny new silver.\"",
+  "speaker": "slink",
+  "say": "Why, how nice to see you again. I do hope (for your sake) you brought us some nice shiny new silver."
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 34,
+  "text": "Slink:  \"Hey, Sneak, this guy's hard of hearing or something.  I told him to get a license last time he was here, and he didn't listen.\"",
+  "speaker": "slink",
+  "say": "Hey, Sneak, this guy's hard of hearing or something. I told him to get a license last time he was here, and he didn't listen."
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 35,
+  "text": "\"Let's teach him a little lesson about listening to his betters.\"",
+  "speaker": "slink"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 36,
+  "text": "As Slink reaches for his dagger, you draw your Thieves' Guild license. . .",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 37,
+  "text": "You *almost* make it.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 38,
+  "text": "Slink:  \"Hey, Sneak, this guy's hard of hearing or something.  I told him to stay out of our alley, and he didn't listen.\"",
+  "speaker": "slink",
+  "say": "Hey, Sneak, this guy's hard of hearing or something. I told him to stay out of our alley, and he didn't listen."
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 39,
+  "text": "You win by a close margin.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 40,
+  "text": "Slink:  \"All right, so you got your license.  How nice.  Guess we don't get to kill you right now.\"",
+  "speaker": "slink",
+  "say": "All right, so you got your license. How nice. Guess we don't get to kill you right now."
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 41,
+  "text": "\"But stay out of our alley, 'cause we got real short memories, like.\"",
+  "speaker": "slink"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 42,
+  "text": "Perhaps you shouldn't explore dark alleys at night unless you are looking for trouble.  Or perhaps you should look in your manual to learn how to deal with thieves.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 0,
+  "text": "This room is full of odds, ends, and stuff.  The wizard must be a real character.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 1,
+  "text": "Through the portal to the east is a large formal dining room.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 2,
+  "text": "Through the portal to the west is a small sitting room.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 3,
+  "text": "Against the east wall, you see a bookcase and a desk, above which is hung a dragon's head trophy.  These are on either side of a doorway, above which hangs a shield.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 4,
+  "text": "Leaning against the west wall is a mummy case.  Above that hangs an ancient tapestry.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 5,
+  "text": "The wall is plain.  You see nothing but the front door of the house.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 6,
+  "text": "Above the staircase hangs a portrait, flanked by decorative wall hangings.  In an alcove on the landing stands a suit of armor.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 7,
+  "text": "There is a table up against the staircase wall, and on the wall hangs an onklunk.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 8,
+  "text": "It was a moderately large and fearful dragon at one time.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 9,
+  "text": "The Ball of Light floats magically over the center of the room.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 10,
+  "text": "You admire the plumage on the peacock.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 11,
+  "text": "The poor stuffed peacock seems bedraggled, worn, and over-used.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 12,
+  "text": "You can make out the runes imprinted on the\nstrange device:  \"Acme Toy Co.\"",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 13,
+  "text": "Oh my!  It's a Dunking Dragon!  You thought they were only to be found in myths and legends.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 14,
+  "text": "It is a standard roll-top desk.  There is nothing on it.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 15,
+  "text": "The suit of armor was made for someone much taller than you.   The plaque underneath it reads:\n  \"Bequeathed by Colonel Gulden Dijon.\"",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 16,
+  "text": "You have no idea what it is, but it has the words \"Lytton P. D.\" inscribed upon it.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 17,
+  "text": "Dredging up your ancient Egyptian,\nyou translate the hieroglyphs:\n  \"She of the golden hair.\"",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 18,
+  "text": "This is an excerpt from the Rosella Stone!  There is a picture next to the message.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 20,
+  "text": "By golly, it's a rare Peruvian Onklunk!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 21,
+  "text": "You wonder if the portrait of Erasmus is really a painting, or something completely different.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 22,
+  "text": "Your eyes are drawn to the eyes of the figure in the portrait.  His intense stare is unnerving.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 23,
+  "text": "This would not be someone to trifle with, for he looks subtle and quick to anger.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 24,
+  "text": "This item appears to be an ebony chest. It could contain anything.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 25,
+  "text": "The table is bare, except for a stuffed bird which faces the door.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 26,
+  "text": "The books on the shelves of the bookcase appear to be very old, very rare, and very magical.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 27,
+  "text": "You find titles like:  \"Zen and the Art of Magical Maintenance\",  \"How to Be a Halfling\",  \"The Sensuous Succubus\",  and \"Tobin's Spirit Guide, Volume II:  Asmodeus to Casper\".",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 28,
+  "text": "The shield looks like it belonged to one of those \"Once and Future\" kings.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 29,
+  "text": "There is a strange figure on a shelf above the stairs.  It looks like an overgrown rat wearing a wizard's hat.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 30,
+  "text": "An adumbrated wall hanging.  It's design evokes thoughts of ancient times and battles past.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 31,
+  "text": "There are two finely crafted chairs, one larger than the other.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 32,
+  "text": "Beneath the \"Dunking Dragon\" is an old steamer trunk.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 33,
+  "text": "The only actual door visible is the door leading back outside.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 34,
+  "text": "The staircase connects the upstairs to the downstairs.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 35,
+  "text": "The pattern is obscured by age.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 36,
+  "text": "The high ceiling has ornate sconcing and scrollwork.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 37,
+  "text": "Purple planking?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 40,
+  "text": "The wizard does not run an inn.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 41,
+  "text": "I wouldn't do that if I were you!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 42,
+  "text": "\"Those rooms are forbidden!\"",
+  "speaker": "fenrus"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 43,
+  "text": "\"Since you're leaving anyway...\"",
+  "speaker": "fenrus"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 44,
+  "text": "\"That'll learn ya!\"",
+  "speaker": "fenrus"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 0,
+  "text": "As the ghosts suck the life out of your body, and you crumple into the dust of the old graveyard, you think unspeakable thoughts of torture and torment directed at programmers, game designers, and vicious artists named Kenn.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 1,
+  "text": "The wall is too difficult for your level of skill, but keep practicing.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 4,
+  "text": "The large tombstone seems to have a barely legible epitaph:",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 5,
+  "text": "\"Here lies an atheist...\"",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 6,
+  "text": "\"All dressed up\nand nowhere to go.\"",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 7,
+  "text": "Growing up out of the grave is an evil-looking plant with a slimy, poisonous sheen.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 8,
+  "text": "The large stone you are facing has been engraved with this message:",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 9,
+  "text": "\"Here lies Lester Moore\nGored six times by a wild boar.\"",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 10,
+  "text": "\"No Les, no Moore.\"",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 11,
+  "text": "The carving on the gravestones, for the most part, seems to have been intentionally defaced and worn with time.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 12,
+  "text": "You sense what nobody needed to tell you:  SOMETHING is making those spirits fly around, and it isn't the wind.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 13,
+  "text": "You sense a spiritual coldness.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 14,
+  "text": "The only things that can be opened here are graves, and you don't want to open THOSE!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 15,
+  "text": "Your magical abilities are to no avail against the undead.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 16,
+  "text": "You can't see the bottom of the hole before you.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 17,
+  "text": "Nothing grows in the dirt of the old graveyard.  Some of the graves appear to have been disturbed.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 18,
+  "text": "You see transparent, decaying, writhing, slimy, undead fragments of undulating ectoplasm!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 19,
+  "text": "I DO believe in spooks!  I DO believe in spooks!  I DO, I DO, I DO believe in spooks!!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 20,
+  "text": "You recall from somewhere that the most likely time to find ghosts is at night.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 21,
+  "text": "The graves seemed to be placed haphazardly in the tiny graveyard.  All appear to be old and poorly maintained.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 22,
+  "text": "The town wall looks more massive from this side.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 23,
+  "text": "There is a very large and very dead tree which hovers over the graveyard.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 24,
+  "text": "The forest surrounds the graveyard on three sides.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 25,
+  "text": "You see the rotted remains of a picket fence.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 26,
+  "text": "What at first appears to be a ladder turns out to be the rotted remains of a picket fence.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 27,
+  "text": "Let's see...root..root...\nI know I put that root SOMEwhere!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 28,
+  "text": "You don't see any particularly interesting roots.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 29,
+  "text": "The red root growing out of one of the graves has a strange and evil appearance.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 30,
+  "text": "It appears that the spirits frolic here during the dark hours.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 31,
+  "text": "It's certainly creepy here even during the daylight hours.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 32,
+  "text": "Everything here is already dead.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 34,
+  "text": "It appears that you have company in the graveyard tonight.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 35,
+  "text": "This must be the town graveyard.  What a run-down place!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 36,
+  "text": "You stepped into a hole whose depth is unfathomable.  As you fall ever downward, you feel icy fingers clutching at you, and you think: \"How could I be so careless?\"",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 37,
+  "text": "You wrench the mandrake plant free from the tombstone on which it has grown.  You hear a scream like that of a dying child as you yank the root from the ground.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 38,
+  "text": "You wrench the mandrake plant free from the tombstone on which it has grown.  Somehow you thought this would be a lot harder.  You wonder if you did this right.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 39,
+  "text": "The root shrivels and twists in your hands until nothing is left.  Astonished, you look at your empty hands.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 0,
+  "text": "C'mon now! That's HARDLY a heroic action!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 1,
+  "text": "GADZOOKS!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 2,
+  "text": "I'm sorry, but this game has a PG rating.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 3,
+  "text": "You didn't really say that, did you?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 4,
+  "text": "I'm not programmed to do that sort of thing!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 5,
+  "text": "That wouldn't be appropriate.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 6,
+  "text": "The pressure gets to you after a while, doesn't it?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 7,
+  "text": "Didn't your Momma teach you any better than that?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 8,
+  "text": "ODS BODKINS!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 10,
+  "text": "You see nothing special.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 11,
+  "text": "It is just as it appears.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 12,
+  "text": "It looks pretty normal.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 13,
+  "text": "It's not important.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 15,
+  "text": "\"Yes, the weather does what the weather will do, does it not?\"",
+  "speaker": "townsperson"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 16,
+  "text": "\"Surely you jest!\"",
+  "speaker": "townsperson"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 17,
+  "text": "\"I'm not sure that I understand you\"",
+  "speaker": "townsperson"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 18,
+  "text": "\"You seem to be talking without saying very much.\"",
+  "speaker": "townsperson"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 19,
+  "text": "\"Beg pardon?\"",
+  "speaker": "townsperson"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 21,
+  "text": "\"Welcome back! It is good to see you again. So many adventurers never return. Someday, you and I will go on an adventure together.\"",
+  "speaker": "wolfgang"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 22,
+  "text": "\"Hrrmph! Ahem! Yes, as I was saying....where were we?\"",
+  "speaker": "wolfgang"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 23,
+  "text": "\"Oh, what a glorious day it was! I...... Oh, hello there!\"",
+  "speaker": "wolfgang"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 24,
+  "text": "\"You fiendish witch! I will have you...... Oh, it's you, my friend!\"",
+  "speaker": "wolfgang"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 25,
+  "text": "\"Oh, Barnard, bravest of the brave, you cannot be gone from us so soon.... What? What? You're still here, my fellow adventurer?\"",
+  "speaker": "wolfgang"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 26,
+  "text": "We're sorry, but the pixel you clicked on is not in service at this time.  Please check your mouse and click again.\nThank you!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 27,
+  "text": "Of all the places to click on, you had to choose THIS one!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 28,
+  "text": "If there was something interesting and informative at this location on the screen, we would certainly have put up a much more interesting and informative message than this one.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 29,
+  "text": "This is a pixel.\nThis is only a pixel.\nIf this had been a REAL picture element, you would have seen a REAL message.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 30,
+  "text": "You have reached the residence of Mr. and Mrs. Pixel.  We are unable to come to the screen right now, but if you leave your game and character at the sound of the beep...",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 31,
+  "text": "There is a place between shadow and substance...\nbetween reality and imagination...\nbut THIS isn't it!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 32,
+  "text": "Yes!  You have found a cleverly hidden representation of the Starship You-Know Who!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 33,
+  "text": "You may have already won a fabulous, all-expense-paid trip for two to scenic Shapeir, land of the shifting sands.  To claim your prize, simply purchase a soon-to-be-released copy of \"Quest for Glory II:  Trial by Fire\" at a software dealer near you.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 34,
+  "text": "Congratulations!  By clicking at this spot on the screen, you have initiated an irreversible process that will destroy all life as we know it.  Have a nice day!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 40,
+  "text": "Day is dawning",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 41,
+  "text": "It is mid-morning",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 42,
+  "text": "It is midday",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 43,
+  "text": "It is mid-afternoon",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 44,
+  "text": "Sunset approaches",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 45,
+  "text": "The night is still young",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 46,
+  "text": "It is the middle of the night",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 47,
+  "text": "It is not yet dawn",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 0,
+  "text": "You see the purple home of someone who must enjoy its precarious perch upon the peak.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 1,
+  "text": "The stone creature looks like it's bored.  Wouldn't you be?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 2,
+  "text": "The cliff walls are steep, and it's a long way to the snow fields below.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 3,
+  "text": "You can see the mist flowing around the edges of the Wolf's Bane Peaks.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 4,
+  "text": "Below you, the snow glistens.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 5,
+  "text": "It is cloudless. It seems that you are above the clouds.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 6,
+  "text": "Looking down and to the south, you see the tortuous path you climbed to get here. You'd hate to have to do that again.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 7,
+  "text": "Looking below you to the west, you can see the Baron's Castle surrounded by the forest.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 8,
+  "text": "From outside, you can see that the interior of the house is curiously furnished.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 9,
+  "text": "It's about time the gargoyle opened the door for you.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 10,
+  "text": "You'd like to look at it more closely, if only the gargoyle would let you.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 12,
+  "text": "The door is already open.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 13,
+  "text": "You feel as though you have just scaled the Matterhorn in full armor.  What a climb!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 14,
+  "text": "After you finally catch your breath, you see that you have reached the rather eccentric-looking house that you saw from below.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 15,
+  "text": "There is an ugly gargoyle above the entrance.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 16,
+  "text": "Your body can't take too much more of this kind of mountaineering.  At this point, you envy the gargoyle his job.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 17,
+  "text": "No matter how strong you feel at the bottom of the mountain, you're always more exhausted than the last time you reached the top.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 18,
+  "text": "The climb seems much longer this time, but you made it!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 19,
+  "text": "\"DO NOT DISTURB THE WIZARD AT REST!\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 20,
+  "text": "\"AND YOU WANT TO BE A HERO?!\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 21,
+  "text": "\"YOU DON'T GIVE UP EASILY,\nDO YOU?\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 22,
+  "text": "\"OH!  YOU AGAIN!\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 23,
+  "text": "\"STAND FAST!\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 24,
+  "text": "\"CAN YOU HEAR ME?\nYOU HAVE THREE QUESTIONS.\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 25,
+  "text": "\"HERE COME YOUR QUESTIONS:\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 26,
+  "text": "\"HE WHO WOULD THE WIZARD SEE\nFIRST MUST ANSWER QUESTIONS THREE.\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 27,
+  "text": "\"BEAT IT, BUB!\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 28,
+  "text": "\"WRONG!\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 29,
+  "text": "ASKING QUESTIONS\nIS *MY* JOB, BUB!",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 30,
+  "text": "\"NO THIEVES ALLOWED!\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 31,
+  "text": "The Wizard is not running an inn.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 32,
+  "text": "\"THAT'S NOT NICE!\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 33,
+  "text": "\"WHAT IS YOUR NAME?\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 34,
+  "text": "\"WHAT IS YOUR FAVORITE COLOR?\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 35,
+  "text": "\"WHAT IS YOUR QUEST?\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 36,
+  "text": "\"WHO DO YOU SEEK HERE?\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 37,
+  "text": "\"WHAT IS THE MEAN AIRSPEED\nOF AN UNLADEN SWALLOW?\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 38,
+  "text": "\"WHAT IS THE MEANING OF LIFE,\nTHE UNIVERSE, AND EVERYTHING?\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 39,
+  "text": "\"IS IT FURTHER TO SHAPEIR,\nOR BY CAMEL?\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 40,
+  "text": "\"IS THIS A YES OR NO QUESTION?\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 41,
+  "text": "\"WHAT IS THE BARON'S FIRST NAME?\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 42,
+  "text": "\"WHOSE SPELL PROTECTS THE TOWN?\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 43,
+  "text": "\"WHAT IS THE THIEVES' PASSWORD?\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 44,
+  "text": "\"GOOD.  YOU'RE NOT A THIEF!\"",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 45,
+  "text": "THAT IS CORRECT.",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 46,
+  "text": "THE WIZARD WILL NOW SEE YOU.",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 47,
+  "text": "GO DIRECTLY UP TO THE TOWER.\nDO NOT DALLY!",
+  "speaker": "gargoyle"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 0,
+  "text": "There seems to be a fox north of the road.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 1,
+  "text": "The forest deepens north and south of you.  To the east, the road twists it's way up the mountain.  To the west, the road is hidden by trees.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 2,
+  "text": "For a moment there, you thought you saw something. You can't see anything now.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 3,
+  "text": "It seems to be a simple spring trap and you can easily open it.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 4,
+  "text": "The trap seems to be caught on something.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 5,
+  "text": "You can see no sign of a trap here.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 6,
+  "text": "The fox seems to have a foot caught in a trap.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 7,
+  "text": "The fox is gone.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 8,
+  "text": "You must free the fox first.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 9,
+  "text": "Walk over to the trap.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 10,
+  "text": "You don't see the trap now.  It seems to have vanished.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 11,
+  "text": "There is an aura of magic around the fox.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 12,
+  "text": "There is no magic present.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 13,
+  "text": "The fox is in such pain that it's already dazzled.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 15,
+  "text": "\"You don't have to put me out of my misery, you just have to get me out of this trap.\"",
+  "speaker": "fox"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 16,
+  "text": "\"You realize, of course, I really find it hard to relax with this thing on my leg.\"",
+  "speaker": "fox"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 17,
+  "text": "\"Help me, Brave and Kind Hero.\"",
+  "speaker": "fox"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 18,
+  "text": "\"Please help me, Brave and Kind Hero.\"",
+  "speaker": "fox"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 19,
+  "text": "\"Please have mercy on a creature who is in great pain.\"",
+  "speaker": "fox"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 20,
+  "text": "The fox does not seem to want to fight.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 21,
+  "text": "\"My foot is caught in this cruel trap and I am in great pain.  Surely you could take a minute and set me free.\"",
+  "speaker": "fox"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 22,
+  "text": "That was strange, no sooner did you kill the fox than it vanishes.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 23,
+  "text": "Hmmm.  Perhaps it needed a stronger spell.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 24,
+  "text": "Your powerful Open spell springs the trap.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 25,
+  "text": "You spring the trap.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 26,
+  "text": "\"In exchange for your kindness, I will give you some advice and a bit of information.  First of all, it sometimes pays off to be polite, even to rude people.\"",
+  "speaker": "fox"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 27,
+  "text": "\"As for the amusing tidbit - Baba Yaga put an enchantment on the Baron's Daughter some years back.  To break the spell you need to talk to the Dryad.  Au Revoir, Ta-ta, see you sometime.\"",
+  "speaker": "fox"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 28,
+  "text": "The trap seems to be caught on something.  You can't pull it loose.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 29,
+  "text": "\"I am in such pain and agony I cannot think.   Help me, good adventurer, please.\"",
+  "speaker": "fox"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 30,
+  "text": "That's not worth any game points, and will not make the fox feel any better.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 31,
+  "text": "\"My foot is caught in this trap.  If I had hands like you, instead of paws, I could free myself.\"",
+  "speaker": "fox"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 32,
+  "text": "Walk around to the other side of the fox, where the trap is.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 33,
+  "text": "There's no one here to fight.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 67,
+  "idx": 34,
+  "text": "You would need a sword.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 2,
+  "text": "Silver Coin%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 3,
+  "text": "Ten silver coins equal a gold coin in value.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 4,
+  "text": "Gold Coin%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 5,
+  "text": "Each gold coin is worth 10 silver coins.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 6,
+  "text": "Food Ration%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 7,
+  "text": "Standard adventuring rations.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 8,
+  "text": "Mandrake Root%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 9,
+  "text": "Root of a Mandrake plant.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 10,
+  "text": "Large Brass Key%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 11,
+  "text": "A large, metallic key.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 12,
+  "text": "Broadsword%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 13,
+  "text": "A heavy, one-handed broadsword.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 14,
+  "text": "Dagger%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 15,
+  "text": "Daggers for throwing and close-in fighting.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 16,
+  "text": "Leather Armor%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 17,
+  "text": "Armor made of leather boiled in wax.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 18,
+  "text": "Shield%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 19,
+  "text": "A strong (and heavy) iron shield.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 20,
+  "text": "Piece%c of Paper",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 21,
+  "text": "Blank pieces of paper.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 22,
+  "text": "Small apple%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 23,
+  "text": "Small apples from last Fall's harvest.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 24,
+  "text": "Vegetable%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 25,
+  "text": "Vegetables from the Centaur farmers.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 26,
+  "text": "Glowing Gem%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 27,
+  "text": "This gem glows with a magic of its own.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 28,
+  "text": "Alabaster Vase%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 29,
+  "text": "A lovely alabaster flower vase.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 30,
+  "text": "Candelabra%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 31,
+  "text": "A heavy golden candelabra.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 32,
+  "text": "Music Box%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 33,
+  "text": "The gaudily-ornamented music box plays \"Fur Elise\".",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 34,
+  "text": "Silver Candlestick%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 35,
+  "text": "A finely-made silver candlestick",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 36,
+  "text": "String%c of Pearls",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 37,
+  "text": "A string of pearls",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 38,
+  "text": "Gold Ring%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 39,
+  "text": "A fine golden ring.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 40,
+  "text": "Spirea Seed%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 41,
+  "text": "Seed of the Spore-Spitting Spirea.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 42,
+  "text": "Small Rock%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 43,
+  "text": "Small rocks, suitable for throwing.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 44,
+  "text": "Beautiful Flower%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 45,
+  "text": "A flask of beautiful flowers.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 46,
+  "text": "Lock Pick%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 47,
+  "text": "An Acme Lock Pick.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 48,
+  "text": "Thief's Tool Kit%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 49,
+  "text": "Tool kit with several types of lockpicks.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 50,
+  "text": "Thief's Guild License%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 51,
+  "text": "Your Thieves' Guild License.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 52,
+  "text": "Empty Flask%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 53,
+  "text": "An empty flask with a cork stopper.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 54,
+  "text": "Handful%c of Green Fur",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 55,
+  "text": "Soft green Meep fur.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 56,
+  "text": "Flask%c of Fairy Dust",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 57,
+  "text": "A flask of genuine Fairy Dust.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 58,
+  "text": "Flask%c of Water",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 59,
+  "text": "Crystal clear water in a glass flask.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 60,
+  "text": "Mushroom%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 61,
+  "text": "Magic mushrooms.  Or maybe toadstools.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 62,
+  "text": "Cheetaur Claw%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 63,
+  "text": "Claws from a Cheetah-Centaur.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 64,
+  "text": "Troll Beard%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 65,
+  "text": "Troll beard with hairs as tough as wire.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 66,
+  "text": "Chainmail Armor%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 67,
+  "text": "Chainmail Armor (*very* heavy!)",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 68,
+  "text": "Potion%c of Healing",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 69,
+  "text": "A potion to restore Health Points.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 70,
+  "text": "Potion%c of Magic Power",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 71,
+  "text": "A potion to restore Magic Points.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 72,
+  "text": "Vigor Potion%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 73,
+  "text": "A potion to restore Stamina Points.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 76,
+  "text": "Dispel Potion%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 77,
+  "text": "A potion for dispelling enchantments.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 78,
+  "text": "Flask%c of Undead Unguent",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 79,
+  "text": "An oil to protect you from the Living Dead.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 80,
+  "text": "Hand Mirror%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 81,
+  "text": "A mirror with a face (not yours) on it.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 82,
+  "text": "Magic Acorn%c",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%c)"
+ },
+ {
+  "res": "text",
+  "num": 3,
+  "idx": 83,
+  "text": "Acorn from the Dryad's tree.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 0,
+  "text": "You're kidding, right?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 1,
+  "text": "You don't have a knife.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 2,
+  "text": "There are none here to search.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 3,
+  "text": "The Ogre's body must have been carried away during the night by some marauding beasties.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 4,
+  "text": "However, there is a dead Ogre here.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 5,
+  "text": "However, there is a very large Ogre here.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 6,
+  "text": "There is a cave entrance large enough to admit a man.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 7,
+  "text": "There is a big, ugly, dead Ogre here.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 8,
+  "text": "This Ogre is in a bad mood.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 9,
+  "text": "And big. Very BIG.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 10,
+  "text": "The dead Ogre's chest lies open and empty.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 11,
+  "text": "The dead Ogre's chest lies open, its contents glittering brightly.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 12,
+  "text": "The Ogre is carrying a chest in his massive arms.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 13,
+  "text": "The chest has a heavy lid with a strong lock.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 14,
+  "text": "There is nobody here.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 15,
+  "text": "This Ogre will never eat again.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 16,
+  "text": "This Ogre looks like it would rather eat you.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 17,
+  "text": "There are no locks here.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 18,
+  "text": "The chest is already open.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 19,
+  "text": "It's locked -- you'll have to use another skill to open this.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 20,
+  "text": "You don't have the right tools -- you'll have to find another way to open it.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 21,
+  "text": "The lock is beyond your current skill.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 22,
+  "text": "There's nothing like that here.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 23,
+  "text": "It's already unlocked.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 24,
+  "text": "A magical aura emanates from the cave's entrance.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 25,
+  "text": "You've wasted a spell.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 26,
+  "text": "Ok, he'll be a dazzled cadaver.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 27,
+  "text": "How much more calm can he get?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 28,
+  "text": "You're wasting a spell.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 29,
+  "text": "There's nothing here to open.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 30,
+  "text": "The Ogre's chest is already unlocked.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 31,
+  "text": "Your spell unlocks the Ogre's chest.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 32,
+  "text": "Your spell is too weak to open the Ogre's chest.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 33,
+  "text": "The chest is held shut by the Ogre's massive arms.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 36,
+  "text": "You want to fetch THAT?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 37,
+  "text": "The dead Ogre's huge club is much too heavy for you to lift.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 39,
+  "text": "You need to get closer to the dead Ogre.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 41,
+  "text": "A search of the dead Ogre's body produces no treasure.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 42,
+  "text": "However, the treasure chest he was carrying lies beside his body.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 43,
+  "text": "The lock on the Ogre's chest clicks open.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 44,
+  "text": "The dead Ogre's chest contains 1 gold and 43 silver, which you take and put away.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 45,
+  "text": "You force the Ogre's chest open.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 46,
+  "text": "The chest is locked.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 47,
+  "text": "The dead Ogre's chest is empty.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 13,
+  "idx": 48,
+  "text": "The Ogre appears to have recovered from your spell.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 0,
+  "text": "They're like stalagmites, but they go the other way.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 1,
+  "text": "They're like stalactites, but they go the other way.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 2,
+  "text": "The cavern contains some impressive formations and is rather beautiful, as caves go.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 3,
+  "text": "The stalactites, stalagmites, and cave walls glow from a phosphorescent fungus growing there.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 4,
+  "text": "The stalactites grow slowly.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 5,
+  "text": "...or are they stalagmites?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 6,
+  "text": "The stalagmites grow slowly.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 7,
+  "text": "...or are they stalactites?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 8,
+  "text": "The light from outside illuminates the cave opening.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 9,
+  "text": "Beyond the bear, the cave seems to continue.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 10,
+  "text": "The bear is gone.  All that is left is the body of a dead man.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 11,
+  "text": "The bear is gone.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 12,
+  "text": "He's dead, %s.",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%s)"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 13,
+  "text": "The man is gone.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 14,
+  "text": "The fungus is slimy and stuck tight to the cave walls.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 16,
+  "text": "There is no magic in the cavern.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 17,
+  "text": "The body lying there looks a lot like the picture of the Baronet von Spielburg on the poster at the guild hall.  You have a funny feeling that you may have made a slight tactical error.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 18,
+  "text": "You have a funny feeling that you may have made a slight tactical error.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 19,
+  "text": "\"You have the honor of meeting the Baronet Barnard von Spielburg.  We are pleased that you broke our enchantment.  Perhaps our father the Baron will reward you should you ever visit our castle.\"",
+  "speaker": "baronet"
+ },
+ {
+  "res": "text",
+  "num": 171,
+  "idx": 20,
+  "text": "The arrogance of the Baronet astonishes you.  Perchance the kobold Magic User had a reason for changing him into a bear.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 0,
+  "text": "Wooden tables, benches, and chairs fill the space of this brigand meeting area.  A chandelier lights the room and an unlit candelabra stands in the corner.  A rope hangs from the chandelier.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 1,
+  "text": "There is a chandelier with a rope attached.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 2,
+  "text": "The floor is strewn with flotsam and jetsam.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 3,
+  "text": "You see a door .",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 4,
+  "text": "The door you came through is the only object you see.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 5,
+  "text": "Most of the tables are grimy with dried beer and such.  The head table, though, is clean.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 6,
+  "text": "The chandelier is firmly attached to the rope in order to lower it to light the candles.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 7,
+  "text": "The massive candelabra certainly seems to get in the way.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 8,
+  "text": "It says, \"Brigands over all\" (only in German).",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 9,
+  "text": "They remind you of a bunch of Knochelkopfs.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 10,
+  "text": "The rope is heavy and very sturdy.  It is secured to the chandelier.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 11,
+  "text": "You don't dare; the brigands are coming.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 13,
+  "text": "The door is barred on the other side.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 14,
+  "text": "You aren't near a door.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 16,
+  "text": "The door is locked from the other side.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 18,
+  "text": "The door is closed, but has no lock.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 20,
+  "text": "The door is already blocked.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 21,
+  "text": "Get closer to the chair.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 22,
+  "text": "The door is closed but has no lock.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 23,
+  "text": "The candelabra won't budge.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 25,
+  "text": "It's much too heavy to carry.  You can barely move it.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 160,
+  "idx": 26,
+  "text": "Just keep a cool head and be logical.  You don't need to run or sneak.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 0,
+  "text": "%s, you're in big trouble!",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%s)"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 1,
+  "text": "The cliffs are rocky and riddled with niches that could conceal things.  Brigand archers for instance.  There is a pile of logs off to the north.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 3,
+  "text": "The rock walls look steep.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 4,
+  "text": "It is difficult to see them because of the cliff walls, but you think you can make out something or things behind the logs.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 5,
+  "text": "From what you can see, you realize that you are in a very dangerous situation.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 6,
+  "text": "You see archers perched on the cliffs.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 7,
+  "text": "You'd better keep your head up.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 8,
+  "text": "You see sheer cliff walls.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 9,
+  "text": "You see a suspicious pile of logs blocking the passage in this canyon.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 10,
+  "text": "You see where the canyon turns north.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 11,
+  "text": "The only way to climb is over the logs and you're not in a good place for that.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 12,
+  "text": "Looks like the archers are running short on arrows.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 13,
+  "text": "A brigand archer!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 14,
+  "text": "One bad dude!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 15,
+  "text": "A brigand ground fighter!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 16,
+  "text": "You have a splintering headache that's doing you in.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 17,
+  "text": "This was not the ending you had in mind when you read the manual on \"How to be a Hero\".  Either you just aren't ready to take on this situation, or there is a better way to accomplish your mission.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 18,
+  "text": "You have a bad feeling about this place.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 91,
+  "idx": 19,
+  "text": "You have an even worse feeling about this place.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 318,
+  "idx": 0,
+  "text": "Reward for return of lost ring.\nInquire at the Healer's.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 318,
+  "idx": 1,
+  "text": "This poster is rather dusty and faded.\nThe picture is of a small child with braids.\n\n\"Reward of 50 gold coins for the safe return of\nElsa von Spielburg.\nInquire at Spielburg Castle gates.\"",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 318,
+  "idx": 2,
+  "text": "Reward of 30 gold coins for the\nCapture or Death\nof the Brigand Warlock.\nDescription:  short, ugly, and\nwears brightly colored robes.\nHas habit of laughing continually.\n\nInquire at Spielburg Castle gates.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 318,
+  "idx": 3,
+  "text": "Wanted:  Brigand Leader.\nDescription:  Unknown appearance, wears a cloak.\nMust provide proof of leader's identity.\n\nReward of 60 gold coins and title of Hero of the Realm.\nInquire at Spielburg Castle gates.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 318,
+  "idx": 4,
+  "text": "Notice:  Spell components needed.\nCash or trade for potions.\nInquire at the Healer's.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 318,
+  "idx": 5,
+  "text": "This poster seems to have been here a while.\nIt has a picture of a handsome, but\narrogant young man.\n\n\"Reward of 50 gold coins for information\nleading to the return of\nBaronet Barnard von Spielburg.\nInquire at Spielburg Castle gates.\"",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 89,
+  "idx": 2,
+  "text": "As your eyes adjust to the darkness, you see by the light of the fungus that this passageway twists its way through the mountain.  It is cold in here, and you can smell stagnant water and faint hints of decay.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 89,
+  "idx": 3,
+  "text": "The water lies in stagnant pools.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 89,
+  "idx": 4,
+  "text": "A large Troll looms before you, a snarl on his lips.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 89,
+  "idx": 5,
+  "text": "The large Troll lies dying upon the slimy floor of the cave.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 89,
+  "idx": 6,
+  "text": "A large, dead Troll lies in a pool of blue blood.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 89,
+  "idx": 12,
+  "text": "There's no need for the password now.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 89,
+  "idx": 20,
+  "text": "The large Troll looks as though he'd rather eat YOU!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 89,
+  "idx": 24,
+  "text": "There is nothing here to use it on.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 89,
+  "idx": 29,
+  "text": "Before you can react, the Troll is upon you, and the encounter begins.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 89,
+  "idx": 30,
+  "text": "You find nothing on the Troll.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 89,
+  "idx": 32,
+  "text": "You find no more beard hair on the dead Troll.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 89,
+  "idx": 33,
+  "text": "You cut off the Troll's beard and put it away.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 5,
+  "idx": 0,
+  "text": "You drink a flask of water.  It tastes great.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 5,
+  "idx": 1,
+  "text": "(Less filling, too!)",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 5,
+  "idx": 2,
+  "text": "Perhaps you could tell me which potion you want to drink.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 5,
+  "idx": 3,
+  "text": "You have no potions.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 5,
+  "idx": 4,
+  "text": "You don't see any here.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 5,
+  "idx": 5,
+  "text": "That isn't drinkable.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 5,
+  "idx": 6,
+  "text": "It's not clear how you want to use that.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 5,
+  "idx": 7,
+  "text": "You don't have any of those.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 5,
+  "idx": 8,
+  "text": "The drink soothes as it goes down.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 5,
+  "idx": 9,
+  "text": "The drink burns as it goes down.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 5,
+  "idx": 10,
+  "text": "The drink is invigorating.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 5,
+  "idx": 11,
+  "text": "You don't feel anything.  Perhaps this was not the correct way to use this potion.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 5,
+  "idx": 12,
+  "text": "You feel a tingling sensation as you rub the unguent all over your body.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 5,
+  "idx": 13,
+  "text": "You can't.  You don't have any.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 0,
+  "text": "Turn on",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 1,
+  "text": "Turn off",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 5,
+  "text": "About Glory I `^g:Help`#1",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 6,
+  "text": " File ",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 7,
+  "text": "Save Game`#5:Restore Game`#7:--!:Restart Game`#9:Quit`^q",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 8,
+  "text": " Game ",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 9,
+  "text": "Faster Animation`+:Normal Animation`=:Slower Animation`-:--!:Sound Volume...`^v:Turn Off Sound`#2=1",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 10,
+  "text": " Action ",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 11,
+  "text": "Cast Spell`^c:Fight`^f:Escape`^e:--!:Pause Game`^p:Repeat`#3",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 12,
+  "text": " Information ",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 13,
+  "text": "Inventory`^I:Char Sheet`^S:--!:Time/Day`^T:Ask about`^a:Look at`^l",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 14,
+  "text": "  Quest for Glory I Credits  ",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 15,
+  "text": "And last, but not least...",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 18,
+  "text": "Volume (1 - 16)?",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 19,
+  "text": "cast ",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 20,
+  "text": "fight ",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 21,
+  "text": "escape ",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 22,
+  "text": "Game Paused",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 23,
+  "text": "Let's be a hero",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 24,
+  "text": "ask about ",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "script",
+  "num": 997,
+  "idx": 25,
+  "text": "look at ",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI menu/credits fragment (script 997)"
+ },
+ {
+  "res": "text",
+  "num": 223,
+  "idx": 0,
+  "text": "\"Enough!\" cries the Weapon Master.",
+  "speaker": "weapon-master",
+  "say": "Enough!"
+ },
+ {
+  "res": "text",
+  "num": 223,
+  "idx": 1,
+  "text": "\"I can see now that my career must end.  Anytime that I, the Weapon Master, can be beaten by a mindless, nasty little twerp such as you, it is time to take an interminable vacation.\"",
+  "speaker": "weapon-master"
+ },
+ {
+  "res": "text",
+  "num": 223,
+  "idx": 2,
+  "text": "\"By your leave, I hope your sword rusts and your cape fragments in the most awful manner!\"",
+  "speaker": "weapon-master"
+ },
+ {
+  "res": "text",
+  "num": 223,
+  "idx": 3,
+  "text": "The lesson wears you down, and you become exhausted.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 223,
+  "idx": 4,
+  "text": "You are forced to admit that the Weapon Master has gotten the better of you.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 225,
+  "idx": 0,
+  "text": "You're mad as heck, and you're not going to take it anymore.  As a matter of fact, you CAN'T take it anymore.  Restore your strength and health and try again.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 225,
+  "idx": 1,
+  "text": "You're mad as heck, and you just won't take it anymore.  As a matter of fact, you CAN'T take it anymore.  Start over, and remember to keep up your strength and health.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 801,
+  "idx": 0,
+  "text": "Your spells seem to have no effect here.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 801,
+  "idx": 1,
+  "text": "You really can't sleep here.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 801,
+  "idx": 2,
+  "text": "That would be a very bad idea.  Someone would hear you playing the Sheriff's music box, and you would probably be arrested.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 801,
+  "idx": 3,
+  "text": "Despite your intentions, you feel a calmness and a sense of peace descend upon you as you even consider thoughts of violence.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 271,
+  "idx": 0,
+  "text": "The brigands were waiting for you to come back.  They expected you to make another try for some of their treasure.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 271,
+  "idx": 1,
+  "text": "\"Grumble Grumble Grumble.  Stupid guard duty, third time this week.  Why always me?  Grumble Grumble Grumble.\"",
+  "speaker": "brigand"
+ },
+ {
+  "res": "text",
+  "num": 81,
+  "idx": 0,
+  "text": "There is a roaring sound off to the east.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 81,
+  "idx": 1,
+  "text": "The hollow log looks somberly back with it's single giant eye and you know at once that nothing is to be gained by investigating this gaunt relic of a more vertical past.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 2,
+  "idx": 1,
+  "text": "Oh, by the way . . .  You will need the information contained in the printed documentation to successfully complete this game.\n\nIn other words, it's not just the law . . .\nIt's a good idea.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 226,
+  "idx": 0,
+  "text": "NOT NOW!!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 226,
+  "idx": 1,
+  "text": "You're mad as heck, and you just won't take it anymore.  As a matter of fact, you CAN'T take it anymore.  Keep up your strength and health and try again.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 0,
+  "idx": 11,
+  "text": "1.200    ",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "version number string, not displayed prose"
+ },
+ {
+  "res": "script",
+  "num": 0,
+  "idx": 12,
+  "text": "Curses!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 0,
+  "idx": 14,
+  "text": "Bitten by a program bug",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 0,
+  "idx": 15,
+  "text": "The surgeon general warns . . . ",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 0,
+  "idx": 20,
+  "text": " Restart ",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI button label"
+ },
+ {
+  "res": "script",
+  "num": 0,
+  "idx": 21,
+  "text": " Quit ",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI button label"
+ },
+ {
+  "res": "script",
+  "num": 0,
+  "idx": 23,
+  "text": "Death from Overwork",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 0,
+  "idx": 24,
+  "text": "Giving up, huh?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 0,
+  "idx": 26,
+  "text": "Don't Quit",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI button label"
+ },
+ {
+  "res": "script",
+  "num": 21,
+  "idx": 15,
+  "text": " Now you're really in the soup! ",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 21,
+  "idx": 17,
+  "text": " Shame on you! ",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 21,
+  "idx": 19,
+  "text": " Of all the lazy....! ",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 21,
+  "idx": 21,
+  "text": "Breakfast of Champions?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 21,
+  "idx": 23,
+  "text": "Baba Yaga says you have good taste.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 994,
+  "idx": 10,
+  "text": "Free Heap: %u Bytes\nLargest ptr: %u Bytes\nFreeHunk: %u KBytes\nLargest hunk: %u Bytes",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%u)"
+ },
+ {
+  "res": "script",
+  "num": 994,
+  "idx": 16,
+  "text": "SAVE GAME",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI dialog title (SAVE GAME)"
+ },
+ {
+  "res": "script",
+  "num": 994,
+  "idx": 19,
+  "text": "Change Directory",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI dialog label (Change Directory)"
+ },
+ {
+  "res": "text",
+  "num": 139,
+  "idx": 0,
+  "text": "\"Please move away\nfrom the door.\"",
+  "speaker": "brigand"
+ },
+ {
+  "res": "text",
+  "num": 139,
+  "idx": 1,
+  "text": "\"Oh.  'ello!    Go on in.\"",
+  "speaker": "brigand"
+ },
+ {
+  "res": "text",
+  "num": 139,
+  "idx": 2,
+  "text": "\"Mpfph..  grumble..  nobody 'ere, I guess.\"",
+  "speaker": "brigand"
+ },
+ {
+  "res": "script",
+  "num": 55,
+  "idx": 0,
+  "text": " \nFairy Dust",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI list fragment (ingredient list)"
+ },
+ {
+  "res": "script",
+  "num": 55,
+  "idx": 1,
+  "text": " \nGreen Fur",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI list fragment (ingredient list)"
+ },
+ {
+  "res": "script",
+  "num": 55,
+  "idx": 2,
+  "text": " \nFlowers from Erana's Peace",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI list fragment (ingredient list)"
+ },
+ {
+  "res": "script",
+  "num": 55,
+  "idx": 3,
+  "text": " \nMagic Acorn",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI list fragment (ingredient list)"
+ },
+ {
+  "res": "script",
+  "num": 55,
+  "idx": 4,
+  "text": " \nFlying Water",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI list fragment (ingredient list)"
+ },
+ {
+  "res": "text",
+  "num": 295,
+  "idx": 0,
+  "text": "Take care!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 295,
+  "idx": 1,
+  "text": "Say \"Hi!\" to the Dryad for us!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 295,
+  "idx": 2,
+  "text": "Bye bye!  See ya!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 295,
+  "idx": 3,
+  "text": "Kiss a tree for me!",
+  "speaker": "fairy"
+ },
+ {
+  "res": "text",
+  "num": 999,
+  "idx": 0,
+  "text": "%s\n[Collection of size %d]",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%d,%s)"
+ },
+ {
+  "res": "text",
+  "num": 999,
+  "idx": 1,
+  "text": "%s\n[List of size %d]",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%d,%s)"
+ },
+ {
+  "res": "text",
+  "num": 999,
+  "idx": 2,
+  "text": "%s\n[Set of size %d]",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "contains printf-style substitution code (%d,%s)"
+ },
+ {
+  "res": "script",
+  "num": 302,
+  "idx": 1,
+  "text": "Asleep at the Hero's Tale Inn.\nThe sleep heals and refreshes you.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 236,
+  "idx": 0,
+  "text": "It takes a lot of skill and practice to climb this tree.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 73,
+  "idx": 4,
+  "text": "Bruno:",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "speaker-label fragment (\"Bruno:\")"
+ },
+ {
+  "res": "script",
+  "num": 73,
+  "idx": 6,
+  "text": "Brutus:",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "speaker-label fragment (\"Brutus:\")"
+ },
+ {
+  "res": "script",
+  "num": 73,
+  "idx": 15,
+  "text": "Keep your mouth shut.",
+  "speaker": "unsure-brutus"
+ },
+ {
+  "res": "script",
+  "num": 73,
+  "idx": 20,
+  "text": "Daggered to death.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 187,
+  "idx": 0,
+  "text": "The thought sends quills up your spine.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 215,
+  "idx": 1,
+  "text": "Bare Hands vs. Teeth and Claws, etc.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 811,
+  "idx": 0,
+  "text": " Nobody said this job was easy. ",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 103,
+  "idx": 0,
+  "text": "You pick up a few small rocks.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 82,
+  "idx": 21,
+  "text": "...and thin...",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 82,
+  "idx": 24,
+  "text": "You're all wet",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 156,
+  "idx": 0,
+  "text": "Those guys look familiar.",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 157,
+  "idx": 0,
+  "text": "Don't you feel a draft?",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 4,
+  "idx": 1,
+  "text": "Detect Magic",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "spell-name UI list fragment"
+ },
+ {
+  "res": "text",
+  "num": 4,
+  "idx": 6,
+  "text": "Flame Dart",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "spell-name UI list fragment"
+ },
+ {
+  "res": "script",
+  "num": 78,
+  "idx": 5,
+  "text": "Trounced by a bounce!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "script",
+  "num": 213,
+  "idx": 0,
+  "text": "What a monster!",
+  "speaker": "narrator"
+ },
+ {
+  "res": "text",
+  "num": 214,
+  "idx": 1,
+  "text": "Enemy Status",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "UI window label (Enemy Status)"
+ },
+ {
+  "res": "script",
+  "num": 29,
+  "idx": 18,
+  "text": "forty two",
+  "speaker": "narrator",
+  "skip": true,
+  "why": "parser answer vocab word, not displayed prose"
+ }
+]

@@ -1,0 +1,448 @@
+[
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 1,
+  "text": "Otto and the Sheriff have retired for the evening.",
+  "file": "qfg1-100-narrator.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 2,
+  "text": "The Sheriff calls out behind you:  \"Just a friendly suggestion, but whatever you do, don't drink the Dragon's Breath.  Not even Otto can drink Dragon's Breath!\"",
+  "say": "Just a friendly suggestion, but whatever you do, don't drink the Dragon's Breath.  Not even Otto can drink Dragon's Breath!",
+  "file": "qfg1-101-sheriff.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 3,
+  "text": "There's no hint of the Ogre.",
+  "file": "qfg1-102-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 4,
+  "text": "You see no sign of the Sheriff.",
+  "file": "qfg1-103-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 8,
+  "text": "A typical barber's pole.",
+  "file": "qfg1-104-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 13,
+  "text": "It is closed, locked, and barred.",
+  "file": "qfg1-105-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 14,
+  "text": "There's a sign on the door of the barber shop, informing whoever reads it that the barber is out to lunch.  The door is locked.",
+  "file": "qfg1-106-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 15,
+  "text": "The barber must keep odd lunch hours.",
+  "file": "qfg1-107-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 16,
+  "text": "There appears to be a note on the door of the barber shop.",
+  "file": "qfg1-108-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 20,
+  "text": "You'd better not. The Goon would probably try to strangle you with his yo-yo if he thought you were going into the Sheriff's office without permission.",
+  "file": "qfg1-109-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 21,
+  "text": "There's a sign on the door of the barber's shop, informing whoever reads it that the barber is out to lunch. The door is locked.",
+  "file": "qfg1-110-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 25,
+  "text": "The gate is already closed.",
+  "file": "qfg1-111-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 27,
+  "text": "The sturdy town gate is completely locked and barred, as it is every evening.",
+  "file": "qfg1-112-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 28,
+  "text": "Only the Sheriff can unlock the gate.",
+  "file": "qfg1-113-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 30,
+  "text": "The Barber Shop appears to be closed. There's a note hanging from the doorknob.",
+  "file": "qfg1-114-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 31,
+  "text": "The man with the pipe greets you.",
+  "file": "qfg1-115-narrator.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 32,
+  "text": "\"Welcome to our town. You are lucky to have made it down from the mountains before the snow blocked the pass again. It's gotten pretty dangerous outside of town, I understand.\"",
+  "file": "qfg1-116-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 33,
+  "text": "\"Many monsters have been trapped around here with the late snow. Between them and the brigands, we certainly could use a Hero around here.\"",
+  "file": "qfg1-117-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 34,
+  "text": "\"I am Sheriff Schultz Meistersson. This is Otto Von Goon, my assistant. What do you call yourself? \"",
+  "file": "qfg1-118-sheriff.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 37,
+  "text": "There's more than a hint of Ogre about this strange and bulky character. He seems cheerful, though.",
+  "file": "qfg1-119-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 38,
+  "text": "Schultz appears to be an affable old coot, content to smoke his pipe. There's a hardness behind his eyes, however, that gives you reason to believe that he's no pushover.",
+  "file": "qfg1-120-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 39,
+  "text": "It goes up and down...up and down...up and down...up and down.....",
+  "file": "qfg1-121-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 40,
+  "text": "The Sheriff's pipe is a truly impressive hand-carved ivory pipe.",
+  "file": "qfg1-122-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 41,
+  "text": "The Sheriff informs you that he's much too busy for idle chit-chat.",
+  "file": "qfg1-123-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 42,
+  "text": "Otto only expresses himself physically.",
+  "file": "qfg1-124-narrator.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 43,
+  "text": "\"Just walk around and find out for yourself.\"",
+  "file": "qfg1-125-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 44,
+  "text": "\"You'll need to talk to the Baron about that. Or go ask Wolfgang down at the Guild Hall, which is just down the street.\"",
+  "file": "qfg1-126-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 45,
+  "text": "\"So maybe you're going to be a hero? Well, we could surely use one around here, what with all the brigands.\"",
+  "file": "qfg1-127-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 46,
+  "text": "\"There's a whole band of brigands hiding out somewhere in the mountains around us. They robbed a merchant just last week. Got a fair amount of treasure, I hear.\"",
+  "file": "qfg1-128-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 47,
+  "text": "\"I am Sheriff Schultz Meistersson, and this is Otto Von Goon, my assistant.\"",
+  "file": "qfg1-129-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 48,
+  "text": "The Sheriff replies, \"Why, that's me!\"",
+  "say": "Why, that's me!",
+  "file": "qfg1-130-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 49,
+  "text": "\"The one who was robbed? He's staying at the Inn, I believe.\"",
+  "file": "qfg1-131-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 50,
+  "text": "\"Go talk to the Innkeeper. He will help you there.\"",
+  "file": "qfg1-132-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 51,
+  "text": "\"You should know. You came down from there.\"",
+  "file": "qfg1-133-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 52,
+  "text": "\"My friend,\" the Sheriff says, \"this world's filled with dangers. Sometimes I think it might be better to choose your danger, rather than sitting around, waiting for it, as I seem to do.\"",
+  "say": "My friend, this world's filled with dangers. Sometimes I think it might be better to choose your danger, rather than sitting around, waiting for it, as I seem to do.",
+  "file": "qfg1-134-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 53,
+  "text": "\"But enough of this philosophical rambling. I am content enough to be Sheriff of Spielburg.\"",
+  "file": "qfg1-135-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 54,
+  "text": "\"It's simple. When somone breaks the law, and we catch them, we hold them prisoner.\"",
+  "file": "qfg1-136-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 55,
+  "text": "\"Obtaining treasure involves putting yourself in danger. If you're brave, foolish, or lucky, you might get some treasure.\"",
+  "file": "qfg1-137-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 56,
+  "text": "\"The monsters come down from the mountains every winter, but they're usually gone by now. The Baron just doesn't have enough men to handle them.\"",
+  "file": "qfg1-138-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 57,
+  "text": "\"Wolfgang is the one to talk to about monsters. He's had a lot of experience with them.\"",
+  "file": "qfg1-139-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 58,
+  "text": "\"Baron Stefan keeps mostly to himself at his castle north of here. We haven't seen him here in town for years.\"",
+  "file": "qfg1-140-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 59,
+  "text": "\"Wolfgang, down at the Guild hall, is the one to talk to about monsters. He's had a lot of experience with them.\"",
+  "file": "qfg1-141-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 60,
+  "text": "\"Otto is a big help to me,\" the Sheriff tells you. \"He's very smart for a Goon. His prisoners only suffer a few broken bones when he grabs them.\"",
+  "say": "Otto is a big help to me. He's very smart for a Goon. His prisoners only suffer a few broken bones when he grabs them.",
+  "file": "qfg1-142-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 61,
+  "text": "\"It took a bit of doing to teach him to bring prisoners back alive, but he hardly ever forgets, now.\"",
+  "file": "qfg1-143-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 62,
+  "text": "\"The Guild Hall is at the Southwest corner of town. If you're looking for work, that's a good place to go.\"",
+  "file": "qfg1-144-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 63,
+  "text": "\"Just next to the Inn is a small Magic Shop. The owner, Zara, will let you in if you have some abilities in that area. She's a strange one, all right!\"",
+  "file": "qfg1-145-sheriff.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 64,
+  "text": "The Sheriff says, \"You think I'm going to tell you everything I know about everything? Go look around and find things out for yourself.\"",
+  "say": "You think I'm going to tell you everything I know about everything? Go look around and find things out for yourself.",
+  "file": "qfg1-146-sheriff.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "num": 300,
+  "idx": 65,
+  "text": "However, this was not a good place to sleep.  You're stiff and sore all over and your wallet feels very light.",
+  "file": "qfg1-147-narrator.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "sheriff",
+  "voiceId": 36,
+  "num": 300,
+  "idx": 66,
+  "text": "\"As safe as our streets are, you still should not sleep on them.  It is a good way to get robbed.\"",
+  "file": "qfg1-148-sheriff.mp3"
+ }
+]

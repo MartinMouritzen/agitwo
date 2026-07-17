@@ -1,0 +1,1352 @@
+[
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 31,
+  "text": "The Coleus plant has brightly colored leaves.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2614-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 32,
+  "text": "On the desk there is a plant which looks like some kind of violet. In the corner is a taller, leafy house plant.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2615-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 33,
+  "text": "There are no drugs here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2616-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 34,
+  "text": "It's part of the stairs.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2617-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 35,
+  "text": "The knitting bag is decorated on the outside with knitted figures. The Little Old Lady must do knitting when she's not asleep.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2618-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 36,
+  "text": "The little cat is wearing a cheap rhinestone collar.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2619-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 37,
+  "text": "CHIRP! CHIRP!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2620-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 38,
+  "text": "Kitty, you'd better not be bothering the little birdie again!",
+  "speaker": "old-lady",
+  "voiceId": 179,
+  "file": "qfg1-2621-old-lady.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 39,
+  "text": "Who would think a little birdie could be so noisy!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2622-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 40,
+  "text": "You quickly cover the cage and hope the bird shuts up.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2623-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 41,
+  "text": "You find 1 silver in the desk drawer. You find nothing else of any value to you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2624-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 42,
+  "text": "You have a bad feeling about the very deep, low growl emanating from the cat.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2625-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 43,
+  "text": "The cat seems to want something.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2626-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 44,
+  "text": "The cat seems more insistent than before.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2627-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 45,
+  "text": "You pet the nice kitty.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2628-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 46,
+  "text": "The cat really likes being petted.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2629-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 47,
+  "text": "This is a very insistent cat.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2630-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 48,
+  "text": "You feed the nice kitty a crumb.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2631-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 49,
+  "text": "The cat really likes being fed. You give it a leftover morsel.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2632-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 50,
+  "text": "This is a very insistent cat. You give it one of your rations.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2633-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 51,
+  "text": "You have nothing substantial to feed the cat.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2634-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 52,
+  "text": "Purrrrrrrr!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2635-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 53,
+  "text": "The Little Old Lady's cries finally bring the Sheriff and Otto to her rescue.  They find you pinned to the floor, unconscious, dreaming deliriously of death by sandpaper.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2636-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 54,
+  "text": "When the Little Old Lady awakes to see what's going on, you have to concede to her (through lips that are as raw as hamburger) that you've been licked!  She summons the Sheriff and his goon, Otto.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2637-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 55,
+  "text": "SQUEEEEAK!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2638-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 56,
+  "text": "CREEEEAAK!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2639-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 57,
+  "text": "SCRAAAAWK!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2640-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 58,
+  "text": "The owner of the house awakens...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2641-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 59,
+  "text": "Help! Burglars! Sheriff! Help!\nKitty! Kitty!",
+  "speaker": "old-lady",
+  "voiceId": 179,
+  "file": "qfg1-2642-old-lady.mp3"
+ },
+ {
+  "res": "text",
+  "num": 313,
+  "idx": 60,
+  "text": "KITTY!!!",
+  "speaker": "old-lady",
+  "voiceId": 179,
+  "file": "qfg1-2643-old-lady.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 0,
+  "text": "In the desk drawers, you find an assortment of mostly worthless objects, but you find three silvers, which you take.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2644-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 1,
+  "text": "You've looked in there already.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2645-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 2,
+  "text": "The room is dark and still.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2646-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 3,
+  "text": "You see items which may be interesting and probably valuable.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2647-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 4,
+  "text": "The candelabra looks like it is made of gold.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2648-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 5,
+  "text": "The vase on the mantle might be worth taking.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2649-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 37,
+  "text": "You place the vase back on the mantle.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2680-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 38,
+  "text": "You place the vase carefully in your pack beneath your cape.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2681-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 39,
+  "text": "You place the candelabra carefully in your pack beneath your cape.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2682-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 40,
+  "text": "You quickly close the box and toss it into your pack.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2683-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 41,
+  "text": "You quickly toss the box into your pack.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2684-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 42,
+  "text": "Even though it's a 50-year-old Sego palm, it's too big to fit in your pack.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2685-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 43,
+  "text": "Nothing like that is visible to you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2686-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 44,
+  "text": "There might be something like that inside the wall safe.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2687-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 45,
+  "text": "You take the fifty silvers, and put the empty bag back in the safe.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2688-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 46,
+  "text": "The safe is already open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2689-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 47,
+  "text": "The safe is securely locked.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2690-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 49,
+  "text": "What for? It's open!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2691-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 50,
+  "text": "Ah, got it!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2692-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 51,
+  "text": "Cracking safes looked a lot easier in the instruction book.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2693-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 52,
+  "text": "It's not open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2694-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 53,
+  "text": "The little box is safely tucked away in your pack. You can open it up later.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2695-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 54,
+  "text": "Oh, no! You won't do THAT again!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2696-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 55,
+  "text": "The little box is safely tucked away in your pack. It is already closed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2697-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 56,
+  "text": "You quickly shut the lid on the music box!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2698-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 57,
+  "text": "It's already closed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2699-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 58,
+  "text": "There is some fairly loud snoring going on in this room. You hear:\n\"Brckawwwww...zup-zup-zup-zup-zzzzz.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2700-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 59,
+  "text": "Very faintly, you hear snoring:\n\"Prrrrrt...prrrrrt...prrrrrt.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2701-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 60,
+  "text": "Someone (or someTHING) is snoring up a storm. You hear: \"Nkaawww..rspft...honk... buh-buh-buh-buh-buh-buh-phweep.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2702-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 61,
+  "text": "Faintly, you hear: \"Nkaawww...prrrrrt... honk...zup-zup-zup-buh-buh-buh-phweep.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2703-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 62,
+  "text": "If you were a person who liked that sort of food, you'd love this smell!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2704-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 63,
+  "text": "It would be more pleasant if it wasn't mixed with the odor of sauerkraut.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2705-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 64,
+  "text": "What a mixture!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2706-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 65,
+  "text": "It's a potted plant.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2707-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 66,
+  "text": "An uncomfortable looking chair.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2708-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 67,
+  "text": "An overstuffed couch.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2709-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 68,
+  "text": "A solid looking table.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2710-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 321,
+  "idx": 69,
+  "text": "An overstuffed chair.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2711-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 0,
+  "text": "You finally made it through Yorick's room.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2712-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 2,
+  "text": "The Leader's room is filled with treasures.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2713-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 3,
+  "text": "Used to belong to Bogey.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2714-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 4,
+  "text": "You see loot from brigand raids stacked against the walls.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2715-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 5,
+  "text": "You see a desk.  On the desk is a book and a mirror.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2716-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 6,
+  "text": "What a funny guy!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2717-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 8,
+  "text": "This looks like a Persian carpet.  It has a license plate that says \" Abdulla Doo 222\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2718-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 9,
+  "text": "The brigand leader wears a sword, and it looks well used.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2719-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 10,
+  "text": "Elsa looks much better in a dress.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2720-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 11,
+  "text": "It depends on your taste, though, I suppose.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2721-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 12,
+  "text": "Everybody else is gone.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2722-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 13,
+  "text": "You throw the Dispel Potion on the brigand leader.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2723-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 14,
+  "text": "Good idea, but you don't have that potion.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2724-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 15,
+  "text": "You sense a strong magical aura on the brigand leader.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2725-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 16,
+  "text": "The hand mirror on the desk radiates a powerful magical aura.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2726-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 17,
+  "text": "You sense magical auras from the large carpet and several other objects in the room, but you don't have time to investigate.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2727-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 18,
+  "text": "That spell is useless here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2728-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 19,
+  "text": "There are no rocks here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2729-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 20,
+  "text": "That would be foolhardy.  You would let the brigands in.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2730-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 21,
+  "text": "You pick up the mirror and store it away.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2731-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 22,
+  "text": "You already have the mirror.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2732-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 23,
+  "text": "You're not near the mirror.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2733-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 24,
+  "text": "You place the two Healing Potions into your pack.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2734-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 25,
+  "text": "There are no more potions here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2735-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 26,
+  "text": "You find nothing more.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2736-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 27,
+  "text": "You see a mirror.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2737-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 28,
+  "text": "You find two Healing Potions.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2738-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 29,
+  "text": "A quick but thorough search of the desk discloses two Healing Potions and a mirror.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2739-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 30,
+  "text": "You don't have time to take anything else.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2740-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 31,
+  "text": "Take only those things that will serve your quest.  Your time is limited.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2741-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 32,
+  "text": "\"You can't imagine how good it feels to know who I am again.  After all these years, to remember my name is Elsa von Spielburg!\"",
+  "speaker": "elsa",
+  "voiceId": 29,
+  "file": "qfg1-2742-elsa.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 33,
+  "text": "\"I used to wish I was not a brigand's child but actually an enchanted princess.  Now I know that I really was enchanted, and I don't have to be a brigand any more!\"",
+  "speaker": "elsa",
+  "voiceId": 29,
+  "file": "qfg1-2743-elsa.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 34,
+  "text": "\"Thank you so much for freeing me.\"",
+  "speaker": "elsa",
+  "voiceId": 29,
+  "file": "qfg1-2744-elsa.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 35,
+  "text": "\"I've got to hurry home to father and get his guards to capture the rest of the brigands before they manage to escape with the treasure.  It must be returned to the rightful owners.\"",
+  "speaker": "elsa",
+  "voiceId": 29,
+  "file": "qfg1-2745-elsa.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 36,
+  "text": "\"Yorick!  Yorick!  I'm me again!\"",
+  "speaker": "elsa",
+  "voiceId": 29,
+  "file": "qfg1-2746-elsa.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 37,
+  "text": "\"Sorry I took so long.  I got lost.\"",
+  "speaker": "yorick",
+  "voiceId": 518,
+  "file": "qfg1-2747-yorick.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 38,
+  "text": "\"Will your Dad be glad that your spell's been repelled!  We need to go before the brigands know or they'll spoil our show.\"",
+  "speaker": "yorick",
+  "voiceId": 518,
+  "file": "qfg1-2748-yorick.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 39,
+  "text": "\"C'mon!  We'd better make our getaway before they get in our way.\"",
+  "speaker": "yorick",
+  "voiceId": 518,
+  "file": "qfg1-2749-yorick.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 40,
+  "text": "\"Yorick and I can return to the castle with the amulet I wear, but I'm afraid you'll have to get there on your own.\"",
+  "speaker": "elsa",
+  "voiceId": 29,
+  "file": "qfg1-2750-elsa.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 41,
+  "text": "\"There are two Healing Potions in my desk that you may take with you.\"",
+  "speaker": "elsa",
+  "voiceId": 29,
+  "file": "qfg1-2751-elsa.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 42,
+  "text": "\"You should use this secret passage and escape while they are arguing over the treasure.  If they find you in here, you'll be overwhelmed and killed.\"",
+  "speaker": "elsa",
+  "voiceId": 29,
+  "file": "qfg1-2752-elsa.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 43,
+  "text": "\"Thank you again, and good luck!  I'll make sure you are richly rewarded for your bravery.\"",
+  "speaker": "elsa",
+  "voiceId": 29,
+  "file": "qfg1-2753-elsa.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 44,
+  "text": "\"If you decide to counter the curser, then mind the mirror over mere minds.  So tip the canoe and toodleloo!  Elsa, if you do the honors, I'll honor your due.\"",
+  "speaker": "yorick",
+  "voiceId": 518,
+  "file": "qfg1-2754-yorick.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 45,
+  "text": "The brigands are trying to break into the room.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2755-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 46,
+  "text": "Thinking about all that treasure cost you time and more.  Some folks just don't know when to leave.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2756-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 47,
+  "text": "\"Elsa, my dear.  There's a problem I fear.  To our dismay, that spell's here to stay, for alas you did slay your hero today.\"",
+  "speaker": "yorick",
+  "voiceId": 518,
+  "file": "qfg1-2757-yorick.mp3"
+ },
+ {
+  "res": "text",
+  "num": 97,
+  "idx": 48,
+  "text": "The brigand leader is deadly with a sword.  The magic spell that possesses her makes her an invincible warrior.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2758-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 0,
+  "text": "To the Minotaur, you look like a nice meal.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2759-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 2,
+  "text": "Sheer cliff walls form a narrow box canyon where the brigands have built a fortress.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2760-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 3,
+  "text": "The rocks look to be good hiding places.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2761-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 5,
+  "text": "The gate appears to be fastened somehow on the inside.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2762-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 6,
+  "text": "The cliff seems very hard to climb.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2763-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 7,
+  "text": "You can see marks in the ground, leading towards the bush.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2764-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 8,
+  "text": "You see a bush that conceals the secret entrance.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2765-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 9,
+  "text": "The bush sits next to the cliff.  There are marks on the ground near the bush.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2766-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 10,
+  "text": "You see that where the steep cliff walls meet the fortress, there is a pile of gravel.  Once away from the secret passage exit, the fortress is entirely obscured by rocks and brush.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2767-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 11,
+  "text": "The cliff to the west looks too sheer to climb.  There is a bush growing close to the cliff.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2768-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 12,
+  "text": "You see what must be the log walls and gate of the brigand fortress.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2769-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 13,
+  "text": "You see where the sheer cliff walls meet the fortress wall with a pile of rocks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2770-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 14,
+  "text": "The walls of the canyon turn to the west.  You can see a large Minotaur patrolling the canyon.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2771-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 15,
+  "text": "A warning bell to alert all the brigands in the fortress.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2772-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 16,
+  "text": "The sign reads \"Ring bell\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2773-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 17,
+  "text": "Step over and get a close look.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2774-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 18,
+  "text": "There is no magical aura present.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2775-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 20,
+  "text": "You'll have to give yourself room.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2776-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 21,
+  "text": "The logs of the wall are too slick, and there is no place to get a good hold on them.  You'll have to try somewhere else.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2777-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 22,
+  "text": "There is no good climbing place on the rock cliff to the east.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2778-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 23,
+  "text": "You don't have enough climbing skill to scale the wall.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2779-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 24,
+  "text": "You can't climb the rock.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2780-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 25,
+  "text": "You're not in a good spot for climbing.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2781-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 28,
+  "text": "The gate appears to be fastened somehow on the inside.  You'll have to force the gate open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2782-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 29,
+  "text": "The gate is closed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2783-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 31,
+  "text": "Why knock?  Use the bell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2784-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 32,
+  "text": "Unless you're Rubber Man you'll have to get closer.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2785-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 33,
+  "text": "Bell to alert gate guard.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2786-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 34,
+  "text": "Sign reading \"Ring Bell\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2787-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 35,
+  "text": "Gate to fortress.  A very strong gate.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2788-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 36,
+  "text": "Bush, a good place to hide.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2789-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 37,
+  "text": "A good place to hide.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2790-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 38,
+  "text": "Brigands' fortress.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2791-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 39,
+  "text": "The Minotaur is out for the count.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2792-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 40,
+  "text": "The Minotaur seems to have very sensitive hearing.  He looks around every time the bush rustles.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2793-narrator.mp3"
+ }
+]

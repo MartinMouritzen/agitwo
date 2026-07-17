@@ -1,0 +1,1362 @@
+[
+ {
+  "res": "text",
+  "num": 141,
+  "idx": 60,
+  "text": "\"A servant is awaiting you outside to show you to your quarters.  We will see you at supper later.\"",
+  "speaker": "baron",
+  "voiceId": 447,
+  "file": "qfg1-4144-baron.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 0,
+  "text": "There's nothing there.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4145-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 1,
+  "text": "You pick up the note.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4146-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 2,
+  "text": "Where?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4147-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 3,
+  "text": "You don't have anything like that to look at.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4148-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 4,
+  "text": "The bartender frowns on customers who spit in his establishment.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4149-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 6,
+  "text": "You're not close enough to a barstool.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4150-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 7,
+  "text": "Looks like the only place to sit is at the bar.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4151-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 8,
+  "text": "Separate yourself from that stool first.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4152-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 9,
+  "text": "Wait for the drink you just ordered.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4153-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 10,
+  "text": "Go ahead and drink up, first.  You paid for it!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4154-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 11,
+  "text": "But you're not sitting down!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4155-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 12,
+  "text": "\"You'd better talk to Crusher.\"",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4156-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 13,
+  "text": "You'll have to get the bartender's attention first.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4157-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 14,
+  "text": "The bartender bellows, \"Sit down first!\"",
+  "say": "Sit down first!",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4158-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 15,
+  "text": "\"OK. What'll you have?\"",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4159-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 16,
+  "text": "Drink up before you order anything else!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4160-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 17,
+  "text": "The bartender says, \"One well-aged house brew, coming up!\"",
+  "say": "One well-aged house brew, coming up!",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4161-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 18,
+  "text": "You'll need the bartender's help on that one.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4162-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 19,
+  "text": "The bartender says, \"One mug of my fine Troll's Sweat, coming up!\"",
+  "say": "One mug of my fine Troll's Sweat, coming up!",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4163-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 20,
+  "text": "Sounds potent, but you'd better go see the bartender if you want some.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4164-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 21,
+  "text": "The bartender is emphatic as he tells you, \"If you want a mug of Dragon's Breath, house rules say it'll have to be cash up front!\"",
+  "say": "If you want a mug of Dragon's Breath, house rules say it'll have to be cash up front!",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4165-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 22,
+  "text": "You cough up the cash.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4166-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 23,
+  "text": "\"Thanks, buddy!\"",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4167-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 24,
+  "text": "\"Hey, Crusher! Our friend here wants Dragon's Breath!\"",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4168-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 25,
+  "text": "You tell the bartender that you don't have enough working capital at this point in time.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4169-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 26,
+  "text": "He says, \"Too bad, buddy. You're missing a real treat, for sure!\"",
+  "say": "Too bad, buddy. You're missing a real treat, for sure!",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4170-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 27,
+  "text": "Well then!  Belly up to the bar and get some Dragon's Breath!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4171-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 29,
+  "text": "The bartender can't reach your money. You're not close enough.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4172-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 30,
+  "text": "You'll need to buy one.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4173-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 31,
+  "text": "That ain't beer!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4174-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 32,
+  "text": "That isn't Troll's Sweat!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4175-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 33,
+  "text": "That isn't Dragon's Breath!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4176-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 34,
+  "text": "You smooth out the piece of paper and read:",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4177-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 35,
+  "text": "\"B. - He's starting to act suspicious.  Better save this drop for emergencies. - B.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4178-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 36,
+  "text": "\"B. - Meet me at the old archery range south of town at noon -- urgent! - B.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4179-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 37,
+  "text": "\"B. - That new adventurer is getting too nosy.  Deal with him. - B.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4180-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 38,
+  "text": "Oh, isn't that nice!  Sounds like you're going to be invited to a card game.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4181-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 39,
+  "text": "The bartender looks tough from his crewcut to his boots. The only thing soft about him is his tattoo, which says \"MAMA\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4182-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 40,
+  "text": "\"Crusher, escort this squealer off the premises!\"",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4183-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 41,
+  "text": "\"Yes...what?\"",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4184-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 43,
+  "text": "\"No...what?\"",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4185-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 44,
+  "text": "The bartender shows little interest in small talk.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4186-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 45,
+  "text": "The drunken barber at the end of the bar isn't in any shape to talk, at least not coherently.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4187-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 46,
+  "text": "\"Hey! This is an honest establishment!  You want me to ask Crusher?\"",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4188-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 47,
+  "text": "\"We've got some of the finest ale in the valley, only 1 silver.\"",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4189-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 48,
+  "text": "\"Our world-famous Troll's Sweat is always fresh and it's only 5 silvers.\"",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4190-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 49,
+  "text": "\"The Dragon's Breath is our specialty, and it's Crusher's personal favorite.  It's very hard to come by, so it'll cost you 25 silver, cash up front.\"",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4191-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 50,
+  "text": "Look buddy...don't get personal!",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4192-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 51,
+  "text": "\"He don't like his personal affairs discussed. My advice is not to do anything that'll get him upset.\"",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4193-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 52,
+  "text": "\"This is a bar. I serve drinks. You want a drink, order one. You want answers to stupid questions, GET OUT!\"",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4194-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 53,
+  "text": "The baker says, \"There's a lake to the south which has a huge fish, but its pretty dangerous.\"",
+  "say": "There's a lake to the south which has a huge fish, but it's pretty dangerous.",
+  "speaker": "townsperson",
+  "voiceId": 294,
+  "file": "qfg1-4195-townsperson.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 54,
+  "text": "The butcher says, \"There's a river to the south which has some good-sized trout.",
+  "say": "There's a river to the south which has some good-sized trout.",
+  "speaker": "townsperson",
+  "voiceId": 294,
+  "file": "qfg1-4196-townsperson.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 55,
+  "text": "They don't seem to be paying any attention to you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4197-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 56,
+  "text": "These guys are so intent on their game that they don't want to open their mouths on any other subject.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4198-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 57,
+  "text": "It looks like these guys aren't playing with a full deck.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4199-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 59,
+  "text": "\"Go FISH!\"",
+  "speaker": "townsperson",
+  "voiceId": 294,
+  "file": "qfg1-4200-townsperson.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 60,
+  "text": "The bartender calls to Crusher:  \"Hey, he's not one of us!  Take care of him!\"",
+  "say": "Hey, he's not one of us! Take care of him!",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4201-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 61,
+  "text": "\"Oh yeah?  What's the password?\"",
+  "speaker": "crusher",
+  "voiceId": 685,
+  "file": "qfg1-4202-crusher.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 62,
+  "text": "Uh oh!  It looks like you got Crusher upset!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4203-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 63,
+  "text": "\"Oh yeah?  So what is it?\"",
+  "speaker": "crusher",
+  "voiceId": 685,
+  "file": "qfg1-4204-crusher.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 64,
+  "text": "Good idea, but you're in the wrong movie.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4205-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 65,
+  "text": "The goon seems to be ignoring you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4206-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 66,
+  "text": "As you ask him questions, the goon's eyes darken.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4207-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 67,
+  "text": "Uh oh! It looks like you got Crusher upset!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4208-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 68,
+  "text": "You thank the bartender and pay him for your beverage.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4209-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 69,
+  "text": "You inform the bartender that you seem to be temporarily strapped for funds.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4210-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 70,
+  "text": "He says, \"Hey Crusher! Get this deadbeat bum outta here!\"",
+  "say": "Hey Crusher! Get this deadbeat bum outta here!",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4211-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 71,
+  "text": "\"Whaddaya want?\"",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4212-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 72,
+  "text": "\"There ya go!\"",
+  "speaker": "bartender",
+  "voiceId": 538,
+  "file": "qfg1-4213-bartender.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 73,
+  "text": "You see a crumpled piece of paper under the stool.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4214-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 74,
+  "text": "The man on the west side of the table is wearing a blood-stained apron, like a butcher.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4215-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 75,
+  "text": "The man on the east has on a baker's hat.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4216-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 76,
+  "text": "This goon looks really tough and mean. He's not someone to pick a fight with.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4217-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 77,
+  "text": "Looks like some kind of card game.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4218-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 78,
+  "text": "There appears to be a trapdoor beneath the goon, but he's blocking it very effectively.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4219-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 79,
+  "text": "Someone has carved into the bottom of the table\n\" G. MEISTER slept here\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4220-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 80,
+  "text": "So this is where the barber goes to lunch! The guy's had so much liquid diet, he looks embalmed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4221-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 81,
+  "text": "Yup, You're sitting on a stool.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4222-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 82,
+  "text": "Not a pleasant sight!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4223-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 83,
+  "text": "The world-famous Troll's Sweat is always fresh.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4224-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 84,
+  "text": "Dragon's Breath is the house specialty, and it's Crusher's personal favorite.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4225-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 85,
+  "text": "Some of the finest ale in the valley.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4226-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 331,
+  "idx": 86,
+  "text": "Nothing but a dirty floor.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4227-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 0,
+  "text": "You can't tell what it is from down on the ground.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4228-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 1,
+  "text": "It looks like a golden ring, flashing in the sunlight.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4229-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 2,
+  "text": "The ring appears to be made of fine gold.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4230-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 3,
+  "text": "You retrieve the ring you dropped.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4231-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 4,
+  "text": "You'll think of something.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4232-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 5,
+  "text": "Go check out the nest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4233-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 6,
+  "text": "How can you get something you can't see?.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4234-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 7,
+  "text": "Climb the tree first.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4235-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 8,
+  "text": "There's nothing out on the limb to risk your neck over.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4236-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 9,
+  "text": "The creature looks more like a small flying lizard than a bird.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4237-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 10,
+  "text": "It'll be tough.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4238-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 11,
+  "text": "It is made of twigs, leaves, and herbs, probably stolen from the healer's garden.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4239-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 12,
+  "text": "There is a birdlike creature sitting in the nest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4240-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 13,
+  "text": "The nest sits on the branch.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4241-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 14,
+  "text": "In the nest is an object which appears to be a ring, glinting in the sunlight.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4242-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 15,
+  "text": "It is empty now.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4243-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 16,
+  "text": "The remnants of the nest are scattered on the ground.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4244-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 17,
+  "text": "What's left of the nest is charred beyond recognition.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4245-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 18,
+  "text": "It would be too messy to stow in your pack, and it doesn't appear to be good for anything.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4246-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 19,
+  "text": "Perhaps you can do that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4247-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 20,
+  "text": "It's a mess, and you don't need it, anyway.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4248-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 21,
+  "text": "There's not enough left to bother with.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4249-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 22,
+  "text": "Ooooops!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4250-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 23,
+  "text": "You think about it, but you decide to keep it in your pack.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4251-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 24,
+  "text": "As you try to cast a spell from your high perch on the tree, you lose your concentration, and...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4252-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 25,
+  "text": "You don't have a clear shot.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4253-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 26,
+  "text": "Move to a better position.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4254-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 27,
+  "text": "That spell is no longer useful here (but you did get some practice).",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4255-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 28,
+  "text": "The door seems to be barred on the inside.  Perhaps you should knock.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4256-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 29,
+  "text": "Your lock-picking skill will do you no good here.  The door is barred from the inside.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4257-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 30,
+  "text": "The door appears to be barred on the inside.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4258-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 31,
+  "text": "Your skill in lock picking is insufficient to open a sardine can -- with a key!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4259-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 32,
+  "text": "There is no answer.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4260-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 33,
+  "text": "You hear the voice of the healer saying:  \"The last time you were here, I found I was missing some potions.\"",
+  "say": "The last time you were here, I found I was missing some potions.",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-4261-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 34,
+  "text": "\"I don't like thievery.  Go away!\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-4262-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 35,
+  "text": "You hear the inside bolt slide open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4263-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 36,
+  "text": "\"Come on in.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-4264-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 37,
+  "text": "You don't have a rock to throw.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4265-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 38,
+  "text": "You throw a rock into the air...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4266-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 39,
+  "text": "Wait to see if you hit something.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4267-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 40,
+  "text": "That won't accomplish anything.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4268-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 41,
+  "text": "You don't see any good hand or foot holds on this side of the tree.  Maybe it's better on the other side.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4269-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 42,
+  "text": "You're already up the tree.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4270-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 43,
+  "text": "You're not in a position to climb down.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4271-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 44,
+  "text": "Climb what?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4272-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 45,
+  "text": "You don't want to climb that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4273-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 46,
+  "text": "The healer might be able to use them, but you can't.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4274-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 47,
+  "text": "It's gone.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4275-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 48,
+  "text": "It's been destroyed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4276-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 49,
+  "text": "On either side of the road are a large oak and a hut.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4277-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 50,
+  "text": "The road itself leads north to a castle in the distance and south to the crossroads.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4278-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 51,
+  "text": "The house looks cheery and well-kept.  It has the sign of the Healer above the entrance.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4279-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 52,
+  "text": "The apothecary bottle indicates that the occupant is skilled with potions.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4280-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 53,
+  "text": "The tree is a large oak.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4281-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 54,
+  "text": "There is a nest on a single limb that seems to reach out toward the hut.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4282-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 55,
+  "text": "The oak tree has one dead limb.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4283-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 56,
+  "text": "The hut's roof is made of thatched straw.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4284-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 57,
+  "text": "In front of the hut is a small garden in which grow the kinds of plants and herbs that are used for making potions.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4285-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 58,
+  "text": "You can see nothing in the dark.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4286-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 59,
+  "text": "The curtains obscure your vision.  You can only make out a clutter of bottles, jars, and pots on the sill.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4287-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 60,
+  "text": "There is a forest to the east.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4288-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 61,
+  "text": "There is a plowed field to the west.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4289-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 62,
+  "text": "The road winds northward toward a walled castle.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4290-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 63,
+  "text": "To the south is the crossroads in front of the town gate.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4291-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 64,
+  "text": "You see the glinting object in the remains of the nest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4292-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 54,
+  "idx": 65,
+  "text": "You see nothing in the remains of the nest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4293-narrator.mp3"
+ }
+]

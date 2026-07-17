@@ -1,0 +1,1352 @@
+[
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 9,
+  "text": "Zara has a real flair for the theatric.  Her method of greeting customers at her shop is showy but effective.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2050-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 10,
+  "text": "It's a pity she has no sense of humor.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2051-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 11,
+  "text": "Just because she never laughs at your jokes doesn't mean that she lacks a sense of humor.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2052-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 12,
+  "text": "It just means that she has good taste.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2053-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 13,
+  "text": "Baba Yaga is good at curses and shape-\nchanging spells.  She has a nasty temper, so it's best to stay on her good side.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2054-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 14,
+  "text": "You have to watch her.  She cheats at cards.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2055-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 15,
+  "text": "So do you!",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2056-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 16,
+  "text": "She started it!  I just wanted to give her a taste of her own medicine.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2057-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 17,
+  "text": "It's a shame she still beats you!",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2058-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 18,
+  "text": "The curse Baba Yaga placed upon the Baron von Spielburg was a fine example of creative cursing.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2059-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 19,
+  "text": "\"Upon von Spielburg and all his clan, this Curse I now demand:   What I will shall come full measure, so shall ye lose all that ye treasure.\"",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2060-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 20,
+  "text": "Of course, the problem is that for every curse there is an equal and opposite countercurse.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2061-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 21,
+  "text": "A countercurse is the cure for a curse.  It usually works against the one who cast the curse in the first place.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2062-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 22,
+  "text": "The countercurse for the curse on the Baron goes:",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2063-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 23,
+  "text": "\"Come a hero from the East...\"",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2064-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 24,
+  "text": "\"Free the man from in the beast...\"",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2065-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 25,
+  "text": "\"Bring the child from out the band...\"",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2066-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 26,
+  "text": "\"Drive the Curser from the land.\"",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2067-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 27,
+  "text": "So, to break the curse, a hero must get rid of Baba Yaga, in addition to all the other things.  It does not reflect well on Baba Yaga.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2068-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 28,
+  "text": "Nothing reflects well upon that Ogress.  She has a face that would break all but a Magic Mirror.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2069-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 29,
+  "text": "What am I, chopped liver?  Am I invisible or something that you talk about me behind my front?",
+  "speaker": "magic-mirror",
+  "voiceId": 585,
+  "file": "qfg1-2070-magic-mirror.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 30,
+  "text": "It's hard to take you seriously when you wear that silly hat!",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2071-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 31,
+  "text": "Henry is a hermit who lives by the Flying Falls to the south. Great sense of humor.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2072-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 32,
+  "text": "That means he actually laughs at Erasmus' jokes.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2073-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 33,
+  "text": "I think he borrowed something the last time I saw him, but I can't remember exactly what it was.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2074-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 34,
+  "text": "Oh, well, Henry is a great one to talk to.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2075-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 35,
+  "text": "But 'e 'ardly ever 'appens to 'ave much to say.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2076-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 133,
+  "idx": 36,
+  "text": "You need to complete your quest here before you can become initiated as a Wizard.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2077-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 0,
+  "text": "There are many types of magic mirrors.  One of the more common types is the one that has a strange face popping up every so often.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2078-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 1,
+  "text": "Reminds me of the one in the master bedroom.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2079-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 2,
+  "text": "That's not a magic mirror.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2080-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 3,
+  "text": "No, but it does show a strange face.  Have you looked in it lately?",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2081-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 4,
+  "text": "At any rate, I used to have a nice magic hand mirror, but I misplaced it somewhere.  It could be used to reflect a spell back upon the caster.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2082-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 5,
+  "text": "So, if you happen upon a small golden magic mirror with a dragon on the handle, you'll know it's mine.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2083-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 6,
+  "text": "It was the flagon with the dragon.  The mirror had a leer.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2084-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 7,
+  "text": "Oh.  That's right!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2085-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 8,
+  "text": "Well, if you find a magic mirror with a face on it, you'll know it reflects spells.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2086-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 9,
+  "text": "Basically, anyone who uses magic is a magic user;   anyone who casts spells is a spellcaster.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2087-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 10,
+  "text": "However, in order to be a wizard, you need to have undergone initiation into the \"Wizard's Institute of Technocery\" in the South.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2088-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 11,
+  "text": "Magicians and sorcerers are wizards who specialize.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2089-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 12,
+  "text": "For myself, I prefer to master all aspects of Magic unlike the narrow-\nminded specialists.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2090-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 13,
+  "text": "You wouldn't want to lose your amateur standing, after all.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2091-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 14,
+  "text": "I prefer to think of myself as a dilettante.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2092-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 15,
+  "text": "Does that mean you tease pickles?",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2093-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 16,
+  "text": "He laughs too much when he casts his spells.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2094-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 17,
+  "text": "That's because his jokes are funnier than yours.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2095-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 18,
+  "text": "Isn't that like the vampire who likes to take necks out for a good time?",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2096-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 19,
+  "text": "No, no!  That's a \"neck romancer\"!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2097-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 20,
+  "text": "A necromancer is a magic user who has a rather unsavory relationship with corpses.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2098-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 21,
+  "text": "Does that mean a necromancer has ghoul friends?",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2099-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 22,
+  "text": "It means, my dear Fenrus, that a necromancer is someone who deals with the dead.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2100-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 23,
+  "text": "Canasta with cadavers?",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2101-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 24,
+  "text": "Spades with shades?",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2102-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 25,
+  "text": "\"If Magic be the lute of life, play on!\"",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2103-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 26,
+  "text": "The quote was \"Music\", not \"Magic\"!  And it was \"food\", not \"lute\"!",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2104-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 28,
+  "text": "How about:  \"Magic makes the world go 'round\"?",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2105-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 29,
+  "text": "\"MONEY makes the world go 'round\"!",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2106-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 30,
+  "text": "Very well, then.  To put it in my own words:  \"Magic is the essence and the soul of life, and the Wizard is Her poet\".",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2107-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 31,
+  "text": "Actually, it was Merlin who said that first, but he used the term \"Magician\", not \"Wizard\".",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2108-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 32,
+  "text": "Fenrus, there are times when you'd look better as a newt!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2109-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 33,
+  "text": "Why is that?",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2110-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 34,
+  "text": "Because newts can't talk!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2111-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 35,
+  "text": "Neither can most rats.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2112-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 36,
+  "text": "Just a little something to challenge the mind and the magic.  I like to play it every now and then, but Fenrus isn't much of a challenge anymore.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2113-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 37,
+  "text": "That's because I always win.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-2114-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 38,
+  "text": "I still think you're cheating, somehow!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2115-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 39,
+  "text": "Anyway, the game involves casting four spells:   \"Flame Dart\", \"Open\", \"Fetch\", and \"Trigger\".",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2116-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 134,
+  "idx": 40,
+  "text": "And to make it worth your while, if you beat me, I'll teach you a spell called \"Dazzle\".",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2117-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 0,
+  "text": "You'll have to climb down to do that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2118-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 1,
+  "text": "A river plunges for more than a hundred feet down the face of a cliff.  A doorway has been built into the side of the cliff.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2119-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 2,
+  "text": "The water seems to be trying to fly as it leaps from the mountain above.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2120-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 3,
+  "text": "You see slick, vertical cliff walls.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2121-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 5,
+  "text": "The water is white as it splashes against the rocks with great force and purpose and disappears into a narrow canyon to the south.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2122-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 6,
+  "text": "The grass is green with the freshness of new spring.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2123-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 7,
+  "text": "There is a narrow ledge in front of the wide door.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2124-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 9,
+  "text": "You don't see a ladder here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2125-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 10,
+  "text": "The door is built into the face of the mountainside.  You suspect that the person who lives behind it treasures privacy.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2126-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 11,
+  "text": "It's a large door.  It must open pretty wide.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2127-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 12,
+  "text": "you don't have a flask",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2128-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 14,
+  "text": "The water comes from melting snow.  This early in the season, it's much too cold to swim.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2129-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 15,
+  "text": "The door is securely locked.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2130-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 16,
+  "text": "The door is so securely locked that it defies your abilities to unlock it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2131-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 17,
+  "text": "It's a little hard to knock on the door from where you're standing.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2132-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 18,
+  "text": "You're in front of the door already.  You don't need to climb any farther.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2133-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 22,
+  "text": "As you prepare your spell...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2134-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 23,
+  "text": "The only thing you can open here is the door, and you're not skilled enough to do that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2135-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 24,
+  "text": "Wheeee!",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-2136-hero.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 26,
+  "text": "The roar of the waterfall fills your ears, and the cold spray dampens your face as you approach.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2137-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 27,
+  "text": "RAP!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2138-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 28,
+  "text": "The rock makes a sharp sound as it hits the door.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2139-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 30,
+  "text": "\"All right, already!\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2140-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 31,
+  "text": "\"Is someone there?\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2141-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 32,
+  "text": "\"You again?  Either come up, or go away.   I really doesn't cares which.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2142-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 33,
+  "text": "\"Oh, 'ello.  Come right up.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2143-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 34,
+  "text": "\"Just climb the ladder.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2144-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 35,
+  "text": "You take a drink of water from the icy mountain river.  It refreshes you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2145-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 36,
+  "text": "You take another drink of water.  You were thirsty!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2146-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 37,
+  "text": "BOY!  You must have really been thirsty!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2147-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 38,
+  "text": "You fill an empty flask with crystal-clear water from the waterfall.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2148-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 39,
+  "text": "Flat...you feel very, very flat.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2149-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 40,
+  "text": "And dead...you feel dead, too.  In your weakened condition, you succumbed to a mild-mannered hermit's propensity for Tarzan imitations.  Back up and play it again, Sam.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2150-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 41,
+  "text": "That hermit seems to know his \"Trigger\" spells pretty well.  He sure pulled the trigger on you (not to mention the plug) by teleporting you to the top of the falls without a barrel.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2151-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 42,
+  "text": "You knock three times.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2152-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 82,
+  "idx": 43,
+  "text": "\"Just a minute!  Just a minute!\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2153-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 0,
+  "text": "You've already made a mess of that flower.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2154-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 1,
+  "text": "There's not much point in that, now that you've already done what you came here to do.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2155-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 2,
+  "text": "You don't need a rock for anything.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2156-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 3,
+  "text": "Not now!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2157-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 4,
+  "text": "To the north and west are steep cliffs.   There are some unusual plants growing out of the side of the cliffs.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2158-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 5,
+  "text": "To the south and east is the forest from which you came.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2159-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 6,
+  "text": "To the south and east is the forest from which you came. To the north and west are steep cliffs. There are some unusual plants growing out of the side of the cliffs. ",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2160-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 7,
+  "text": "They are spitting what seems to be some kind of seed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2161-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 8,
+  "text": "The cliff walls are very steep, and they look difficult to climb.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2162-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 14,
+  "text": "The large seed spins as it travels through the air.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2163-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 15,
+  "text": "The leaves look tough and fibrous.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2164-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 16,
+  "text": "As you attempt to draw your weapon, you lose your balance momentarily.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2165-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 17,
+  "text": "If you had a sword, you might be able to do that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2166-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 18,
+  "text": "Wait a second!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2167-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 19,
+  "text": "You're already on the ground.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2168-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 20,
+  "text": "You don't think you can climb any further up the cliff.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2169-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 21,
+  "text": "There's not much point to that now.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2170-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 22,
+  "text": "Why do you think you're standing like this.  Trying to catch Flying Water?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2171-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 23,
+  "text": "You can't catch the seed from down on the ground.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2172-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 24,
+  "text": "It's not that easy.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2173-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 25,
+  "text": "You might have tried to throw a rock at the seed, but it's too late now.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2174-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 26,
+  "text": "You get in position for a good throw.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2175-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 27,
+  "text": "You need a good rock to throw.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2176-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 28,
+  "text": "Perhaps it would be better to find something else to throw.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2177-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 29,
+  "text": "That's really not a good idea.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2178-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 30,
+  "text": "You lose your concentration.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2179-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 31,
+  "text": "Your skill with the Open spell is not great enough to affect the plants.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2180-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 32,
+  "text": "You might have tried to cast a spell at the seed, but it's too late now.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2181-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 33,
+  "text": "You get into a good position.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2182-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 34,
+  "text": "That spell would damage the seed.  You don't want to do that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2183-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 35,
+  "text": "There is no need to be so destructive.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2184-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 36,
+  "text": "Since the flowers have stopped spitting, the seed might be a little harder to get to.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2185-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 37,
+  "text": "You'd like to do that, wouldn't you?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2186-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 38,
+  "text": "You have no need to take the flowers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2187-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 39,
+  "text": "You see the seed floating above the shattered remains of the plant.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2188-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 40,
+  "text": "You take the seed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2189-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 41,
+  "text": "You lose concentration, and the spell fades.  You will have to practice some more.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2190-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 42,
+  "text": "You place the seed into your pack.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2191-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 43,
+  "text": "You've never seen anything quite like them. They're pretty, in a grotesque way.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2192-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 16,
+  "idx": 44,
+  "text": "At least, they're pretty when they're not dead.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2193-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 9,
+  "text": "Beyond the bear, the cave seems to continue.  The bear blocks the way.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2194-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 10,
+  "text": "The baron's in his castle.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2195-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 11,
+  "text": "There is no sign of the Baronet or the bear.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2196-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 12,
+  "text": "You don't see any people -- just that bear.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2197-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 13,
+  "text": "The bear appears docile for the time being.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2198-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 14,
+  "idx": 14,
+  "text": "Stunned, the bear is temporarily frozen.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2199-narrator.mp3"
+ }
+]

@@ -1,0 +1,1358 @@
+[
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 0,
+  "text": "\"I cannot make you another Dispel Potion unless you can convince the Dryad to give you another magic acorn.  I do not think that is likely.",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1000-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 1,
+  "text": "Please leave me to make the potion and when you return I shall have it for you.",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1001-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 2,
+  "text": "\"If you know the ingredients for a Dispel Potion and bring them here, I can make you such a potion.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1002-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 4,
+  "text": "You pay the Healer for the potion and put it away.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1003-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 5,
+  "text": "\"I hope this will help you.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1004-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 6,
+  "text": "You find that you have less money than you thought.  You can't afford to buy the potion.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1005-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 7,
+  "text": "\"Oh, by the way, if you happen to find a ring on your adventures, I lost my favorite gold ring.  I will give a reward to the one who returns it.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1006-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 8,
+  "text": "You can buy potions, get information, or sell ingredients here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1007-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 9,
+  "text": "You see a clean, but very cluttered little hut filled with bottles and potions.  The Healer is busy puttering around with her potions.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1008-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 10,
+  "text": "There is a small flying creature preening itself .  A ladder leads to the loft above.  A pot over the fire simmers with herbs.  It is pleasantly warm in here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1009-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 11,
+  "text": "You see a middle-aged woman with rosy cheeks and smile lines around her eyes.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1010-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 12,
+  "text": "You see a winged lizard much like the one you saw outside.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1011-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 13,
+  "text": "You see bottles and flasks of a wide variety of different potions.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1012-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 14,
+  "text": "Whatever is boiling there is either soup or some sort of potion.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1013-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 15,
+  "text": "Soup is good for you.  Mmmm Mmmm good.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1014-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 16,
+  "text": "It looks like a ladder.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1015-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 17,
+  "text": "It's not your soup.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1016-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 18,
+  "text": "\"Come back in the morning, please.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1017-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 19,
+  "text": "Don't be nosy.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1018-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 20,
+  "text": "You can look but don't touch.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1019-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 21,
+  "text": "A rather motherly-looking woman with a look of vagueness that belies her shrewdness.  She wears an apron over her dress and a scarf wrapped around her head.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1020-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 22,
+  "text": "\"Those fairies are cute, but they play rough!\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1021-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 23,
+  "text": "\"It is shaped in gold like a braid of the herb Althelas with entwined leaves.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1022-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 24,
+  "text": "\"I don't know how I lost it.  I hardly ever take it off.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1023-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 25,
+  "text": "\"You already have your reward.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1024-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 26,
+  "text": "\"I will give six golds to the person who returns my ring.  It was a gift when I graduated from the college of Healing.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1025-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 27,
+  "text": "\"I will pay you for Cheetaur claws, Troll beard, magic mushrooms, and flowers from Erana's Peace.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1026-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 28,
+  "text": "\"I use them to make my potions.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1027-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 29,
+  "text": "\"This potion is used to heal damage and keep wounds from getting worse.  It has gotten pretty dangerous around here, and a Healing Potion can be quite useful in a serious situation.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1028-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 30,
+  "text": "\"Vigor Potion is used to revitalize yourself after vigorous exercise.   It helps to restore stamina.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1029-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 31,
+  "text": "\"Magic Potions restore the energy needed to cast spells.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1030-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 32,
+  "text": "\"I make up potions that heal injuries.  I will be happy to sell you a Healing Potion if you like.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1031-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 33,
+  "text": "\"I make and sell Healing Potions, Magic Potions, Vigor Potions and Undead Unguent.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1032-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 34,
+  "text": "\"The Potions will cost you: \n            Healing Potion 40 silvers \n            Magic Potion 60 silvers \n            Vigor Potion 20 silvers \n            Undead Unguent 100 silvers.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1033-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 35,
+  "text": "\"Undead Unguent is used to drive off the minor undead such as zombies or floating spirits.  It doesn't last long, so you should use it only when you are anticipating an encounter with such things.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1034-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 36,
+  "text": "\"There are not too many zombies in this land... too damp, I suppose.  There are some floating spirits, I have heard.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1035-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 37,
+  "text": "\"Floating Spirits are the ghosts which usually hang around graveyards at night.  They are dangerous, so don't go near them unless you use Undead Unguent first.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1036-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 38,
+  "text": "\"Stamina is a measure of the energy the body uses as you work or play.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1037-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 39,
+  "text": "\"I've never heard of a monster around here with green fur.  Rare things are sometimes by their nature magical.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1038-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 40,
+  "text": "\"Fairy Dust obviously comes from fairies.  They dance around mushroom rings when it is night.  Fairies are magical beings, so be careful around them.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1039-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 41,
+  "text": "\"I use flowers from Erana's Peace to the north in nearly all my potions.  They have some of the magic of the place even when they are dried.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1040-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 42,
+  "text": "\"I will pay you five silvers for a flask full of flowers.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1041-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 43,
+  "text": "\"I use the mushrooms from a fairy ring to make Magic Potions.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1042-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 44,
+  "text": "\"I will pay you one gold for some.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1043-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 45,
+  "text": "\"The Cheetaur looks like a cross between a panther and a man.  It is vicious and tough.  Unless you are a very tough fighter, you had best try to get away from it.  If you do manage to kill it, then I will pay you five silvers for each claw.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1044-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 46,
+  "text": "\"The Trolls around here are tough monsters that cannot stand the light of day and so are found at night or in caves.  They are very difficult to kill, but I will pay two healing potions for the beard of a Troll.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1045-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 47,
+  "text": "\"I have heard that the Dryad of the woods knows a Dispel Potion to disenchant people with spells upon them.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1046-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 48,
+  "text": "\"I'm not sure what kind of water that is.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1047-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 49,
+  "text": "\"The only place you can get a magic acorn from is a Dryad's oak tree.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1048-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 50,
+  "text": "\"I will pay you one silver for each empty flask you bring me so I can use it for more potions.  Waste not, want not, I always say.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1049-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 51,
+  "text": "\"Well, my name is Amelia Appleberry, but mostly I am just known as the Healer around here.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1050-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 52,
+  "text": "\"Oh, that's my pet, Pterry, the pterosaur.  He has a girl friend, Pteresa, who has a nest in the oak outside my door.  Pterry keeps me company and listens to my chatter as I work.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1051-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 53,
+  "text": "\"They are a species of flying lizard.  I understand they can grow quite large in the south.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1052-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 54,
+  "text": "\"Poor man, he hasn't been the same since his son and daughter were taken from him.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1053-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 55,
+  "text": "\"He was just a young dashing man when he last rode off and never returned.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1054-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 56,
+  "text": "\"The dear child, I can still picture her with her beautiful blond hair done up in braids.  She was so sweet.  It's hard to believe she's gone.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1055-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 57,
+  "text": "\"Those brutes!  I'm always having to heal someone they've beaten up and robbed.  I hate thieves and brigands.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1056-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 58,
+  "text": "\"Would you believe the brigands almost killed him a while back?  Fortunately their leader made them bring Heinrich here where I could heal him.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1057-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 59,
+  "text": "\"Almost due north of here is the meadow called Erana's Peace.  It is a very magical area and it is a place of safety.  It is beautiful all year, for the flowers are always in bloom.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1058-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 60,
+  "text": "\"I have the skill to use my magic to create potions.  I am a bit proud about it.  Not everyone can do that, you know.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1059-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 61,
+  "text": "\"Mandrake root is used in a variety of spells, mostly for evil purposes.  Mandrake must be pulled from a deadman's grave at midnight.  The root is particularly powerful.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1060-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 62,
+  "text": "\"I'm sorry, I just don't know much about that.  Perhaps you should ask someone else.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1061-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 63,
+  "text": "\"Oh, thank you for finding my ring.  How I've missed this.  Here are six golds and two Healing Potions for your reward!\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1062-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 64,
+  "text": "Thank you, but I have all the flowers I need.",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1063-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 65,
+  "text": "\"Thank you.  I often use flowers from Erana's Peace in potion making.  Here are your silvers.\"\nYou put them away.",
+  "say": "Thank you. I often use flowers from Erana's Peace in potion making. Here are your silvers.",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1064-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 67,
+  "text": "Thank you, but I have enough mushrooms.",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1065-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 68,
+  "text": "You have ruined the mushrooms with toadstools.  I can not buy your mushrooms.",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1066-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 69,
+  "text": "\"These are very nice.  I'll dry them and grind them into a powder.  Let me think...oh yes! I said these are worth a gold.  Here you are.\"\nYou put it away.",
+  "say": "These are very nice. I'll dry them and grind them into a powder. Let me think...oh yes! I said these are worth a gold. Here you are.",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1067-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 70,
+  "text": "\"Do you mean to tell me that you actually managed to kill a Cheetaur?  You're quite a hero, aren't you?  Here is your money.\nYou might think about purchasing a Healing Potion in case you have to fight such monsters again.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1068-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 71,
+  "text": "\"Don't tell me you actually killed a Troll?  Why, you are really amazing.  I haven't had any Troll's Beard for a long time.  Here are two Healing Potions for the beard.\"\nYou put them away.",
+  "say": "Don't tell me you actually killed a Troll? Why, you are really amazing. I haven't had any Troll's Beard for a long time. Here are two Healing Potions for the beard.",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1069-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 72,
+  "text": "\"So, you say this is one of the ingredients for the Dispel Potion.  Well, I had better get started making it.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1070-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 73,
+  "text": "\"Thank you.  I'm sure that I'll find a good use for Fairy Dust.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1071-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 74,
+  "text": "\"I don't need any more Flying Water.  Thank you anyway.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1072-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 75,
+  "text": "\"Thank you for the offer, but I really don't need any water.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1073-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 76,
+  "text": "The Healer makes some sort of arcane gesture over the flask of water, then looks surprised.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1074-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 77,
+  "text": "\"I'm sorry, but this water does not seem to have any magical potential at all.  This can't be the `Flying Water' you described.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1075-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 78,
+  "text": "The Healer makes some sort of arcane gesture over each flask of water, then smiles.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1076-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 79,
+  "text": "The Healer makes some sort of arcane gesture over the flask of water, then smiles.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1077-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 80,
+  "text": "\"Flying Water.  How clever.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1078-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 81,
+  "text": "\"Those Meeps sound so interesting.  I'd like to meet them sometime.  I'll get to work on that potion of yours.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1079-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 82,
+  "text": "\"Thank you.  I'll save this for a later use.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1080-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 83,
+  "text": "\"So you helped the Dryad, that's nice.  She does keep the forest around here healthy.  So that's how to make a Dispel Potion, is it?  Thanks for letting me know.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1081-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 84,
+  "text": "\"Thank you, I always need flasks.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1082-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 85,
+  "text": "I don't have any use for that.",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1083-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 86,
+  "text": "\"You'll have to be more specific.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1084-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 87,
+  "text": "I need all my flasks for potions.  You'll have to get one somewhere else.",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1085-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 88,
+  "text": "I don't have any.",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1086-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 89,
+  "text": "You're getting greedy.  She'll notice if you take any more.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1087-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 90,
+  "text": "You carefully grab a couple of Healing Potions and conceal them under your cape.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1088-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 91,
+  "text": "If you're going to steal, at least wait until the Healer is not looking.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1089-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 92,
+  "text": "You don't really think that is the correct way to actually win this game, do you?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1090-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 93,
+  "text": "Please, show some respect.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1091-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 94,
+  "text": "There is an aura of magic throughout this small cabin.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1092-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 95,
+  "text": "Small on a prehistoric scale, but still a pterosaur.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1093-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 97,
+  "text": "Ladder up to the loft where the Healer has her personal quarters.  No, you can't go up the ladder.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1094-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 98,
+  "text": "The makings of various potions.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1095-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 99,
+  "text": "The pterosaur's litter box.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1096-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 100,
+  "text": "Iron holder fit for a lit torch.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1097-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 101,
+  "text": "The view from the window has been obscured by soot from the fire.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1098-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 102,
+  "text": "This and that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1099-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 104,
+  "text": "Petrified icicles and greens.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1100-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 105,
+  "text": "The fragrance of the herbs mingle with some other rather pungent odors as you step into the Healer's house.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1101-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 106,
+  "text": "\"Well, what can I do for you this time?\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1102-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 107,
+  "text": "\"Lovely day, isn't it?  My, you look very healthy for an adventurer.  You must be new.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1103-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 108,
+  "text": "\"What can I do for you?  I can sell you potions if you like.  I also buy spell components if you are interested in gathering some for me.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1104-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 109,
+  "text": "\"Don't mind me, I always have so much to do around here.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1105-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 110,
+  "text": "You say to the Healer \"I have been to visit the Dryad of the Woods.  She gave me a Magic Acorn and told me the formula for a potion to dispel enchantments!\"",
+  "say": "I have been to visit the Dryad of the Woods. She gave me a Magic Acorn and told me the formula for a potion to dispel enchantments!",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-1106-hero.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 111,
+  "text": "\"Here is the Potion of Dispel!  Use it by splashing it on the victim of a magic spell.  Mind you, this won't work if the spell is caused by a magic item rather than a cast spell.\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1107-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 112,
+  "text": "\"Thank you so much.  Oh, I'm so happy to have my ring back!\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1108-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 113,
+  "text": "You put the reward away and tell her she is welcome as you leave to avoid being kissed again.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1109-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 55,
+  "idx": 114,
+  "text": "\"The Dispel Potion will take a while to make.  Why don't you come back later?\"",
+  "speaker": "healer",
+  "voiceId": 44,
+  "file": "qfg1-1110-healer.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 0,
+  "text": "\"You won't be needing your old leather armor anymore.  I shall give you a 50 silver trade-in discount.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1111-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 1,
+  "text": "\"Here you are; thank you for your patronage.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1112-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 2,
+  "text": "As you count your money, you realize that you don't have enough to purchase this particular item.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1113-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 3,
+  "text": "It would not be a good idea to drop anything here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1114-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 4,
+  "text": "This looks like a dry goods store, but it smells like a musty library.  The stove feels nice on such a crisp day.  Behind the counter and on the shelves, there are many and various items for sale.  The shopkeeper appears to ignore you while he reads a book.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1115-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 5,
+  "text": "The stove is burning merrily away, making the shop seem almost too warm.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1116-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 6,
+  "text": "The shopkeeper is a small, balding man who wears glasses.  He looks as if he can barely lift the book he is reading.  Judging from his clothes, he is fairly well-to-do.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1117-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 7,
+  "text": "The barrels appear to be filled with something and look rather heavy.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1118-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 8,
+  "text": "The jars of beets and sauerkraut look like they were canned locally.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1119-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 9,
+  "text": "Behind the counter are weapons, armor, and such equipment as you would more often find in an \"Adventurer's Shop\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1120-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 10,
+  "text": "You're not close enough to the counter to see behind it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1121-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 11,
+  "text": "On the counter and on the shelves are assortments of canned goods, honey jars, sewing items, and odds and ends that people in a small town would need.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1122-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 12,
+  "text": "The leather armor is more like barding, designed to be used under clothing.  The chain mail is much heavier, and looks very strong.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1123-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 13,
+  "text": "There are barrels of flour and salt next to the counter.  There seem to be jars of pickled pigs' feet, linen cloth, and other things in which you have very little interest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1124-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 14,
+  "text": "There are a variety of items of the sort an adventurer might need.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1125-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 15,
+  "text": "The shopkeeper doesn't seem to hear you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1126-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 16,
+  "text": "Either the shopkeeper can't hear you or he's ignoring you.  Try striding right up to the counter.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1127-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 17,
+  "text": "Go ahead. Talk to him.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1128-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 18,
+  "text": "\"Unfortunately, I have only standard weapons and equipment, \" the shopkeeper tells you.  \"I carry daggers and chain armor.  Maybe someday I'll be able to carry magic ones, though.\"",
+  "say": "Unfortunately, I have only standard weapons and equipment. I carry daggers and chain armor. Maybe someday I'll be able to carry magic ones, though.",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1129-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 19,
+  "text": "\"I can also sell you food or empty flasks for carrying liquids or powders.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1130-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 20,
+  "text": "\"You can get really good protection from my chain mail armor.  It's very heavy though, and I would have to charge you 500 silvers for it.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1131-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 21,
+  "text": "\"Ah!  The use of the dagger is a most skillful art.  Actually, this particular weapon is longer than most, but still easily concealable.  A bargain at 20 silvers.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1132-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 22,
+  "text": "\"Adventuring rations aren't the tastiest food in the world, but they will keep you healthy and alert as you go along.  A pack of 5 rations will cost you just 5 silvers.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1133-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 23,
+  "text": "\"Oh, no, I don't carry that sort of thing here.  If you want to get drunk, try the tavern.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1134-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 24,
+  "text": "\"It's a very good idea to carry an empty flask or two, in case you want to pick up a liquid or something else that needs a container.  Our flasks are a great bargain at 2 silvers each.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1135-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 25,
+  "text": "\"Oh, this book?  It's about an adventurer who is trying to become a Hero.  The title is 'Quest for Glory:  A Hero's Death'.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1136-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 26,
+  "text": "\"Oh, you don't want those.  They're for the people who live here in town.  Adventurers just need adventuring equipment.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1137-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 27,
+  "text": "\"The Sheriff and Otto protect this town.  The Sheriff used to be a real adventurer, you know!\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1138-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 28,
+  "text": "\"Why, that's me!  Kaspar!\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1139-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 29,
+  "text": "\"Hilde sells fine produce for a reasonable price.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1140-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 30,
+  "text": "\"I don't like to talk about other people behind their backs.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1141-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 31,
+  "text": "I have pigs feet, brooms, rakes, handles, pots, teapots, eggs, linen, flour, etc..\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1142-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 32,
+  "text": "\"I'm sorry, I don't have any of those for sale.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1143-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 33,
+  "text": "\"I carry weapons, armor, daggers, rations, ale flasks, and various food stuffs.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1144-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 34,
+  "text": "\"Aw, you wouldn't want to buy that.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1145-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 35,
+  "text": "\"Oh, I'm sorry!\" the shopkeeper blurts out.  \"I didn't notice you coming in.\"",
+  "say": "Oh, I'm sorry! I didn't notice you coming in.",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1146-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 36,
+  "text": "\"Well, my adventurer friend!  Would you like to make another purchase?\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1147-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 37,
+  "text": "\"Well, my adventurer friend!  Would you like to make a purchase this time?\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1148-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 38,
+  "text": "\"My, you look like an adventurer!  We don't see too many around here.  The brigands tend to get rid of most adventurers before they make it to town.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1149-shopkeeper.mp3"
+ }
+]

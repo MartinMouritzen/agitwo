@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AGITWO — Sierra Classics, Voiced</title>
+<style>
+  :root {
+    --ega-black: #000000;
+    --ega-blue: #0000AA;
+    --ega-cyan: #00AAAA;
+    --ega-lcyan: #55FFFF;
+    --ega-white: #FFFFFF;
+    --ega-lgray: #AAAAAA;
+    --ega-dgray: #555555;
+    --ega-yellow: #FFFF55;
+    --ega-lred: #FF5555;
+    --ega-lgreen: #55FF55;
+    --ega-magenta: #AA00AA;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { height: 100%; }
+  body {
+    background: var(--ega-black);
+    color: var(--ega-lgray);
+    font-family: "Courier New", ui-monospace, monospace;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2.2rem;
+    padding: 2rem 1rem;
+    image-rendering: pixelated;
+  }
+  .frame {
+    max-width: 900px;
+    width: 100%;
+    border: 4px double var(--ega-cyan);
+    padding: 2.2rem 2rem 1.6rem;
+    background:
+      repeating-linear-gradient(0deg, rgba(0, 170, 170, 0.05) 0 2px, transparent 2px 4px),
+      var(--ega-black);
+  }
+  header { text-align: center; margin-bottom: 2rem; }
+  h1 {
+    color: var(--ega-yellow);
+    font-size: clamp(1.6rem, 5vw, 2.6rem);
+    letter-spacing: 0.35em;
+    text-shadow: 3px 3px 0 var(--ega-blue);
+    margin-bottom: 0.5rem;
+  }
+  header p {
+    color: var(--ega-cyan);
+    font-size: 0.95rem;
+    letter-spacing: 0.12em;
+  }
+  .games {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.4rem;
+  }
+  .game {
+    display: block;
+    text-decoration: none;
+    border: 2px solid var(--ega-dgray);
+    padding: 1.3rem 1.2rem 1.1rem;
+    background: var(--ega-black);
+    color: inherit;
+    outline: none;
+  }
+  .game:hover, .game:focus-visible {
+    border-color: var(--ega-lcyan);
+    background: rgba(0, 170, 170, 0.12);
+  }
+  .game:active { transform: translateY(1px); }
+  .game .num {
+    color: var(--ega-dgray);
+    font-size: 0.85rem;
+    letter-spacing: 0.2em;
+  }
+  .game:hover .num, .game:focus-visible .num { color: var(--ega-lcyan); }
+  .game h2 {
+    margin: 0.35rem 0 0.15rem;
+    font-size: 1.25rem;
+    line-height: 1.35;
+    color: var(--ega-white);
+  }
+  .game .sub {
+    display: block;
+    color: var(--ega-lgray);
+    font-size: 0.9rem;
+    margin-bottom: 0.8rem;
+  }
+  .game .meta {
+    display: flex;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+  }
+  .tag { padding: 0.15rem 0.5rem; border: 1px solid var(--ega-dgray); }
+  .tag.engine { color: var(--ega-lgreen); }
+  .tag.year { color: var(--ega-yellow); }
+  .tag.voice { color: var(--ega-lred); }
+  .pq1-swatch, .qfg1-swatch {
+    height: 8px;
+    margin-bottom: 0.9rem;
+  }
+  .pq1-swatch {
+    background: linear-gradient(90deg,
+      var(--ega-blue) 0 25%, var(--ega-yellow) 25% 50%,
+      var(--ega-lred) 50% 75%, var(--ega-white) 75% 100%);
+  }
+  .qfg1-swatch {
+    background: linear-gradient(90deg,
+      var(--ega-lgreen) 0 25%, var(--ega-cyan) 25% 50%,
+      var(--ega-yellow) 50% 75%, var(--ega-magenta) 75% 100%);
+  }
+  footer {
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 0.8rem;
+    color: var(--ega-dgray);
+    line-height: 1.9;
+  }
+  footer a { color: var(--ega-dgray); }
+  footer a:hover { color: var(--ega-lcyan); }
+  .hint { color: var(--ega-lgray); }
+  .blink { animation: blink 1.1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+</head>
+<body>
+  <div class="frame">
+    <header>
+      <h1>AGITWO</h1>
+      <p>SIERRA CLASSICS &middot; IN YOUR BROWSER &middot; NOW WITH VOICES</p>
+    </header>
+    <div class="games">
+      <a class="game" href="scummvm.html#pq1" id="game1">
+        <span class="num">[ 1 ]</span>
+        <h2>Police Quest</h2>
+        <span class="sub">In Pursuit of the Death Angel</span>
+        <div class="pq1-swatch"></div>
+        <div class="meta">
+          <span class="tag engine">AGI &middot; EGA</span>
+          <span class="tag year">1987</span>
+          <span class="tag voice">30 VOICED LINES (PILOT)</span>
+        </div>
+      </a>
+      <a class="game" href="scummvm.html#qfg1" id="game2">
+        <span class="num">[ 2 ]</span>
+        <h2>Quest for Glory I</h2>
+        <span class="sub">So You Want To Be A Hero</span>
+        <div class="qfg1-swatch"></div>
+        <div class="meta">
+          <span class="tag engine">SCI0 &middot; EGA</span>
+          <span class="tag year">1989</span>
+          <span class="tag voice">FULLY VOICED &middot; 3800+ LINES</span>
+        </div>
+      </a>
+    </div>
+    <footer>
+      <span class="hint">PRESS <b>1</b> OR <b>2</b>, OR CLICK A GAME<span class="blink">_</span></span><br>
+      voices are generated per line and play after your first keypress or click in-game<br>
+      <a href="scummvm.html">scummvm launcher</a> for settings &amp; save management
+    </footer>
+  </div>
+  <script>
+    document.addEventListener('keydown', function (e) {
+      if (e.key === '1') document.getElementById('game1').click();
+      if (e.key === '2') document.getElementById('game2').click();
+    });
+  </script>
+</body>
+</html>

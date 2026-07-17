@@ -1,0 +1,1236 @@
+[
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 22,
+  "text": "If you look past the town wall, you can see the mountains through which you journeyed to arrive here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4600-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 23,
+  "text": "You curl up on the hard ground and try to get some rest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4601-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 0,
+  "text": "This is the barracks area.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4602-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 1,
+  "text": "The castle is northeast of here",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4603-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 2,
+  "text": "The building's appearance is deceptive; it evidently extends well into the castle wall.  From your present vantage point, the barracks looks like it could house some sixty guards.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4604-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 3,
+  "text": "You see the castle and the guards.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4605-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 4,
+  "text": "You see the main courtyard of the castle and the stables beyond.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4606-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 5,
+  "text": "Along the wall to the southeast is the gatehouse.  A line of bushes partially obscure a defensive pit along the wall.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4607-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 6,
+  "text": "You can see the barracks and a man sitting in front of them.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4608-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 7,
+  "text": "The guard would object.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4609-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 8,
+  "text": "You barely get to sleep when the guard on night patrol kicks you out.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4610-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 9,
+  "text": "The guard looks like he is either very tired or very lazy.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4611-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 10,
+  "text": "You're not close enough.  He's hard of hearing.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4612-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 11,
+  "text": "\"Hay is for horses.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-4613-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 12,
+  "text": "\"If you want to fight, go talk to the Weapons Master.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-4614-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 13,
+  "text": "As you approach the guard with your weapon, he jumps up and opens the barracks door as he yells for help.  Four guards playing cards inside the barracks quickly grab their weapons and overwhelm you.  As you are dragged into the castle and down into the dungeon, you realize that was probably not quite the right thing to do.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4615-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 14,
+  "text": "\"I'm here!  What do you want?\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-4616-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 15,
+  "text": "\"What?\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-4617-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 16,
+  "text": "Go ahead.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4618-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 17,
+  "text": "\"I'm not here to answer your stupid questions.  Go talk to Karl the gatekeeper.  He talks to anyone about almost anything.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-4619-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 18,
+  "text": "Just a fence.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4620-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 19,
+  "text": "These are the mountains that ring the valley of Spielburg.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4621-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 20,
+  "text": "This is the forest that surrounds the castle.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4622-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 21,
+  "text": "The guards patrol from here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4623-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 38,
+  "idx": 22,
+  "text": "\"Go away.  This is just the barracks for us guards.\"",
+  "speaker": "guard",
+  "voiceId": 319,
+  "file": "qfg1-4624-guard.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 0,
+  "text": "The air is crisp here and you can see your breath as you walk. There is a path leading up to a dark mountain, atop which is precariously perched a purple house.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4625-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 1,
+  "text": "The path seems to be carved out of the rock.  It forms a steep trail up to the house on the mountain.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4626-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 2,
+  "text": "All of the mountains you can see are covered with snow except for the one to which the path leads.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4627-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 3,
+  "text": "The drifts of snow look several feet high in some places.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4628-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 4,
+  "text": "Looking north, you see the strange house nestled on its craggy peak.  It is hard to see much at this distance.  All you can tell is that the house is very large, very purple, and very strange.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4629-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 5,
+  "text": "To the east is the forest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4630-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 6,
+  "text": "You see the surrounding mountains.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4631-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 7,
+  "text": "The clouds skirt the mountain edges.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4632-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 8,
+  "text": "There is a rocky path through the snow.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4633-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 9,
+  "text": "There is nothing here to throw it at.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4634-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 10,
+  "text": "You detect a strange, magical aura in this place.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4635-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 11,
+  "text": "There's nothing here to dazzle.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4636-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 12,
+  "text": "The magical aura around this place prevents you from casting a flame dart.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4637-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 13,
+  "text": "A sign appears.  It reads:",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4638-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 14,
+  "text": "\"Willkommen auf Zauberberg!\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4639-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 15,
+  "text": "\"Welcome to Magic Mountain!\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4640-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 16,
+  "text": "\"Bienvenu a Mont Magie!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4641-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 17,
+  "text": "Another sign appears.  It reads:",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4642-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 18,
+  "text": "\"Trespassers will be toad!\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4643-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 19,
+  "text": "\"Now go home!\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4644-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 28,
+  "idx": 20,
+  "text": "\"Proceed at your own risk!\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4645-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 0,
+  "text": "\"BE STILL!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-4646-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 1,
+  "text": "\"Critics!  We can't all be gourmands, I suppose.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-4647-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 2,
+  "text": "Now, Oh-Soon-To-Be-Supper...\nI don't suppose you have a name?\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-4648-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 3,
+  "text": "You try your best to croak out your name, or at least let the witch know that you do indeed have one.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4649-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 4,
+  "text": "\"So you're the one who's trying to be a hero around here.  The only good hero's a dead hero, I always say!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-4650-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 5,
+  "text": "\"But I do have a need for a brave fool.  Are you brave?\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-4651-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 6,
+  "text": "You make little froggy sounds, trying your best to indicate your agreement.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4652-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 7,
+  "text": "\"Wellll...\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-4653-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 8,
+  "text": "\"If you're willing to do a small little teensy favor for me, I might reconsider having you for supper.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-4654-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 9,
+  "text": "\"I need the root of a mandrake plant\nthat grows in the graveyard.  Will you be\na sweet and fetch me some?\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-4655-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 10,
+  "text": "\"Anything but Frog Legs Fricassee!\", you think.   You croak your agreement to the task.",
+  "say": "Anything but Frog Legs Fricassee!",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-4656-hero.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 11,
+  "text": "\"And I had my mouth watering for frog.  Oh well!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-4657-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 12,
+  "text": "\"Hear what I say\nAnd hear me right:\nMandrake must be pulled\nAt precisely Midnight!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-4658-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 13,
+  "text": "\"This I tell you\nAnd this I say:\nReturn with the root\nEre the break of next day.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-4659-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 14,
+  "text": "\"Hear what I say\nAnd know I don't lie:\nBring back the root\nOr else you will die!!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-4660-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 293,
+  "idx": 15,
+  "text": "\"You, Shoo!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-4661-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 144,
+  "idx": 0,
+  "text": "\"E's me friend, 'e and Fenrus.  Powerful wizard 'e is.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-4662-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 144,
+  "idx": 1,
+  "text": "\"I 'ere 'is 'ouse is sumthin' to see up north.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-4663-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 144,
+  "idx": 2,
+  "text": "\"I don't make it out much, and 'e's pretty busy, sos I don't see 'em too often.  But when we do all get together, you can be sure we'll 'ave fun.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-4664-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 144,
+  "idx": 3,
+  "text": "\" 'E loves to play 'is games, 'e do.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-4665-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 144,
+  "idx": 4,
+  "text": "\"Fenrus is Erasmus' familiar or is that the other way around?\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-4666-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 144,
+  "idx": 5,
+  "text": "\"Erasmus' favorite game is the Mage's Maze.  'Ave to be a magic user to play it, though.  Erasmus is awful good at it.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-4667-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 144,
+  "idx": 6,
+  "text": "\"Nasty sorts, they is.  I sees them sneaking arund the woods all the times.  Uther then the Warlock, I 'as nothing to do with them\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-4668-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 144,
+  "idx": 7,
+  "text": "\"E's not so bad.  Got a good sense o' 'umor, 'e 'as. I get the giggles just to think of 'im.  He heh he heh he.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-4669-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 144,
+  "idx": 8,
+  "text": "\" 'E's come by at times to chat.  Borrowed the mirror wot I borrowed from Erasmus 'e did.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-4670-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 144,
+  "idx": 9,
+  "text": "\"A magic mirror of reflection, it was.  If you use it, when a nasty spell was cast at you, it was wot sent it back at the one wot cast it.  Do un to others, I sez.  Heh, he, he.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-4671-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 290,
+  "idx": 0,
+  "text": "It's hard to be a hero when you're sitting in a jail cell.  The Sheriff apologized for your broken arm, but he did warn you (didn't he?) that Otto was only partly trained.  In the future, you'll probably be more careful when you're robbing someone.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4672-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 290,
+  "idx": 1,
+  "text": "When it comes to breaking in, it looks like the only thing broken is your head!  When at last you come to your senses, you find yourself in a jail cell.  By the time you get out of here, you'll be too old to be a hero.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4673-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 290,
+  "idx": 2,
+  "text": "Uh Oh! As you see a pillow flying toward you, you hear the Sheriff's wife say...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4674-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 290,
+  "idx": 3,
+  "text": "\"SCREEEEEEEEEEEECH!\"",
+  "speaker": "sheriff-wife",
+  "voiceId": 179,
+  "file": "qfg1-4675-sheriff-wife.mp3"
+ },
+ {
+  "res": "text",
+  "num": 290,
+  "idx": 4,
+  "text": "You never dreamed a feather pillow could be so HARD!  Or was it the floor?  You also didn't realize how hard it is for a thief to be a Hero.  The Thief of Baghdad should have this kind of luck!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4676-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 340,
+  "idx": 1,
+  "text": "\"Let's finish this game first.\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4677-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 340,
+  "idx": 2,
+  "text": "\"If you don't bet, you can't play.\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4678-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 340,
+  "idx": 3,
+  "text": "\"Now, let's not get carried away.\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4679-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 340,
+  "idx": 4,
+  "text": "\"Hey!  This is cash on the table.  You can't bet what you don't have.\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4680-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 340,
+  "idx": 5,
+  "text": "\"So, you think you're pretty hot stuff, eh?  Well, we'll see about that.\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4681-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 340,
+  "idx": 6,
+  "text": "\"You got me that time.  Say, you're pretty tough!\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4682-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 340,
+  "idx": 7,
+  "text": "\"Looks like I won that one.  Must have gotten lucky.\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4683-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 340,
+  "idx": 8,
+  "text": "\"It's a tie.  Let's double the wager.\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4684-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 340,
+  "idx": 9,
+  "text": "\"Hey, nice game.  It's a tie.\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4685-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 340,
+  "idx": 10,
+  "text": "Shall we play again?",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4686-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 340,
+  "idx": 11,
+  "text": "\"Just answer the question.  Shall we play again?\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4687-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 143,
+  "idx": 0,
+  "text": "\"Come in, come in.  Good to see you again.   Get's kind o' tiresome sitten here an' thinken by meself all the time.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-4688-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 143,
+  "idx": 1,
+  "text": "\"Ello.  'Ow are you?  'Ave we met before?\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-4689-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 143,
+  "idx": 2,
+  "text": "\"I'm 'Enry the 'ermit, that's me.  Me Farther was an 'ermit and me Murther was an 'ermit sos I come by me job rightly.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-4690-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 143,
+  "idx": 3,
+  "text": "\"Don't 'ave too many visitors.  'Ermits don't, you know.  (Part o' the job description.) I likes to see a new face, though.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-4691-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 143,
+  "idx": 4,
+  "text": "\"Good to 'ear anurther's speaking besides meself.  Sos wot can I do for you?\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-4692-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 78,
+  "idx": 6,
+  "text": "You seem to have caused an Antwerp POPulation EXPLOSION!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4693-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 78,
+  "idx": 7,
+  "text": "You see no Antwerps here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4694-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 78,
+  "idx": 8,
+  "text": "The bouncing baby Antwerps are all so cute, you can't bring yourself to interfere with their playing.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4695-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 78,
+  "idx": 13,
+  "text": "Looking up, you can see a small, blue dot in the sky, getting bigger... and bigger... and BIGGER!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4696-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 78,
+  "idx": 14,
+  "text": "Too late!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4697-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 78,
+  "idx": 15,
+  "text": "There's no time for that!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4698-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 78,
+  "idx": 16,
+  "text": "Where to? There is no escaping the hurtling blue blob.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4699-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 78,
+  "idx": 17,
+  "text": "You're obviously in no shape to continue the game.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4700-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 230,
+  "idx": 0,
+  "text": "You bar the door behind you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4701-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 230,
+  "idx": 1,
+  "text": "You behold a most fascinating place.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4702-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 230,
+  "idx": 2,
+  "text": "The person labeled \"ME\" speaks:",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4703-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 230,
+  "idx": 3,
+  "text": "\"Abandon mope, all ye who enter here!\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4704-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 230,
+  "idx": 4,
+  "text": "\"Job hunting, or just sight-seeing?\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4705-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 230,
+  "idx": 5,
+  "text": "\"I foresee a brilliant future for you in the fall.\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4706-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 230,
+  "idx": 6,
+  "text": "\"If you've got something to say, then speak fast or forever hold your pieces.\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4707-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 230,
+  "idx": 7,
+  "text": "\"State your case before I case your estate!\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-4708-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 158,
+  "idx": 0,
+  "text": "Oh, a wise guy, eh.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4709-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 158,
+  "idx": 1,
+  "text": "Die drei Knochelkopfen grab you off the table.  You should have waited until they were out of reach.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4710-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 158,
+  "idx": 2,
+  "text": "You're hopelessly surrounded.  You should have taken quicker action against these Knochelkopfs.  Elevate your thoughts to a higher plane.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4711-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 80,
+  "idx": 0,
+  "text": "This man looks very tough.  From his clothing, you guess him to be a member of the Thieves' Guild.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4712-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 80,
+  "idx": 1,
+  "text": "Done in by poisoned daggers and desperate desperadoes!  Try to avoid annoying that deadly duo next time.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4713-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 168,
+  "idx": 0,
+  "text": "\"I am Shema.  Allow me to serve you, Wanderer from Afar.  Do you wish food or drink?\"",
+  "speaker": "shema",
+  "voiceId": 225,
+  "file": "qfg1-4714-shema.mp3"
+ },
+ {
+  "res": "text",
+  "num": 168,
+  "idx": 1,
+  "text": "\"I bring you that which you ordered.  May it please and satisfy you.\"",
+  "speaker": "shema",
+  "voiceId": 225,
+  "file": "qfg1-4715-shema.mp3"
+ },
+ {
+  "res": "text",
+  "num": 168,
+  "idx": 2,
+  "text": "You thank Shema and pay her.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4716-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 6,
+  "idx": 0,
+  "text": "Didn't anyone warn you about eating other people's food?  Death by Toadstools doesn't leave mushroom for improvement.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4717-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 6,
+  "idx": 1,
+  "text": "Where did all the pretty horses go?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4718-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 232,
+  "idx": 0,
+  "text": "This time the joke fell flat.  That was a truly dirty trick.  Too bad you won't have a chance to get even...or will you?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4719-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 232,
+  "idx": 1,
+  "text": "What a miserable experience!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4720-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 156,
+  "idx": 0,
+  "text": "You're hopelessly surrounded.  You should have stopped those brigands somehow.  Maybe you'll see the light.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4721-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 58,
+  "idx": 13,
+  "text": "The bigger they come, the harder they hit",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4722-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 58,
+  "idx": 17,
+  "text": "Just because he's big doesn't mean he's stupid! ",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4723-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 227,
+  "idx": 0,
+  "text": "It's a little sign that reads: \"Do not read this sign under any circumstances.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4724-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 33,
+  "idx": 0,
+  "text": "My feet are killing me.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4725-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 33,
+  "idx": 1,
+  "text": "You feel the sound of dainty footsteps behind you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4726-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 167,
+  "idx": 1,
+  "text": "You thank Shameen and pay him 5 silvers for the room.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4727-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 276,
+  "idx": 0,
+  "text": "You find a good purchase on the rocks to climb.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4728-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 277,
+  "idx": 0,
+  "text": "The dirt is too loose for climbing here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4729-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 37,
+  "idx": 10,
+  "text": "Your figure remains still and silent.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4730-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 190,
+  "idx": 0,
+  "text": "The old \"rug over the pit\" trick.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4731-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 188,
+  "idx": 0,
+  "text": "This is a ridiculous way to die",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4732-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 34,
+  "idx": 0,
+  "text": "Our hero looks really lost.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4733-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 226,
+  "idx": 0,
+  "text": "You're the Fall Guy again",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4734-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 80,
+  "idx": 5,
+  "text": "Timing is everything.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4735-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 95,
+  "idx": 38,
+  "text": "Molasses in January.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4736-narrator.mp3"
+ }
+]

@@ -1,0 +1,1354 @@
+[
+ {
+  "res": "text",
+  "num": 77,
+  "idx": 1,
+  "text": "Your spell has no effect.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2350-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 77,
+  "idx": 3,
+  "text": "The stag seems to be magically protected.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2351-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 77,
+  "idx": 4,
+  "text": "You don't see a stag here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2352-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 77,
+  "idx": 6,
+  "text": "The beautiful white stag is foraging for food.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2353-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 77,
+  "idx": 7,
+  "text": "The white stag takes a mighty leap.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2354-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 77,
+  "idx": 8,
+  "text": "You seem to have startled the white stag.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2355-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 150,
+  "idx": 0,
+  "text": "Confidently, you cast the Calm spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2356-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 150,
+  "idx": 1,
+  "text": "Why, how cute!  You cast the Calm spell, and the monster visibly relaxed.  Why, now it's calmly and relaxedly ripping you to shreds and eating you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2357-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 115,
+  "idx": 0,
+  "text": "The invisible lid of the invisible chest lifts.  A ripple of magical heat in the air informs you of a trap narrowly avoided by your skillful use of the Open spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2358-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 213,
+  "idx": 2,
+  "text": "It was a tough battle, and you lost.\nNever fear!  All you have to do is restore your game, and...\nWhat do you mean, \"Restore WHAT game?\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2359-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 15,
+  "idx": 26,
+  "text": "Your plan seems to have backfired",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2360-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 15,
+  "idx": 27,
+  "text": "Blast!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2361-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 15,
+  "idx": 28,
+  "text": "You've been deep-fried",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2362-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 157,
+  "idx": 0,
+  "text": "You'd better find a way to prevent the brigands from getting at you from all sides if you want to survive this.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2363-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 170,
+  "idx": 0,
+  "text": "You should wait for Shema to bring you what you ordered.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2364-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 170,
+  "idx": 1,
+  "text": "Eat your meal first.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2365-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 170,
+  "idx": 2,
+  "text": "Finish your drink.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2366-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 278,
+  "idx": 0,
+  "text": "\"Well I'll huff, and I'll puff, and I'll smash the gate down.\"",
+  "speaker": "brigand",
+  "voiceId": 286,
+  "file": "qfg1-2367-brigand.mp3"
+ },
+ {
+  "res": "text",
+  "num": 278,
+  "idx": 1,
+  "text": "\"Boy that feels good.\"",
+  "speaker": "brigand",
+  "voiceId": 286,
+  "file": "qfg1-2368-brigand.mp3"
+ },
+ {
+  "res": "text",
+  "num": 222,
+  "idx": 0,
+  "text": "\"I salute you!\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2369-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 222,
+  "idx": 1,
+  "text": "\"En garde!\" shouts the Weapon Master...",
+  "say": "En garde!",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2370-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 222,
+  "idx": 2,
+  "text": "And the lesson begins!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2371-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 158,
+  "idx": 0,
+  "text": "Nyuk Nyuk Nyuk -- Mee Mee Mee Mee Mee...",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-2372-meep.mp3"
+ },
+ {
+  "res": "script",
+  "num": 158,
+  "idx": 1,
+  "text": "Woo Woo Woo -- Ruff Ruff Ruff.",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-2373-meep.mp3"
+ },
+ {
+  "res": "text",
+  "num": 104,
+  "idx": 0,
+  "text": "Suddenly a feeling of peace and tranquility permeates the area.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2374-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 141,
+  "idx": 0,
+  "text": "Baron von Spielburg says:",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2375-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 141,
+  "idx": 2,
+  "text": "The Baronet says:",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2376-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 279,
+  "idx": 0,
+  "text": "You ring the bell and your bell gets rung.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2377-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 159,
+  "idx": 2,
+  "text": "You're half right but completely dead.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2378-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 138,
+  "idx": 1,
+  "text": "Man, that's a narrow ledge up there!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2379-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 35,
+  "idx": 0,
+  "text": "Our hero looks a little lost.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2380-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 336,
+  "idx": 2,
+  "text": " Talk about a \"fiery brew\". ",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2381-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 334,
+  "idx": 7,
+  "text": " Erana missed this spot. ",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2382-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 340,
+  "idx": 1,
+  "text": "\"How much will you bet?\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-2383-thief-guildmaster.mp3"
+ },
+ {
+  "res": "script",
+  "num": 232,
+  "idx": 0,
+  "text": "This way to the Egress",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2384-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 7,
+  "idx": 0,
+  "text": "Night Gaunt Got ya.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2385-narrator.mp3"
+ },
+ {
+  "res": "script",
+  "num": 300,
+  "idx": 1,
+  "text": "What's your name?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2386-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 140,
+  "idx": 0,
+  "text": "\"'ello?\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2387-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 0,
+  "text": "\"The powers of magic are reserved for those with the potential to use them.  I sense no such potential in you.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2388-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 1,
+  "text": "\"May this aid you on your Quest!\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2389-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 2,
+  "text": "As you read the spell scroll, the spell is ingrained in your mind.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2390-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 3,
+  "text": "Zara says, \"I detect that you have not the money to purchase that item.  Do not toy with me!\"",
+  "say": "I detect that you have not the money to purchase that item.  Do not toy with me!",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2391-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 4,
+  "text": "Tall shelves with books and odds and ends suited to magic line the walls.  In front of you is a counter with a pentagram embossed on the front.  The ceiling and the far wall are mysterious indeed.  There is a strange symbol on the floor.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2392-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 5,
+  "text": "You see a wide variety of arcane objects.  For example:",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2393-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 6,
+  "text": "A replacement part for a magical face-lift.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2394-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 7,
+  "text": "Books dealing with sorcery, necromancy and other occult subjects.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2395-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 8,
+  "text": "Bottles of mephitic potions.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2396-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 9,
+  "text": "Tinsel and chaff, very good for avoiding radar.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2397-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 10,
+  "text": "A hooded robe for when it rains in here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2398-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 11,
+  "text": "Crystal balls, useful only to those initiated into the ways of witches.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2399-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 12,
+  "text": "A toaster oven, very rarely used (electricity not invented yet).",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2400-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 13,
+  "text": "A frog.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2401-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 14,
+  "text": "Dried up Mantray (Manta jerky).",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2402-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 15,
+  "text": "The ceiling is shrouded with clouds of smoke.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2403-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 16,
+  "text": "The floor is almost completely covered by a strange symbol.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2404-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 17,
+  "text": "You don't see any monsters here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2405-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 18,
+  "text": "You don't see any living creatures.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2406-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 19,
+  "text": "This living creature must be some sort of familiar.  There is an uncanny look in its eyes, and you don't want to look at it too closely.  It definitely has magic.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2407-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 20,
+  "text": "The walls are covered with shelves full of interesting and very unusual objects.  The back wall behind the counter seems to be not a wall at all, but perhaps an extension of some unearthly place.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2408-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 21,
+  "text": "The titles are totally unfamiliar to you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2409-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 22,
+  "text": "Aside from the pentagram on the front, there is nothing unusual about the counter.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2410-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 23,
+  "text": "Someone is watching you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2411-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 24,
+  "text": "There is no one here to sell you anything.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2412-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 25,
+  "text": "Zara has a mysterious, unearthly look to her.  You have the feeling that she is not a person to trifle with.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2413-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 26,
+  "text": "\"My name is Zara.  This is my shop.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2414-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 27,
+  "text": "\"I am both human and Faery Folk.  I draw my Power from both.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2415-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 28,
+  "text": "\"We are a people of Power and Magic, and live in the forests far beyond the mountains to the west.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2416-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 29,
+  "text": "\"Monsters stay out of town, and I stay in.  They are of no concern to me.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2417-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 30,
+  "text": "\"Damiano is my familiar and my companion.  We share our lives and our magic.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2418-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 31,
+  "text": "\"When you have mastered nine spells, have the power to cast them all, and proved yourself worthy by accomplishing a great deed, then you must undergo initiation to become a full Wizard.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2419-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 32,
+  "text": "\"There is a place in the distant south where you must journey, but first you must become a hero here.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2420-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 33,
+  "text": "\"A Wizard is one who both shapes Magic and is shaped by it.  Erasmus and I are the only Wizards in this valley.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2421-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 34,
+  "text": "\"There is much Magic in this world for those who know how to use it.  There is Magic in this little town, and a good deal of Magic in this valley.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2422-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 35,
+  "text": "\"What I sell here are merely tools to help those who have power.  You may purchase restorative potions and scrolls from which you may learn spells if you have the potential.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2423-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 36,
+  "text": "\"There is an Aura protecting this town from danger.  Within most of the town's walls, there can be no act of violence or cruel Magic.  Even so, it is prudent to avoid dark places.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2424-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 37,
+  "text": "\"An Aura is a Spell of protection surrounding something.  The town is still protected by the Aura cast by the great Spellcaster, Erana.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2425-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 38,
+  "text": "\"There is much Power in this valley, and it attracts those who use Magic.  I am here in Spielburg, Erasmus has his house on Zauberberg, and even Baba Yaga has her hut cooped up somewhere around here.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2426-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 39,
+  "text": "\"She is a powerful and wicked hag.  You would be wise to avoid her.  She cursed the Baron von Spielburg when he tried to drive her away.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2427-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 40,
+  "text": "\"This is Baba Yaga's curse, cast upon the Baron years ago:\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2428-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 41,
+  "text": "\"Upon von Spielburg and all his clan, this Curse I now demand:  What I will shall come full measure, so shall ye lose all that ye treasure.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2429-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 42,
+  "text": "\"There is always a way to break a curse; possibly Erasmus knows more about this one.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2430-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 43,
+  "text": "\"Baba Yaga's hut is Magical.  It stands on chicken legs, and you must know the rhyme to enter.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2431-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 44,
+  "text": "\"I have no interest in entering Baba Yaga's hut and therefore do not know the rhyme.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2432-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 45,
+  "text": "\"He was once the great leader of this land until he was foolish enough to anger Baba Yaga.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2433-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 46,
+  "text": "\"Erana was a powerful Spellcaster who lived long ago.  She brought peace to this valley.  Even now her spell protects this town from violence or foul Magic.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2434-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 47,
+  "text": "\"Her final resting place is due north of town, and it is a place of both safety and healing.  It is known as `Erana's Peace'\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2435-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 48,
+  "text": "\"Erasmus is a Wizard and a Spellcaster who knows much about this area.  He lives in a tower eastward of town.  He can be very helpful if approached properly, but he has a strange sense of humor.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2436-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 49,
+  "text": "\"It is a steep mountain to the northeast.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2437-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 50,
+  "text": "\"That is the Spell that lets you cast a Magical Flame upon your enemy.  The Spell Scroll will cost you 60 silver.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2438-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 51,
+  "text": "\"That is the Spell that lets you place magical energy upon a weapon.  The energy will be released as magical damage when you hit your enemy.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2439-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 52,
+  "text": "\"It is a Spell that allows you at first to unfasten simple locks and knots.  As you gain in skill, then you may open doors with it.  This Spell Scroll will cost you 30 silver.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2440-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 53,
+  "text": "\"The Fetch Spell allows you to lift or lower a lightweight object from a distance.  The Spell Scroll will cost you 40 silver.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2441-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 54,
+  "text": "\"We sell several Magical Spells on study scrolls.  You may purchase Flame Dart for 60 silver, Fetch for 40 silver, or the Open spell for 30 silver.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2442-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 55,
+  "text": "\"The Scrolls we sell are Magical.  You have but to read the Spell, and you will learn it.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2443-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 56,
+  "text": "\"I also know that you can find a wonderful Spell if you learn the secret of Erana's Peace.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2444-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 57,
+  "text": "\"Secrets are made to be kept.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2445-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 58,
+  "text": "\"We can sell you spell learning scrolls and enchanted potions.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2446-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 59,
+  "text": "\"The Healing Potion will cost you 50 silver.  It is made by the Healer outside of town.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2447-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 60,
+  "text": "\"Vigor Potions restore your Stamina after you have exerted yourself.  They cost 25 silver each.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2448-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 61,
+  "text": "\"Power is the essence of magic, that which the wizard shapes and is shaped by.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2449-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 62,
+  "text": "\"The Power Potion restores your magical energy, and costs 75 silver.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2450-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 63,
+  "text": "\"We have Healing, Vigor, and Power Potions.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2451-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 64,
+  "text": "\"Master the Arts Arcane, use those skills to vanquish the evil curse, and you will become a true Hero!\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2452-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 65,
+  "text": "Just look at the shelves.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2453-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 66,
+  "text": "\"We are entities of Magic and Power.  Matters such as that are of little importance.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2454-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 67,
+  "text": "\"We choose only to answer questions which interest us.  Do not persist with uninteresting questions.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2455-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 68,
+  "text": "\"We shall not waste our time further.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2456-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 69,
+  "text": "\"You may choose from the Fetch, Open, or Flame Dart Spells.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2457-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 70,
+  "text": "\"You may choose from the Healing, Vigor, or Power Potions.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2458-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 71,
+  "text": "\"I do not sell such things to such as you.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2459-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 72,
+  "text": "Zara ignores you.  You would do better if you showed some respect by walking up to the counter before talking to her.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2460-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 73,
+  "text": "\"So, you return to my shop.  Ask of me what you will, but keep to the point.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2461-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 74,
+  "text": "\"I am Zara, and my companion is Damiano.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2462-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 75,
+  "text": "\"The items in this shop are designed for those skilled in the use of magic.  We have very little for ones such as you who have not been initiated, but what we have could prove useful.\"",
+  "speaker": "zara",
+  "voiceId": 542,
+  "file": "qfg1-2463-zara.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 76,
+  "text": "It's a frog.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2464-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 77,
+  "text": "A pentagram, used in incantations to conjure spirits.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2465-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 78,
+  "text": "Impressive design, but merely decorative.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2466-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 79,
+  "text": "Paraphernalia and apparatus.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2467-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 80,
+  "text": "Accoutrements and equipment.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2468-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 81,
+  "text": "Darned if I know!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2469-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 82,
+  "text": "Odds and ends.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2470-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 83,
+  "text": "Ends and odds.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2471-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 84,
+  "text": "Things and stuff.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2472-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 85,
+  "text": "Jeff's jimcracks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2473-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 314,
+  "idx": 86,
+  "text": "Magical junk and mystical garbage.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2474-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 0,
+  "text": "This dark, seedy place is less than you expected of a Thieves' Guild.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2475-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 1,
+  "text": "The man seated by the table greets you with a scowl;  Crusher is his usual, amiable self;  and you can't quite make out what lurks behind that massive door.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2476-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 2,
+  "text": "You feel uneasy about the sinister mood here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2477-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 3,
+  "text": "\"I don't have time to talk to unlicensed scum.  Pay your guild license fee, and then we can talk.\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-2478-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 4,
+  "text": "\"What do you think this is, your home?  Crusher, deal with this deadbeat.\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-2479-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 5,
+  "text": "The door is locked, and Boris won't let you in.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2480-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 6,
+  "text": "Picking locks in the Thieves' Guild is a singularly stupid idea.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2481-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 7,
+  "text": "Crusher ignores you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2482-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 8,
+  "text": "\"A Thief's license will cost you 25 silvers.  You will need a license to use any of our services.\"",
+  "speaker": "boris",
+  "voiceId": 264,
+  "file": "qfg1-2483-boris.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 9,
+  "text": "\"Perhaps I could sell you a good lockpick for fifteen silvers, or a wonderful Acme Thief Tool Kit for one hundred silvers.\"",
+  "speaker": "boris",
+  "voiceId": 264,
+  "file": "qfg1-2484-boris.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 10,
+  "text": "\"I have no time for idle talk.  Why don't you do something constructive like stealing Otto's yo-yo?\"",
+  "speaker": "thief-guildmaster",
+  "voiceId": 516,
+  "file": "qfg1-2485-thief-guildmaster.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 11,
+  "text": "\"I can't hear you.  Please come a little closer to the window.\"",
+  "speaker": "boris",
+  "voiceId": 264,
+  "file": "qfg1-2486-boris.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 12,
+  "text": "From his expensive clothes to his carefully trimmed mustache, there is an air of sophistication to this villain.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2487-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 13,
+  "text": "Crusher is his usual, amiable self (every bit the Goon).",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2488-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 14,
+  "text": "The opening in the door is covered with a wire grate, but there is space below it where objects can be passed through.  The mysterious-looking man on the other side is Boris, the cashier and fence for the Guild.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2489-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 15,
+  "text": "The ladder up to the tavern is very sturdy.  It has to be to support Crusher's weight.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2490-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 16,
+  "text": "It looks like an oversized, well-used dartboard.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2491-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 17,
+  "text": "There sure are a lot of daggers in the board.  You wonder where the Chief Thief keeps them all.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2492-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 18,
+  "text": "The shadowy figure behind the door is Boris, the cashier and fence for the Guild.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2493-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 19,
+  "text": "The floor is surprisingly clean, compared to that of the bar upstairs.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2494-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 20,
+  "text": "The plaster is chipping in several places.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2495-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 21,
+  "text": "You can tell where the bar is by the seep marks of spilled beer.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2496-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 22,
+  "text": "The daggers are nicely made, and apparently designed for throwing.  Besides the Chief Thief's seemingly endless collection, there are two matched sets with differently-colored hilts for playing Dag-Nab-It.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2497-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 23,
+  "text": "Even thieves get thirsty.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2498-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 332,
+  "idx": 24,
+  "text": "You're probably wondering if there is any honor among thieves.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2499-narrator.mp3"
+ }
+]

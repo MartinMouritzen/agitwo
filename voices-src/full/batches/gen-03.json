@@ -1,0 +1,1354 @@
+[
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 30,
+  "text": "\"Sorry, the Baron's horses aren't for sale.\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1450-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 31,
+  "text": "\"Neigh!\"  says the horse.",
+  "say": "Neigh!",
+  "speaker": "horse",
+  "voiceId": 685,
+  "file": "qfg1-1451-horse.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 32,
+  "text": "\"OK.  C'mon over here.\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1452-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 33,
+  "text": "The stableman hands you some coins and says,  \"Now you're five silvers richer.\"",
+  "say": "Now you're five silvers richer.",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1453-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 34,
+  "text": "You curl up on some clean hay and get some rest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1454-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 35,
+  "text": "\"Z-Z-Z-Z-Z-Z-Z-Z-Z-Z...\"",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-1455-hero.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 36,
+  "text": "It IS a rude awakening, however.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1456-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 37,
+  "text": "\"WHAT DO YOU THINK THIS IS, A REST HOME???  GET TO WORK!  NOW!!!\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1457-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 38,
+  "text": "\"Well, if you don't want to answer...\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1458-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 39,
+  "text": "\"Good!  Come in here and take a rake.\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1459-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 40,
+  "text": "Too bad!  I could use some help.\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1460-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 41,
+  "text": "\"That's what I'm asking YOU about, nimrod.\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1461-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 42,
+  "text": "\"I see you're back.  Need some work?\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1462-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 43,
+  "text": "Someone approaches you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1463-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 44,
+  "text": "\"You lookin' for some work?\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1464-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 40,
+  "idx": 45,
+  "text": "\"Quit fidgeting and answer me...yes or no!\"",
+  "speaker": "stableman",
+  "voiceId": 174,
+  "file": "qfg1-1465-stableman.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 1,
+  "text": "Now that the big Antwerp has split, this corner of the forest seems strangely quiet.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1466-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 2,
+  "text": "You look around and see rocks and grass, but no Antwerp.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1467-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 3,
+  "text": "You see rocks, grass and an Antwerp.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1468-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 4,
+  "text": "The only Antwerp known in these parts has split... into parts.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1469-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 5,
+  "text": "The Antwerp seems to have flown the coop.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1470-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 6,
+  "text": "Antwerps are on the endangered species list.  They are rarely seen.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1471-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 7,
+  "text": "The rocks were left here by some receding glacier.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1472-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 8,
+  "text": "There is a narrow cave entrance among the rocks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1473-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 9,
+  "text": "You find a keyhole concealed in a crack in the rock.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1474-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 10,
+  "text": "There is a narrow cave entrance among the rocks.  Inside, you see a dark passage through the hillside.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1475-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 11,
+  "text": "You see nothing like that here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1476-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 12,
+  "text": "You do not find anything nearby.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1477-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 14,
+  "text": "The grass is luscious, just the thing for hungry herbivores.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1478-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 15,
+  "text": "The way is impassable.  Sheer rock cliffs rise to serious heights.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1479-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 16,
+  "text": "The forest extends to the east and north.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1480-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 18,
+  "text": "Antwerps aren't dazzled easily.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1481-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 19,
+  "text": "You aren't close enough to a lock.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1482-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 21,
+  "text": "You have no weapon with which to fight the Antwerp.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1483-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 22,
+  "text": "However, you bravely attack the bouncing beast with your bare hands.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1484-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 23,
+  "text": "The only Antwerp known to these parts, split ...into parts.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1485-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 24,
+  "text": "He's on a diet.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1486-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 25,
+  "text": "You don't see any locks nearby.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1487-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 26,
+  "text": "The lock in the rock clicks open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1488-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 27,
+  "text": "You'd have a much easier time of this if you had the key.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1489-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 28,
+  "text": "Ah, got it!  The lock in the rock clicks open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1490-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 29,
+  "text": "The lock is beyond your present skill.  It might help if you had the key.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1491-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 30,
+  "text": "... Or at least a better set of tools.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1492-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 31,
+  "text": "You are not strong enough yet to open the rock door.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1493-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 32,
+  "text": "Despite your mightiest efforts, the rock does not move.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1494-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 33,
+  "text": "The rock door has already been opened.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1495-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 34,
+  "text": "You hear the sound of someone...or something...moving deeper into the cave to let you pass.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1496-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 35,
+  "text": "Ok, you say Hiden Goseke.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1497-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 36,
+  "text": "Go ahead. If you dare.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1498-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 37,
+  "text": "That's funny.  It bounced right off.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1499-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 38,
+  "text": "By golly, it's an Antwerp!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1500-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 39,
+  "text": "The Antwerp plays rough.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1501-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 40,
+  "text": "The old ticker just couldn't keep going.  Maybe you shouldn't have missed the annual visit with your local Healer.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1502-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 41,
+  "text": "Cockily, you loosen up to fight.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1503-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 42,
+  "text": "Confident and loose, you approach the Antwerp.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1504-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 43,
+  "text": "\"Holy Mackerel!\"",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-1505-hero.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 44,
+  "text": "Your spell has unlocked the lock on the rock, but it is not yet powerful enough to open the rock door.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1506-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 84,
+  "idx": 45,
+  "text": "You seem to have scared the Antwerp with your behavior.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1507-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 0,
+  "text": "There is a sign on the door which says: \"Gone Fishing\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1508-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 2,
+  "text": "You haven't been practicing very much.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1509-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 3,
+  "text": "That was the easiest lock you've ever encountered.  It's now unlocked.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1510-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 6,
+  "text": "There are several signs above the various establishments on this street, indicating the nature of their business.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1511-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 7,
+  "text": "You are in the northwest corner of town. There are a Butcher's Shop and a Bakery on the north side of the street. Across from them are the backs of buildings on the next street over.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1512-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 8,
+  "text": "The Tavern in the corner looks rather rundown, and the alley beside it is dark. On the other side of the tavern is a rather practical-looking building, like a workshop.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1513-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 9,
+  "text": "The bakery seems to be closed, although there are some dried-up-looking cupcakes in the window.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1514-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 10,
+  "text": "The Butcher's shop seems to be closed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1515-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 11,
+  "text": "Which shop do you mean?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1516-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 12,
+  "text": "The building looks old, dark, and a little seedy.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1517-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 13,
+  "text": "The workshop is securely locked.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1518-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 14,
+  "text": "You can hear sounds of hammering from inside.  The door is securely locked, and no one responds to your knock.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1519-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 15,
+  "text": "Looks like the door to a Tavern.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1520-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 16,
+  "text": "Looks like this door has been closed for a long time.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1521-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 17,
+  "text": "There are signs affixed to the door knobs.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1522-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 18,
+  "text": "It's very dark, but you can see something shining on the ground at the far end of the alley.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1523-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 19,
+  "text": "It's dark, but there seems to be someone in there.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1524-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 20,
+  "text": "Other than the sorry-looking goods in the window, it is too dark to make out much of anything.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1525-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 21,
+  "text": "The Butcher's shop seems to be closed. Through the window, you see what appears to be a layer of dust over most of the interior.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1526-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 22,
+  "text": "You can't see into any windows from where you're standing.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1527-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 23,
+  "text": "You regain consciousness.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1528-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 24,
+  "text": "After dusting yourself off, you check to make sure you're still in one piece.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1529-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 25,
+  "text": "Unfortunately, you discover that while you were \"out\", someone managed to relieve you of all of your money.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1530-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 26,
+  "text": "Now you'll have to find a way to get some money. The street is not the most comfortable place to sleep, and you have to eat, sooner or later.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1531-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 27,
+  "text": "You can hear sounds of hammering from inside.  It must be some sort of workshop.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1532-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 330,
+  "idx": 28,
+  "text": "The Tavern in the corner looks rather rundown.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1533-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 0,
+  "text": "The door isn't locked.  Just turn around.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1534-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 1,
+  "text": "Picking locks looked a lot easier in the instruction book.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1535-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 2,
+  "text": "The owners seem to have been made nervous by the recent rash of house burglaries.  The door is barred from the inside.  But you do get some valuable lock-picking practice.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1536-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 3,
+  "text": "You hear a \"Snick!\".  The lock is open!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1537-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 4,
+  "text": "She seems to have retired...or maybe she's at the tavern.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1538-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 5,
+  "text": "This (door?) doesn't have a visible lock.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1539-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 6,
+  "text": "Not the sturdiest you've ever seen.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1540-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 7,
+  "text": "Turn around and go on in.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1541-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 8,
+  "text": "The door appears to be locked.  It also appears that the occupant is taking her nap at the bottom of the stairs right now.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1542-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 9,
+  "text": "No one seems to be home, and the door is securely locked.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1543-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 10,
+  "text": "The door appears to be locked.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1544-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 11,
+  "text": "You have come to the end of the main street. The town wall is to the south. You have an eerie feeling that someone is watching you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1545-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 12,
+  "text": "Not only does this building look weird, but it feels weird to be near it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1546-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 13,
+  "text": "The house looks closed up.  There is no sign of the Little Old Lady.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1547-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 14,
+  "text": "The Guild Hall building appears to be dark and closed up.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1548-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 15,
+  "text": "You can just see a thin thread of light under the door, so there is probably someone inside.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1549-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 16,
+  "text": "The fence around the Little Old Lady's house looks like it's made of wrought iron.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1550-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 17,
+  "text": "There's no getting around it...a shop with its eye on you makes you nervous.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1551-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 18,
+  "text": "It would seem that the strangely decorated building is involved in the magic trade.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1552-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 19,
+  "text": "Judging from what the sign says, the building at the end of the street is the Guild Hall.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1553-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 20,
+  "text": "Isn't it hard to tear your eyes away?\n\"PYROMANIA.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1554-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 21,
+  "text": "Flames? What flames?  You don't see any flames.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1555-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 23,
+  "text": "She's deeply asleep in her rocker.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1556-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 24,
+  "text": "In it sits the Little Old Lady, asleep.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1557-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 25,
+  "text": "She's really sleeping soundly and doesn't notice your presence.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1558-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 26,
+  "text": "\"ZZZZZZZZZZZZZZZZZZZZ\"!",
+  "speaker": "old-lady",
+  "voiceId": 179,
+  "file": "qfg1-1559-old-lady.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 27,
+  "text": "\"Grmpf..snrt..hmphspft\"!",
+  "speaker": "old-lady",
+  "voiceId": 179,
+  "file": "qfg1-1560-old-lady.mp3"
+ },
+ {
+  "res": "text",
+  "num": 310,
+  "idx": 28,
+  "text": "This looks like a nice, neat little house. There is a grandmotherly little old lady rocking on the front lawn.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1561-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 0,
+  "text": "Do you know what you get when a Tyranno-\nsaurus running eastward meets a Tyranno-\nsaurus running westward?",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1562-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 1,
+  "text": "That's a smashing good joke, I think.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1563-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 2,
+  "text": "Tyranno-\nsaurus wrecks!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1564-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 3,
+  "text": "Is it true that a monster can't hurt you if you carry a torch?",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1565-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 4,
+  "text": "Actually, it depends on how fast you carry it!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1566-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 5,
+  "text": "Do you know what time it is when Otto walks through your door?",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1567-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 6,
+  "text": "So you've met Otto already.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1568-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 7,
+  "text": "Time to get a new door!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1569-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 8,
+  "text": "Do you know the difference between a Cheetaur and a comma?",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1570-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 9,
+  "text": "Spoilsport!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1571-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 10,
+  "text": "A Cheetaur has claws at the end of its paws, and a comma is a pause at the end of a clause!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1572-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 11,
+  "text": "Do you know what's big, purple, and eats ungefaehr-\nliche dinge?",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1573-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 12,
+  "text": "Well...let me figure out something tougher.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1574-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 13,
+  "text": "Big, purple ungefaehr-\nliche dinge eaters!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1575-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 14,
+  "text": "Large purple ungefaehr-\nliche dinge eaters are all too common in the forest these days.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1576-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 15,
+  "text": "Do you know which has more legs, one cow or no cow?",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1577-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 16,
+  "text": "Too easy, huh?  Well, I'll just have to think of a better one.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1578-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 17,
+  "text": "You're right!  NO cow has more than four legs.  These are too easy.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1579-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 18,
+  "text": "Do you know the difference between a wounded Triceratops and a magic user casting the \"Fly\" spell?",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1580-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 19,
+  "text": "Darn.  I thought I made that one up myself!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1581-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 20,
+  "text": "One is a raging Saurus and the other is a soaring Magus!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1582-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 21,
+  "text": "I figured one was a dying lizard and the other was a flying wizard.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-1583-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 22,
+  "text": "Sorry, Fenrus, but \"He who tells the jokes gets to make up the punch lines\".",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1584-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 23,
+  "text": "Did you hear the joke about the witches broom?",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1585-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 24,
+  "text": "Oh.  That's a pity!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1586-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 25,
+  "text": "That's odd.  It's sweeping the valley!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-1587-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 26,
+  "text": "That one usually floors me, but I'm going to brush it aside before I'm swept away with laughter.",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-1588-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 135,
+  "idx": 27,
+  "text": "(Gag!)",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-1589-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 0,
+  "text": "You don't have any.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1590-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 1,
+  "text": "The mushrooms from the Fairy Ring are pretty good, so you hear.  However, when they're mixed with Kobold toadstools...that's a horse of a different color.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1591-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 2,
+  "text": "You eat some of the Kobold's fungus.  Within seconds your insides feel like they're on fire.  Guess you're not a Kobold, huh?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1592-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 3,
+  "text": "You think that you'd better take it easy for a while until you recover.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1593-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 4,
+  "text": "You ingest a few of the mushrooms from the Faery Ring.  They taste delicious.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1594-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 5,
+  "text": "Wow!  Look at all the nice paisley horses!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1595-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 6,
+  "text": "Not to mention the beautiful neon sky.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1596-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 7,
+  "text": "That's funny.  I could have sworn I warned you about eating too many Magic Mushrooms.  Your mind permanently warped, you die a garishly polka-dotted death.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1597-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 8,
+  "text": "Hmm, that was interesting.  But it would probably not be a good idea to repeat the experience.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1598-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 6,
+  "idx": 9,
+  "text": "You eat the Magic Acorn.  It tastes terrible.  Better stick to real food next time.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1599-narrator.mp3"
+ }
+]

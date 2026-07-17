@@ -1,0 +1,590 @@
+diff --git a/audio/agitwo_voiceover.cpp b/audio/agitwo_voiceover.cpp
+new file mode 100644
+index 00000000..19cbb89a
+--- /dev/null
++++ b/audio/agitwo_voiceover.cpp
+@@ -0,0 +1,210 @@
++/* ScummVM - Graphic Adventure Engine
++ *
++ * ScummVM is the legal property of its developers, whose names
++ * are too numerous to list here. Please refer to the COPYRIGHT
++ * file distributed with this source distribution.
++ *
++ * This program is free software: you can redistribute it and/or modify
++ * it under the terms of the GNU General Public License as published by
++ * the Free Software Foundation, either version 3 of the License, or
++ * (at your option) any later version.
++ *
++ * This program is distributed in the hope that it will be useful,
++ * but WITHOUT ANY WARRANTY; without even the implied warranty of
++ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
++ * GNU General Public License for more details.
++ *
++ * You should have received a copy of the GNU General Public License
++ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
++ *
++ */
++
++// agitwo native voice-over playback.
++//
++// The EMSCRIPTEN build plays voice clips through the browser (see
++// common/voiceover.cpp). Native builds play them through ScummVM's own audio
++// mixer instead, so this implementation of Common::playVoiceOver lives in the
++// audio module (which may depend on the mixer and decoders; common may not).
++//
++// Voice data is expected next to the game files, in a subfolder:
++//     <game path>/agitwo-voices/manifest.json      (hash -> clip filename)
++//     <game path>/agitwo-voices/<clip>.mp3
++// The installer places it there. manifest.json maps the 64-bit FNV-1a hash of
++// the whitespace-normalized displayed text to a clip filename; the same
++// normalization and hash are used by the Emscripten path and by
++// tools/gen_voice_manifest.py, so a clip generated once works everywhere.
++
++#include "common/scummsys.h"
++
++#ifndef EMSCRIPTEN
++
++#include "common/config-manager.h"
++#include "common/file.h"
++#include "common/fs.h"
++#include "common/hashmap.h"
++#include "common/hash-str.h"
++#include "common/mutex.h"
++#include "common/str.h"
++#include "common/system.h"
++#include "common/textconsole.h"
++#include "common/formats/json.h"
++#include "common/voiceover.h"
++
++#include "audio/mixer.h"
++#ifdef USE_MAD
++#include "audio/audiostream.h"
++#include "audio/decoders/mp3.h"
++#endif
++
++namespace Common {
++
++// Collapse whitespace runs to single spaces, trim ends. Must match the
++// normalization in common/voiceover.cpp (Emscripten) and
++// tools/gen_voice_manifest.py.
++static String normalizeForVoiceOver(const String &text) {
++	String out;
++	bool pendingSpace = false;
++	for (uint32 i = 0; i < text.size(); i++) {
++		const char c = text[i];
++		if (c == ' ' || c == '\n' || c == '\r' || c == '\t') {
++			pendingSpace = !out.empty();
++		} else {
++			if (pendingSpace) {
++				out += ' ';
++				pendingSpace = false;
++			}
++			out += c;
++		}
++	}
++	return out;
++}
++
++static String voiceOverHash(const String &normalized) {
++	uint64 hash = 0xcbf29ce484222325ULL;
++	for (uint32 i = 0; i < normalized.size(); i++) {
++		hash ^= (byte)normalized[i];
++		hash *= 0x100000001b3ULL;
++	}
++	return String::format("%016llx", (unsigned long long)hash);
++}
++
++// Per-run cache: which target's manifest is loaded, the hash->file map, the
++// directory the clips live in, and the handle of whatever is currently
++// speaking so a new line interrupts the old one (mirrors the browser behavior).
++namespace {
++struct VoiceOverState {
++	bool triedLoad = false;
++	String loadedTarget;
++	FSNode voicesDir;
++	HashMap<String, String> map;      // hash -> clip filename
++	Audio::SoundHandle handle;
++	String lastHash;
++};
++VoiceOverState g_vo;
++Mutex g_voMutex;
++}
++
++// Locate <game path>/agitwo-voices and parse manifest.json into g_vo.map.
++// Returns false (with g_vo.triedLoad set) if voice data is not installed.
++static bool ensureManifestLoaded(const String &target) {
++	if (g_vo.triedLoad && g_vo.loadedTarget == target)
++		return !g_vo.map.empty();
++
++	g_vo.triedLoad = true;
++	g_vo.loadedTarget = target;
++	g_vo.map.clear();
++
++	if (!ConfMan.hasKey("path"))
++		return false;
++
++	FSNode gameDir(ConfMan.getPath("path"));
++	FSNode dir = gameDir.getChild("agitwo-voices");
++	if (!dir.isDirectory())
++		return false;
++	g_vo.voicesDir = dir;
++
++	FSNode manifestNode = dir.getChild("manifest.json");
++	Common::ScopedPtr<SeekableReadStream> stream(manifestNode.createReadStream());
++	if (!stream)
++		return false;
++
++	String jsonText;
++	{
++		const int64 size = stream->size();
++		if (size <= 0 || size > (16 << 20)) // sanity cap: 16 MB
++			return false;
++		char *buf = new char[size + 1];
++		const uint32 read = stream->read(buf, (uint32)size);
++		buf[read] = '\0';
++		jsonText = String(buf, read);
++		delete[] buf;
++	}
++
++	JSONValue *root = JSON::parse(jsonText);
++	if (!root) {
++		warning("agitwo: could not parse %s", manifestNode.getName().c_str());
++		return false;
++	}
++	if (root->isObject()) {
++		const JSONObject &obj = root->asObject();
++		for (JSONObject::const_iterator it = obj.begin(); it != obj.end(); ++it) {
++			if (it->_value && it->_value->isString())
++				g_vo.map[it->_key] = it->_value->asString();
++		}
++	}
++	delete root;
++
++	debug(1, "agitwo: loaded voice manifest for %s (%u clips)",
++	      target.c_str(), (uint)g_vo.map.size());
++	return !g_vo.map.empty();
++}
++
++bool playVoiceOver(const String &text) {
++	const String normalized = normalizeForVoiceOver(text);
++	if (normalized.empty())
++		return false;
++
++	StackLock lock(g_voMutex);
++
++	const String target = ConfMan.getActiveDomainName();
++	if (!ensureManifestLoaded(target))
++		return false;
++
++	const String hash = voiceOverHash(normalized);
++	if (!g_vo.map.contains(hash))
++		return false;
++
++	Audio::Mixer *mixer = g_system->getMixer();
++	if (!mixer)
++		return false;
++
++	// Don't restart a line that is already speaking.
++	if (g_vo.lastHash == hash && mixer->isSoundHandleActive(g_vo.handle))
++		return true;
++
++#ifdef USE_MAD
++	const String clip = g_vo.map[hash];
++	FSNode clipNode = g_vo.voicesDir.getChild(clip);
++	SeekableReadStream *clipStream = clipNode.createReadStream();
++	if (!clipStream)
++		return false;
++
++	Audio::SeekableAudioStream *audio = Audio::makeMP3Stream(clipStream, DisposeAfterUse::YES);
++	if (!audio)
++		return false;
++
++	if (mixer->isSoundHandleActive(g_vo.handle))
++		mixer->stopHandle(g_vo.handle);
++	mixer->playStream(Audio::Mixer::kSpeechSoundType, &g_vo.handle, audio);
++	g_vo.lastHash = hash;
++	return true;
++#else
++	// No MP3 decoder in this build: a matching clip exists but we cannot play
++	// it. Report not-played so the engine's own TTS/text handling proceeds.
++	return false;
++#endif
++}
++
++} // namespace Common
++
++#endif // !EMSCRIPTEN
+diff --git a/audio/module.mk b/audio/module.mk
+index a5078213..779d737d 100644
+--- a/audio/module.mk
++++ b/audio/module.mk
+@@ -1,6 +1,7 @@
+ MODULE := audio
+ 
+ MODULE_OBJS := \
++	agitwo_voiceover.o \
+ 	adlib.o \
+ 	adlib_ctmidi.o \
+ 	adlib_hmisos.o \
+diff --git a/audio/rate.cpp b/audio/rate.cpp
+index eac9fb35..2f90a7eb 100644
+--- a/audio/rate.cpp
++++ b/audio/rate.cpp
+@@ -152,6 +152,60 @@ int RateConverter_Impl<inStereo, outStereo, reverseStereo>::commonConvert(AudioS
+ 		const int count = MIN(
+ 			_bufferSize / (inStereo ? 2 : 1),
+ 			(int)(outEnd - outBuffer) / (outStereo ? 2 : 1) / outputSamples);
++
++		// The remaining output space can be smaller than one full upsample
++		// group (outputSamples output frames per input frame), leaving count
++		// at 0 with input still buffered: without this guard the loop would
++		// never advance again. Fill the tail by duplicating the next input
++		// sample (without consuming it) and finish.
++		if (count == 0 && _bufferSize > 0) {
++			int16 inL = 0, inR = 0;
++			if (volL | volR) {
++				if (inStereo) {
++					inL = _bufferPos[0];
++					inR = _bufferPos[1];
++				} else {
++					inL = inR = _bufferPos[0];
++				}
++			}
++
++			st_sample_t outL = 0, outR = 0;
++			if (volL != 0) {
++				if (volL != Audio::Mixer::kMaxMixerVolume)
++					outL = (inL * (int)volL_val) / Audio::Mixer::kMaxMixerVolume;
++				else
++					outL = inL;
++			}
++			if (volR != 0) {
++				if (volR != Audio::Mixer::kMaxMixerVolume)
++					outR = (inR * (int)volR_val) / Audio::Mixer::kMaxMixerVolume;
++				else
++					outR = inR;
++			}
++
++			while (outBuffer < outEnd) {
++				if (volL | volR) {
++					if (outStereo) {
++						if (volL != 0)
++							processSample<mixMode>(outBuffer[reverseStereo    ], outL);
++						if (volR != 0)
++							processSample<mixMode>(outBuffer[reverseStereo ^ 1], outR);
++					} else {
++						st_sample_t monoOut = 0;
++						if (volL != 0 && volR != 0)
++							monoOut = (outL + outR) / 2;
++						else if (volL != 0)
++							monoOut = outL / 2;
++						else if (volR != 0)
++							monoOut = outR / 2;
++						processSample<mixMode>(outBuffer[0], monoOut);
++					}
++				}
++				outBuffer += (outStereo ? 2 : 1);
++			}
++			break;
++		}
++
+ 		_bufferSize -= count * (inStereo ? 2 : 1);
+ 
+ 		if (volL | volR) {
+diff --git a/backends/mixer/emscriptensdl/emscriptensdl-mixer.cpp b/backends/mixer/emscriptensdl/emscriptensdl-mixer.cpp
+index 9737b26d..fd214481 100644
+--- a/backends/mixer/emscriptensdl/emscriptensdl-mixer.cpp
++++ b/backends/mixer/emscriptensdl/emscriptensdl-mixer.cpp
+@@ -136,6 +136,12 @@ void EmscriptenSdlMixerManager::updateMixer(void *refCon) {
+ 	static uint lastFullBufferPrint = 0;
+ 	if (manager->_dataBuffers->size() < 2) {
+ 		int amount = manager->_lastRequestedAmount > 0 ? manager->_lastRequestedAmount : 8 * 1024;
++		// Round down to whole 4-frame groups (16 bytes at s16 stereo): SDL3's
++		// internal resampler requests odd frame counts, which leave upsampling
++		// rate converters a sub-group output tail every callback.
++		amount &= ~15;
++		if (amount == 0)
++			amount = 8 * 1024;
+ 		if (manager->_stream) {
+ 			Uint8 *dataBuffer = (Uint8 *)SDL_malloc(sizeof(Uint8) * (amount));
+ 			if (dataBuffer) {
+diff --git a/common/module.mk b/common/module.mk
+index 3a1e22f9..7d5f1df8 100644
+--- a/common/module.mk
++++ b/common/module.mk
+@@ -46,6 +46,7 @@ MODULE_OBJS := \
+ 	unicode-bidi.o \
+ 	ustr.o \
+ 	util.o \
++	voiceover.o \
+ 	xpfloat.o \
+ 	zip-set.o \
+ 	std/std.o
+diff --git a/common/voiceover.cpp b/common/voiceover.cpp
+new file mode 100644
+index 00000000..d5907815
+--- /dev/null
++++ b/common/voiceover.cpp
+@@ -0,0 +1,80 @@
++/* ScummVM - Graphic Adventure Engine
++ *
++ * ScummVM is the legal property of its developers, whose names
++ * are too numerous to list here. Please refer to the COPYRIGHT
++ * file distributed with this source distribution.
++ *
++ * This program is free software: you can redistribute it and/or modify
++ * it under the terms of the GNU General Public License as published by
++ * the Free Software Foundation, either version 3 of the License, or
++ * (at your option) any later version.
++ *
++ * This program is distributed in the hope that it will be useful,
++ * but WITHOUT ANY WARRANTY; without even the implied warranty of
++ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
++ * GNU General Public License for more details.
++ *
++ * You should have received a copy of the GNU General Public License
++ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
++ *
++ */
++
++#define FORBIDDEN_SYMBOL_EXCEPTION_FILE
++
++#include "common/voiceover.h"
++
++#ifdef EMSCRIPTEN
++
++#include <emscripten.h>
++#include "common/config-manager.h"
++
++namespace Common {
++
++// Collapse whitespace runs to single spaces, trim ends. Must match the
++// normalization in tools/gen_voice_manifest.py on the agitwo side.
++static String normalizeForVoiceOver(const String &text) {
++	String out;
++	bool pendingSpace = false;
++	for (uint32 i = 0; i < text.size(); i++) {
++		const char c = text[i];
++		if (c == ' ' || c == '\n' || c == '\r' || c == '\t') {
++			pendingSpace = !out.empty();
++		} else {
++			if (pendingSpace) {
++				out += ' ';
++				pendingSpace = false;
++			}
++			out += c;
++		}
++	}
++	return out;
++}
++
++bool playVoiceOver(const String &text) {
++	const String normalized = normalizeForVoiceOver(text);
++	if (normalized.empty())
++		return false;
++
++	// 64-bit FNV-1a over the normalized bytes
++	uint64 hash = 0xcbf29ce484222325ULL;
++	for (uint32 i = 0; i < normalized.size(); i++) {
++		hash ^= (byte)normalized[i];
++		hash *= 0x100000001b3ULL;
++	}
++	const String hashStr = String::format("%016llx", (unsigned long long)hash);
++	const String target = ConfMan.getActiveDomainName();
++
++	const int played = EM_ASM_INT({
++		if (typeof window !== 'undefined' && window.agitwoPlayVoice)
++			return window.agitwoPlayVoice(UTF8ToString($0), UTF8ToString($1)) ? 1 : 0;
++		return 0;
++	}, target.c_str(), hashStr.c_str());
++	return played != 0;
++}
++
++} // namespace Common
++
++#endif
++// Non-EMSCRIPTEN (native) builds implement Common::playVoiceOver in
++// audio/agitwo_voiceover.cpp, which is allowed to depend on the mixer and
++// audio decoders (the common module is not).
+diff --git a/common/voiceover.h b/common/voiceover.h
+new file mode 100644
+index 00000000..9bb75ab4
+--- /dev/null
++++ b/common/voiceover.h
+@@ -0,0 +1,49 @@
++/* ScummVM - Graphic Adventure Engine
++ *
++ * ScummVM is the legal property of its developers, whose names
++ * are too numerous to list here. Please refer to the COPYRIGHT
++ * file distributed with this source distribution.
++ *
++ * This program is free software: you can redistribute it and/or modify
++ * it under the terms of the GNU General Public License as published by
++ * the Free Software Foundation, either version 3 of the License, or
++ * (at your option) any later version.
++ *
++ * This program is distributed in the hope that it will be useful,
++ * but WITHOUT ANY WARRANTY; without even the implied warranty of
++ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
++ * GNU General Public License for more details.
++ *
++ * You should have received a copy of the GNU General Public License
++ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
++ *
++ */
++
++#ifndef COMMON_VOICEOVER_H
++#define COMMON_VOICEOVER_H
++
++#include "common/str.h"
++
++namespace Common {
++
++/**
++ * agitwo voice-over bridge (Emscripten only).
++ *
++ * Looks up a pre-generated voice clip for the displayed text in the
++ * browser-side manifest (voices/<target>/manifest.json) and starts
++ * playback via the page's agitwoPlayVoice() JS function.
++ *
++ * The lookup key is the 64-bit FNV-1a hash of the text with all
++ * whitespace runs collapsed to single spaces and leading/trailing
++ * whitespace removed. The same normalization must be used by the
++ * manifest generator.
++ *
++ * @return true when a clip was found and playback started; the caller
++ *         should then skip text-to-speech for this string. Always
++ *         false on non-Emscripten builds.
++ */
++bool playVoiceOver(const String &text);
++
++} // namespace Common
++
++#endif
+diff --git a/dists/emscripten/custom_shell.html b/dists/emscripten/custom_shell.html
+index 1d655a2a..65e5f94a 100644
+--- a/dists/emscripten/custom_shell.html
++++ b/dists/emscripten/custom_shell.html
+@@ -207,6 +207,64 @@
+       }
+     };
+     Module.setStatus('Downloading ScummVM...');
++
++    // agitwo voice-over playback. The engine calls window.agitwoPlayVoice(target, hash)
++    // (via common/voiceover.cpp) for every displayed text; hash is the 64-bit FNV-1a
++    // of the whitespace-normalized string. Clips + manifests live under voices/<target>/.
++    (function () {
++      var manifests = {};   // target -> Map(hash -> clip file) | null (missing) | 'loading'
++      var currentAudio = null;
++      var currentHash = null;
++      function loadManifest(target) {
++        if (manifests[target] !== undefined) return;
++        manifests[target] = 'loading';
++        fetch('voices/' + target + '/manifest.json')
++          .then(function (r) { return r.ok ? r.json() : null; })
++          .then(function (json) {
++            manifests[target] = json ? new Map(Object.entries(json)) : null;
++            if (json) console.log('agitwo: loaded voice manifest for ' + target + ' (' + Object.keys(json).length + ' clips)');
++          })
++          .catch(function () { manifests[target] = null; });
++      }
++      window.agitwoPlayVoice = function (target, hash) {
++        var m = manifests[target];
++        if (m === undefined) { loadManifest(target); return false; }
++        if (m === 'loading' || m === null) return false;
++        var clip = m.get(hash);
++        if (!clip) return false;
++        if (currentHash === hash && currentAudio && !currentAudio.ended) return true; // don't restart same line
++        if (currentAudio) { currentAudio.pause(); currentAudio = null; }
++        currentAudio = new Audio('voices/' + target + '/' + clip);
++        currentHash = hash;
++        console.log('agitwo: playing voice clip ' + clip);
++        currentAudio.play().catch(function (e) { console.log('agitwo: voice play blocked/failed: ' + e); });
++        return true;
++      };
++      // Start manifest fetch early for the target passed in the URL hash, so the
++      // first lines of the game already have voices.
++      if (window.location.hash.length > 1) {
++        var args = decodeURI(window.location.hash.substring(1)).split(' ');
++        loadManifest(args[args.length - 1]);
++      }
++      // Autoplay policy: a clip requested before the first user gesture is
++      // created paused; retry it once the user interacts.
++      function agitwoUnlock() {
++        if (currentAudio && currentAudio.paused && !currentAudio.ended)
++          currentAudio.play().catch(function () {});
++        document.removeEventListener('keydown', agitwoUnlock, true);
++        document.removeEventListener('pointerdown', agitwoUnlock, true);
++      }
++      document.addEventListener('keydown', agitwoUnlock, true);
++      document.addEventListener('pointerdown', agitwoUnlock, true);
++    })();
++
++    // Work around the port's aspect-ratio bug (wrong scaling until the window
++    // is resized once): whenever the game changes the canvas resolution,
++    // dispatch a synthetic window resize shortly after.
++    new MutationObserver(function () {
++      setTimeout(function () { window.dispatchEvent(new Event('resize')); }, 250);
++    }).observe(document.getElementById('canvas'), { attributes: true, attributeFilter: ['width', 'height'] });
++
+     window.onerror = function () {
+       statusElement.classList.add("error")
+       Module.setStatus('Exception thrown, see JavaScript console');
+diff --git a/engines/agi/agi.cpp b/engines/agi/agi.cpp
+index 95d4ad40..5684ecfb 100644
+--- a/engines/agi/agi.cpp
++++ b/engines/agi/agi.cpp
+@@ -27,6 +27,7 @@
+ #include "common/debug-channels.h"
+ #include "common/random.h"
+ #include "common/textconsole.h"
++#include "common/voiceover.h"
+ 
+ #include "engines/util.h"
+ 
+@@ -649,6 +650,15 @@ void AgiEngine::sayText(const Common::String &text, Common::TextToSpeechManager:
+ 		return;
+ 	}
+ 
++	// agitwo voice-over: when a pre-generated clip exists for this text,
++	// play it and skip TTS for this string.
++	if (!checkPreviousSaid || _previousSaid != text) {
++		if (Common::playVoiceOver(text)) {
++			_previousSaid = text;
++			return;
++		}
++	}
++
+ 	Common::TextToSpeechManager *ttsMan = g_system->getTextToSpeechManager();
+ 	if (ttsMan && ConfMan.getBool("tts_enabled") && (!checkPreviousSaid || _previousSaid != text)) {
+ 		Common::String ttsMessage = text;
+diff --git a/engines/sci/engine/tts.cpp b/engines/sci/engine/tts.cpp
+index 7c16a9b5..8aa01aad 100644
+--- a/engines/sci/engine/tts.cpp
++++ b/engines/sci/engine/tts.cpp
+@@ -25,6 +25,7 @@
+ #include "common/system.h"
+ #include "common/text-to-speech.h"
+ #include "common/config-manager.h"
++#include "common/voiceover.h"
+ 
+ namespace Sci {
+ 
+@@ -37,11 +38,17 @@ SciTTS::SciTTS() : _curMessage("") {
+ }
+ 
+ void SciTTS::button(const Common::String &text) {
++	// agitwo voice-over: pre-generated clip replaces TTS when available
++	if (shouldPerformTTS(text) && Common::playVoiceOver(getMessage(text)))
++		return;
+ 	if (_ttsMan != nullptr && shouldPerformTTS(text))
+ 		_ttsMan->say(getMessage(text), Common::TextToSpeechManager::QUEUE_NO_REPEAT);
+ }
+ 
+ void SciTTS::text(const Common::String &text) {
++	// agitwo voice-over: pre-generated clip replaces TTS when available
++	if (shouldPerformTTS(text) && Common::playVoiceOver(getMessage(text)))
++		return;
+ 	if (_ttsMan != nullptr && shouldPerformTTS(text))
+ 		_ttsMan->say(getMessage(text), Common::TextToSpeechManager::INTERRUPT);
+ }

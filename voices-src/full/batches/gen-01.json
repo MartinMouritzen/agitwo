@@ -1,0 +1,1352 @@
+[
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 39,
+  "text": "\"You may be in luck.  I carry a modest amount of adventurer's equipment behind the counter.  Would you like to make a purchase?\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1150-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 40,
+  "text": "\"Oh, good! I do try to stock some things adventurers can use.  I actually would rather be an adventurer than a shopkeeper, you see.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1151-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 41,
+  "text": "\"My items are pretty ordinary, though.  You probably already have most of them if you've done any adventuring at all.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1152-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 42,
+  "text": "\"Now what was that you wanted again?\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1153-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 43,
+  "text": "Well, look around anyway.  You may find something you could use.\"",
+  "speaker": "shopkeeper",
+  "voiceId": 176,
+  "file": "qfg1-1154-shopkeeper.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 44,
+  "text": "You see broom and rake handles in this barrel.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1155-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 45,
+  "text": "Flasks, very useful for storing liquids.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1156-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 46,
+  "text": "An unornamented but exceptionally sturdy shield.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1157-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 47,
+  "text": "The proprietor's teapot.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1158-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 48,
+  "text": "Pickled Saurus eggs.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1159-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 49,
+  "text": "Linen coarsely woven from the fibers of spore spitting Spirea plants.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1160-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 50,
+  "text": "Bags of flour.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1161-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 51,
+  "text": "Pickled pigs feet.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1162-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 52,
+  "text": "Jars of beets and sauerkraut.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1163-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 53,
+  "text": "Tea imported all the way from Shapeir.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1164-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 54,
+  "text": "Salt from the desert east of the mountains.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1165-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 55,
+  "text": "Sugar from dried figs.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1166-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 56,
+  "text": "Salted, dried Saurus.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1167-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 57,
+  "text": "Locally grown pepper.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1168-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 322,
+  "idx": 58,
+  "text": "Wild honey from the forest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1169-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 0,
+  "text": "You add ten gold and sixty silver coins to your money pouch.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1170-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 2,
+  "text": "The Kobold seems more interested in frying you with Ball Lightning than in talking to you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1171-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 3,
+  "text": "You'd better not.  This cave is not recommended by the Michelin Guide.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1172-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 4,
+  "text": "You don't have time for that now.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1173-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 5,
+  "text": "You can't reach the key from here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1174-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 6,
+  "text": "You take the Kobold's glowing key.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1175-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 7,
+  "text": "The Kobold won't let you near his key.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1176-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 8,
+  "text": "VERY carefully, you remove the key from around the Kobold's neck.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1177-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 9,
+  "text": "Uh oh.  You weren't stealthy enough.  You have awoken the Kobold.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1178-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 10,
+  "text": "You already have the key.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1179-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 11,
+  "text": "You retrieve the dropped key.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1180-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 12,
+  "text": "The key is gone.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1181-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 13,
+  "text": "The chest is far too heavy to move.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1182-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 14,
+  "text": "You've already taken the treasure.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1183-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 15,
+  "text": "You are too far away to get the Kobold's treasure.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1184-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 16,
+  "text": "You will have to open it first.  The chest seems to be locked.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1185-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 17,
+  "text": "The key doesn't fit in the chest.  It must be for a different lock.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1186-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 18,
+  "text": "You don't see any locks here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1187-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 20,
+  "text": "You have no skill at picking locks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1188-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 21,
+  "text": "You don't see a chest here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1189-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 22,
+  "text": "No time for that now!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1190-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 23,
+  "text": "You pick up the Kobold's mushrooms and put them in your pack.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1191-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 24,
+  "text": "The fungus is slimy and firmly attached to the cave walls.  You'd better leave it there.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1192-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 25,
+  "text": "Looking back the way you came, you see a faint reflection of the distant sunlight from the cave entrance.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1193-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 26,
+  "text": "The stalactites look much like the stalagmites, except that they go the other way.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1194-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 27,
+  "text": "This part of the cavern is spacious and multi-leveled.  Phosphorescent fungus illuminates the cavern with an unearthly glow.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1195-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 28,
+  "text": "On a rocky platform above the cave floor is a Kobold, one of the race of ugly, miserly creatures known for their skill in Magic.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1196-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 29,
+  "text": "The Kobold's large, brass key glows slightly in the dark cavern.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1197-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 30,
+  "text": "Some sort of food (mushrooms?) sits in a pile on the stone table.  It looks almost edible... to a Kobold.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1198-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 31,
+  "text": "The Kobold's dinner table is now bare.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1199-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 32,
+  "text": "The strange creature is dressed in ragged clothes.  It has large, pale eyes.  It must have spent its entire life in these caves!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1200-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 33,
+  "text": "A large, brass key hangs from a thong around the creature's neck.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1201-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 34,
+  "text": "The Kobold has disappeared entirely.  You are not sure whether you killed him, or whether he escaped by some sort of spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1202-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 35,
+  "text": "Where the chest was, you see numerous pieces of gold and silver.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1203-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 36,
+  "text": "There is no sign of any other treasure in the cavern.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1204-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 37,
+  "text": "You don't *see* any treasure here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1205-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 38,
+  "text": "The chest is empty.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1206-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 39,
+  "text": "The chest contains numerous pieces of gold and silver.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1207-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 40,
+  "text": "You will have to open the chest first.  It seems to be locked.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1208-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 41,
+  "text": "Nothing useful remains of the chest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1209-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 42,
+  "text": "You cannot see the chest, but it feels fairly large, and is too heavy to carry.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1210-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 43,
+  "text": "You don't *see* a treasure chest here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1211-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 44,
+  "text": "The damp floor is too slippery for you to run safely.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1212-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 45,
+  "text": "Just try to walk out of the cave while you still have time.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1213-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 46,
+  "text": "That's what you're doing.  Keep going!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1214-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 47,
+  "text": "There are no monsters here to attack.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1215-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 48,
+  "text": "How embarrassing.  You don't have a weapon with which to fight!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1216-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 49,
+  "text": "You're too close to the Kobold for throwing to be practical.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1217-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 51,
+  "text": "There's nothing to open here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1218-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 52,
+  "text": "There are no passive spells to trigger here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1219-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 53,
+  "text": "You don't need to cast Fetch -- everything here is in easy reach.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1220-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 54,
+  "text": "You just bumped into something on the floor.  It feels like a large wooden chest, but you don't see anything there.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1221-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 55,
+  "text": "Wow!  The chest must have been booby-trapped.  You can really feel the damage from the blast.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1222-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 56,
+  "text": "\"You go!  You no stay here!\"",
+  "speaker": "kobold",
+  "voiceId": 796,
+  "file": "qfg1-1223-kobold.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 57,
+  "text": "Your foot slips on the wet cavern floor and makes a scuffing noise.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1224-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 58,
+  "text": "The Kobold casts a spell with which you are not familiar.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1225-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 59,
+  "text": "Next time you swing at innocent inanimate objects, make sure you are strong enough to survive when they swing back at you!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1226-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 60,
+  "text": "You could not withstand the force of the blast from the Kobold's magically protected chest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1227-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 61,
+  "text": "You are overcome by the power of the Kobold Wizard's magic.  You need to either practice your skills more or plan a better attack strategy.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1228-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 15,
+  "idx": 62,
+  "text": "This section of cave has an eerie quality.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1229-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 0,
+  "text": "This large rock covers a Meep hole.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1230-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 1,
+  "text": "A furry blue Meep",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1231-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 2,
+  "text": "A furry purple Meep",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1232-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 3,
+  "text": "A furry green Meep",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1233-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 4,
+  "text": "No way!  Those Meeps are too fast and the rocks too hard for you to want to try that again!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1234-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 5,
+  "text": "Try going over to where the Meeps are if you really want to hack them into little furry bits.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1235-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 6,
+  "text": "You detect no other magic here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1236-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 7,
+  "text": "The Open spell only works on locks and small closed things.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1237-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 8,
+  "text": "You don't have a rock",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1238-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 9,
+  "text": "You can't get that from where you're standing.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1239-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 10,
+  "text": "The Meeps would not appreciate it if you tried to take their fur -- the weather here is still very cold.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1240-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 11,
+  "text": "You don't see a Spell Scroll here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1241-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 12,
+  "text": "The baby Meep is just too quick for you.  Besides, they eat too much.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1242-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 13,
+  "text": "You don't see any baby Meeps at the moment.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1243-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 14,
+  "text": "You look at the apple cores, and quickly decide they are of no use to you.  Besides, they look disgusting.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1244-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 15,
+  "text": "You are in the Meeps' Peep.  The colorful, furry Meeps timidly pop out of their holes from time to time.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1245-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 16,
+  "text": "The baby Meep sure is cute.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1246-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 17,
+  "text": "All of the Meeps are hiding deep within their holes.  Your vicious attack has them terrified.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1247-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 18,
+  "text": "You realize that you have never seen more than one green Meep at a time.  Perhaps there is only one.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1248-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 19,
+  "text": "There seems to be an abundant supply of blue and purple Meeps.  If only they'd stay still for a moment, perhaps you could count them.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1249-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 20,
+  "text": "You see blue Meeps, purple Meeps, and occasionally a green Meep.  They seem to be very shy; whenever you approach one, it hides under its rock.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1250-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 21,
+  "text": "Large, heavy-looking rocks cover the many holes.  The Meeps must be stronger than they look to lift these rocks so easily.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1251-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 22,
+  "text": "You keep seeing differently-colored Meeps come out of each hole.  They either lead to large underground caverns, or they are all connected under the earth.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1252-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 23,
+  "text": "The trees and bushes look much like those you've seen elsewhere in the valley.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1253-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 24,
+  "text": "The mountains are very steep here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1254-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 25,
+  "text": "The meadow is covered with a light carpet of grass, broken up by the Meep holes.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1255-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 26,
+  "text": "There is a wad of bright green fur on the ground.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1256-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 27,
+  "text": "The Meeps have brightly-colored, soft-looking fur.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1257-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 28,
+  "text": "It looks like a Spell Scroll.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1258-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 29,
+  "text": "The scroll is blank now, but once contained the Detect Magic spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1259-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 30,
+  "text": "You can't talk to any of the Meeps.  They are all hiding deep within their holes, terrified after your vicious attack.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1260-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 31,
+  "text": "\"Hey, just ask me about anything you want to know.\"",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-1261-meep.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 32,
+  "text": "You don't see any Meeps to talk to at the moment.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1262-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 33,
+  "text": "\"We use rocks for doors.  They keep us dry and warm.\"",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-1263-meep.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 34,
+  "text": "\"We are happy Meeps, living in our happy holes.  Don't worry.  Be happy!\"",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-1264-meep.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 35,
+  "text": "\"Hey, go ahead, take it. It's yours.\"",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-1265-meep.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 36,
+  "text": "\"Hey, like fur is good stuff, keeps us warm.  Mine's the best -- it's like green, you know?\"",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-1266-meep.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 37,
+  "text": "\"Gee, boss, I really don't know much about that at all.  Hey, sorry.\"",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-1267-meep.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 38,
+  "text": "Why, that's me!",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-1268-meep.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 39,
+  "text": "Man, those rocks are tough!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1269-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 40,
+  "text": "You hear squeaky muttering from beneath the ground.  It seems the Meeps are having quite a discussion about you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1270-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 41,
+  "text": "Hiya, hiya.  Nice to seeya 'gain.",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-1271-meep.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 42,
+  "text": "Hiya, hiya.  Pleased to meetcha.",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-1272-meep.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 43,
+  "text": "\"Hey, there ya go.  Hope it helps ya.\"",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-1273-meep.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 44,
+  "text": "\"Hey, sorry I couldn't help ya.\"",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-1274-meep.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 46,
+  "text": "Gosh, I don't seem to have anything like that left.  Really sorry 'bout that.",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-1275-meep.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 47,
+  "text": "You pick up the pile of soft green fur and carefully place it in your pack.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1276-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 48,
+  "text": "You pick up the Spell Scroll.  As the magical runes fade, you find you now know how to cast the \"Detect Magic\" spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1277-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 49,
+  "text": "The magical runes fade from the paper before your eye can focus on them.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1278-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 0,
+  "text": "That's one mean Ogress!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1279-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 1,
+  "text": "There's no time for idle chatter.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1280-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 2,
+  "text": "There is a bat, all folded up within his wings, hanging on the wall.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1281-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 3,
+  "text": "Is that a SMILE on that spider's face?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1282-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 4,
+  "text": "You HATE houses with cobwebs in the corners, especially when there's an immense spider squatting cheerily in the middle of the cobweb.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1283-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 5,
+  "text": "The glass seems to distort the view of the outside world.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1284-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 6,
+  "text": "There's a lot of SOMETHING cooking away in the huge black cauldron.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1285-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 7,
+  "text": "The smell is awful, the color is sickening, and you don't even want to know what's being prepared for dinner.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1286-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 8,
+  "text": "The fire burns hot under the kettle.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1287-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 9,
+  "text": "The stone hearth and chimney radiates too much heat.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1288-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 10,
+  "text": "It's a plain wooden kitchen cupboard.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1289-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 11,
+  "text": "The kitchen knives look old but sharp.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1290-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 12,
+  "text": "The pile of straw covered by a blanket must be the occupant's bed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1291-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 13,
+  "text": "You furtively grasp the Magic Mirror.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1292-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 14,
+  "text": "You don't seem to be able to move.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1293-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 15,
+  "text": "You cannot see the witch anywhere.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1294-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 16,
+  "text": "You might as well be talking to yourself.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1295-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 17,
+  "text": "Your magic is useless here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1296-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 18,
+  "text": "A quick look around shows that this is a creepy place, despite the pot (cauldron?) simmering briskly on the fire.  Look at the size of that spider!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1297-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 19,
+  "text": "The small hut has a beamed ceiling.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1298-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 21,
+  "idx": 20,
+  "text": "The floor is tidy, with a pile of straw in one corner.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-1299-narrator.mp3"
+ }
+]

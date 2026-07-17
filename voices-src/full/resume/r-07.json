@@ -1,0 +1,1359 @@
+[
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 26,
+  "text": "\"That's all right; we already have all your money.  But it was certainly nice of you to offer.\"",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-3544-slink.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 27,
+  "text": "\"Hey!  You don't have enough money to be worth our while.  How do you expect us poor independent businessmen to make a living?\"",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-3545-slink.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 28,
+  "text": "Slink: \"Thanks, it's been a pleasure doing business with you.  You can find your way out, I'm sure.  But better hurry before my dagger starts to slip.\"",
+  "say": "Thanks, it's been a pleasure doing business with you. You can find your way out, I'm sure. But better hurry before my dagger starts to slip.",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-3546-slink.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 29,
+  "text": "Slink:  \"My finger is starting to get a bit twitchy, so forget about questions, just pay the man and get out alive.\"",
+  "say": "My finger is starting to get a bit twitchy, so forget about questions, just pay the man and get out alive.",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-3547-slink.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 30,
+  "text": "As you start to draw your weapon, the thieves jump you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3548-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 31,
+  "text": "Before you can begin to use any magic, the thieves decide that you're up to no good.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3549-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 32,
+  "text": "Slink says, \"That coin light spell gets them every time.  See that dagger?  The next one is centered on your back.  Give Sneak there your cash and you walk out of here.  It's a simple trade, your life for your money.\"",
+  "say": "That coin light spell gets them every time. See that dagger? The next one is centered on your back. Give Sneak there your cash and you walk out of here. It's a simple trade, your life for your money.",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-3550-slink.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 33,
+  "text": "Slink:  \"Why, how nice to see you again.  I do hope (for your sake) you brought us some nice shiny new silver.\"",
+  "say": "Why, how nice to see you again. I do hope (for your sake) you brought us some nice shiny new silver.",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-3551-slink.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 34,
+  "text": "Slink:  \"Hey, Sneak, this guy's hard of hearing or something.  I told him to get a license last time he was here, and he didn't listen.\"",
+  "say": "Hey, Sneak, this guy's hard of hearing or something. I told him to get a license last time he was here, and he didn't listen.",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-3552-slink.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 35,
+  "text": "\"Let's teach him a little lesson about listening to his betters.\"",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-3553-slink.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 36,
+  "text": "As Slink reaches for his dagger, you draw your Thieves' Guild license. . .",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3554-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 37,
+  "text": "You *almost* make it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3555-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 38,
+  "text": "Slink:  \"Hey, Sneak, this guy's hard of hearing or something.  I told him to stay out of our alley, and he didn't listen.\"",
+  "say": "Hey, Sneak, this guy's hard of hearing or something. I told him to stay out of our alley, and he didn't listen.",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-3556-slink.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 39,
+  "text": "You win by a close margin.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3557-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 40,
+  "text": "Slink:  \"All right, so you got your license.  How nice.  Guess we don't get to kill you right now.\"",
+  "say": "All right, so you got your license. How nice. Guess we don't get to kill you right now.",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-3558-slink.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 41,
+  "text": "\"But stay out of our alley, 'cause we got real short memories, like.\"",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-3559-slink.mp3"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 42,
+  "text": "Perhaps you shouldn't explore dark alleys at night unless you are looking for trouble.  Or perhaps you should look in your manual to learn how to deal with thieves.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3560-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 0,
+  "text": "This room is full of odds, ends, and stuff.  The wizard must be a real character.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3561-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 1,
+  "text": "Through the portal to the east is a large formal dining room.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3562-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 2,
+  "text": "Through the portal to the west is a small sitting room.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3563-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 3,
+  "text": "Against the east wall, you see a bookcase and a desk, above which is hung a dragon's head trophy.  These are on either side of a doorway, above which hangs a shield.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3564-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 4,
+  "text": "Leaning against the west wall is a mummy case.  Above that hangs an ancient tapestry.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3565-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 5,
+  "text": "The wall is plain.  You see nothing but the front door of the house.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3566-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 6,
+  "text": "Above the staircase hangs a portrait, flanked by decorative wall hangings.  In an alcove on the landing stands a suit of armor.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3567-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 7,
+  "text": "There is a table up against the staircase wall, and on the wall hangs an onklunk.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3568-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 8,
+  "text": "It was a moderately large and fearful dragon at one time.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3569-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 9,
+  "text": "The Ball of Light floats magically over the center of the room.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3570-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 10,
+  "text": "You admire the plumage on the peacock.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3571-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 11,
+  "text": "The poor stuffed peacock seems bedraggled, worn, and over-used.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3572-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 12,
+  "text": "You can make out the runes imprinted on the\nstrange device:  \"Acme Toy Co.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3573-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 13,
+  "text": "Oh my!  It's a Dunking Dragon!  You thought they were only to be found in myths and legends.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3574-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 14,
+  "text": "It is a standard roll-top desk.  There is nothing on it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3575-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 15,
+  "text": "The suit of armor was made for someone much taller than you.   The plaque underneath it reads:\n  \"Bequeathed by Colonel Gulden Dijon.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3576-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 16,
+  "text": "You have no idea what it is, but it has the words \"Lytton P. D.\" inscribed upon it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3577-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 17,
+  "text": "Dredging up your ancient Egyptian,\nyou translate the hieroglyphs:\n  \"She of the golden hair.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3578-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 18,
+  "text": "This is an excerpt from the Rosella Stone!  There is a picture next to the message.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3579-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 20,
+  "text": "By golly, it's a rare Peruvian Onklunk!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3580-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 21,
+  "text": "You wonder if the portrait of Erasmus is really a painting, or something completely different.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3581-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 22,
+  "text": "Your eyes are drawn to the eyes of the figure in the portrait.  His intense stare is unnerving.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3582-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 23,
+  "text": "This would not be someone to trifle with, for he looks subtle and quick to anger.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3583-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 24,
+  "text": "This item appears to be an ebony chest. It could contain anything.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3584-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 25,
+  "text": "The table is bare, except for a stuffed bird which faces the door.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3585-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 26,
+  "text": "The books on the shelves of the bookcase appear to be very old, very rare, and very magical.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3586-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 27,
+  "text": "You find titles like:  \"Zen and the Art of Magical Maintenance\",  \"How to Be a Halfling\",  \"The Sensuous Succubus\",  and \"Tobin's Spirit Guide, Volume II:  Asmodeus to Casper\".",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3587-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 28,
+  "text": "The shield looks like it belonged to one of those \"Once and Future\" kings.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3588-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 29,
+  "text": "There is a strange figure on a shelf above the stairs.  It looks like an overgrown rat wearing a wizard's hat.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3589-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 30,
+  "text": "An adumbrated wall hanging.  It's design evokes thoughts of ancient times and battles past.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3590-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 31,
+  "text": "There are two finely crafted chairs, one larger than the other.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3591-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 32,
+  "text": "Beneath the \"Dunking Dragon\" is an old steamer trunk.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3592-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 33,
+  "text": "The only actual door visible is the door leading back outside.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3593-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 34,
+  "text": "The staircase connects the upstairs to the downstairs.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3594-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 35,
+  "text": "The pattern is obscured by age.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3595-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 36,
+  "text": "The high ceiling has ornate sconcing and scrollwork.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3596-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 37,
+  "text": "Purple planking?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3597-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 40,
+  "text": "The wizard does not run an inn.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3598-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 41,
+  "text": "I wouldn't do that if I were you!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3599-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 42,
+  "text": "\"Those rooms are forbidden!\"",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-3600-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 43,
+  "text": "\"Since you're leaving anyway...\"",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-3601-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 30,
+  "idx": 44,
+  "text": "\"That'll learn ya!\"",
+  "speaker": "fenrus",
+  "voiceId": 586,
+  "file": "qfg1-3602-fenrus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 0,
+  "text": "As the ghosts suck the life out of your body, and you crumple into the dust of the old graveyard, you think unspeakable thoughts of torture and torment directed at programmers, game designers, and vicious artists named Kenn.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3603-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 1,
+  "text": "The wall is too difficult for your level of skill, but keep practicing.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3604-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 4,
+  "text": "The large tombstone seems to have a barely legible epitaph:",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3605-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 5,
+  "text": "\"Here lies an atheist...\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3606-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 6,
+  "text": "\"All dressed up\nand nowhere to go.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3607-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 7,
+  "text": "Growing up out of the grave is an evil-looking plant with a slimy, poisonous sheen.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3608-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 8,
+  "text": "The large stone you are facing has been engraved with this message:",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3609-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 9,
+  "text": "\"Here lies Lester Moore\nGored six times by a wild boar.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3610-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 10,
+  "text": "\"No Les, no Moore.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3611-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 11,
+  "text": "The carving on the gravestones, for the most part, seems to have been intentionally defaced and worn with time.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3612-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 12,
+  "text": "You sense what nobody needed to tell you:  SOMETHING is making those spirits fly around, and it isn't the wind.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3613-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 13,
+  "text": "You sense a spiritual coldness.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3614-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 14,
+  "text": "The only things that can be opened here are graves, and you don't want to open THOSE!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3615-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 15,
+  "text": "Your magical abilities are to no avail against the undead.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3616-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 16,
+  "text": "You can't see the bottom of the hole before you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3617-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 17,
+  "text": "Nothing grows in the dirt of the old graveyard.  Some of the graves appear to have been disturbed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3618-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 18,
+  "text": "You see transparent, decaying, writhing, slimy, undead fragments of undulating ectoplasm!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3619-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 19,
+  "text": "I DO believe in spooks!  I DO believe in spooks!  I DO, I DO, I DO believe in spooks!!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3620-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 20,
+  "text": "You recall from somewhere that the most likely time to find ghosts is at night.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3621-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 21,
+  "text": "The graves seemed to be placed haphazardly in the tiny graveyard.  All appear to be old and poorly maintained.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3622-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 22,
+  "text": "The town wall looks more massive from this side.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3623-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 23,
+  "text": "There is a very large and very dead tree which hovers over the graveyard.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3624-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 24,
+  "text": "The forest surrounds the graveyard on three sides.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3625-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 25,
+  "text": "You see the rotted remains of a picket fence.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3626-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 26,
+  "text": "What at first appears to be a ladder turns out to be the rotted remains of a picket fence.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3627-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 27,
+  "text": "Let's see...root..root...\nI know I put that root SOMEwhere!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3628-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 28,
+  "text": "You don't see any particularly interesting roots.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3629-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 29,
+  "text": "The red root growing out of one of the graves has a strange and evil appearance.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3630-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 30,
+  "text": "It appears that the spirits frolic here during the dark hours.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3631-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 31,
+  "text": "It's certainly creepy here even during the daylight hours.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3632-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 32,
+  "text": "Everything here is already dead.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3633-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 34,
+  "text": "It appears that you have company in the graveyard tonight.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3634-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 35,
+  "text": "This must be the town graveyard.  What a run-down place!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3635-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 36,
+  "text": "You stepped into a hole whose depth is unfathomable.  As you fall ever downward, you feel icy fingers clutching at you, and you think: \"How could I be so careless?\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3636-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 37,
+  "text": "You wrench the mandrake plant free from the tombstone on which it has grown.  You hear a scream like that of a dying child as you yank the root from the ground.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3637-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 38,
+  "text": "You wrench the mandrake plant free from the tombstone on which it has grown.  Somehow you thought this would be a lot harder.  You wonder if you did this right.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3638-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 64,
+  "idx": 39,
+  "text": "The root shrivels and twists in your hands until nothing is left.  Astonished, you look at your empty hands.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3639-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 0,
+  "text": "C'mon now! That's HARDLY a heroic action!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3640-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 1,
+  "text": "GADZOOKS!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3641-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 2,
+  "text": "I'm sorry, but this game has a PG rating.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3642-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 3,
+  "text": "You didn't really say that, did you?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3643-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 4,
+  "text": "I'm not programmed to do that sort of thing!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3644-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 5,
+  "text": "That wouldn't be appropriate.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3645-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 6,
+  "text": "The pressure gets to you after a while, doesn't it?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3646-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 7,
+  "text": "Didn't your Momma teach you any better than that?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3647-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 8,
+  "text": "ODS BODKINS!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3648-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 10,
+  "text": "You see nothing special.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3649-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 11,
+  "text": "It is just as it appears.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3650-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 12,
+  "text": "It looks pretty normal.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3651-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 13,
+  "text": "It's not important.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3652-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 15,
+  "text": "\"Yes, the weather does what the weather will do, does it not?\"",
+  "speaker": "townsperson",
+  "voiceId": 294,
+  "file": "qfg1-3653-townsperson.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 16,
+  "text": "\"Surely you jest!\"",
+  "speaker": "townsperson",
+  "voiceId": 294,
+  "file": "qfg1-3654-townsperson.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 17,
+  "text": "\"I'm not sure that I understand you\"",
+  "speaker": "townsperson",
+  "voiceId": 294,
+  "file": "qfg1-3655-townsperson.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 18,
+  "text": "\"You seem to be talking without saying very much.\"",
+  "speaker": "townsperson",
+  "voiceId": 294,
+  "file": "qfg1-3656-townsperson.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 19,
+  "text": "\"Beg pardon?\"",
+  "speaker": "townsperson",
+  "voiceId": 294,
+  "file": "qfg1-3657-townsperson.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 21,
+  "text": "\"Welcome back! It is good to see you again. So many adventurers never return. Someday, you and I will go on an adventure together.\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-3658-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 22,
+  "text": "\"Hrrmph! Ahem! Yes, as I was saying....where were we?\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-3659-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 23,
+  "text": "\"Oh, what a glorious day it was! I...... Oh, hello there!\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-3660-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 24,
+  "text": "\"You fiendish witch! I will have you...... Oh, it's you, my friend!\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-3661-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 25,
+  "text": "\"Oh, Barnard, bravest of the brave, you cannot be gone from us so soon.... What? What? You're still here, my fellow adventurer?\"",
+  "speaker": "wolfgang",
+  "voiceId": 597,
+  "file": "qfg1-3662-wolfgang.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 26,
+  "text": "We're sorry, but the pixel you clicked on is not in service at this time.  Please check your mouse and click again.\nThank you!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3663-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 27,
+  "text": "Of all the places to click on, you had to choose THIS one!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3664-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 28,
+  "text": "If there was something interesting and informative at this location on the screen, we would certainly have put up a much more interesting and informative message than this one.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3665-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 29,
+  "text": "This is a pixel.\nThis is only a pixel.\nIf this had been a REAL picture element, you would have seen a REAL message.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3666-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 30,
+  "text": "You have reached the residence of Mr. and Mrs. Pixel.  We are unable to come to the screen right now, but if you leave your game and character at the sound of the beep...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3667-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 31,
+  "text": "There is a place between shadow and substance...\nbetween reality and imagination...\nbut THIS isn't it!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3668-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 32,
+  "text": "Yes!  You have found a cleverly hidden representation of the Starship You-Know Who!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3669-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 33,
+  "text": "You may have already won a fabulous, all-expense-paid trip for two to scenic Shapeir, land of the shifting sands.  To claim your prize, simply purchase a soon-to-be-released copy of \"Quest for Glory II:  Trial by Fire\" at a software dealer near you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3670-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 34,
+  "text": "Congratulations!  By clicking at this spot on the screen, you have initiated an irreversible process that will destroy all life as we know it.  Have a nice day!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3671-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 40,
+  "text": "Day is dawning",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3672-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 41,
+  "text": "It is mid-morning",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3673-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 42,
+  "text": "It is midday",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3674-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 43,
+  "text": "It is mid-afternoon",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3675-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 44,
+  "text": "Sunset approaches",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3676-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 45,
+  "text": "The night is still young",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3677-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 46,
+  "text": "It is the middle of the night",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3678-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 297,
+  "idx": 47,
+  "text": "It is not yet dawn",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3679-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 0,
+  "text": "You see the purple home of someone who must enjoy its precarious perch upon the peak.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3680-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 1,
+  "text": "The stone creature looks like it's bored.  Wouldn't you be?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3681-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 2,
+  "text": "The cliff walls are steep, and it's a long way to the snow fields below.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3682-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 3,
+  "text": "You can see the mist flowing around the edges of the Wolf's Bane Peaks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3683-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 4,
+  "text": "Below you, the snow glistens.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3684-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 5,
+  "text": "It is cloudless. It seems that you are above the clouds.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3685-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 6,
+  "text": "Looking down and to the south, you see the tortuous path you climbed to get here. You'd hate to have to do that again.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3686-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 7,
+  "text": "Looking below you to the west, you can see the Baron's Castle surrounded by the forest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3687-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 8,
+  "text": "From outside, you can see that the interior of the house is curiously furnished.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3688-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 9,
+  "text": "It's about time the gargoyle opened the door for you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3689-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 10,
+  "text": "You'd like to look at it more closely, if only the gargoyle would let you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3690-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 12,
+  "text": "The door is already open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3691-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 13,
+  "text": "You feel as though you have just scaled the Matterhorn in full armor.  What a climb!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3692-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 29,
+  "idx": 14,
+  "text": "After you finally catch your breath, you see that you have reached the rather eccentric-looking house that you saw from below.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3693-narrator.mp3"
+ }
+]

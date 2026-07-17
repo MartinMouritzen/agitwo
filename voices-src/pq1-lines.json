@@ -1,0 +1,272 @@
+[
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 4,
+  "msg": 2,
+  "text": "This is the pulpit from which Sgt. Dooley delivers his words of wisdom and inspiration to his troops. Listen and take careful notes during each briefing.",
+  "file": "pq1-000-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 4,
+  "msg": 3,
+  "text": "The pigeonhole is a police officer's mailbox. He can receive love letters, subpoenas, nasty messages, and even departmental memos. You ought to check yours.",
+  "file": "pq1-001-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 4,
+  "msg": 4,
+  "text": "It's just an everyday, run-of-the-mill, rosewood, report-writing table with four legs, three drawers, and 243 pieces of gum stuck underneath.",
+  "file": "pq1-002-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 4,
+  "msg": 14,
+  "text": "There is a newspaper lying on the table.",
+  "file": "pq1-003-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 5,
+  "msg": 1,
+  "text": "You are looking at the latest in locker room benches. Don't slide after sitting or you'll spend the evening plucking wood chips out of your tail!",
+  "file": "pq1-004-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 5,
+  "msg": 4,
+  "text": "This shower is unique. It will give you all the hot water you want for two minutes, or all the ice water you want forever.",
+  "file": "pq1-005-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 5,
+  "msg": 17,
+  "text": "Aaah... there's nothing like a nice, hot shower!",
+  "file": "pq1-006-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 5,
+  "msg": 19,
+  "text": "You look at the ceiling and observe a lighting system that adequately illuminates the locker room. (Otherwise, it'd be dark in here!)",
+  "file": "pq1-007-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 5,
+  "msg": 20,
+  "text": "You look down and note a very clean, blue-tiled floor.",
+  "file": "pq1-008-narrator.mp3"
+ },
+ {
+  "category": "narrator",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 0,
+  "msg": 34,
+  "text": "You are wearing blue polyester and gabardine trousers, a long-sleeve shirt, and shiny black shoes.",
+  "file": "pq1-009-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 0,
+  "msg": 4,
+  "text": "You see nothing special.",
+  "file": "pq1-010-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 0,
+  "msg": 5,
+  "text": "How can you do that?",
+  "file": "pq1-011-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 0,
+  "msg": 9,
+  "text": "Just do that yourself.",
+  "file": "pq1-012-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 0,
+  "msg": 10,
+  "text": "What would you do with it?",
+  "file": "pq1-013-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 0,
+  "msg": 18,
+  "text": "You shouldn't have done that!",
+  "file": "pq1-014-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 0,
+  "msg": 24,
+  "text": "My, what a filthy mind you have!",
+  "file": "pq1-015-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 0,
+  "msg": 31,
+  "text": "There's no one nearby.",
+  "file": "pq1-016-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 0,
+  "msg": 36,
+  "text": "You're not close enough.",
+  "file": "pq1-017-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 0,
+  "msg": 37,
+  "text": "You already have it.",
+  "file": "pq1-018-narrator.mp3"
+ },
+ {
+  "category": "parser",
+  "speaker": "narrator",
+  "voiceId": 519,
+  "logic": 0,
+  "msg": 38,
+  "text": "You don't have it.",
+  "file": "pq1-019-narrator.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "cop",
+  "voiceId": 685,
+  "logic": 5,
+  "msg": 22,
+  "text": "\"Hey! Somebody die in there?!\"",
+  "file": "pq1-020-cop.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "cop",
+  "voiceId": 685,
+  "logic": 5,
+  "msg": 27,
+  "text": "\"Use the next stall! I'm giving birth to a sergeant in here!\"",
+  "file": "pq1-021-cop.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "cop",
+  "voiceId": 685,
+  "logic": 0,
+  "msg": 27,
+  "text": "\"Hey, thanks a lot!\"",
+  "file": "pq1-022-cop.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "helen",
+  "voiceId": 159,
+  "logic": 3,
+  "msg": 11,
+  "text": "\"Guys like you make me want a big dip of snuff! You never give a decent girl a break! You just hassle people!\"",
+  "file": "pq1-023-helen.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "helen",
+  "voiceId": 159,
+  "logic": 3,
+  "msg": 21,
+  "text": "\"I'm truly sorry, sir. Is there anything I can do to convince you to let me off? And, I DO mean anything!\"",
+  "file": "pq1-024-helen.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "helen",
+  "voiceId": 159,
+  "logic": 3,
+  "msg": 22,
+  "text": "\"Why, I've never heard of anyone by that name, Officer!\"",
+  "file": "pq1-025-helen.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "helen",
+  "voiceId": 159,
+  "logic": 3,
+  "msg": 33,
+  "text": "\"Thanks for not giving me a ticket, Officer!\"",
+  "file": "pq1-026-helen.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "helen",
+  "voiceId": 159,
+  "logic": 3,
+  "msg": 34,
+  "text": "\"What? And, as nice as I have been to you! Why, I gave you my phone number and everything. If you do anything to me, Turkey, I'll file rape charges on you so fast it'll make your head swim! Gawd, what a BUM!\"",
+  "file": "pq1-027-helen.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "helen",
+  "voiceId": 159,
+  "logic": 3,
+  "msg": 43,
+  "text": "\"Well, how rude,\" she says, attempting to be offended. \"But, if that's what it takes, I suppose it's all right with me!\"",
+  "file": "pq1-028-helen.mp3"
+ },
+ {
+  "category": "dialogue",
+  "speaker": "helen",
+  "voiceId": 159,
+  "logic": 3,
+  "msg": 48,
+  "text": "\"What did I do wrong, Officer?\" she says, showing her best smile.",
+  "file": "pq1-029-helen.mp3"
+ }
+]

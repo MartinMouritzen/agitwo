@@ -1,0 +1,1352 @@
+[
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 21,
+  "text": "You can see the fortress wall and the open gate.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4450-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 22,
+  "text": "You can see the fortress wall and the closed gate.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4451-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 23,
+  "text": "All that can be seen through the window are vague shapes and outlines.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4452-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 24,
+  "text": "You see a group of brigands playing cards.  One looks back at you in surprise and starts yelling.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4453-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 25,
+  "text": "You're not near any window",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4454-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 26,
+  "text": "Yep, it's a door all right",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4455-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 27,
+  "text": "An empty cabinet.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4456-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 28,
+  "text": "Get close for a good look.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4457-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 29,
+  "text": "You don't have much time to look at toys.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4458-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 30,
+  "text": "The cabinet seems to have some kind of hasp.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4459-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 31,
+  "text": "The rugs are too big to put into your backpack and too heavy to carry around.  You do notice a pit trap under the spread-out carpet.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4460-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 32,
+  "text": "The rope is securely fastened and is pretty useless anyway.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4461-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 33,
+  "text": "Your life is in grave danger and you want to play with toys?  What kind of hero are you?.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4462-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 34,
+  "text": "They're too heavy to carry.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4463-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 35,
+  "text": "There are no rocks in here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4464-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 36,
+  "text": "You're not close enough",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4465-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 37,
+  "text": "It's already open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4466-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 193,
+  "idx": 39,
+  "text": "The door is closed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4467-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 0,
+  "text": "As the sun begins to rise, the Troll runs off to some dark hole.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4468-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 1,
+  "text": "A monster just wandered by.  You hid in the bushes until it passed.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4469-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 2,
+  "text": "You could not escape.  The battle is on.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4470-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 3,
+  "text": "Hostile intent is evident.  You prepare for battle.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4471-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 4,
+  "text": "No rest for the weary.  Something's after you!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4472-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 5,
+  "text": "All the excitement of the battle has caused you to lose your appetite.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4473-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 6,
+  "text": "It's dead, of course.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4474-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 7,
+  "text": "It doesn't smell very good, either.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4475-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 8,
+  "text": "You can't help but smell it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4476-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 9,
+  "text": "You only think you can smell that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4477-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 10,
+  "text": "Some of the Cheetaur's claws have been broken off or damaged, apparently in battle.  You remove the remaining claws and put them away in your pack.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4478-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 11,
+  "text": "Cheetaur claws are very rare except on Cheetaurs.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4479-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 12,
+  "text": "You already have the Troll's beard.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4480-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 13,
+  "text": "You remove as much of the Troll's beard as you can and put it away in your pack.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4481-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 14,
+  "text": "That's not easy to do, especially since this is not a Troll.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4482-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 15,
+  "text": "You look all around, but you can't find any of those.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4483-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 16,
+  "text": "It's an ugly little Goblin.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4484-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 17,
+  "text": "Uh oh, this looks like one of the brigands that have been terrorizing the Valley.  Better hope his friends aren't around.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4485-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 18,
+  "text": "Don't worry, it's just a little purple Saurus.  Watch out for those teeth though.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4486-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 19,
+  "text": "Oh, no!  It's a fierce (and hungry) looking Saurus Rex (smarter than your average Saurus).",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4487-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 20,
+  "text": "It's a Cheetaur, a Cheetah Centaur, one of the deadliest creatures in the land.  Hope you've saved your game recently.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4488-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 21,
+  "text": "It's an Ogre, big, mean, and ugly.  Ogres are said to eat human flesh.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4489-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 22,
+  "text": "It's a Troll, hard as stone.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4490-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 23,
+  "text": "It's a Mantray, a former sea creature that took flight many generations ago and moved to the mountains.  Don't get stung!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4491-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 24,
+  "text": "It's a Program Bug!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4492-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 25,
+  "text": "There is nothing here to fight.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4493-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 26,
+  "text": "Although that spell is not useful here, you at least had a chance to practice it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4494-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 27,
+  "text": "You don't see anything closed around here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4495-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 28,
+  "text": "You sense no magic here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4496-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 30,
+  "text": "You don't seem to have a weapon to charge.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4497-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 31,
+  "text": "Certainly you don't want to Fetch THAT!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4498-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 32,
+  "text": "Good practice, but there's nothing worth Fetching here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4499-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 33,
+  "text": "Your spell had no effect.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4500-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 34,
+  "text": "Unfortunately, the Mantray appears not to have been affected by your spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4501-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 35,
+  "text": "The monster doesn't seem very calm.  Maybe it didn't like you hurting it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4502-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 36,
+  "text": "What a waste!  No treasure!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4503-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 37,
+  "text": "You find a single silver coin, carefully polish it, and place it in your pouch.  What a way to make a living!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4504-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 39,
+  "text": "You thought that the Troll concealed some of its treasure in that thick beard, but you didn't find any there.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4505-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 40,
+  "text": "You retrieve your daggers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4506-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 210,
+  "idx": 41,
+  "text": "You search your opponent.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4507-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 0,
+  "text": "There is a strong odor of decay and other nasty smells filling the air.  A pile of something unpleasant lies near the center of this cave.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4508-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 1,
+  "text": "You can watch the water ooze down the sides of the stalactites and drip to the ground.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4509-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 2,
+  "text": "You can watch the water drop down from the stalactites and ooze down the sides of the stalagmites.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4510-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 3,
+  "text": "The water has been polluted by various other disgusting liquids.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4511-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 4,
+  "text": "It looks as if someone has piled up bones, bits of armor, and things you can't quite make out and probably don't want to know about. It smells disgusting.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4512-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 5,
+  "text": "A mean-looking Troll looms before you, a snarl on his lips.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4513-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 6,
+  "text": "The Troll lies dying upon the slimy floor of the cave.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4514-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 7,
+  "text": "A dead Troll lies in a pool of blue blood.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4515-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 8,
+  "text": "You see no such creature here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4516-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 9,
+  "text": "You have lost your sense of direction, as the cave passage twists around.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4517-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 10,
+  "text": "The rocks look slick and are slimy to the touch.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4518-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 11,
+  "text": "The light from the fungus is eerie and vaguely unpleasant.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4519-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 12,
+  "text": "The only entrance to this cave is the one you came through.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4520-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 14,
+  "text": "You can't do that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4521-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 15,
+  "text": "You need to get closer to the dead Troll.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4522-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 16,
+  "text": "The password is for the hidden passage, not the troll's home.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4523-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 17,
+  "text": "Get closer to the pile of junk.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4524-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 19,
+  "text": "The dead Troll's huge club is much too heavy for you to lift.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4525-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 21,
+  "text": "You don't need it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4526-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 22,
+  "text": "The armor is corroded and valueless.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4527-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 23,
+  "text": "This Troll looks as though he'd rather eat YOU!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4528-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 24,
+  "text": "You hear the constant \"drip... drip...\" of water.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4529-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 25,
+  "text": "You hear the constant \"drip... drip...\" of water, and the unmistakeable sound of something breathing nearby.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4530-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 26,
+  "text": "There is no magic in this cave.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4531-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 27,
+  "text": "There is nothing here to dazzle.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4532-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 28,
+  "text": "There is nothing here to use that spell on.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4533-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 29,
+  "text": "There is nothing here to calm.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4534-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 30,
+  "text": "There is nothing here to open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4535-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 32,
+  "text": "The cave troll is dead.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4536-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 33,
+  "text": "Before you can notice him, a Troll sneaks up behind you, and the encounter begins.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4537-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 34,
+  "text": "The Troll's brute force was too much for your skull.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4538-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 35,
+  "text": "There is nothing of value on the Troll.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4539-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 36,
+  "text": "You find nothing on the Troll but a little hair.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4540-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 37,
+  "text": "You dig around in the pile until the odor almost makes you sick.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4541-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 38,
+  "text": "You find nothing more of value.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4542-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 39,
+  "text": "You find 30 silvers and 5 gold.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4543-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 40,
+  "text": "There is no beard hair left on the Troll.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4544-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 88,
+  "idx": 41,
+  "text": "You cut some beard hair and put it away.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4545-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 0,
+  "text": "Your senses gradually return to normal.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4546-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 1,
+  "text": "Don't you want to dance?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4547-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 2,
+  "text": "What for?  There's no one to dance with.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4548-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 3,
+  "text": "What for?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4549-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 4,
+  "text": "They seem to be ignoring you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4550-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 5,
+  "text": "Who are you talking to?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4551-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 6,
+  "text": "You know all about it, now.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4552-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 7,
+  "text": "There is much magic surrounding the fairies and their ring of mushrooms.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4553-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 8,
+  "text": "You detect faint emanations of magic near the ring of mushrooms.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4554-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 9,
+  "text": "You don't have a dagger.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4555-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 10,
+  "text": "The fairies can avoid your grasp easily.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4556-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 12,
+  "text": "Don't be greedy.  We already gave you some.",
+  "speaker": "fairy",
+  "voiceId": 527,
+  "file": "qfg1-4557-fairy.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 13,
+  "text": "Perhaps you should be better prepared to get some fairy dust next time.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4558-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 14,
+  "text": "Where could you possibly get that?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4559-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 15,
+  "text": "Maybe you should ask the Fairies for some.  That would be the polite thing to do.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4560-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 16,
+  "text": "The trees look more vibrant than most of the forest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4561-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 17,
+  "text": "There is a ring of mushrooms on the northwest side of the clearing.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4562-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 18,
+  "text": "The fairy ring is luminous at night.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4563-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 19,
+  "text": "The ring of mushrooms contains mushrooms slightly larger than the ones you are used to.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4564-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 20,
+  "text": "The fairies look like little dancing lights, but you get a strong sense that they are female with butterfly wings.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4565-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 21,
+  "text": "There aren't any of those around.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4566-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 22,
+  "text": "The trees seem more dense and lush than the rest of the woods.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4567-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 23,
+  "text": "You see trees and brush.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4568-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 24,
+  "text": "The trees here look thicker and healthier than in other parts of the forest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4569-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 25,
+  "text": "I'll bet you're sorry you said that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4570-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 26,
+  "text": "For such wimpy-looking creatures, those fairies sure can play rough!  You never danced so hard in your entire life, which is now over.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4571-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 27,
+  "text": "You eat a few of the lovely mushrooms.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4572-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 28,
+  "text": "You pick a handful of the smaller mushrooms and carefully put them away in your backpack.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4573-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 29,
+  "text": "You hold out your hand...what else could you do?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4574-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 30,
+  "text": "You place the dust carefully away in an empty flask.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4575-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 31,
+  "text": "You realize that you need something such as an empty flask to put this fairy dust into.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4576-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 32,
+  "text": "As the fairy dust sifts through your fingers, you realize that you needed something to put it into.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4577-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 70,
+  "idx": 33,
+  "text": "Wow!  That was pretty wild!  It's probably not a good idea to eat too many more of these mushrooms, though.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4578-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 0,
+  "text": "You're too awake to sleep now.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4579-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 1,
+  "text": "This doesn't look like a good place to curl up.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4580-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 2,
+  "text": "Yep, that's a door, all right.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4581-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 3,
+  "text": "The shades are drawn.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4582-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 4,
+  "text": "The windows appear to be locked.  You certainly don't want to break them and attract attention.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4583-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 5,
+  "text": "In broad daylight?  You've got to be kidding!  You'd be arrested for certain.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4584-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 6,
+  "text": "You don't know how to pick locks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4585-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 7,
+  "text": "You can't pick a lock without a lockpick.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4586-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 8,
+  "text": "Uh oh.  You made too much noise.  The Sheriff and Otto arrive on the scene and arrest you for \"criminal carelessness\".  Work a little faster next time!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4587-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 9,
+  "text": "The door is securely barred from the inside, but you do get some practice.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4588-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 10,
+  "text": "You're not near a door.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4589-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 12,
+  "text": "The town gate's open.  There's no need to climb over.  Besides, you'd make people nervous.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4590-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 13,
+  "text": "You'd better not try to climb the wall any more right now.  You've been at this long enough that someone is likely to notice.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4591-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 14,
+  "text": "There's no good place to climb the wall here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4592-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 15,
+  "text": "You climb over the town wall.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4593-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 16,
+  "text": "The wall is too smooth to climb with your level of skill, but keep practicing.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4594-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 17,
+  "text": "There is an absence of the usual litter associated with town streets. This hamlet is kept very clean.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4595-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 18,
+  "text": "The evening is clear and the stars are bright. Dark clouds pass over the moon.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4596-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 19,
+  "text": "The sky is a piercing blue with scudding white clouds.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4597-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 20,
+  "text": "The town wall is made of the same rock as the surrounding mountains.It appears to be very sturdy.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4598-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 811,
+  "idx": 21,
+  "text": "It keeps the occupants of the building dry when it rains.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-4599-narrator.mp3"
+ }
+]

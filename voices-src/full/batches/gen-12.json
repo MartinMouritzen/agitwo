@@ -1,0 +1,1354 @@
+[
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 48,
+  "text": "\"A just reward for defeating such a valiant fighter,\" you tell yourself as you pocket the silvers.",
+  "say": "A just reward for defeating such a valiant fighter.",
+  "speaker": "hero",
+  "voiceId": 507,
+  "file": "qfg1-2800-hero.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 49,
+  "text": "That's not a good idea.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2801-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 50,
+  "text": "If you've seen one, you've seen them all.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2802-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 51,
+  "text": "Good ears but very poor peripheral vision.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2803-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 52,
+  "text": "Why bother?  He's out for the count.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2804-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 53,
+  "text": "OK.  Here's your chance.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2805-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 54,
+  "text": "\"I've been out here too long.  My imagination is taking over.\"",
+  "speaker": "brigand",
+  "voiceId": 286,
+  "file": "qfg1-2806-brigand.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 55,
+  "text": "\"What was that noise?\"",
+  "speaker": "brigand",
+  "voiceId": 286,
+  "file": "qfg1-2807-brigand.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 56,
+  "text": "\"Must be those Brigands playing games.\"",
+  "speaker": "brigand",
+  "voiceId": 286,
+  "file": "qfg1-2808-brigand.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 57,
+  "text": "\"I guess I'm just getting jumpy.\"",
+  "speaker": "brigand",
+  "voiceId": 286,
+  "file": "qfg1-2809-brigand.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 58,
+  "text": "\"Is anyone there?\"",
+  "speaker": "brigand",
+  "voiceId": 286,
+  "file": "qfg1-2810-brigand.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 59,
+  "text": "\"This place is spooky.\"",
+  "speaker": "brigand",
+  "voiceId": 286,
+  "file": "qfg1-2811-brigand.mp3"
+ },
+ {
+  "res": "text",
+  "num": 93,
+  "idx": 60,
+  "text": "You hear a snick as the hasp on the gate is opened.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2812-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 2,
+  "text": "Suddenly, you hear voices, seeming to come from everywhere at once.  They all sound like Baba Yaga, and they all say:\n\"Wheeeeeere's myyyyyy\nMaaaandraaaaake Rooooooooooooot????\"",
+  "say": "Wheeeeeere's myyyyyy Maaaandraaaaake Rooooooooooot????",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-2813-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 3,
+  "text": "Because you failed to meet Baba Yaga's DEADline, her curse turns you into a frog on the spot, and you are forced to live out your years dodging Sauruses (Saurii?) with large feet.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2814-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 4,
+  "text": "The tingling sensation is wearing off.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2815-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 5,
+  "text": "The tingling sensation is gone.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2816-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 6,
+  "text": "Memory fragmented.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2817-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 7,
+  "text": "Suddenly, the deadly poison Fragmentation Bug leaps out of a crack in the system, and injects you with its poison.  Alas, there is no cure, save to . . .",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2818-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 9,
+  "text": "You retrieve your shield.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2819-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 12,
+  "text": "You pick up the loose daggers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2820-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 13,
+  "text": "You retrieve your knives from the dead monster's body, and carefully wipe them clean for reuse.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2821-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 15,
+  "text": "That isn't a known spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2822-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 16,
+  "text": "The spell has no effect.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2823-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 17,
+  "text": "You sense no magic in this area.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2824-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 18,
+  "text": "Your weapon is now magically charged.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2825-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 19,
+  "text": "You don't have a weapon to charge.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2826-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 20,
+  "text": "Aggressive, aren't you?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2827-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 21,
+  "text": "No one responds.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2828-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 22,
+  "text": "I don't know what you're trying to drop.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2829-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 23,
+  "text": "Ok, you drop it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2830-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 24,
+  "text": "You can't drop something you don't have.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2831-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 25,
+  "text": "You're about as stealthy as the average Goon.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2832-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 26,
+  "text": "There's no point in trying that here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2833-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 27,
+  "text": "You delicately insert the lockpick into your left nostril.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2834-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 28,
+  "text": "Unfortunately, you push it in too far, causing yourself a cerebral hemorrhage.  Guess you should have practiced some more on less difficult locks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2835-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 29,
+  "text": "Success!  You now have an open nose.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2836-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 30,
+  "text": "You don't have an appropriate tool.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2837-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 31,
+  "text": "You get no response.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2838-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 32,
+  "text": "It's not for sale.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2839-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 33,
+  "text": "You're welcome!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2840-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 34,
+  "text": "That's OK.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2841-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 36,
+  "text": "Bye!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2842-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 37,
+  "text": "You're not close enough to a door.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2843-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 38,
+  "text": "You open the music box, which plays Beethoven's \"Fur Elise.\"  After listening to it for a bit, you close the box.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2844-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 39,
+  "text": "You don't have a box to open.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2845-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 40,
+  "text": "No one hears you knocking.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2846-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 41,
+  "text": "You don't need to.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2847-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 42,
+  "text": "You have no reason to do that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2848-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 43,
+  "text": "You don't find anything interesting.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2849-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 46,
+  "text": "Please try a different way of saying that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2850-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 47,
+  "text": "I'm not sure what you're trying to do.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2851-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 49,
+  "text": "You can't do that now.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2852-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 50,
+  "text": "Go ahead.  Just do it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2853-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 51,
+  "text": "You're not close enough.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2854-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 52,
+  "text": "You've already done that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2855-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 53,
+  "text": "You don't have it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2856-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 54,
+  "text": "You are getting tired.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2857-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 55,
+  "text": "You are exhausted from lack of sleep.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2858-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 56,
+  "text": "You are so exhausted that everything you do hurts.  Better get some rest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2859-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 57,
+  "text": "That was a little too much for you.  You collapse from exhaustion and die.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2860-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 58,
+  "text": "You don't know how to cast spells.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2861-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 59,
+  "text": "You don't know that spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2862-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 60,
+  "text": "You don't have enough Magic Points to cast that spell.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2863-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 61,
+  "text": "You just ate your last ration; you'd better get some more food soon.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2864-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 62,
+  "text": "You're starving.  Better find some food *soon*!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2865-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 63,
+  "text": "You're really getting hungry.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2866-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 0,
+  "idx": 64,
+  "text": "How about a slice of quiche?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2867-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 0,
+  "text": "\"Pity.  I'm in the mood for some good combat practice.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2868-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 1,
+  "text": "\"I am a skilled teacher as well as a skilled fighter.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2869-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 2,
+  "text": "\"However, the combat style I teach relies on the subtle alternation of Strike and Parry.  As I observe that you have no skill in the use of Parry, you would receive no benefit from my lessons.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2870-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 3,
+  "text": "\"For a mere gold coin, I will be glad to give you some practice and some pointers on how to better your skills.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2871-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 4,
+  "text": "\"Will you pay for a lesson?\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2872-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 5,
+  "text": "You pay the Weapon Master's price and then...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2873-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 6,
+  "text": "That's easy to say, but you don't HAVE a gold coin.  You make your apologies to the Weapon Master.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2874-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 7,
+  "text": "\"Do not ramble, my friend\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2875-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 8,
+  "text": "\"Will you pay?\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2876-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 9,
+  "text": "\"Will you fight?\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2877-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 10,
+  "text": "\"I'm sorry.  Since you have no skill in parrying blows, you would receive no benefit from my instruction.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2878-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 11,
+  "text": "The man has the muscles of a trained athlete and is apparently quite skilled with the sword.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2879-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 12,
+  "text": "The weapon master carries a blunted practice sword, in the belief that students retain more of their learning if they survive the practice sessions.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2880-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 13,
+  "text": "\"Please don't bore me, young adventurer.  Ask me about something interesting to me.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2881-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 14,
+  "text": "\"Fighting is both an art and a skill.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2882-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 15,
+  "text": "\"It is a skill in the use of the muscle strength and agility's control.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2883-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 16,
+  "text": "\"It is an art in the out-witting and out-maneuvering of the opponent.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2884-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 17,
+  "text": "\"I am, of course, a most skilled artist.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2885-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 18,
+  "text": "\"Do you fight?\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2886-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 19,
+  "text": "\"If you were a swordsman skilled in both attack and parry, we could have had a practice bout.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2887-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 20,
+  "text": "\"The sword is the finest of all weapons.  It requires an equal measure of skill and strength.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2888-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 21,
+  "text": "\"I am the Weapon Master.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2889-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 22,
+  "text": "\"You will find them very skilled at fighting.  After all, I am the one who trains all of the guards at this castle.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2890-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 23,
+  "text": "\"The Baron had the wisdom to recognize greatness when I presented myself.  Thus he made me Weapon Master.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2891-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 24,
+  "text": "\"The Baronet had some minor talent with weapons, but he was too impatient.  If he had but listened and learned what I teach, he would never have been lost.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2892-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 25,
+  "text": "\"I never use a shield or armor under most circumstances.  It only gets in the way of my agility and dodging ability.  It is best used by those who are strong, but not swift or agile.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2893-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 26,
+  "text": "\"Practice is the way to refine and improve one's skills.\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2894-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 221,
+  "idx": 27,
+  "text": "\"If you are addressing me, sir, you must respect me enough to address me to my face!\"",
+  "speaker": "weapon-master",
+  "voiceId": 378,
+  "file": "qfg1-2895-weapon-master.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 0,
+  "text": "You seem to see movement, but you are not certain what is over there.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2896-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 1,
+  "text": "The rocks look as if they were deliberately piled.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2897-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 2,
+  "text": "You see forest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2898-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 3,
+  "text": "You see a Goblin, a small but dangerous humanoid.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2899-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 4,
+  "text": "You see a small cave concealed in the rocks.  The cave is not big enough for you to enter.  This is where the Goblins hide.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2900-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 5,
+  "text": "You can not see a cave.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2901-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 6,
+  "text": "Something about the bushes here gives you a very bad feeling.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2902-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 7,
+  "text": "You're not close to anything matching that description.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2903-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 8,
+  "text": "You find a small cave concealed in the rocks, just big enough for the Goblins to come through.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2904-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 9,
+  "text": "Nothing here, but you're HOT!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2905-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 10,
+  "text": "Nothing here, but you're warm.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2906-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 11,
+  "text": "Nothing here, you're warm.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2907-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 12,
+  "text": "Nothing here, you're cold.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2908-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 13,
+  "text": "Nothing here, you're frigid.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2909-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 14,
+  "text": "The cave opening is too small and the rocks are too hard for you to be able to enter.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2910-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 15,
+  "text": "The rocks are too large and heavy to move.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2911-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 16,
+  "text": "You can't do that.  Maybe in the next game.  We're getting behind schedule.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2912-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 17,
+  "text": "Looks like no one has the stomach to fight you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2913-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 18,
+  "text": "The rock are too large and heavy to move.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2914-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 19,
+  "text": "It's R2D4!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2915-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 20,
+  "text": "It's Hollywood, a virtual Goblin!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2916-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 21,
+  "text": "It's Droopy!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2917-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 22,
+  "text": "It's Sneaky!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2918-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 23,
+  "text": "It's Nickaroo, a real Goblin!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2919-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 24,
+  "text": "It's JohnnyFive!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2920-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 25,
+  "text": "One strange bush!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2921-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 26,
+  "text": "A Goblin steps out of the bush.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2922-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 27,
+  "text": "The only good Goblin is a dead Goblin!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2923-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 28,
+  "text": "You find 5 silvers concealed in a pouch.  You take the silvers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2924-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 29,
+  "text": "You've already taken his money.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2925-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 30,
+  "text": "You've seen one dead Goblin, you've seen 'em all.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2926-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 31,
+  "text": "What's he staring at?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2927-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 32,
+  "text": "You find 4 silvers tucked in his tunic.  He has no use for the silvers.  Into your pocket they go.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2928-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 33,
+  "text": "Strange place to take a nap.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2929-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 34,
+  "text": "The poor slob was the big loser at the poker game.  He didn't even have lunch money.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2930-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 35,
+  "text": "He didn't have anything.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2931-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 36,
+  "text": "He's getting a sun tan?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2932-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 37,
+  "text": "It's your lucky day, this was the big winner at last night's poker game.  You take his 35 silvers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2933-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 38,
+  "text": "A good Goblin!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2934-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 39,
+  "text": "In this Goblin's left shoe you find 8 silvers. You look around and slip the silvers into your pocket.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2935-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 40,
+  "text": "Does anyone know CPR?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2936-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 41,
+  "text": "Clutched in his hand are 4 silvers.  You take the money.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2937-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 42,
+  "text": "Limp as a dishrag.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2938-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 43,
+  "text": "This guy lost all his dough to a loan shark.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2939-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 44,
+  "text": "You've know he's broke.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2940-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 45,
+  "text": "He lost.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2941-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 46,
+  "text": "The Goblin government lost his paycheck.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2942-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 47,
+  "text": "He never had any money.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2943-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 48,
+  "text": "\"You'll fight all right.\"",
+  "speaker": "goblin",
+  "voiceId": 286,
+  "file": "qfg1-2944-goblin.mp3"
+ },
+ {
+  "res": "text",
+  "num": 45,
+  "idx": 49,
+  "text": "Wow!  You threw that dead goblin a long way!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2945-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 1,
+  "text": "Behind the wizard's stern and forbidding appearance you see a twinkle in his eye.  You suspect that he is not always as serious as he appears.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2946-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 2,
+  "text": "Fenrus looks back at you with a grin.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2947-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 3,
+  "text": "To the west, the Baron's castle can be seen, surrounded by forest.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2948-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 4,
+  "text": "To the east, the peaks of the Wolf's Bane Mountains are clearly visible.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2949-narrator.mp3"
+ }
+]

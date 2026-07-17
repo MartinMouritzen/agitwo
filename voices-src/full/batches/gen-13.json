@@ -1,0 +1,1352 @@
+[
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 5,
+  "text": "The table is elaborately carved on the sides. Erasmus has a teacup on the table in front of him.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2950-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 6,
+  "text": "The tea in the cup sitting on the table seems to refill itself as the wizard drinks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2951-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 7,
+  "text": "The tea in the cup has a strange aroma.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2952-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 8,
+  "text": "The cheese looks awful, but Fenrus seems to enjoy it.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2953-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 9,
+  "text": "WOW!  A Real Hero!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2954-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 10,
+  "text": "The ceiling is domed and ornately decorated.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2955-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 11,
+  "text": "As you look down, you realize the steepness of the staircase you ascended to get here.  Either the wizard is a fitness fanatic, or he uses a lot of \"teleport\" spells.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2956-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 12,
+  "text": "You're strange!  Erasmus hasn't told the punchline yet.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2957-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 13,
+  "text": "Just answer the question:\nYes or No?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2958-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 14,
+  "text": "YUK-YUK-YUK-GUFFAW!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2959-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 15,
+  "text": "A-HYUK, A-HYUK, A-HYUK.  GAWRSH!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2960-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 16,
+  "text": "Tee-Hee-Hee!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2961-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 17,
+  "text": "HO-HO-HO-HEE-HEE-HEE\n HA-HA-HA!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2962-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 18,
+  "text": "(Snicker!)  (Chuckle!)  (Titter!)",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2963-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 19,
+  "text": "This is a serious game, Rosella!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2964-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 20,
+  "text": "The chairs are rather large.  But then again, so is Erasmus.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2965-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 21,
+  "text": "You must first develop more skill in the magical arts.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2966-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 22,
+  "text": "It would be best to wait until Erasmus puts down his cup of tea before asking any more questions.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2967-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 23,
+  "text": "The only thing I've seen the brigand warlock cast is sneezing powder.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2968-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 24,
+  "text": "It's important for a magic user to know as many spells as possible.  You never know what might come in handy.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2969-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 25,
+  "text": "They have a supposed warlock working with them.  From what I've seen, he's more nincompoop than necromancer.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2970-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 26,
+  "text": "I am a wizard of some reknown.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2971-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 27,
+  "text": "Please!  The least you could do is ask me about something more interesting.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2972-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 28,
+  "text": "I told you to be more interesting!  You may go now.",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2973-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 29,
+  "text": "You seem to know all of my punchlines, so...\nto SPELL with you!",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2974-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 30,
+  "text": "Your thoughts give you away, but before you can DO anything...",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2975-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 31,
+  "text": "Not in MY house you don't...",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2976-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 31,
+  "idx": 32,
+  "text": "Well, if you really must go...",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-2977-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 145,
+  "idx": 0,
+  "text": "\"Well, it's dark and damp and the waters roars sos there's not a moment's quiet.  The ceiling drips and the walls are slimy and it's always cold.  But, oh well, sez I, it's 'ome.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2978-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 145,
+  "idx": 1,
+  "text": "\"A 'ermit is one wot lives alone, far away from them wot talks too much or asks too many questions.  'Ermits are shy, quiet types wot don't say much.  Me brother 'Arry 'ardly says a word in a year.  Me sister 'Ortense 'asn't spoken since she were six.  I never talks at all.  Yes, we 'ermits nose how to keep a mouth shut.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2979-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 145,
+  "idx": 2,
+  "text": "\"Me family lives pretty far apart from each other. We're all 'ermits, you know.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2980-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 145,
+  "idx": 3,
+  "text": "\"I'm 'enry.  'Enry the eighth I is.  Me farther was an 'Enry and 'is farther was an 'Enry and 'is farther was an 'Enry and 'is farther was an 'Enry and 'is farther was an 'Enry and 'is farther was an 'Enry and 'is farther was an 'Enry. And every one was an 'ermit.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2981-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 145,
+  "idx": 4,
+  "text": "\"I likes to play the game.  I can show you how to play, if you likes.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2982-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 145,
+  "idx": 5,
+  "text": "\"It's the spell wot sets off uther spells.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2983-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 145,
+  "idx": 6,
+  "text": "\"Like when you wants to see the ladder, you casts a trigger and there you 'ave it, large as life.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2984-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 145,
+  "idx": 7,
+  "text": "\"Course, you gots to 'ave a spell on the invisible ladder to make it visible first.  But it 'as its uses.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2985-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 145,
+  "idx": 8,
+  "text": "\"I thinks I 'ave a scroll with the spell, if you be knowing sum magic, that is.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2986-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 145,
+  "idx": 9,
+  "text": "\"The spells wot I nose is pretty simple maybe, but I like 'em.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2987-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 145,
+  "idx": 10,
+  "text": "\"I can make me ladder show up and me door close and even get rid o' pests using the trigger spell, you see.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2988-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 145,
+  "idx": 11,
+  "text": "\"I nose sum magic.  Erasmus the wizard tot me sum spells.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2989-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 145,
+  "idx": 12,
+  "text": "\"He's wot put the spell on me ladder sos the brigands don't get up.  Them wot climbs th' rocks gets a door opening in their nose.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2990-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 145,
+  "idx": 13,
+  "text": "\"This 'ere's wot's called the Flying Falls.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2991-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 145,
+  "idx": 14,
+  "text": "\"I've doon sum flying falls arund 'ere meself. That porch gets slippery sumtimes.  He, heh, he.\"",
+  "speaker": "hermit",
+  "voiceId": 351,
+  "file": "qfg1-2992-hermit.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 0,
+  "text": "From the size of the ancient oak kegs, you surmise that the drinking of large quantities of beverages is the main pastime in this establishment.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2993-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 1,
+  "text": "As dirt goes, it's pretty dirty.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2994-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 2,
+  "text": "It's in the kegs.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2995-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 3,
+  "text": "Mighty frothy. Looks OK.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2996-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 4,
+  "text": "Looks lean, mean, and green.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2997-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 5,
+  "text": "The fumes hurt your eyes.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2998-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 6,
+  "text": "It doesn't look like the bartender ever wipes up spills, and the glasses are truly filthy.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-2999-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 9,
+  "text": "The man on the west side of the table is wearing a blood-stained apron, like a butcher. The man on the east has on a baker's hat. They seem to be deeply involved in their game.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3000-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 10,
+  "text": "You can't see the game very well from where you are.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3001-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 11,
+  "text": "They seem to be using an \"Old Maid\" deck.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3002-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 12,
+  "text": "There are several.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3003-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 14,
+  "text": "That's a mighty unusual keg, there.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3004-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 17,
+  "text": "That looks mighty nasty!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3005-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 18,
+  "text": "There are three bar stools at the bar.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3006-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 20,
+  "text": "It looks like something you'd expect to see in a tavern, but a lot dirtier.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3007-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 22,
+  "text": "The grimy window lets little light into this tavern.  It smells like stale ale and other more unpleasant things.  The floor is covered with dirt, and the bar with sticky beer.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3008-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 23,
+  "text": "Smoke appears to be rising from the center cask behind the bar.  To your right, two gamblers are playing cards.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3009-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 24,
+  "text": "The bartender glares at you as you enter, and so does the ugly goon on the left. You get the impression that you are not welcome.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3010-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 339,
+  "idx": 25,
+  "text": "There seems to be something slimy spilled on top of the stool, and it is eating into the wood.  You think perhaps you should sit on the next stool over.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3011-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 601,
+  "idx": 1,
+  "text": "CONGRATULATIONS!!  You have successfully completed \"Quest for Glory I:  So You Want To Be A Hero\" with the maximum possible score, 500 of 500!!  We welcome you to the ranks of the few, the proud, the True Heroes!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3012-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 601,
+  "idx": 3,
+  "text": "If you have not already done so, we encourage you to play \"Quest for Glory I\" again with the other two character types; many of the puzzles are different, or have alternate solutions.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3013-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 601,
+  "idx": 4,
+  "text": "In the meantime, you are already a winner!  Please insert a writeable disk in your floppy drive to save your winning Hero for use in\n\"Quest for Glory II:  Trial By Fire.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3014-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 601,
+  "idx": 7,
+  "text": "The save character file has been created.  Save this disk for use with \"Quest for Glory II:  Trial By Fire\" from Sierra On-Line.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3015-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 601,
+  "idx": 10,
+  "text": "Thank you for playing \"Quest for Glory I:  So You Want To Be A Hero,\" and congratulations again on winning.  We'll see you again soon in\n\"Quest for Glory II:  Trial By Fire.\"",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3016-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 804,
+  "idx": 0,
+  "text": "You are in a clearing at the edge of the forest.  You are faced with impassably steep, rocky escarpments on two sides.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3017-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 804,
+  "idx": 1,
+  "text": "The late frosts of winter give way to to the greenery of spring.  There is the crisp smell of cedar in the air.  This forest seems to be unusually still and quiet.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3018-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 804,
+  "idx": 2,
+  "text": "The meadow clearing in which you stand is grassy and littered with blown pine needles and small mossy rocks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3019-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 804,
+  "idx": 3,
+  "text": "Pine needles, moss, and early spring grasses cover the forest floor.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3020-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 804,
+  "idx": 4,
+  "text": "The evening is clear and the stars are bright.  Dark clouds pass over the moon.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3021-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 804,
+  "idx": 7,
+  "text": "The low-lying bushes form tight tangles of shrubbery between the trees.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3022-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 804,
+  "idx": 8,
+  "text": "A tumbled pattern of rocks and boulders leads upwards to the steep cliffs and peaks of the mountain range surrounding this small valley.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3023-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 804,
+  "idx": 9,
+  "text": "The valley floor is covered with fine, moist soil with few rocks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3024-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 804,
+  "idx": 10,
+  "text": "Looking through the surrounding woods, you occasionally are able to catch a glimpse of the snow-capped mountain peaks.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3025-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 804,
+  "idx": 11,
+  "text": "There are no caves here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3026-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 804,
+  "idx": 12,
+  "text": "Climbing would serve no purpose right now.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3027-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 804,
+  "idx": 13,
+  "text": "Let's see how much fun you have pulling splinters from your lips.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3028-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 0,
+  "text": "\"Back so soon?\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3029-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 1,
+  "text": "\"Spirits of Mist\nAnd Creatures of Bog:\nTransform my guest\nTo the shape of a Frog.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3030-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 2,
+  "text": "\"This I vow:\nStay there now!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3031-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 3,
+  "text": "Once again you're a frog, and once again you can't move.  You find it very exasperating!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3032-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 4,
+  "text": "\"Yum, Yum.  Froggie Frappe!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3033-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 5,
+  "text": "\"Did you bring me my mandrake like you promised?\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3034-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 6,
+  "text": "As you make a feeble croaking sound, you try to nod your head.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3035-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 7,
+  "text": "\"Well?  Where is it?\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3036-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 8,
+  "text": "\"What's the matter?  Got a frog in your throat?\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3037-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 9,
+  "text": "\"I suppose I'll have to turn you back into whatever it is that you were.  Pity!  You're much more appetizing this way.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3038-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 10,
+  "text": "\"Creatures of Bog\nAnd Spirits of Fog:\nReturn the true form\nTo this rather dumb Frog.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3039-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 11,
+  "text": "\"Now, did you put it in your backpack?\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3040-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 12,
+  "text": "\"Ah!  Here it is.\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3041-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 13,
+  "text": "\"Kids!  We have it!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3042-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 14,
+  "text": "\"That's it!  The final ingredient.  Now we can make our greatest creation...\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3043-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 15,
+  "text": "\"MANDRAKE MOUSSE!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3044-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 16,
+  "text": "\"What's that, children?  You think we should reward our lackey here?\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3045-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 17,
+  "text": "\"Very well, ex-frog.  I'll let you live this time.  Next time, though, it's frog legs for sure!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3046-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 294,
+  "idx": 18,
+  "text": "\"So...Go!\"",
+  "speaker": "baba-yaga",
+  "voiceId": 528,
+  "file": "qfg1-3047-baba-yaga.mp3"
+ },
+ {
+  "res": "text",
+  "num": 807,
+  "idx": 0,
+  "text": "The great house of Baron Stefan von Spielburg rises on a low hillock over the courtyard and castle walls.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3048-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 807,
+  "idx": 1,
+  "text": "There are guard towers at regular intervals around the castle wall.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3049-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 807,
+  "idx": 2,
+  "text": "The gatehouse is a massive structure with a portcullis closing off access to the castle.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3050-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 807,
+  "idx": 3,
+  "text": "It's a gate that raises and lowers.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3051-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 807,
+  "idx": 4,
+  "text": "The castle walls are thick and massive.  There is a walkway around the rampart for the guards to patrol.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3052-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 807,
+  "idx": 5,
+  "text": "The main courtyard is a broad, grassy area with a large octagonal area of flagstone paving in the center.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3053-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 807,
+  "idx": 6,
+  "text": "The flagstones are from a rock quarry in eastern Germany.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3054-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 807,
+  "idx": 7,
+  "text": "Well...maybe the flagstones are from western Germany.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3055-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 807,
+  "idx": 8,
+  "text": "Flagstones from Europe?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3056-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 807,
+  "idx": 9,
+  "text": "Granite from our very own moutains?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3057-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 807,
+  "idx": 10,
+  "text": "I don't know!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3058-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 95,
+  "idx": 0,
+  "text": "The flying Wallendas have nothing on you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3059-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 95,
+  "idx": 2,
+  "text": "No time for that again (although it WAS fun).  Just get the heck outta here.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3060-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 95,
+  "idx": 3,
+  "text": "You're not in a good spot.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3061-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 95,
+  "idx": 4,
+  "text": "It's too late for that.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3062-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 95,
+  "idx": 5,
+  "text": "He's been drinking Troll's sweat all night.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3063-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 95,
+  "idx": 6,
+  "text": "\"Brigands over all!\"  Egotistical bunch, aren't they?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3064-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 95,
+  "idx": 7,
+  "text": "The rope holds up the chandelier.  It's used to lower the chandelier so that it can be lit.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3065-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 95,
+  "idx": 8,
+  "text": "Sturdy-looking device for holding candles.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3066-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 95,
+  "idx": 9,
+  "text": "Chandelier, used to hold up the rope.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3067-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 95,
+  "idx": 10,
+  "text": "You close and bar the door.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3068-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 95,
+  "idx": 11,
+  "text": "You're hopelessly outnumbered.  You should have left this room when you had a chance.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3069-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 68,
+  "idx": 0,
+  "text": "You are in a clearing at the edge of the forest. The road you have been following is completely blocked by a very recent avalanche.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3070-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 68,
+  "idx": 1,
+  "text": "It appears that a very recent avalanche has sealed off the road leading out of the valley.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3071-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 68,
+  "idx": 2,
+  "text": "The meadow clearing in which you stand is grassy; the road is densely packed and slightly muddy.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3072-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 68,
+  "idx": 7,
+  "text": "A tumbled pattern of rocks can be seen at the forest's edge.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3073-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 68,
+  "idx": 8,
+  "text": "The ragged peaks of the snow-covered mountains can be seen clearly. The pass, however, is blocked by very recent avalanches.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3074-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 32,
+  "idx": 0,
+  "text": "\"Too much for you?  I guess you should work on your magic.  Maybe next time you'll be more of a challenge.\"",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-3075-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 32,
+  "idx": 1,
+  "text": "\"Guess I still have a knack for the old Maze game.\"",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-3076-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 32,
+  "idx": 3,
+  "text": "\"As I promised, I shall now teach you the spell known as `Erasmus' Razzle Dazzle'.\"",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-3077-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 32,
+  "idx": 4,
+  "text": "\"Well!  You don't have to rub it in, you know!\"",
+  "speaker": "erasmus",
+  "voiceId": 526,
+  "file": "qfg1-3078-erasmus.mp3"
+ },
+ {
+  "res": "text",
+  "num": 7,
+  "idx": 0,
+  "text": "You just can't sleep during the daytime.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3079-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 7,
+  "idx": 1,
+  "text": "You awake as the sun begins to rise.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3080-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 7,
+  "idx": 2,
+  "text": "While you were asleep, something decided to make a meal of you.  You're not sure what it was, but you don't really care at this point.  You shouldn't go to sleep where the creatures of the night can get you.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3081-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 187,
+  "idx": 0,
+  "text": "You see a sign that reads, \"Beware of Porcupine\".  That's odd, you don't see a ...\nYou do, however, see many archers leaning over the chasm edge with arrows pointed toward you.  You now have a funny feeling you know who the porcupine is going to be in a few minutes.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3082-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 216,
+  "idx": 0,
+  "text": "Quit sightseeing and watch what you're doing!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3083-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 216,
+  "idx": 1,
+  "text": "C'mon!  He's not going to KILL you...\nis he?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3084-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 216,
+  "idx": 2,
+  "text": "You're too busy!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3085-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 216,
+  "idx": 3,
+  "text": "Later!  Later!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3086-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 216,
+  "idx": 4,
+  "text": "You ARE!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3087-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 216,
+  "idx": 5,
+  "text": "You're not fighting, you're PRACTICING!",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3088-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 216,
+  "idx": 6,
+  "text": "Why would you want to do that?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3089-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 137,
+  "idx": 0,
+  "text": "You look for a good place to climb.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3090-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 137,
+  "idx": 1,
+  "text": "That was almost too easy...almost like climbing a ladder.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3091-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 137,
+  "idx": 2,
+  "text": "The rocks are too slick from the spray of the waterfall for your limited climbing skill.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3092-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 159,
+  "idx": 0,
+  "text": "You move the chair in front of the door.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3093-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 159,
+  "idx": 1,
+  "text": "There are still too many brigands for you to fight in here.  You need to find some way to block one of the doors.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3094-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 239,
+  "idx": 0,
+  "text": "Your bug doesn't have any hands.  This makes throwing anything out of the question.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3095-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 239,
+  "idx": 1,
+  "text": "Looks like all you can do is wriggle.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3096-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 239,
+  "idx": 2,
+  "text": "Better concentrate on the game.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3097-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 235,
+  "idx": 0,
+  "text": "The bright smell of fresh herbs mingles with the aroma of wood smoke as you near a hut by the side of the road.",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3098-narrator.mp3"
+ },
+ {
+  "res": "text",
+  "num": 188,
+  "idx": 0,
+  "text": "How embarrassing, to get this far and then fail to see the trip rope.  How did they get that Antwerp up there?",
+  "speaker": "narrator",
+  "voiceId": 545,
+  "file": "qfg1-3099-narrator.mp3"
+ }
+]
