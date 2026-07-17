@@ -84,8 +84,8 @@
   "voiceName": "Lumi Pipetwirl"
  },
  "heinrich": {
-  "voiceId": "mag_500",
-  "voiceName": "Santa Claus"
+  "voiceId": "mag_170",
+  "voiceName": "Lukas Schneider"
  },
  "wolfgang": {
   "voiceId": "mag_597",
@@ -104,8 +104,8 @@
   "voiceName": "Brad Spinner"
  },
  "hermit": {
-  "voiceId": "mag_351",
-  "voiceName": "Daniel Brooks"
+  "voiceId": "mag_500",
+  "voiceName": "Santa Claus"
  },
  "brigand": {
   "voiceId": "mag_286",
