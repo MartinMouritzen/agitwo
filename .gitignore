@@ -30,3 +30,5 @@ node_modules/
 # them before making this repo public. See README "Distribution & legal".
 __pycache__/
 *.pyc
+lab/audio/
+lab-server.log

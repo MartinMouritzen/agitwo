@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SRR Voice Lab</title>
+<style>
+  :root{
+    --bg:#0d0f12; --panel:#14181d; --panel2:#1a2028; --edge:#242c36;
+    --txt:#cfd8e3; --dim:#7c8794; --acc:#e8a33d; --acc2:#5ac8fa; --good:#68d391; --bad:#f66;
+  }
+  *{box-sizing:border-box; margin:0; padding:0}
+  body{background:var(--bg); color:var(--txt); font:14.5px/1.5 "Segoe UI",system-ui,sans-serif; height:100vh; display:flex; flex-direction:column; overflow:hidden}
+  #workarea{flex:1; display:flex; overflow:hidden; min-height:0}
+  button{font:inherit; cursor:pointer; border:1px solid var(--edge); background:var(--panel2); color:var(--txt); border-radius:8px; padding:5px 12px}
+  button:hover{background:#222b36}
+  button:disabled{opacity:.4; cursor:default}
+  input,select{font:inherit; background:var(--panel2); color:var(--txt); border:1px solid var(--edge); border-radius:8px; padding:5px 10px}
+  #side{width:300px; min-width:300px; border-right:1px solid var(--edge); background:var(--panel); display:flex; flex-direction:column; overflow:hidden}
+  #sidelist{flex:1; overflow-y:auto; overflow-x:hidden}
+  .barklink{display:block; margin:8px 12px 4px; padding:9px 12px; background:var(--panel2); border:1px solid var(--edge); border-radius:8px; color:var(--acc); text-decoration:none; font-weight:600; font-size:13px}
+  .barklink:hover{background:rgba(232,163,61,.12)}
+  #side h2{font-size:11px; letter-spacing:.18em; text-transform:uppercase; color:var(--dim); padding:14px 16px 6px}
+  #quota{padding:10px 16px; font-size:12px; color:var(--dim); border-bottom:1px solid var(--edge)}
+  .char{display:flex; align-items:center; gap:10px; padding:7px 14px; cursor:pointer}
+  .char:hover{background:rgba(255,255,255,.045)}
+  .char.sel{background:linear-gradient(90deg, rgba(232,163,61,.22) 0%, var(--panel2) 34%, var(--panel2) 100%)}
+  .char img,.ph{width:40px; aspect-ratio:212/278; border-radius:6px; object-fit:cover; background:#232a33; flex:none;
+    display:flex; align-items:center; justify-content:center; font-weight:700; color:#55606c; font-size:16px}
+  .char .nm{font-weight:600; font-size:13.5px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+  .char .ct{font-size:11.5px; color:var(--dim)}
+  #main{flex:1; overflow-y:auto; padding:22px 30px}
+  #hdr{display:flex; gap:16px; align-items:center; margin-bottom:10px; flex-wrap:wrap}
+  #hdr img,#hdr .ph{width:72px; height:auto; aspect-ratio:212/278; object-fit:cover; border-radius:10px; font-size:28px}
+  #hdr h1{font-size:23px}
+  #hdr .meta{color:var(--dim); font-size:13px}
+  #voicebar{display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin:10px 0 16px; padding:12px 14px;
+    background:var(--panel); border:1px solid var(--edge); border-radius:10px}
+  #voicebar .cur{font-size:13.5px}
+  #voicebar .cur b{color:var(--acc)}
+  .stab{display:flex; gap:4px; align-items:center; font-size:12.5px; color:var(--dim)}
+  .stab button.on{border-color:var(--acc); color:var(--acc)}
+  .line{padding:11px 14px; background:var(--panel); border:1px solid var(--edge); border-radius:10px; margin-bottom:9px}
+  .line .txt{font-size:14px; margin-bottom:6px}
+  .line .row{display:flex; gap:8px; align-items:center; flex-wrap:wrap}
+  .line .src{font-size:11px; color:var(--dim)}
+  .take{display:inline-flex; gap:6px; align-items:center; border:1px solid var(--edge); border-radius:16px; padding:3px 10px; font-size:12.5px; color:var(--dim)}
+  .take.selected{border-color:var(--good); color:var(--good)}
+  .take button{border:0; background:none; padding:0 2px; font-size:13px; color:inherit}
+  .gen{color:var(--acc2)}
+  .segv{font-size:12px; color:var(--dim); padding:5px 8px}
+  .segv.has{color:var(--acc); border-color:var(--acc)}
+  .vsep{position:sticky; top:0; margin:10px 0 4px; padding:6px 10px; font-size:11px; font-weight:700; letter-spacing:.06em; color:var(--bad); background:rgba(246,102,102,.12); border-radius:6px; text-align:center}
+  .spin{display:inline-block; animation:sp 1s linear infinite}
+  @keyframes sp{to{transform:rotate(360deg)}}
+  /* voice picker modal */
+  #vmodal{position:fixed; inset:0; background:rgba(0,0,0,.6); display:none; align-items:center; justify-content:center; z-index:10}
+  #vmodal.open{display:flex}
+  #vbox{width:min(920px,94vw); height:min(800px,94vh); background:var(--panel); border:1px solid var(--edge); border-radius:14px;
+    display:flex; flex-direction:column; overflow:hidden}
+  #vbox header{display:flex; gap:10px; padding:12px 16px; border-bottom:1px solid var(--edge); align-items:center}
+  #vchar{display:flex; gap:12px; align-items:center; padding:12px 16px 4px}
+  #vchar img,#vchar .ph{width:52px; aspect-ratio:212/278; border-radius:8px; object-fit:cover; background:#232a33;
+    display:flex; align-items:center; justify-content:center; font-weight:700; color:#55606c; font-size:20px}
+  .gmseg{display:flex; gap:8px; align-items:flex-start; flex-wrap:wrap; margin:6px 0 2px; padding:8px 10px;
+    background:rgba(232,163,61,.05); border-radius:8px}
+  .gmseg .gt{font-size:13px; font-style:italic; color:var(--dim); flex:1; min-width:240px}
+  .gmseg .who{font-size:11px; color:var(--acc); letter-spacing:.08em; text-transform:uppercase; margin-right:4px}
+  .etext{display:inline; cursor:text; border-bottom:1px dashed #39434f}
+  .etext:hover{border-bottom-color:var(--acc2)}
+  .etext:focus{outline:none; border-bottom-color:var(--acc2); color:var(--txt); background:rgba(90,200,250,.06)}
+  .editedtag{font-size:10.5px; color:var(--acc); border:1px solid var(--edge); border-radius:8px; padding:0 6px; margin-left:6px; vertical-align:1px}
+  .resetbtn{border:0; background:none; color:var(--dim); font-size:13px; padding:0 4px; vertical-align:1px}
+  .resetbtn:hover{color:var(--acc)}
+  #vchar .vcbio{font-size:12.5px; color:var(--dim)}
+  #vchar .vcname{font-weight:700; font-size:15px}
+  .voice.taken{opacity:.45}
+  #vlist{flex:1; overflow-y:auto; padding:8px 16px}
+  .voice{display:flex; gap:12px; align-items:center; padding:9px 10px; border-bottom:1px solid #1c232c}
+  .voice:hover{background:rgba(255,255,255,.035)}
+  .voice .vn{font-weight:600; font-size:14px}
+  .voice .vd{font-size:12.5px; color:var(--dim)}
+  .voice .tag{font-size:11px; color:var(--acc2); border:1px solid var(--edge); border-radius:10px; padding:1px 8px; margin-left:6px}
+  .voice .act{margin-left:auto; display:flex; gap:8px; flex:none}
+  #toast{position:fixed; bottom:16px; left:50%; transform:translateX(-50%); background:var(--panel2); border:1px solid var(--edge);
+    border-radius:10px; padding:9px 18px; font-size:13.5px; display:none; z-index:20}
+  ::-webkit-scrollbar{width:10px} ::-webkit-scrollbar-thumb{background:#2a333e; border-radius:5px}
+</style>
+</head>
+<body>
+<div id="topnav"></div>
+<div id="workarea">
+<div id="side">
+  <div id="sidetabs"></div>
+  <label class="incfilter"><input type="checkbox" id="incomplete"> Show only incomplete (needs voices)</label>
+  <div id="sidelist"><div id="quota">quota: …</div></div>
+</div>
+<div id="main"><div style="color:var(--dim);margin-top:40px;text-align:center">Select a character</div></div>
+</div>
+
+<div id="toast"></div>
+<button id="syncbtn" onclick="syncToGame(this)" title="Export all current takes into the game's voicepack and install it. Restart the game afterwards to hear changes."
+  style="position:fixed;bottom:16px;right:22px;padding:10px 18px;border-radius:10px;background:var(--acc);color:#161006;font-weight:700;border:0;cursor:pointer;font-size:13.5px;z-index:15">⇩ Sync to game</button>
+
+<script src="nav.js"></script>
+<script src="voicepicker.js"></script>
+<script>
+const GAME=currentGame();               // 'dms' | 'dragonfall' | 'hk' (from ?game=, default dms)
+renderNav('characters'); renderSideTabs('characters');
+let S={characters:{},takes:{},picks:{}}, VOICES=[], MAG=[], cur=null, stab=0, curAudio=null;
+const $=id=>document.getElementById(id);
+const gd=f=>`data/${GAME}/${f}`;        // per-game data file url
+const gaud=f=>`audio/${GAME}/${f}`;     // per-game audio file url
+const esc=t=>{const d=document.createElement('div');d.textContent=t;return d.innerHTML};
+const sq=s=>JSON.stringify(s).replace(/'/g,'&#39;');   // JSON for a single-quoted onclick attr (escape apostrophes, e.g. "Grace O'Neil")
+const initials=n=>(n||'?').split(/\s+/).map(w=>w[0]).slice(0,2).join('');
+
+async function api(path, body){
+  // Thread the active game through every call: GET as ?game=, POST inside the body.
+  let url=path;
+  if(!body && path.startsWith('/api/')) url=path+(path.includes('?')?'&':'?')+'game='+GAME;
+  const r=await fetch(url, body?{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({...body,game:GAME}),cache:'no-store'}:{cache:'no-store'});
+  const j=await r.json();
+  if(j.error) throw new Error(j.error);
+  return j;
+}
+function toast(msg, ms=3000){ const t=$('toast'); t.textContent=msg; t.style.display='block'; clearTimeout(t._h); t._h=setTimeout(()=>t.style.display='none', ms); }
+
+let NOTES={}, SPOKEN={}, SEGS={}, DIRECTED={}, SEGOV={};
+let pickSeg=null;   // when the voice picker targets ONE line (per-line override) instead of the character
+const INFLIGHT=new Set();  // segKeys currently generating — survives re-renders so spinners persist
+function ttsText(id, l){
+  const o=SPOKEN[`${l.c}_${l.n}`];
+  if(o) return o.spoken;
+  let t=l.t;
+  if(id!=='narrator') t=t.replace(/\{\{GM\}\}[\s\S]*?(\{\{\/GM\}\}|$)/g,' ');  // narration belongs to the narrator's voice
+  return t.replace(/\{\{\/?[A-Za-z]*\}\}/g,'').replace(/\s+/g,' ').trim();
+}
+async function boot(){
+  S=await api('/api/state');
+  const NS={cache:'no-store'};  // always re-fetch data files — they change under the running lab
+  try{ NOTES=await (await fetch(gd('char_notes.json'),NS)).json(); }catch(e){}
+  try{ SPOKEN=await (await fetch(gd('spoken_overrides.json'),NS)).json(); }catch(e){}
+  try{ SEGS=await (await fetch(gd('line_segments.json'),NS)).json(); }catch(e){}
+  try{ SEGOV=await (await fetch(gd('seg_overrides.json'),NS)).json(); }catch(e){SEGOV={}}
+  try{ DIRECTED=await (await fetch(gd('directed.json'),NS)).json(); }catch(e){}
+  side();
+  api('/api/quota').then(q=>{
+    const mcp=S.mcpConnected?'<span style="color:var(--good)">Magnific: direct ✓</span>'
+      :'<a href="/oauth/login" style="color:var(--acc)">Connect Magnific (one-time login)</a>';
+    $('quota').innerHTML=`ElevenLabs ${q.tier}: ${q.used.toLocaleString()} / ${q.limit.toLocaleString()} chars · ${mcp}`;
+  }).catch(()=>{});
+  // Magnific catalog is primary (no slot limits, identical to bulk production);
+  // ElevenLabs is limited to voices already in the account (library adds are rate-limited).
+  Promise.all([
+    fetch('data/magnific_voices.json',{cache:'no-store'}).then(r=>r.json()).catch(()=>({voices:[]})),
+    api('/api/voices').catch(()=>({voices:[]}))
+  ]).then(([mag, el])=>{
+    MAG=mag.voices||[];
+    const mine=(el.voices||[]).filter(v=>v.source==='mine'||v.source==='library'||v.category==='premade');
+    VOICES=[...MAG, ...mine];
+    if(cur) show(cur);
+  });
+  const want=decodeURIComponent((location.hash||'').slice(1));
+  const first=(want&&chars()[want])?want:Object.keys(chars())[0];
+  if(first) show(first);
+}
+function chars(){
+  const out={};
+  const narr={id:'narrator',name:'Narrator (GM)',lines:S.characters.narrator?.lines||[]};
+  out.narrator=narr;
+  for(const c of (S.characters.characters||[])) out[c.id]=c;
+  return out;
+}
+function side(){
+  const cs=chars();
+  const inc=$('incomplete')&&$('incomplete').checked;
+  let h=$('quota').outerHTML+'<h2>Cast</h2>';
+  const arr=Object.values(cs).sort((a,b)=>(b.id==='narrator')-(a.id==='narrator') || (b.lines?.length||0)-(a.lines?.length||0));
+  let shown=0;
+  for(const c of arr){
+    if(inc && isFullyVoiced(c.id)) continue;   // "incomplete only": hide fully-voiced cast
+    shown++;
+    const t=S.takes[c.id]||{}; const done=Object.keys(t).length;
+    const pick=S.picks[c.id];
+    h+=`<div class="char ${cur===c.id?'sel':''}" data-id="${c.id}" onclick="show('${c.id}')">
+      ${c.portraitFile?`<img src="portraits/${c.portraitFile}">`:`<div class="ph">${initials(c.name)}</div>`}
+      <div><div class="nm">${esc(c.name)}</div>
+      <div class="ct">${c.lines?.length||0} lines · ${done} generated${pick?' · '+esc(pick.voiceName||''):''}</div></div></div>`;
+  }
+  if(inc && !shown) h+='<div style="padding:16px;color:var(--dim);font-size:13px">🎉 Every character is fully voiced.</div>';
+  $('sidelist').innerHTML=h;
+}
+function show(id){
+  cur=id; side();
+  try{ history.replaceState(null,'','#'+encodeURIComponent(id)); }catch(e){}
+  const c=chars()[id]; if(!c) return;
+  const pick=S.picks[id];
+  const note=NOTES[id];
+  let h=`<div id="hdr">${c.portraitFile?`<img src="portraits/${c.portraitFile}">`:`<div class="ph">${initials(c.name)}</div>`}
+    <div><h1>${esc(c.name)}</h1><div class="meta">${c.lines?.length||0} lines${c.archetype?' · '+esc(c.archetype):''}</div></div></div>`;
+  if(note){
+    h+=`<div style="background:linear-gradient(90deg, rgba(90,200,250,.10) 0%, transparent 100%); border-radius:8px; padding:10px 14px; margin:4px 0 8px; font-size:13.5px">
+      ${esc(note.bio)}<br><span style="color:var(--dim)">Voice direction: ${esc(note.direction)}</span></div>`;
+    // Quick-select suggestion pills (Magnific only) — kept visible until the character is fully
+    // generated (so you can still try other voices), and voices already cast elsewhere are skipped.
+    if(!isFullyVoiced(id)){
+      const takenIds=new Set(Object.entries(S.picks||{}).filter(([pid])=>pid!==id).map(([,p])=>p.voiceId));
+      const pills=note.suggestions.filter(s=>!takenIds.has(s.voice_id));
+      if(pills.length) h+=`<div style="display:flex; gap:8px; flex-wrap:wrap; margin:0 0 4px">${pills.map(s=>{
+        const v=VOICES.find(x=>x.voice_id===s.voice_id);
+        const isPick=s.voice_id===(pick&&pick.voiceId);
+        return `<span class="take ${isPick?'selected':''}" style="cursor:pointer" title="${esc(s.why||'')}">
+          ${v&&v.preview?`<button title="preview" onclick='event.stopPropagation();play(this,null);curAudio=new Audio(${JSON.stringify(v.preview)});curAudio.play()'>▶</button>`:''}
+          <span onclick='pickVoice(${JSON.stringify(s.voice_id)},${JSON.stringify(s.name)})'>✦ ${esc(s.name)}${isPick?' ✓':''}</span></span>`;}).join('')}</div>`;
+    }
+  }
+  h+=`<div id="voicebar">
+    <span class="cur">Voice: ${pick?`<b>${esc(pick.voiceName||pick.voiceId)}</b>`:'<i>none picked</i>'}</span>
+    <button onclick="openPicker()">Browse voices…</button>
+    <span class="stab">stability:
+      <button class="${stab===0?'on':''}" onclick="stab=0;show(cur)">Creative</button>
+      <button class="${stab===0.5?'on':''}" onclick="stab=0.5;show(cur)">Natural</button>
+      <button class="${stab===1?'on':''}" onclick="stab=1;show(cur)">Robust</button></span>
+    <button onclick="genAllVisible()" title="Generate every line below that has no take yet">⚡ Generate missing (top 20)</button>
+  </div>`;
+  for(const l of (c.lines||[])){
+    const key=`${l.c}_${l.n}`;
+    const t=(S.takes[id]||{})[key];
+    const shown=l.t.replace(/\{\{\/?[A-Za-z]*\}\}/g,'').trim();
+    const segs=segsFor(id,key,l).filter(sg=>sg.t!=null&&sg.t!=='');
+    h+=`<div class="line" id="L${key}">
+      <div class="txt">${esc(shown)}${segs.length>1&&allSelected(segs)?` <button title="Play the whole line in order" style="margin-left:8px" onclick='playAll("${key}")'>▶ Play line</button>`:''}</div>`;
+    for(const sg of segs){
+      const bucket=sg.who==='gm'?'narrator':id;
+      const st=(S.takes[bucket]||{})[sg.key];
+      const busy=INFLIGHT.has(sg.key);
+      h+=`<div class="gmseg" id="L${sg.key.replace(/~/g,'-')}">
+        <div class="gt" ${sg.who==='char'?'style="font-style:normal;color:var(--txt)"':''}><span class="who">${sg.who==='gm'?'Narrator':esc(c.name)}</span>${editable(sg.key, sg.t)}</div>
+        ${sg.who!=='gm'?`<button class="segv ${SEGOV[sg.key]?'has':''}" title="Give THIS line its own voice (for buckets that mix different speakers)" onclick='openPicker(${JSON.stringify(sg.key)})'>🎤${SEGOV[sg.key]?' '+esc(SEGOV[sg.key].voiceName.split(' -')[0].split(' (')[0].slice(0,14)):''}</button>${SEGOV[sg.key]?`<button class="segv" title="Revert to the character's voice" onclick='clearSegVoice(${JSON.stringify(sg.key)})'>↺</button>`:''}`:''}
+        <button class="gen" ${busy?'disabled':''} onclick='genSegment(this,"${id}","${key}",${JSON.stringify(sg.key)},${sg.who==='gm'})'>${busy?'<span class="spin">◌</span> generating…':'🎙 '+(st&&st.takes.length?'Retake':'Generate')}</button>
+        ${(st?st.takes:[]).map(tk=>takeChip(bucket,sg.key,st,tk)).join('')}</div>`;
+    }
+    h+=`<div class="row"><span class="src">${segs.length?'':'narration only · '}${esc(l.cn||'')}</span></div></div>`;
+  }
+  $('main').innerHTML=h;
+}
+async function genAllVisible(){
+  const c=chars()[cur];
+  const jobs=[];
+  let needNarr=false, needChar=false;
+  for(const l of (c.lines||[])){
+    const key=`${l.c}_${l.n}`;
+    for(const sg of segsFor(cur,key,l)){
+      if(sg.t==null||sg.t==='') continue;
+      const bucket=sg.who==='gm'?'narrator':cur;
+      const has=(((S.takes[bucket]||{})[sg.key]||{}).takes||[]).length>0;
+      if(!has){ jobs.push({key,sg,bucket}); if(sg.who==='gm') needNarr=true; else needChar=true; }
+      if(jobs.length>=20) break;
+    }
+    if(jobs.length>=20) break;
+  }
+  if(!jobs.length){ toast('Nothing to generate — all visible lines already have takes.'); return; }
+  // Warn about missing voice picks (jobs for a bucket with no picked voice will be skipped).
+  const miss=[];
+  if(needChar && !S.picks[cur]) miss.push(c.name);
+  if(needNarr && !S.picks['narrator']) miss.push('Narrator');
+  if(miss.length){ toast('Pick a voice first for: '+miss.join(', ')+' (Browse voices…)', 6000); return; }
+  toast(`Generating ${jobs.length} segments…`, 5000);
+  let ok=0;
+  for(const j of jobs){ if(await genSegment(null, cur, j.key, j.sg.key, j.sg.who==='gm')) ok++; }
+  toast(`Batch done — ${ok}/${jobs.length} generated`);
+}
+function effText(bucketKey, def){
+  const e=(S.edits||{})[bucketKey];
+  if(e!=null) return e;
+  const d=DIRECTED[bucketKey];
+  return d!=null?d:def;
+}
+function editable(bucketKey, def){
+  const edited=(S.edits||{})[bucketKey]!=null;
+  const directed=!edited&&DIRECTED[bucketKey]!=null;
+  const txt=effText(bucketKey, def);
+  return `<span class="etext" contenteditable spellcheck="false" data-key="${esc(bucketKey)}" data-def="${esc(def||'')}"
+    onkeydown="editKey(event,this)" onblur="commitEdit(this)"
+    title="Click to edit the audio script. ElevenLabs v3 tags work: [whispers] [sighs] [disturbed] [breathes heavily] [laughs] [shouts]">${esc(txt)}</span>${
+    edited?`<span class="editedtag">edited</span><button class="resetbtn" title="Reset to original" onmousedown='event.preventDefault();resetEdit(${JSON.stringify(bucketKey)})'>↺</button>`:
+    directed?`<span class="editedtag" style="color:var(--acc2)" title="Emotion tag mined from the narration and LLM-verified. Edit freely.">directed</span>`:''}`;
+}
+function editKey(ev, el){
+  if(ev.key==='Enter'){ ev.preventDefault(); el.blur(); }
+  if(ev.key==='Escape'){ el.textContent=effText(el.dataset.key, el.dataset.def); el.blur(); }
+}
+async function commitEdit(el){
+  const key=el.dataset.key, def=el.dataset.def;
+  const txt=el.textContent.replace(/\s+/g,' ').trim();
+  const current=effText(key, def);
+  const hasEdit=(S.edits||{})[key]!=null;
+  if(txt===current && !(hasEdit && txt===def)) return;  // unchanged, unless it's a no-op edit to clean up
+  try{
+    await api('/api/text/set',{key, text: txt===def?'':txt});
+    S=await api('/api/state'); show(cur);
+    toast(txt===def?'Reset to original':'Audio script updated — hit Retake to hear it');
+  }catch(e){ toast('save failed: '+e.message, 5000); }
+}
+async function resetEdit(key){
+  await api('/api/text/set',{key, text:''});
+  S=await api('/api/state'); show(cur); toast('Reset to original');
+}
+function isFullyVoiced(id){
+  // true when every one of this character's own speech segments has a take (narration is the
+  // narrator's job, so it's not counted here). Used to keep the suggestion pills visible until done.
+  const c=chars()[id]; if(!c||!c.lines) return false;
+  for(const l of c.lines){
+    const key=`${l.c}_${l.n}`;
+    for(const sg of segsFor(id,key,l)){
+      if(sg.who==='gm'||sg.t==null||sg.t==='') continue;
+      if(!(((S.takes[id]||{})[sg.key]||{}).takes||[]).length) return false;
+    }
+  }
+  return true;
+}
+function segsFor(id,key,l){
+  // ordered playback segments for a line; each gets its take-storage key
+  if(id==='narrator'||!SEGS[key]){
+    if(!l){ const c=chars()[id]; l=c&&(c.lines||[]).find(x=>`${x.c}_${x.n}`===key); }
+    return [{who:'char', t:l?ttsText(id,l):null, key}];  // plain line = one speech segment
+  }
+  const raw=SEGS[key];
+  const nchar=raw.filter(s=>s.who==='char').length;
+  let gi=0, ci=0;
+  return raw.map(s=>{
+    if(s.who==='gm') return {who:'gm', t:s.t, key:`${key}~g${gi++}`};
+    const k=(nchar===1)?key:`${key}~c${ci}`; ci++;
+    return {who:'char', t:s.t, key:k};
+  });
+}
+function allSelected(segs){
+  return segs.every(sg=>{
+    const bucket=sg.who==='gm'?'narrator':cur;
+    const st=(S.takes[bucket]||{})[sg.key];
+    return st&&st.selected;
+  });
+}
+function takeChip(bucket,key,t,tk){
+  const vn=tk.voiceName||(VOICES.find(x=>x.voice_id===tk.voiceId)||{}).name||(tk.voiceId||'').slice(0,8);
+  return `<span class="take ${t.selected===tk.file?'selected':''}">
+    <button onclick='play(this,${JSON.stringify(tk.file)})'>▶</button>
+    <span onclick='selectTake(${JSON.stringify(bucket)},${JSON.stringify(key)},${JSON.stringify(tk.file)})' style="cursor:pointer" title="make this the keeper · ${new Date(tk.ts*1000).toLocaleString()}">${esc(vn)}${tk.stability===0?' ·C':tk.stability===1?' ·R':' ·N'}</span>
+    <button title="delete take" onclick='delTakeIn(${JSON.stringify(bucket)},${JSON.stringify(key)},${JSON.stringify(tk.file)})'>🗑</button></span>`;
+}
+async function genSegment(btn,id,lineKey,segKey,isGm){
+  if(INFLIGHT.has(segKey)) return true;   // already generating this exact segment — ignore double-click
+  const bucket=isGm?'narrator':id;
+  let pick=SEGOV[segKey]||S.picks[bucket];   // per-line override wins over the character's pick
+  if(!pick){
+    // No character pick (e.g. a mixed bucket like Player 1 where each line uses a different actor):
+    // fall back to whatever voice already produced a take on THIS segment, so Retake reuses it.
+    const st=(S.takes[bucket]||{})[segKey];
+    const prev=st&&(st.takes.find(t=>t.file===st.selected)||st.takes[st.takes.length-1]);
+    if(prev&&prev.voiceId) pick={voiceId:prev.voiceId, voiceName:prev.voiceName};
+  }
+  if(!pick){ toast(isGm?'Pick a voice for the Narrator (GM) first':'Pick a voice first, or generate once so Retake can reuse that voice'); return false; }
+  if(String(pick.voiceId).startsWith('sapi_')){ toast('That clip uses a local SAPI robot voice — regenerate it from the terminal, not the lab.', 6000); return false; }
+  const sg=segsFor(id,lineKey).find(s=>s.key===segKey); if(!sg) return false;
+  // Use the LIVE inline-edit text if the field has focus/unsaved changes (no blur required),
+  // and persist it so it sticks.
+  let text=effText(segKey, sg.t);
+  const el=document.querySelector(`.etext[data-key="${CSS.escape(segKey)}"]`);
+  if(el){
+    const live=el.textContent.replace(/\s+/g,' ').trim();
+    if(live && live!==text){
+      text=live;
+      const def=el.dataset.def||'';
+      api('/api/text/set',{key:segKey, text: live===def?'':live});   // persist (fire-and-forget)
+      (S.edits=S.edits||{})[segKey]=live;
+    }
+  }
+  INFLIGHT.add(segKey);
+  // Manual click: update ONLY the clicked button (no full re-render, so concurrent clicks on other
+  // buttons aren't torn down mid-click). Batch (btn=null) is sequential, so a full re-render is safe.
+  if(btn){ btn.disabled=true; btn.innerHTML='<span class="spin">◌</span> generating…'; }
+  else if(cur===id) show(id);
+  let okd=false;
+  try{
+    await api('/api/generate',{charId:bucket,lineKey:segKey,text,voiceId:pick.voiceId,voiceName:pick.voiceName,stability:stab});
+    S=await api('/api/state'); okd=true;
+  }catch(e){ toast('generate failed: '+e.message, 8000); }
+  finally{ INFLIGHT.delete(segKey); if(cur===id) show(id); }
+  return okd;
+}
+async function delTakeIn(bucket,key,file){ await api('/api/take/delete',{charId:bucket,lineKey:key,file}); S=await api('/api/state'); show(cur); }
+function playAll(key){
+  const files=segsFor(cur,key).map(sg=>{
+    const bucket=sg.who==='gm'?'narrator':cur;
+    return ((S.takes[bucket]||{})[sg.key]||{}).selected;
+  }).filter(Boolean);
+  if(!files.length) return;
+  if(curAudio) curAudio.pause();
+  let i=0;
+  const next=()=>{
+    if(i>=files.length) return;
+    curAudio=new Audio(gaud(files[i++]));
+    curAudio.onended=next;
+    curAudio.play();
+  };
+  next();
+}
+async function selectTake(id,key,file){ await api('/api/take/select',{charId:id,lineKey:key,file}); S=await api('/api/state'); show(cur); }
+async function delTake(id,key,file){ await api('/api/take/delete',{charId:id,lineKey:key,file}); S=await api('/api/state'); show(id); }
+function play(btn,file){
+  if(curAudio){curAudio.pause();}
+  curAudio=new Audio(gaud(file)); curAudio.play();
+}
+function openPicker(segKey){
+  pickSeg=segKey||null;
+  const c=chars()[cur], note=NOTES[cur]||{}, cs=chars();
+  const takenBy={};  // voiceId -> other character name
+  for(const [pid,p] of Object.entries(S.picks||{})){ if(pid!==cur && p.voiceId) takenBy[p.voiceId]=cs[pid]?cs[pid].name:pid; }
+  VoicePicker.open({
+    voices: VOICES,
+    header: pickSeg
+      ? `<div><div class="vcname">Voice for ONE line</div><div class="vcbio">Overrides ${esc(c.name)}'s voice for just this line (use it when a bucket mixes different speakers). Generate/Retake the line to apply.</div></div>`
+      : `<div style="display:flex;gap:12px;align-items:center">${c.portraitFile?`<img src="portraits/${c.portraitFile}" style="width:52px;aspect-ratio:212/278;border-radius:8px;object-fit:cover">`:`<div class="ph" style="width:52px;aspect-ratio:212/278">${initials(c.name)}</div>`}
+        <div><div class="vcname">${esc(c.name)}</div><div class="vcbio">${esc(note.bio||'')}${note.direction?'<br><b>Direction:</b> '+esc(note.direction):''}</div></div></div>`,
+    gender: pickSeg ? '' : (note.gender || ''),
+    taken: takenBy,
+    currentPickId: pickSeg ? (SEGOV[pickSeg]&&SEGOV[pickSeg].voiceId) : (S.picks[cur]||{}).voiceId,
+    primaryLabel: v => pickSeg ? 'Use for this line' : ('Cast as '+ (c.name||'')),
+    onPreviewLine: v => previewLine(v.voice_id, v.name),
+    onRefresh: async ()=>{ toast('Refreshing catalog…'); try{ const r=await api('/api/voices/refresh'); const mine=(r.voices||[]).filter(x=>x.source==='mine'||x.source==='library'||x.category==='premade'); VOICES=[...MAG,...mine]; VoicePicker.setVoices(VOICES); toast('Catalog refreshed'); }catch(e){ toast('refresh failed: '+e.message,6000); } },
+    onClear: (pickSeg && SEGOV[pickSeg]) ? async ()=>{ await api('/api/seg/setvoice',{segKey:pickSeg,voiceId:null}); delete SEGOV[pickSeg]; VoicePicker.close(); show(cur); toast('reverted to character voice'); } : null,
+    clearLabel: "↺ character's voice",
+    onPick: async (v, takenName)=>{
+      if(pickSeg){
+        try{ await api('/api/seg/setvoice',{segKey:pickSeg,voiceId:v.voice_id,voiceName:v.name}); SEGOV[pickSeg]={voiceId:v.voice_id,voiceName:v.name}; const sk=pickSeg; pickSeg=null; show(cur); toast('This line → '+v.name+'. Hit Generate/Retake to apply.',6000); }
+        catch(e){ toast('save failed: '+e.message,6000); }
+      }else{
+        if(takenName && !confirm(`"${v.name}" is already cast as ${takenName}.\n\nUse it for ${c.name} too? (Do this only if it's the same character in another spot.)`)) return;
+        try{ await api('/api/pick',{charId:cur,voiceId:v.voice_id,voiceName:v.name}); S=await api('/api/state'); show(cur); toast(`${v.name} cast as ${c.name}`); }
+        catch(e){ toast('save failed: '+e.message,6000); }
+      }
+    },
+  });
+}
+async function previewLine(vid, vname){
+  const c=chars()[cur]; if(!c||!c.lines||!c.lines.length) return;
+  const l=c.lines[0], key=`${l.c}_${l.n}`;
+  const segs=segsFor(cur,key);
+  const firstChar=segs.find(s=>s.who==='char');
+  const text=firstChar?effText(firstChar.key, firstChar.t!=null?firstChar.t:ttsText(cur,l)):ttsText(cur,l);
+  toast(`Generating first line in ${vname}…`, 8000);
+  try{
+    const r=await api('/api/generate',{charId:cur,lineKey:firstChar?firstChar.key:key,text,voiceId:vid,voiceName:vname,stability:stab});
+    S=await api('/api/state');
+    play(null, r.file); toast(`First line in ${vname} (saved as a take)`);
+  }catch(e){ toast('preview failed: '+e.message, 8000); }
+}
+function clearSegVoice(segKey){
+  api('/api/seg/setvoice',{segKey,voiceId:null}).then(()=>{ delete SEGOV[segKey]; show(cur); toast('reverted to character voice'); });
+}
+async function syncToGame(btn){
+  const old=btn.textContent; btn.disabled=true; btn.textContent='⇩ Syncing…';
+  try{
+    const r=await api('/api/sync', {});   // MUST be POST — the /api/sync handler lives in do_POST
+    if(r.ok){ toast('✓ '+r.message+'  (restart the game to hear changes)', 8000); }
+    else{ toast('Sync problem: '+(r.message||r.error||'see server log'), 9000); }
+  }catch(e){ toast('Sync failed: '+e.message, 9000); }
+  btn.disabled=false; btn.textContent=old;
+}
+$('incomplete').onchange=side;
+boot();
+</script>
+</body>
+</html>
