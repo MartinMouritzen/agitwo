@@ -1,1 +1,190 @@
-{"narrator": {"voiceId": "mag_545", "voiceName": "Elias Thornwell"}, "shameen": {"voiceId": "mag_266", "voiceName": "Aiden Samuel"}, "guard": {"voiceId": "mag_319", "voiceName": "Benjamin Walker"}, "sheriff": {"voiceId": "mag_36", "voiceName": "Blake Hudson"}, "healer": {"voiceId": "mag_44", "voiceName": "Chloe Bennett"}, "hero": {"voiceId": "mag_507", "voiceName": "Dylan Hayes"}, "shopkeeper": {"voiceId": "mag_176", "voiceName": "Connor Keane"}, "kobold": {"voiceId": "mag_796", "voiceName": "Winston Brown"}, "meep": {"voiceId": "mag_499", "voiceName": "Tessa Morgan"}, "baba-yaga": {"voiceId": "mag_528", "voiceName": "Lilith Vexmoor"}, "bruno": {"voiceId": "mag_686", "voiceName": "Terry Dobson"}, "brutus": {"voiceId": "mag_685", "voiceName": "Dusty Baxter"}, "beggar": {"voiceId": "mag_796", "voiceName": "Winston Brown"}, "stableman": {"voiceId": "mag_174", "voiceName": "Aidan Doyle"}, "horse": {"voiceId": "mag_685", "voiceName": "Dusty Baxter"}, "old-lady": {"voiceId": "mag_179", "voiceName": "Grace O'Neil"}, "erasmus": {"voiceId": "mag_526", "voiceName": "Eldros the Wise"}, "fenrus": {"voiceId": "mag_586", "voiceName": "Dexter Glitch"}, "weapon-master": {"voiceId": "mag_378", "voiceName": "Arthur Kensington"}, "yorick": {"voiceId": "mag_518", "voiceName": "Dr. Cosmo Fizzlebaum"}, "fairy": {"voiceId": "mag_527", "voiceName": "Lumi Pipetwirl"}, "heinrich": {"voiceId": "mag_500", "voiceName": "Santa Claus"}, "wolfgang": {"voiceId": "mag_597", "voiceName": "Charles Haversham"}, "bonehead": {"voiceId": "mag_585", "voiceName": "Brad Spinner"}, "abdulla": {"voiceId": "mag_26", "voiceName": "Austin Lane"}, "magic-mirror": {"voiceId": "mag_585", "voiceName": "Brad Spinner"}, "hermit": {"voiceId": "mag_351", "voiceName": "Daniel Brooks"}, "brigand": {"voiceId": "mag_286", "voiceName": "Benjamin Parker"}, "thief-guildmaster": {"voiceId": "mag_516", "voiceName": "Dominic Blaze"}, "zara": {"voiceId": "mag_542", "voiceName": "Selene Vex"}, "boris": {"voiceId": "mag_264", "voiceName": "Caleb Ryan"}, "hilde": {"voiceId": "mag_347", "voiceName": "Eleanor Hastings"}, "elsa": {"voiceId": "mag_29", "voiceName": "Ava Jordan"}, "goblin": {"voiceId": "mag_286", "voiceName": "Benjamin Parker"}, "warlock": {"voiceId": "mag_511", "voiceName": "Dorian Malice"}, "dryad": {"voiceId": "mag_684", "voiceName": "Avery Quinn"}, "slink": {"voiceId": "mag_517", "voiceName": "Darian Voss"}, "townsperson": {"voiceId": "mag_294", "voiceName": "Alexander Davis"}, "gargoyle": {"voiceId": "mag_543", "voiceName": "Axel Virex"}, "fox": {"voiceId": "mag_442", "voiceName": "Ben Watson"}, "baronet": {"voiceId": "mag_859", "voiceName": "Archer Harrison"}, "shema": {"voiceId": "mag_225", "voiceName": "Claire van der Merwe"}, "baron": {"voiceId": "mag_447", "voiceName": "Caleb Morgan"}, "bartender": {"voiceId": "mag_538", "voiceName": "Wade \u201cRed\u201d Dawson"}, "crusher": {"voiceId": "mag_685", "voiceName": "Dusty Baxter"}, "brauggi": {"voiceId": "mag_338", "voiceName": "Elijah Bennett"}, "sheriff-wife": {"voiceId": "mag_179", "voiceName": "Grace O'Neil"}}
+{
+ "narrator": {
+  "voiceId": "mag_545",
+  "voiceName": "Elias Thornwell"
+ },
+ "shameen": {
+  "voiceId": "mag_266",
+  "voiceName": "Aiden Samuel"
+ },
+ "guard": {
+  "voiceId": "mag_319",
+  "voiceName": "Benjamin Walker"
+ },
+ "sheriff": {
+  "voiceId": "mag_36",
+  "voiceName": "Blake Hudson"
+ },
+ "healer": {
+  "voiceId": "mag_44",
+  "voiceName": "Chloe Bennett"
+ },
+ "hero": {
+  "voiceId": "mag_507",
+  "voiceName": "Dylan Hayes"
+ },
+ "shopkeeper": {
+  "voiceId": "mag_176",
+  "voiceName": "Connor Keane"
+ },
+ "kobold": {
+  "voiceId": "mag_796",
+  "voiceName": "Winston Brown"
+ },
+ "meep": {
+  "voiceId": "mag_499",
+  "voiceName": "Tessa Morgan"
+ },
+ "baba-yaga": {
+  "voiceId": "mag_528",
+  "voiceName": "Lilith Vexmoor"
+ },
+ "bruno": {
+  "voiceId": "mag_686",
+  "voiceName": "Terry Dobson"
+ },
+ "brutus": {
+  "voiceId": "mag_685",
+  "voiceName": "Dusty Baxter"
+ },
+ "beggar": {
+  "voiceId": "mag_796",
+  "voiceName": "Winston Brown"
+ },
+ "stableman": {
+  "voiceId": "mag_174",
+  "voiceName": "Aidan Doyle"
+ },
+ "horse": {
+  "voiceId": "mag_685",
+  "voiceName": "Dusty Baxter"
+ },
+ "old-lady": {
+  "voiceId": "mag_179",
+  "voiceName": "Grace O'Neil"
+ },
+ "erasmus": {
+  "voiceId": "mag_534",
+  "voiceName": "Old Pip Quickroot"
+ },
+ "fenrus": {
+  "voiceId": "mag_586",
+  "voiceName": "Dexter Glitch"
+ },
+ "weapon-master": {
+  "voiceId": "mag_378",
+  "voiceName": "Arthur Kensington"
+ },
+ "yorick": {
+  "voiceId": "mag_518",
+  "voiceName": "Dr. Cosmo Fizzlebaum"
+ },
+ "fairy": {
+  "voiceId": "mag_527",
+  "voiceName": "Lumi Pipetwirl"
+ },
+ "heinrich": {
+  "voiceId": "mag_500",
+  "voiceName": "Santa Claus"
+ },
+ "wolfgang": {
+  "voiceId": "mag_597",
+  "voiceName": "Charles Haversham"
+ },
+ "bonehead": {
+  "voiceId": "mag_585",
+  "voiceName": "Brad Spinner"
+ },
+ "abdulla": {
+  "voiceId": "mag_26",
+  "voiceName": "Austin Lane"
+ },
+ "magic-mirror": {
+  "voiceId": "mag_585",
+  "voiceName": "Brad Spinner"
+ },
+ "hermit": {
+  "voiceId": "mag_351",
+  "voiceName": "Daniel Brooks"
+ },
+ "brigand": {
+  "voiceId": "mag_286",
+  "voiceName": "Benjamin Parker"
+ },
+ "thief-guildmaster": {
+  "voiceId": "mag_516",
+  "voiceName": "Dominic Blaze"
+ },
+ "zara": {
+  "voiceId": "mag_542",
+  "voiceName": "Selene Vex"
+ },
+ "boris": {
+  "voiceId": "mag_264",
+  "voiceName": "Caleb Ryan"
+ },
+ "hilde": {
+  "voiceId": "mag_347",
+  "voiceName": "Eleanor Hastings"
+ },
+ "elsa": {
+  "voiceId": "mag_29",
+  "voiceName": "Ava Jordan"
+ },
+ "goblin": {
+  "voiceId": "mag_286",
+  "voiceName": "Benjamin Parker"
+ },
+ "warlock": {
+  "voiceId": "mag_511",
+  "voiceName": "Dorian Malice"
+ },
+ "dryad": {
+  "voiceId": "mag_684",
+  "voiceName": "Avery Quinn"
+ },
+ "slink": {
+  "voiceId": "mag_517",
+  "voiceName": "Darian Voss"
+ },
+ "townsperson": {
+  "voiceId": "mag_294",
+  "voiceName": "Alexander Davis"
+ },
+ "gargoyle": {
+  "voiceId": "mag_543",
+  "voiceName": "Axel Virex"
+ },
+ "fox": {
+  "voiceId": "mag_442",
+  "voiceName": "Ben Watson"
+ },
+ "baronet": {
+  "voiceId": "mag_859",
+  "voiceName": "Archer Harrison"
+ },
+ "shema": {
+  "voiceId": "mag_225",
+  "voiceName": "Claire van der Merwe"
+ },
+ "baron": {
+  "voiceId": "mag_447",
+  "voiceName": "Caleb Morgan"
+ },
+ "bartender": {
+  "voiceId": "mag_538",
+  "voiceName": "Wade “Red” Dawson"
+ },
+ "crusher": {
+  "voiceId": "mag_685",
+  "voiceName": "Dusty Baxter"
+ },
+ "brauggi": {
+  "voiceId": "mag_338",
+  "voiceName": "Elijah Bennett"
+ },
+ "sheriff-wife": {
+  "voiceId": "mag_179",
+  "voiceName": "Grace O'Neil"
+ }
+}
