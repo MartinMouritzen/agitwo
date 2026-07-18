@@ -922,5 +922,23 @@
     "tmp": "_seg/qfg1-4656-hero__s1.mp3"
    }
   ]
+ },
+ {
+  "file": "qfg1-1672-hero.mp3",
+  "speaker": "hero",
+  "segments": [
+   {
+    "who": "gm",
+    "t": "There is a small sign which reads \"Booby Trap\".  You are now in a pitiful situation as you hear the brigands approach to see the booby they've caught. You think to yourself,",
+    "voiceId": 545,
+    "tmp": "_seg/qfg1-1672-hero__s0.mp3"
+   },
+   {
+    "who": "char",
+    "t": "If it looks like a trap, and it feels like a trap, then maybe it IS a trap.",
+    "voiceId": 507,
+    "tmp": "_seg/qfg1-1672-hero__s1.mp3"
+   }
+  ]
  }
 ]

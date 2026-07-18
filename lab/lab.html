@@ -325,18 +325,19 @@ function isFullyVoiced(id){
   return true;
 }
 function segsFor(id,key,l){
-  // ordered playback segments for a line; each gets its take-storage key
-  if(id==='narrator'||!SEGS[key]){
+  // ordered playback segments for a line; each gets its take-storage key.
+  // agitwo: SEGS and segment keys are scoped by character (id~key) so two
+  // different characters whose lines share a base key can't collide (their
+  // narrator gm-segments would otherwise clash in the shared narrator bucket).
+  const sk=id+'~'+key;
+  if(id==='narrator'||!SEGS[sk]){
     if(!l){ const c=chars()[id]; l=c&&(c.lines||[]).find(x=>`${x.c}_${x.n}`===key); }
     return [{who:'char', t:l?ttsText(id,l):null, key}];  // plain line = one speech segment
   }
-  const raw=SEGS[key];
-  const nchar=raw.filter(s=>s.who==='char').length;
   let gi=0, ci=0;
-  return raw.map(s=>{
-    if(s.who==='gm') return {who:'gm', t:s.t, key:`${key}~g${gi++}`};
-    const k=(nchar===1)?key:`${key}~c${ci}`; ci++;
-    return {who:'char', t:s.t, key:k};
+  return SEGS[sk].map(s=>{
+    if(s.who==='gm') return {who:'gm', t:s.t, key:`${id}~${key}~g${gi++}`};
+    return {who:'char', t:s.t, key:`${id}~${key}~c${ci++}`};
   });
 }
 function allSelected(segs){
