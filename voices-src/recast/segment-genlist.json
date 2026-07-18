@@ -1,0 +1,527 @@
+[
+ {
+  "text": "The Sheriff calls out behind you:",
+  "file": "_seg/qfg1-101-sheriff__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Just a friendly suggestion, but whatever you do, don't drink the Dragon's Breath.  Not even Otto can drink Dragon's Breath!",
+  "file": "_seg/qfg1-101-sheriff__s1.mp3",
+  "voiceId": 36
+ },
+ {
+  "text": "The Sheriff replies,",
+  "file": "_seg/qfg1-130-sheriff__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Why, that's me!",
+  "file": "_seg/qfg1-130-sheriff__s1.mp3",
+  "voiceId": 36
+ },
+ {
+  "text": "My friend,",
+  "file": "_seg/qfg1-134-sheriff__s0.mp3",
+  "voiceId": 36
+ },
+ {
+  "text": "the Sheriff says,",
+  "file": "_seg/qfg1-134-sheriff__s1.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "this world's filled with dangers. Sometimes I think it might be better to choose your danger, rather than sitting around, waiting for it, as I seem to do.",
+  "file": "_seg/qfg1-134-sheriff__s2.mp3",
+  "voiceId": 36
+ },
+ {
+  "text": "Otto is a big help to me,",
+  "file": "_seg/qfg1-142-sheriff__s0.mp3",
+  "voiceId": 36
+ },
+ {
+  "text": "the Sheriff tells you.",
+  "file": "_seg/qfg1-142-sheriff__s1.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "He's very smart for a Goon. His prisoners only suffer a few broken bones when he grabs them.",
+  "file": "_seg/qfg1-142-sheriff__s2.mp3",
+  "voiceId": 36
+ },
+ {
+  "text": "The Sheriff says,",
+  "file": "_seg/qfg1-146-sheriff__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "You think I'm going to tell you everything I know about everything? Go look around and find things out for yourself.",
+  "file": "_seg/qfg1-146-sheriff__s1.mp3",
+  "voiceId": 36
+ },
+ {
+  "text": "Thank you.  I often use flowers from Erana's Peace in potion making.  Here are your silvers.",
+  "file": "_seg/qfg1-1064-healer__s0.mp3",
+  "voiceId": 44
+ },
+ {
+  "text": "You put them away.",
+  "file": "_seg/qfg1-1064-healer__s1.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "These are very nice.  I'll dry them and grind them into a powder.  Let me think...oh yes! I said these are worth a gold.  Here you are.",
+  "file": "_seg/qfg1-1067-healer__s0.mp3",
+  "voiceId": 44
+ },
+ {
+  "text": "You put it away.",
+  "file": "_seg/qfg1-1067-healer__s1.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Don't tell me you actually killed a Troll?  Why, you are really amazing.  I haven't had any Troll's Beard for a long time.  Here are two Healing Potions for the beard.",
+  "file": "_seg/qfg1-1069-healer__s0.mp3",
+  "voiceId": 44
+ },
+ {
+  "text": "You put them away.",
+  "file": "_seg/qfg1-1069-healer__s1.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "You say to the Healer",
+  "file": "_seg/qfg1-1106-hero__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "I have been to visit the Dryad of the Woods.  She gave me a Magic Acorn and told me the formula for a potion to dispel enchantments!",
+  "file": "_seg/qfg1-1106-hero__s1.mp3",
+  "voiceId": 507
+ },
+ {
+  "text": "Unfortunately, I have only standard weapons and equipment,",
+  "file": "_seg/qfg1-1129-shopkeeper__s0.mp3",
+  "voiceId": 176
+ },
+ {
+  "text": "the shopkeeper tells you.",
+  "file": "_seg/qfg1-1129-shopkeeper__s1.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "I carry daggers and chain armor.  Maybe someday I'll be able to carry magic ones, though.",
+  "file": "_seg/qfg1-1129-shopkeeper__s2.mp3",
+  "voiceId": 176
+ },
+ {
+  "text": "Oh, I'm sorry!",
+  "file": "_seg/qfg1-1146-shopkeeper__s0.mp3",
+  "voiceId": 176
+ },
+ {
+  "text": "the shopkeeper blurts out.",
+  "file": "_seg/qfg1-1146-shopkeeper__s1.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "I didn't notice you coming in.",
+  "file": "_seg/qfg1-1146-shopkeeper__s2.mp3",
+  "voiceId": 176
+ },
+ {
+  "text": "Seems the",
+  "file": "_seg/qfg1-1356-brutus__s0.mp3",
+  "voiceId": 685
+ },
+ {
+  "text": "hero",
+  "file": "_seg/qfg1-1356-brutus__s1.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "wandering around here has her leery.  She thinks he's going to go for the gold on her head.",
+  "file": "_seg/qfg1-1356-brutus__s2.mp3",
+  "voiceId": 685
+ },
+ {
+  "text": "Neigh!",
+  "file": "_seg/qfg1-1451-horse__s0.mp3",
+  "voiceId": 685
+ },
+ {
+  "text": "says the horse.",
+  "file": "_seg/qfg1-1451-horse__s1.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "The stableman hands you some coins and says,",
+  "file": "_seg/qfg1-1453-stableman__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Now you're five silvers richer.",
+  "file": "_seg/qfg1-1453-stableman__s1.mp3",
+  "voiceId": 24
+ },
+ {
+  "text": "Bruno nods and makes the countersign.",
+  "file": "_seg/qfg1-1796-bruno__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Ya need ta talk to Sneak about the password.  Ya can find him in the alley at night.",
+  "file": "_seg/qfg1-1796-bruno__s1.mp3",
+  "voiceId": 686
+ },
+ {
+  "text": "What an awful creature, to turn me into a FROG!",
+  "file": "_seg/qfg1-1921-hero__s0.mp3",
+  "voiceId": 507
+ },
+ {
+  "text": ", you say to yourself.",
+  "file": "_seg/qfg1-1921-hero__s1.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Someday, I must return the favor.",
+  "file": "_seg/qfg1-1921-hero__s2.mp3",
+  "voiceId": 507
+ },
+ {
+  "text": "Boy, that smarts!  Your last thoughts, although trivial, gently nudge you toward infinity.",
+  "file": "_seg/qfg1-2224-hero__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "I wonder if the bear's paws were clean..........",
+  "file": "_seg/qfg1-2224-hero__s1.mp3",
+  "voiceId": 507
+ },
+ {
+  "text": "Boy, that smarts!  Your last thoughts, although trivial, gently loft you toward infinity.",
+  "file": "_seg/qfg1-2225-hero__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "I wonder if the bear's paws were clean..........",
+  "file": "_seg/qfg1-2225-hero__s1.mp3",
+  "voiceId": 507
+ },
+ {
+  "text": "As the little music box begins to play, you hear the Sheriff yell out:",
+  "file": "_seg/qfg1-2290-sheriff__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Otto, stop playing with that music box and GO TO BED!",
+  "file": "_seg/qfg1-2290-sheriff__s1.mp3",
+  "voiceId": 36
+ },
+ {
+  "text": "From somewhere upstairs, you hear the Sheriff shout:",
+  "file": "_seg/qfg1-2323-sheriff__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Otto!",
+  "file": "_seg/qfg1-2323-sheriff__s1.mp3",
+  "voiceId": 36
+ },
+ {
+  "text": "'DING DING DING DING....'",
+  "file": "_seg/qfg1-2347-hero__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Well, maybe the brigands aren't such inhospitable creatures after all.",
+  "file": "_seg/qfg1-2347-hero__s1.mp3",
+  "voiceId": 507
+ },
+ {
+  "text": "En garde!",
+  "file": "_seg/qfg1-2370-weapon-master__s0.mp3",
+  "voiceId": 378
+ },
+ {
+  "text": "shouts the Weapon Master...",
+  "file": "_seg/qfg1-2370-weapon-master__s1.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Zara says,",
+  "file": "_seg/qfg1-2391-zara__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "I detect that you have not the money to purchase that item.  Do not toy with me!",
+  "file": "_seg/qfg1-2391-zara__s1.mp3",
+  "voiceId": 542
+ },
+ {
+  "text": "The pretty young centaur looks at you and says,",
+  "file": "_seg/qfg1-2553-hilde__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Good day, and welcome to Spielburg!  Do you wish to buy some nice fresh fruits or vegetables?",
+  "file": "_seg/qfg1-2553-hilde__s1.mp3",
+  "voiceId": 347
+ },
+ {
+  "text": "A just reward for defeating such a valiant fighter,",
+  "file": "_seg/qfg1-2800-hero__s0.mp3",
+  "voiceId": 507
+ },
+ {
+  "text": "you tell yourself as you pocket the silvers.",
+  "file": "_seg/qfg1-2800-hero__s1.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Suddenly, you hear voices, seeming to come from everywhere at once.  They all sound like Baba Yaga, and they all say:",
+  "file": "_seg/qfg1-2813-baba-yaga__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Wheeeeeere's myyyyyy\nMaaaandraaaaake Rooooooooooooot????",
+  "file": "_seg/qfg1-2813-baba-yaga__s1.mp3",
+  "voiceId": 528
+ },
+ {
+  "text": "The Warlock ruminates:",
+  "file": "_seg/qfg1-3240-warlock__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Now where did I put that mirror...\nwas it on the desk in Elsa's office?",
+  "file": "_seg/qfg1-3240-warlock__s1.mp3",
+  "voiceId": 511
+ },
+ {
+  "text": "She tells you:",
+  "file": "_seg/qfg1-3294-dryad__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "It's not nice to fool Mother Nature.",
+  "file": "_seg/qfg1-3294-dryad__s1.mp3",
+  "voiceId": 684
+ },
+ {
+  "text": "You tell the Dryad:",
+  "file": "_seg/qfg1-3339-hero__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "No amount of persuasion could convince the flowers to relinquish their seed easily, so I was forced to hack my way to the seed with my weapon.",
+  "file": "_seg/qfg1-3339-hero__s1.mp3",
+  "voiceId": 507
+ },
+ {
+  "text": "Slink:",
+  "file": "_seg/qfg1-3546-slink__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Thanks, it's been a pleasure doing business with you.  You can find your way out, I'm sure.  But better hurry before my dagger starts to slip.",
+  "file": "_seg/qfg1-3546-slink__s1.mp3",
+  "voiceId": 517
+ },
+ {
+  "text": "Slink:",
+  "file": "_seg/qfg1-3547-slink__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "My finger is starting to get a bit twitchy, so forget about questions, just pay the man and get out alive.",
+  "file": "_seg/qfg1-3547-slink__s1.mp3",
+  "voiceId": 517
+ },
+ {
+  "text": "Slink says,",
+  "file": "_seg/qfg1-3550-slink__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "That coin light spell gets them every time.  See that dagger?  The next one is centered on your back.  Give Sneak there your cash and you walk out of here.  It's a simple trade, your life for your money.",
+  "file": "_seg/qfg1-3550-slink__s1.mp3",
+  "voiceId": 517
+ },
+ {
+  "text": "Slink:",
+  "file": "_seg/qfg1-3551-slink__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Why, how nice to see you again.  I do hope (for your sake) you brought us some nice shiny new silver.",
+  "file": "_seg/qfg1-3551-slink__s1.mp3",
+  "voiceId": 517
+ },
+ {
+  "text": "Slink:",
+  "file": "_seg/qfg1-3552-slink__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Hey, Sneak, this guy's hard of hearing or something.  I told him to get a license last time he was here, and he didn't listen.",
+  "file": "_seg/qfg1-3552-slink__s1.mp3",
+  "voiceId": 517
+ },
+ {
+  "text": "Slink:",
+  "file": "_seg/qfg1-3556-slink__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Hey, Sneak, this guy's hard of hearing or something.  I told him to stay out of our alley, and he didn't listen.",
+  "file": "_seg/qfg1-3556-slink__s1.mp3",
+  "voiceId": 517
+ },
+ {
+  "text": "Slink:",
+  "file": "_seg/qfg1-3558-slink__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "All right, so you got your license.  How nice.  Guess we don't get to kill you right now.",
+  "file": "_seg/qfg1-3558-slink__s1.mp3",
+  "voiceId": 517
+ },
+ {
+  "text": "Enough!",
+  "file": "_seg/qfg1-3937-weapon-master__s0.mp3",
+  "voiceId": 378
+ },
+ {
+  "text": "cries the Weapon Master.",
+  "file": "_seg/qfg1-3937-weapon-master__s1.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Blustering, you say to Shema:",
+  "file": "_seg/qfg1-3987-hero__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Your prices are too high for me!",
+  "file": "_seg/qfg1-3987-hero__s1.mp3",
+  "voiceId": 507
+ },
+ {
+  "text": "The bartender bellows,",
+  "file": "_seg/qfg1-4158-bartender__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Sit down first!",
+  "file": "_seg/qfg1-4158-bartender__s1.mp3",
+  "voiceId": 538
+ },
+ {
+  "text": "The bartender says,",
+  "file": "_seg/qfg1-4161-bartender__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "One well-aged house brew, coming up!",
+  "file": "_seg/qfg1-4161-bartender__s1.mp3",
+  "voiceId": 538
+ },
+ {
+  "text": "The bartender says,",
+  "file": "_seg/qfg1-4163-bartender__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "One mug of my fine Troll's Sweat, coming up!",
+  "file": "_seg/qfg1-4163-bartender__s1.mp3",
+  "voiceId": 538
+ },
+ {
+  "text": "The bartender is emphatic as he tells you,",
+  "file": "_seg/qfg1-4165-bartender__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "If you want a mug of Dragon's Breath, house rules say it'll have to be cash up front!",
+  "file": "_seg/qfg1-4165-bartender__s1.mp3",
+  "voiceId": 538
+ },
+ {
+  "text": "He says,",
+  "file": "_seg/qfg1-4170-bartender__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Too bad, buddy. You're missing a real treat, for sure!",
+  "file": "_seg/qfg1-4170-bartender__s1.mp3",
+  "voiceId": 538
+ },
+ {
+  "text": "The baker says,",
+  "file": "_seg/qfg1-4195-townsperson__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "There's a lake to the south which has a huge fish, but its pretty dangerous.",
+  "file": "_seg/qfg1-4195-townsperson__s1.mp3",
+  "voiceId": 294
+ },
+ {
+  "text": "The bartender calls to Crusher:",
+  "file": "_seg/qfg1-4201-bartender__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Hey, he's not one of us!  Take care of him!",
+  "file": "_seg/qfg1-4201-bartender__s1.mp3",
+  "voiceId": 538
+ },
+ {
+  "text": "He says,",
+  "file": "_seg/qfg1-4211-bartender__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "Hey Crusher! Get this deadbeat bum outta here!",
+  "file": "_seg/qfg1-4211-bartender__s1.mp3",
+  "voiceId": 538
+ },
+ {
+  "text": "You hear the voice of the healer saying:",
+  "file": "_seg/qfg1-4261-healer__s0.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "The last time you were here, I found I was missing some potions.",
+  "file": "_seg/qfg1-4261-healer__s1.mp3",
+  "voiceId": 44
+ },
+ {
+  "text": "Oops!",
+  "file": "_seg/qfg1-4328-hero__s0.mp3",
+  "voiceId": 507
+ },
+ {
+  "text": "you say.",
+  "file": "_seg/qfg1-4328-hero__s1.mp3",
+  "voiceId": 545
+ },
+ {
+  "text": "I guess I don't have any fruit for you.  Sorry!",
+  "file": "_seg/qfg1-4328-hero__s2.mp3",
+  "voiceId": 507
+ },
+ {
+  "text": "Anything but Frog Legs Fricassee!",
+  "file": "_seg/qfg1-4656-hero__s0.mp3",
+  "voiceId": 507
+ },
+ {
+  "text": ", you think.   You croak your agreement to the task.",
+  "file": "_seg/qfg1-4656-hero__s1.mp3",
+  "voiceId": 545
+ }
+]

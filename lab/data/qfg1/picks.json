@@ -52,8 +52,8 @@
   "voiceName": "Winston Brown"
  },
  "stableman": {
-  "voiceId": "mag_174",
-  "voiceName": "Aidan Doyle"
+  "voiceId": "mag_24",
+  "voiceName": "Patrick International"
  },
  "horse": {
   "voiceId": "mag_685",
@@ -68,8 +68,8 @@
   "voiceName": "Old Pip Quickroot"
  },
  "fenrus": {
-  "voiceId": "mag_586",
-  "voiceName": "Dexter Glitch"
+  "voiceId": "mag_584",
+  "voiceName": "Titan Steele"
  },
  "weapon-master": {
   "voiceId": "mag_378",
@@ -88,16 +88,16 @@
   "voiceName": "Lukas Schneider"
  },
  "wolfgang": {
-  "voiceId": "mag_597",
-  "voiceName": "Charles Haversham"
+  "voiceId": "mag_168",
+  "voiceName": "Friedrich Weber"
  },
  "bonehead": {
   "voiceId": "mag_585",
   "voiceName": "Brad Spinner"
  },
  "abdulla": {
-  "voiceId": "mag_26",
-  "voiceName": "Austin Lane"
+  "voiceId": "mag_779",
+  "voiceName": "Ammar Al-Obeidi"
  },
  "magic-mirror": {
   "voiceId": "mag_585",
@@ -164,8 +164,8 @@
   "voiceName": "Archer Harrison"
  },
  "shema": {
-  "voiceId": "mag_225",
-  "voiceName": "Claire van der Merwe"
+  "voiceId": "mag_361",
+  "voiceName": "Olivia Roberts"
  },
  "baron": {
   "voiceId": "mag_447",
