@@ -8,14 +8,23 @@ Everything needed for the Nexus Mods page lives here.
   plays. 11 voices. Nexus does not host video, so upload this to YouTube
   (unlisted is fine) and link it in the description.
 
-## images/
-- `qfg1-title-card.png` (1280x720) - use as the **mod thumbnail / header**.
-- `promo-still-baba-yaga.png`, `promo-still-2.png` - stills pulled from the promo
-  video; good as gallery images.
-- `voicelab-cast.png` - the voice lab showing the full 47-character cast and the
-  voice assigned to each. Nice "behind the scenes" shot.
-- `voicelab-narrator-split.png` - the lab showing a line split into a Narrator row
-  and a character row, which illustrates the narration/dialogue separation.
+## images/ (Nexus-ready, exact sizes)
+Upload these directly.
+
+- `nexus-header-1300x372.png` - **the Header banner**. Quest for Glory title screen
+  (the wanted poster) on the left, "FULLY VOICED" branding on the right.
+- `nexus-01-cover-1920x1080.png` - the title/cover screen. Good first gallery image.
+- `nexus-02-dialogue-1920x1080.png` - the Sheriff greeting you in Spielburg,
+  captioned with his voice actor. Best single shot of what the mod does.
+- `nexus-03-character-1920x1080.png` - Fighter / Magic User / Thief select screen.
+- `nexus-04-cast-1920x1080.png` - the voice lab showing all 47 characters and the
+  voice cast for each.
+- `nexus-05-split-1920x1080.png` - the lab showing narration split from dialogue.
+
+### images/source/
+Raw, uncropped originals in case you want to recompose anything: the four captured
+game screens, the two voice-lab screenshots, the promo video stills, and the plain
+title card used in the video.
 
 ## text/
 - `nexus-description.txt` - the mod description, ready to paste.
@@ -38,6 +47,6 @@ Built to `dist/out/` and copied to `C:\temp\agitwo-release\`:
 7. State clearly that the player must own QFG1 EGA.
 
 ## Missing / could add
-In-game screenshots (the game actually running with voices) were lost in a reboot.
-These would strengthen the page a lot and can be recaptured from the working
-Windows build in `C:\temp\qfg1wintest`.
+Nothing outstanding. In-game screenshots were recaptured from the live voiced build.
+
+
