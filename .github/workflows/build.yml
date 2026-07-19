@@ -27,7 +27,8 @@ jobs:
           git config --global core.autocrlf false
           git clone https://github.com/scummvm/scummvm.git
           cd scummvm && git checkout "$SCUMMVM_BASE"
-          git apply ../agitwo/patches/agitwo-scummvm.patch
+          tr -d '\r' < ../agitwo/patches/agitwo-scummvm.patch > /tmp/agitwo.patch
+          git apply /tmp/agitwo.patch
       - name: Configure + build
         run: |
           cd scummvm
@@ -54,7 +55,8 @@ jobs:
           git config --global core.autocrlf false
           git clone https://github.com/scummvm/scummvm.git
           cd scummvm && git checkout "$SCUMMVM_BASE"
-          git apply ../agitwo/patches/agitwo-scummvm.patch
+          tr -d '\r' < ../agitwo/patches/agitwo-scummvm.patch > /tmp/agitwo.patch
+          git apply /tmp/agitwo.patch
       - name: Configure + build .app
         run: |
           cd scummvm
@@ -89,7 +91,8 @@ jobs:
           git config --global core.autocrlf false
           git clone https://github.com/scummvm/scummvm.git
           cd scummvm && git checkout "$SCUMMVM_BASE"
-          git apply ../agitwo/patches/agitwo-scummvm.patch
+          tr -d '\r' < ../agitwo/patches/agitwo-scummvm.patch > /tmp/agitwo.patch
+          git apply /tmp/agitwo.patch
       - name: Configure + build
         run: |
           cd scummvm
