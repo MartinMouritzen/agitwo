@@ -7,7 +7,6 @@ games/
 # --- Generated voice audio (the distributable pack; ships via release/Nexus, not git) ---
 *.mp3
 *.wav
-dist/
 voices-out/
 
 # --- Build / tool logs ---
@@ -37,3 +36,8 @@ lab-server.log
 .mcp_client.json
 .mcp_tokens.json
 .elevenlabs.key
+
+# generated/large distribution artifacts (keep dist/pkg source)
+dist/voicepack/
+dist/out/
+dist/pkg/qfg1/
