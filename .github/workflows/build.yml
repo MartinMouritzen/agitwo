@@ -36,8 +36,10 @@ jobs:
           make -j$(nproc)
       - name: Stage portable build
         run: |
-          mkdir -p out/agitwo-scummvm
+          mkdir -p out/agitwo-scummvm/lib
           cp scummvm/scummvm out/agitwo-scummvm/
+          # bundle every non-core-system shared lib the binary needs
+          ldd scummvm/scummvm | awk '{print $3}' | grep -E '^/' | grep -vE '/lib/x86_64-linux-gnu/(libc|libm|libdl|libpthread|librt|libgcc_s|libstdc\+\+)\.' | while read so; do cp -Lv "$so" out/agitwo-scummvm/lib/ 2>/dev/null || true; done
           cp scummvm/gui/themes/*.zip scummvm/gui/themes/*.dat out/agitwo-scummvm/ 2>/dev/null || true
           cp scummvm/dists/engine-data/*.dat scummvm/dists/engine-data/*.zip out/agitwo-scummvm/ 2>/dev/null || true
       - uses: actions/upload-artifact@v4
@@ -65,10 +67,13 @@ jobs:
           make bundle || true
       - name: Stage
         run: |
-          mkdir -p out
-          if [ -d scummvm/ScummVM.app ]; then cp -R scummvm/ScummVM.app out/; else cp scummvm/scummvm out/; fi
+          mkdir -p out/agitwo-scummvm
+          cp scummvm/scummvm out/agitwo-scummvm/
+          cp scummvm/gui/themes/*.zip scummvm/gui/themes/*.dat out/agitwo-scummvm/ 2>/dev/null || true
+          cp scummvm/dists/engine-data/*.dat scummvm/dists/engine-data/*.zip out/agitwo-scummvm/ 2>/dev/null || true
+          if [ -d scummvm/ScummVM.app ]; then cp -R scummvm/ScummVM.app out/agitwo-scummvm/; fi
       - uses: actions/upload-artifact@v4
-        with: { name: engine-macos, path: out }
+        with: { name: engine-macos, path: out/agitwo-scummvm }
 
   windows:
     runs-on: windows-latest

@@ -1,9 +1,9 @@
 diff --git a/audio/agitwo_voiceover.cpp b/audio/agitwo_voiceover.cpp
 new file mode 100644
-index 00000000..b4697500
+index 00000000..3dea391f
 --- /dev/null
 +++ b/audio/agitwo_voiceover.cpp
-@@ -0,0 +1,230 @@
+@@ -0,0 +1,233 @@
 +/* ScummVM - Graphic Adventure Engine
 + *
 + * ScummVM is the legal property of its developers, whose names
@@ -109,7 +109,10 @@ index 00000000..b4697500
 +	String lastHash;
 +};
 +VoiceOverState g_vo;
-+Mutex g_voMutex;
++// No mutex: playVoiceOver is only called from the engine thread (from the
++// text-display path), and the mixer does its own locking. A global
++// Common::Mutex would also be illegal here, as its constructor runs during
++// static init, before g_system exists.
 +}
 +
 +// Find the voice folder (containing manifest.json) and parse it into g_vo.map.
@@ -190,8 +193,6 @@ index 00000000..b4697500
 +	if (normalized.empty())
 +		return false;
 +
-+	StackLock lock(g_voMutex);
-+
 +	const String target = ConfMan.getActiveDomainName();
 +	if (!ensureManifestLoaded(target))
 +		return false;
@@ -199,6 +200,8 @@ index 00000000..b4697500
 +	const String hash = voiceOverHash(normalized);
 +	if (!g_vo.map.contains(hash))
 +		return false;
++
++	debug(1, "agitwo: playing voice clip %s", g_vo.map[hash].c_str());
 +
 +	Audio::Mixer *mixer = g_system->getMixer();
 +	if (!mixer)
