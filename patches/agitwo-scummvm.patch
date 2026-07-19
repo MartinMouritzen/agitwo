@@ -1,9 +1,9 @@
 diff --git a/audio/agitwo_voiceover.cpp b/audio/agitwo_voiceover.cpp
 new file mode 100644
-index 00000000..767b50f0
+index 00000000..b4697500
 --- /dev/null
 +++ b/audio/agitwo_voiceover.cpp
-@@ -0,0 +1,229 @@
+@@ -0,0 +1,230 @@
 +/* ScummVM - Graphic Adventure Engine
 + *
 + * ScummVM is the legal property of its developers, whose names
@@ -46,6 +46,7 @@ index 00000000..767b50f0
 +
 +#include "common/array.h"
 +#include "common/config-manager.h"
++#include "common/debug.h"
 +#include "common/file.h"
 +#include "common/fs.h"
 +#include "common/hashmap.h"

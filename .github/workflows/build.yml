@@ -24,6 +24,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y build-essential libsdl2-dev libmad0-dev zlib1g-dev libfreetype6-dev
       - name: Clone + patch ScummVM
         run: |
+          git config --global core.autocrlf false
           git clone https://github.com/scummvm/scummvm.git
           cd scummvm && git checkout "$SCUMMVM_BASE"
           git apply ../agitwo/patches/agitwo-scummvm.patch
@@ -50,6 +51,7 @@ jobs:
         run: brew install sdl2 libmad freetype
       - name: Clone + patch ScummVM
         run: |
+          git config --global core.autocrlf false
           git clone https://github.com/scummvm/scummvm.git
           cd scummvm && git checkout "$SCUMMVM_BASE"
           git apply ../agitwo/patches/agitwo-scummvm.patch
@@ -84,6 +86,7 @@ jobs:
             mingw-w64-x86_64-zlib mingw-w64-x86_64-freetype
       - name: Clone + patch ScummVM
         run: |
+          git config --global core.autocrlf false
           git clone https://github.com/scummvm/scummvm.git
           cd scummvm && git checkout "$SCUMMVM_BASE"
           git apply ../agitwo/patches/agitwo-scummvm.patch
