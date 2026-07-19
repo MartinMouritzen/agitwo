@@ -9,6 +9,12 @@ Currently covers:
 
 The engine, the extraction/tagging tools, and the voice-generation pipeline all live here. The game data and the generated audio do **not** (see "Distribution & legal").
 
+## Hear it
+
+[![Quest for Glory I - Fully Voiced (voice preview)](https://img.youtube.com/vi/T29a6lJXSz4/maxresdefault.jpg)](https://www.youtube.com/watch?v=T29a6lJXSz4)
+
+**[Watch the voice preview on YouTube](https://www.youtube.com/watch?v=T29a6lJXSz4)** - a run through the cast: the Narrator, Sheriff Schultz, Baba Yaga, Erasmus, Zara, Shameen, Wolfgang, the Baron, the Healer, the Bartender and the Hero, each speaking a real line from the game.
+
 ## How it works
 
 1. Every message the game displays is funneled through a hook we add to ScummVM's AGI and SCI engines (`AgiEngine::sayText`, `SciTTS::text/button`).

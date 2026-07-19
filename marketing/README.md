@@ -5,8 +5,8 @@ Everything needed for the Nexus Mods page lives here.
 ## video/
 - `qfg1-voices-promo.mp4` - 1:48 showcase. Title card held throughout, with a
   lower-third naming each character and its voice actor while their real clip
-  plays. 11 voices. Nexus does not host video, so upload this to YouTube
-  (unlisted is fine) and link it in the description.
+  plays. 11 voices. Nexus does not host video, so it is published on YouTube:
+  https://www.youtube.com/watch?v=T29a6lJXSz4 - link that in the mod description.
 
 ## images/ (Nexus-ready, exact sizes)
 Upload these directly.
@@ -43,7 +43,7 @@ Built to `dist/out/` and copied to `C:\temp\agitwo-release\`:
 3. Files tab: upload each zip as a separate main file, named per OS.
 4. Images: `qfg1-title-card.png` as thumbnail, plus the gallery shots above.
 5. Description: paste `text/nexus-description.txt`.
-6. Add the YouTube link for the promo video.
+6. Add the YouTube link: https://www.youtube.com/watch?v=T29a6lJXSz4
 7. State clearly that the player must own QFG1 EGA.
 
 ## Missing / could add
