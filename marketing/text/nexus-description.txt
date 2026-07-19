@@ -1,0 +1,50 @@
+Quest for Glory I: So You Want To Be A Hero - Fully Voiced
+
+Every character and every line in the EGA original is now voiced: over 3,800 lines
+across roughly 40 characters, plus a narrator. The Sheriff, Erasmus, Baba Yaga,
+Zara, the Hero's own thoughts, the innkeepers, the Guild, the shopkeepers, all of
+them speak.
+
+This is not text-to-speech read out at runtime. Every line was generated ahead of
+time with a fixed voice cast, so each character keeps the same voice for the whole
+game, and the results were checked by hand. Where a line mixes narration with
+speech, you hear the narrator set the scene and then the character speak in their
+own voice.
+
+
+WHAT'S INCLUDED
+- A voice pack covering the complete script.
+- A bundled build of ScummVM with voice-over support, so there is nothing else to
+  install and nothing to configure.
+- Builds for Windows, macOS (Apple Silicon) and Linux.
+
+
+WHAT YOU NEED
+- Your own copy of Quest for Glory 1 EGA (Steam, GOG, or an original install).
+  The game itself is NOT included and never will be.
+
+
+HOW TO INSTALL
+1. Download the file for your operating system and unzip it anywhere.
+2. Copy your Quest for Glory 1 EGA game files into the "game" folder inside.
+   That is the folder containing RESOURCE.MAP and RESOURCE.000 to RESOURCE.004.
+   Steam users: ...\Quest for Glory Collection\QG1\EGA
+3. Run the launcher:
+      Windows - "Play QFG1 (Voiced).bat"
+      macOS   - "Play QFG1 (Voiced).command"
+      Linux   - ./play-qfg1-voiced.sh
+
+That is it. The game starts, fully voiced.
+
+
+NOTES
+- The builds are not code-signed, so your system will warn you once on first
+  launch. Windows: More info -> Run anyway. macOS: right-click the launcher ->
+  Open.
+- The macOS build is for Apple Silicon.
+- Your saved games and the original music are untouched. The voices play on top of
+  the game as text appears.
+- Windows is the tested build. macOS and Linux are provided as-is and feedback is
+  very welcome.
+- Unofficial fan project, non-commercial. Quest for Glory is the property of its
+  rights holders.

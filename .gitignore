@@ -41,3 +41,7 @@ lab-server.log
 dist/voicepack/
 dist/out/
 dist/pkg/qfg1/
+
+# marketing binaries (video/images live on disk, not git)
+marketing/video/
+marketing/images/
