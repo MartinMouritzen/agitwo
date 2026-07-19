@@ -1,0 +1,102 @@
+name: Build voiced ScummVM (AGI+SCI)
+
+# Builds our ScummVM fork (AGI + SCI engines only, with the agitwo voice hook)
+# for Linux, macOS and Windows, and uploads each engine build as an artifact.
+# The voice pack is added to each bundle afterwards (locally), so it is not
+# needed here. Trigger manually from the Actions tab.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ ci ]
+
+env:
+  SCUMMVM_BASE: e5af35640de1b3c3a1969720b71d19d853677315   # ScummVM master our patch applies onto
+  ENGINES: "--disable-all-engines --enable-engine=agi,sci"
+
+jobs:
+  linux:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { path: agitwo }
+      - name: Install deps
+        run: sudo apt-get update && sudo apt-get install -y build-essential libsdl2-dev libmad0-dev zlib1g-dev libfreetype6-dev
+      - name: Clone + patch ScummVM
+        run: |
+          git clone https://github.com/scummvm/scummvm.git
+          cd scummvm && git checkout "$SCUMMVM_BASE"
+          git apply ../agitwo/patches/agitwo-scummvm.patch
+      - name: Configure + build
+        run: |
+          cd scummvm
+          ./configure --enable-release --enable-mad $ENGINES
+          make -j$(nproc)
+      - name: Stage portable build
+        run: |
+          mkdir -p out/agitwo-scummvm
+          cp scummvm/scummvm out/agitwo-scummvm/
+          cp scummvm/gui/themes/*.zip scummvm/gui/themes/*.dat out/agitwo-scummvm/ 2>/dev/null || true
+          cp scummvm/dists/engine-data/*.dat scummvm/dists/engine-data/*.zip out/agitwo-scummvm/ 2>/dev/null || true
+      - uses: actions/upload-artifact@v4
+        with: { name: engine-linux, path: out/agitwo-scummvm }
+
+  macos:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { path: agitwo }
+      - name: Install deps
+        run: brew install sdl2 libmad freetype
+      - name: Clone + patch ScummVM
+        run: |
+          git clone https://github.com/scummvm/scummvm.git
+          cd scummvm && git checkout "$SCUMMVM_BASE"
+          git apply ../agitwo/patches/agitwo-scummvm.patch
+      - name: Configure + build .app
+        run: |
+          cd scummvm
+          ./configure --enable-release --enable-mad $ENGINES
+          make -j$(sysctl -n hw.ncpu)
+          make bundle || true
+      - name: Stage
+        run: |
+          mkdir -p out
+          if [ -d scummvm/ScummVM.app ]; then cp -R scummvm/ScummVM.app out/; else cp scummvm/scummvm out/; fi
+      - uses: actions/upload-artifact@v4
+        with: { name: engine-macos, path: out }
+
+  windows:
+    runs-on: windows-latest
+    defaults: { run: { shell: msys2 {0} } }
+    steps:
+      - uses: actions/checkout@v4
+        with: { path: agitwo }
+      - uses: msys2/setup-msys2@v2
+        with:
+          msystem: MINGW64
+          update: true
+          install: >-
+            base-devel git mingw-w64-x86_64-toolchain
+            mingw-w64-x86_64-SDL2 mingw-w64-x86_64-libmad
+            mingw-w64-x86_64-zlib mingw-w64-x86_64-freetype
+      - name: Clone + patch ScummVM
+        run: |
+          git clone https://github.com/scummvm/scummvm.git
+          cd scummvm && git checkout "$SCUMMVM_BASE"
+          git apply ../agitwo/patches/agitwo-scummvm.patch
+      - name: Configure + build
+        run: |
+          cd scummvm
+          ./configure --enable-release --enable-mad $ENGINES
+          make -j$(nproc)
+      - name: Stage portable build
+        run: |
+          mkdir -p out/agitwo-scummvm
+          cp scummvm/scummvm.exe out/agitwo-scummvm/
+          # bundle the mingw runtime DLLs the exe needs
+          for dll in $(ldd scummvm/scummvm.exe | grep -i mingw64 | awk '{print $3}'); do cp "$dll" out/agitwo-scummvm/; done
+          cp scummvm/gui/themes/*.zip scummvm/gui/themes/*.dat out/agitwo-scummvm/ 2>/dev/null || true
+          cp scummvm/dists/engine-data/*.dat scummvm/dists/engine-data/*.zip out/agitwo-scummvm/ 2>/dev/null || true
+      - uses: actions/upload-artifact@v4
+        with: { name: engine-windows, path: out/agitwo-scummvm }

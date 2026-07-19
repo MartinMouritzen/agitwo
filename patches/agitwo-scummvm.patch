@@ -1,9 +1,9 @@
 diff --git a/audio/agitwo_voiceover.cpp b/audio/agitwo_voiceover.cpp
 new file mode 100644
-index 00000000..19cbb89a
+index 00000000..767b50f0
 --- /dev/null
 +++ b/audio/agitwo_voiceover.cpp
-@@ -0,0 +1,210 @@
+@@ -0,0 +1,229 @@
 +/* ScummVM - Graphic Adventure Engine
 + *
 + * ScummVM is the legal property of its developers, whose names
@@ -44,6 +44,7 @@ index 00000000..19cbb89a
 +
 +#ifndef EMSCRIPTEN
 +
++#include "common/array.h"
 +#include "common/config-manager.h"
 +#include "common/file.h"
 +#include "common/fs.h"
@@ -110,8 +111,13 @@ index 00000000..19cbb89a
 +Mutex g_voMutex;
 +}
 +
-+// Locate <game path>/agitwo-voices and parse manifest.json into g_vo.map.
-+// Returns false (with g_vo.triedLoad set) if voice data is not installed.
++// Find the voice folder (containing manifest.json) and parse it into g_vo.map.
++// The folder may be either next to the game files or bundled with this build,
++// so several locations are tried:
++//   1. <game path>/agitwo-voices/          (voices dropped in next to the game)
++//   2. <extrapath>/agitwo-voices/           (bundle points extrapath at itself)
++//   3. <extrapath>/                         (extrapath IS the voice folder)
++// Returns false (with g_vo.triedLoad set) if no voice data is installed.
 +static bool ensureManifestLoaded(const String &target) {
 +	if (g_vo.triedLoad && g_vo.loadedTarget == target)
 +		return !g_vo.map.empty();
@@ -120,12 +126,25 @@ index 00000000..19cbb89a
 +	g_vo.loadedTarget = target;
 +	g_vo.map.clear();
 +
-+	if (!ConfMan.hasKey("path"))
-+		return false;
++	Array<FSNode> candidates;
++	if (ConfMan.hasKey("path"))
++		candidates.push_back(FSNode(ConfMan.getPath("path")).getChild("agitwo-voices"));
++	if (ConfMan.hasKey("extrapath")) {
++		FSNode extra(ConfMan.getPath("extrapath"));
++		candidates.push_back(extra.getChild("agitwo-voices"));
++		candidates.push_back(extra);
++	}
 +
-+	FSNode gameDir(ConfMan.getPath("path"));
-+	FSNode dir = gameDir.getChild("agitwo-voices");
-+	if (!dir.isDirectory())
++	FSNode dir;
++	bool found = false;
++	for (uint i = 0; i < candidates.size(); i++) {
++		if (candidates[i].isDirectory() && candidates[i].getChild("manifest.json").exists()) {
++			dir = candidates[i];
++			found = true;
++			break;
++		}
++	}
++	if (!found)
 +		return false;
 +	g_vo.voicesDir = dir;
 +
