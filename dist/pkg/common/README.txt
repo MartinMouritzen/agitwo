@@ -23,7 +23,18 @@ HOW TO USE (3 steps)
       - macOS:    double-click  "Play QFG1 (Voiced).command"
       - Linux:    run           ./play-qfg1-voiced.sh
 
-That's it. The game starts, fully voiced.
+   Pick 1 to play. That's it, the game starts fully voiced.
+
+
+CHANGING GRAPHICS AND SOUND (optional)
+--------------------------------------
+Pick 2 in the launcher menu to open ScummVM's own settings first. There you can
+turn on a smoothing filter (HQ3x and friends), pick a different music device
+such as MT-32 or FluidSynth, resize the window, and so on. Your choices are
+saved next to the launcher in scummvm.ini, so they stick for next time and they
+do not touch any other ScummVM install you may already have.
+
+The launcher menu was suggested by a player on Nexus Mods. Thank you.
 
 
 FIRST-LAUNCH SECURITY PROMPT
