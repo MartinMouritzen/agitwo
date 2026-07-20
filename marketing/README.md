@@ -37,6 +37,14 @@ Built to `dist/out/` and copied to `C:\temp\agitwo-release\`:
 - `QFG1-Voiced-mac.zip` (333 MB) - Apple Silicon, untested
 - `QFG1-Voiced-linux.zip` (342 MB) - untested
 
+All three launchers show a menu on start: 1 Play, 2 Configure ScummVM, 3 Exit.
+Configure opens ScummVM's own options (scalers, music device, window size) and
+writes to a `scummvm.ini` inside the bundle, so it never touches a player's
+existing ScummVM setup. Suggested by a player on Nexus Mods.
+
+The Windows zip is also on the GitHub release (`qfg1-v1.0`) as a mirror, since
+Nexus held the download for containing an `.exe`.
+
 ## Upload checklist
 1. Nexus QFG1-5 page -> Upload -> Add a new mod.
 2. Category: Miscellaneous (no audio/overhaul category exists on that page).
