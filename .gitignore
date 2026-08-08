@@ -45,3 +45,10 @@ dist/pkg/qfg1/
 # marketing binaries (video/images live on disk, not git)
 marketing/video/
 marketing/images/
+
+# --- Built distributables: 388 MB of per-platform binaries, rebuilt by the dist script and
+#     shipped via the release/Nexus page. Same rule as voices-out/ above: never in git history. ---
+dist/artifacts/
+
+# --- Local agent/session state ---
+.claude/

@@ -1,0 +1,90 @@
+[
+ {
+  "cid": "shameen",
+  "char": "Shameen",
+  "voice": "Aiden Samuel",
+  "file": "qfg1-020-shameen.mp3",
+  "line": "\"Welcome!  Welcome, traveler, to the Hero's Tale Inn!  I am Shameen, at your service.  May you find what you seek here.\"",
+  "dur": 9.33
+ },
+ {
+  "cid": "baba-yaga",
+  "char": "Baba Yaga",
+  "voice": "Lilith Vexmoor",
+  "file": "qfg1-4658-baba-yaga.mp3",
+  "line": "\"Hear what I say And hear me right: Mandrake must be pulled At precisely Midnight!\"",
+  "dur": 7.63
+ },
+ {
+  "cid": "sheriff",
+  "char": "Sheriff Schultz",
+  "voice": "Blake Hudson",
+  "file": "qfg1-116-sheriff.mp3",
+  "line": "\"Welcome to our town. You are lucky to have made it down from the mountains before the snow blocked the pass again. It's gotten pretty dangerous outside of town, I understand.\"",
+  "dur": 12.51
+ },
+ {
+  "cid": "erasmus",
+  "char": "Erasmus the Wizard",
+  "voice": "Old Pip Quickroot",
+  "file": "qfg1-1570-erasmus.mp3",
+  "line": "Do you know the difference between a Cheetaur and a comma?",
+  "dur": 3.87
+ },
+ {
+  "cid": "zara",
+  "char": "Zara",
+  "voice": "Selene Vex",
+  "file": "qfg1-2391-zara.mp3",
+  "line": "Zara says, \"I detect that you have not the money to purchase that item.  Do not toy with me!\"",
+  "dur": 8.8
+ },
+ {
+  "cid": "wolfgang",
+  "char": "Wolfgang",
+  "voice": "Friedrich Weber",
+  "file": "qfg1-1736-wolfgang.mp3",
+  "line": "\"Oh, my young friend!  What shall we talk about?  I have so many stories.  Just ask me about something.\"",
+  "dur": 8.36
+ },
+ {
+  "cid": "baron",
+  "char": "Baron von Spielburg",
+  "voice": "Caleb Morgan",
+  "file": "qfg1-4097-baron.mp3",
+  "line": "\"Words cannot express the gratitude I have towards you.\"",
+  "dur": 3.16
+ },
+ {
+  "cid": "healer",
+  "char": "Amelia the Healer",
+  "voice": "Chloe Bennett",
+  "file": "qfg1-1026-healer.mp3",
+  "line": "\"I will pay you for Cheetaur claws, Troll beard, magic mushrooms, and flowers from Erana's Peace.\"",
+  "dur": 7.47
+ },
+ {
+  "cid": "bartender",
+  "char": "Bartender",
+  "voice": "Wade \u201cRed\u201d Dawson",
+  "file": "qfg1-4161-bartender.mp3",
+  "line": "The bartender says, \"One well-aged house brew, coming up!\"",
+  "dur": 4.08
+ },
+ {
+  "cid": "hero",
+  "char": "The Hero",
+  "voice": "Dylan Hayes",
+  "file": "qfg1-1672-hero.mp3",
+  "line": "There is a small sign which reads \"Booby Trap\".  You are now in a pitiful situation as you hear the brigands approach to see the booby they've caught.  You think to yourself, \"If it looks like a trap, and it feels like a trap, then maybe it IS a trap\".",
+  "dur": 15.91
+ },
+ {
+  "cid": "narrator",
+  "char": "Narrator",
+  "voice": "Elias Thornwell",
+  "file": "qfg1-000-narrator.mp3",
+  "line": "This seems like a quiet little town.  On the porch ahead of you are two people.  The standing one is large, rather ugly, and playing with a yo-yo.  The seated person smoking a pipe looks like he might be the Sheriff.",
+  "dur": 14.37
+ }
+]
