@@ -14,6 +14,17 @@ that the pack was still playing undirected.
 
     python3 tools/promote_takes.py            # report what would change
     python3 tools/promote_takes.py --write    # copy takes onto their game clips
+    python3 tools/promote_takes.py --adopt --write   # also register shipped-but-unknown clips
+
+`--adopt` handles the reverse drift: a clip regenerated outside the lab (a recast run,
+say) is audio the lab has no take row for, so the lab still shows the OLD take as
+selected and this script would happily promote that old take back over the new clip,
+silently undoing the recast. Adopting copies the shipped clip into `<char>/takes/`,
+adds a row for it and selects it, so the lab and the pack agree again. It only
+considers characters passed with --only, because most narrator clips were never
+imported as takes at all and adopting 2000+ of them is not the intent.
+
+    python3 tools/promote_takes.py --adopt --only dryad,warlock --write
 
 Split lines (segment keys like `hero~55_0~c0`) are not a straight copy: only that one
 segment was re-recorded, so the game clip is re-stitched from the segment plan with
@@ -79,10 +90,83 @@ def restitch(entry):
     return True, "restitched"
 
 
+def src_voices():
+    """clip filename -> voiceId that actually generated it, per voices-src."""
+    out = {}
+    for s in SOURCES + ["voices-src/qfg1-expansions.json"]:
+        p = os.path.join(ROOT, s)
+        if not os.path.exists(p):
+            continue
+        for e in json.load(open(p)):
+            out.setdefault(e["file"], e.get("voiceId"))
+    return out
+
+
+SRC_VOICE = {}
+
+
+def adopt(takes, keyfile, only, write):
+    """Register shipped clips the lab has no take row for, and select them."""
+    adopted = []
+    for bucket, lines in sorted(takes.items()):
+        if bucket not in only:
+            continue
+        for key, rec in sorted(lines.items()):
+            if "~" in key:
+                continue
+            clip = keyfile.get((bucket, key))
+            if not clip:
+                continue
+            cp = os.path.join(VOICES, clip)
+            if not os.path.exists(cp):
+                continue
+            known = set()
+            for t in rec.get("takes", []):
+                p = os.path.join(VOICES, t["file"])
+                if os.path.exists(p):
+                    known.add(md5(p))
+            if md5(cp) in known:
+                continue
+            # The voice comes from voices-src, which is what actually generated the
+            # shipped clip. Inheriting it from the row's first take mislabels every
+            # recast -- it would tag a new mag_332 Dryad clip as the old mag_684.
+            vid = "mag_%s" % SRC_VOICE.get(clip, "unknown")
+            ts = int(os.path.getmtime(cp))
+            newrel = "%s/takes/%s__%s__%d.mp3" % (bucket, key, vid.replace("_", "", 1), ts)
+            adopted.append((bucket, key, clip, newrel))
+            if write:
+                dest = os.path.join(VOICES, newrel)
+                os.makedirs(os.path.dirname(dest), exist_ok=True)
+                shutil.copy2(cp, dest)
+                rec.setdefault("takes", []).append(
+                    {"file": newrel, "voiceId": vid, "ts": ts})
+                rec["selected"] = newrel
+    return adopted
+
+
 def main():
     write = "--write" in sys.argv
     keyfile = lab_keys()
-    takes = json.load(open(os.path.join(DATA, "takes.json")))
+    takes_path = os.path.join(DATA, "takes.json")
+    takes = json.load(open(takes_path))
+
+    if "--adopt" in sys.argv:
+        SRC_VOICE.update(src_voices())
+        only = set()
+        for i, a in enumerate(sys.argv):
+            if a == "--only" and i + 1 < len(sys.argv):
+                only = set(sys.argv[i + 1].split(","))
+        got = adopt(takes, keyfile, only, write)
+        for b, k, clip, newrel in got:
+            print("  adopt %-13s %-16s %s -> %s" % (b, k, clip, newrel))
+        print("\n%s %d shipped clip(s) into the lab" % ("adopted" if write else "would adopt", len(got)))
+        if write and got:
+            fd, tmp = tempfile.mkstemp(dir=DATA, suffix=".json")
+            with os.fdopen(fd, "w") as fh:
+                json.dump(takes, fh, indent=1)
+            os.replace(tmp, takes_path)   # atomic; the lab server may be live
+            print("rewrote takes.json atomically - reload the lab")
+        return 0
     plan = {p["file"]: p for p in
             json.load(open(os.path.join(ROOT, "voices-src/recast/segment-plan.json")))}
     seg_owner = {}
@@ -132,6 +216,13 @@ def main():
             clip = keyfile.get((bucket, key))
             if not clip:
                 problems.append((bucket, key, "no clip maps to this lab key"))
+                continue
+            if clip in plan:
+                # A split line's clip is narrator framing + character speech stitched
+                # together. Its whole-line take predates the split, so copying that over
+                # the clip would silently drop the narrator half. Only the per-segment
+                # takes (the "~g0"/"~c0" keys) may drive a stitched clip.
+                skipped += 1
                 continue
             dest = os.path.join(VOICES, clip)
             if os.path.exists(dest) and md5(take) == md5(dest):
