@@ -17,7 +17,7 @@ Verification is the point: every clip a manifest names must exist, at a
 plausible size, in every pack directory. A missing clip is silent on the web
 build (404) and a failed open natively, so it must fail the build, not ship.
 """
-import json, os, sys
+import hashlib, json, os, shutil, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "tools"))
@@ -60,6 +60,37 @@ def build():
     return manifest, origin, skipped
 
 
+def md5(path):
+    with open(path, "rb") as fh:
+        return hashlib.md5(fh.read()).hexdigest()
+
+
+def sync(pack_dir, manifest):
+    """Make a downstream pack hold exactly the manifest's clips, byte for byte.
+
+    Compares by CONTENT, never by mtime: promote_takes.py copies with shutil.copy2,
+    which preserves the take's original mtime, so a freshly promoted clip can look
+    older than the stale copy it is meant to replace. An mtime check silently skipped
+    exactly one file that way (the Dryad's 76_14) and shipped the wrong take.
+    """
+    master = os.path.join(ROOT, PACKS[0])
+    want = set(manifest.values())
+    have = {f for f in os.listdir(pack_dir) if f.endswith(".mp3")}
+    added = removed = refreshed = 0
+    for f in sorted(want - have):
+        shutil.copy2(os.path.join(master, f), os.path.join(pack_dir, f))
+        added += 1
+    for f in sorted(have - want):
+        os.remove(os.path.join(pack_dir, f))
+        removed += 1
+    for f in sorted(want & have):
+        a, b = os.path.join(master, f), os.path.join(pack_dir, f)
+        if md5(a) != md5(b):
+            shutil.copy2(a, b)
+            refreshed += 1
+    return added, removed, refreshed
+
+
 def main():
     write = "--write" in sys.argv
     manifest, origin, skipped = build()
@@ -72,6 +103,10 @@ def main():
         if not os.path.isdir(pdir):
             print("  %-46s ABSENT" % pack)
             continue
+        if write and pack != PACKS[0]:
+            a, r, u = sync(pdir, manifest)
+            if a or r or u:
+                print("  %-46s sync +%d -%d ~%d" % (pack, a, r, u))
         have = {f for f in os.listdir(pdir) if f.endswith(".mp3")}
         want = set(manifest.values())
         missing = sorted(want - have)
