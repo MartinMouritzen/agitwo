@@ -25,7 +25,17 @@ jobs:
       - name: Clone + patch ScummVM
         run: |
           git config --global core.autocrlf false
-          git clone https://github.com/scummvm/scummvm.git
+          # Retry the clone: the hosted runners intermittently sit behind a TLS
+          # intercepting proxy and git aborts with "SSL certificate problem: self
+          # signed certificate" (the macOS arm64 image did exactly this on
+          # 2026-08-11, killing the job in 15s while linux and windows were fine).
+          # It is transient, so give it three tries before failing the build.
+          for attempt in 1 2 3; do
+            git clone https://github.com/scummvm/scummvm.git && break
+            echo "clone failed (attempt $attempt), retrying in 15s"
+            rm -rf scummvm; sleep 15
+          done
+          test -d scummvm/.git
           cd scummvm && git checkout "$SCUMMVM_BASE"
           tr -d '\r' < ../agitwo/patches/agitwo-scummvm.patch > /tmp/agitwo.patch
           git apply /tmp/agitwo.patch
@@ -55,7 +65,17 @@ jobs:
       - name: Clone + patch ScummVM
         run: |
           git config --global core.autocrlf false
-          git clone https://github.com/scummvm/scummvm.git
+          # Retry the clone: the hosted runners intermittently sit behind a TLS
+          # intercepting proxy and git aborts with "SSL certificate problem: self
+          # signed certificate" (the macOS arm64 image did exactly this on
+          # 2026-08-11, killing the job in 15s while linux and windows were fine).
+          # It is transient, so give it three tries before failing the build.
+          for attempt in 1 2 3; do
+            git clone https://github.com/scummvm/scummvm.git && break
+            echo "clone failed (attempt $attempt), retrying in 15s"
+            rm -rf scummvm; sleep 15
+          done
+          test -d scummvm/.git
           cd scummvm && git checkout "$SCUMMVM_BASE"
           tr -d '\r' < ../agitwo/patches/agitwo-scummvm.patch > /tmp/agitwo.patch
           git apply /tmp/agitwo.patch
@@ -94,7 +114,17 @@ jobs:
       - name: Clone + patch ScummVM
         run: |
           git config --global core.autocrlf false
-          git clone https://github.com/scummvm/scummvm.git
+          # Retry the clone: the hosted runners intermittently sit behind a TLS
+          # intercepting proxy and git aborts with "SSL certificate problem: self
+          # signed certificate" (the macOS arm64 image did exactly this on
+          # 2026-08-11, killing the job in 15s while linux and windows were fine).
+          # It is transient, so give it three tries before failing the build.
+          for attempt in 1 2 3; do
+            git clone https://github.com/scummvm/scummvm.git && break
+            echo "clone failed (attempt $attempt), retrying in 15s"
+            rm -rf scummvm; sleep 15
+          done
+          test -d scummvm/.git
           cd scummvm && git checkout "$SCUMMVM_BASE"
           tr -d '\r' < ../agitwo/patches/agitwo-scummvm.patch > /tmp/agitwo.patch
           git apply /tmp/agitwo.patch
