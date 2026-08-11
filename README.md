@@ -30,7 +30,11 @@ Clips are generated once from the extracted text and are keyed by the same hash 
 - `patches/agitwo-scummvm.patch` - all our ScummVM engine changes (voice hook, native + browser playback, an upstream-worthy `rate.cpp` fix, an SDL3 keyboard fix). Base: ScummVM master `e5af35640de1b3c3a1969720b71d19d853677315`.
 - `patches/sdl3-emscripten-keyboard-leak.patch` - fix applied inside the emsdk SDL3 port (see below).
 - `tools/extract_agi.py`, `tools/extract_sci0.py` - dump every message from the games with script/room context.
-- `tools/gen_voice_manifest.py` - turn a voice-lines file into a hash->clip manifest. Its normalization + hash must match `voiceover.cpp`.
+- `tools/gen_voice_manifest.py` - hash one voice-lines file into a hash->clip manifest. Its normalization + hash must match `voiceover.cpp`. For QFG1 use `build_voicepack.py` instead; this is the primitive it calls.
+- `tools/build_voicepack.py` - **the** manifest builder: merges every `voices-src` file, honours `"skip": true`, writes `manifest.json` into all four packs and fails if a manifest names a clip a pack lacks.
+- `tools/promote_takes.py` - copy the Voice Lab's *selected* takes onto the game clips they belong to. Nothing else does this, so without it a recast made in the lab never reaches the pack.
+- `tools/preserve_aliased_takes.py` - repair tool: the lab imported the original pack as takes *by reference*, so a take row's file can be the shipped clip itself and rewriting that clip destroys the take. Restores them from a known-good pack.
+- `tools/sync.sh` - what the Voice Lab's sync button runs: promote, rebuild, sync every pack.
 - `voices-src/` - the casting and speaker-tagging work: which character says each line, and which catalog voice plays them.
 - `text/` - extracted message dumps (game-derived; regenerable with the tools).
 - `web/` - landing page for the browser build.
@@ -59,9 +63,14 @@ Open `http://localhost:9123/scummvm.html#qfg1`. Voices start after the first key
 
 Add lines to a `voices-src/<game>-lines.json` (exact game text + speaker + voiceId), generate clips with a TTS provider, drop them in the voices dir, then:
 
-    python3 tools/gen_voice_manifest.py voices-src/qfg1-full-lines.json <voices-dir>/manifest.json
+    bash tools/sync.sh
 
-The manifest always hashes the `text` field (the `say` field, when present, is what gets spoken but is not part of the key).
+The manifest always hashes the `text` field (the `say` field, when present, is what gets spoken but is not part of the key). For QFG1 the manifest is the union of **all** the `voices-src` files, not just one, which is why `build_voicepack.py` exists; hashing a single file by hand is how a manifest entry with no clip behind it survived for weeks.
+
+Two traps worth knowing before you regenerate anything:
+
+- **A clip may double as a lab take.** The lab imported the original pack by reference, so `takes.json` rows can point at the shipped clip. Overwriting that clip destroys the take, and the lab then plays identical audio for two different voices. `tools/promote_takes.py --adopt` and `tools/preserve_aliased_takes.py` keep the two sides honest.
+- **`lab/data/qfg1/text_edits.json` is what is actually spoken.** It holds direction such as `*scream*`, `*snores*` and `[laughing]`. The `voices-src` path does **not** consult it, so regenerating a line from `voices-src` silently throws the direction away and reads the raw game text out loud.
 
 ## Distribution & legal
 
@@ -76,5 +85,5 @@ The **game data** (Sierra's `RESOURCE.*` etc.) and the **generated voice audio**
 
 ## Status
 
-- Full QFG1 voice coverage: done and browser-verified.
-- Native (Windows) voice playback path: implemented; portable Windows build + per-game "unzip into your game folder + one .bat" pack: in progress.
+- Full QFG1 voice coverage: done, browser-verified and native-verified.
+- Portable Linux / macOS / Windows bundles: built by `.github/workflows/build.yml`, assembled with `tools/make_bundle.sh <os> <engine-dir>`.

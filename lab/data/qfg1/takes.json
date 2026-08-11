@@ -32111,10 +32111,10 @@
  },
  "hero": {
   "55_0": {
-   "selected": "qfg1-1106-hero.mp3",
+   "selected": "hero/takes/55_0__mag507__1784466385.mp3",
    "takes": [
     {
-     "file": "qfg1-1106-hero.mp3",
+     "file": "hero/takes/55_0__mag507__1784466385.mp3",
      "voiceId": "mag_507",
      "voiceName": "Dylan Hayes",
      "ts": 0,
@@ -32126,7 +32126,7 @@
    "selected": "hero/takes/40_1__mag507__1784399227.mp3",
    "takes": [
     {
-     "file": "qfg1-1455-hero.mp3",
+     "file": "hero/takes/40_1__mag507__1784466385.mp3",
      "voiceId": "mag_507",
      "voiceName": "Dylan Hayes",
      "ts": 0,
@@ -36166,14 +36166,30 @@
    ]
   },
   "134_72": {
-   "selected": "qfg1-2111-erasmus.mp3",
+   "selected": "erasmus/takes/134_72__mag534__1786456185.mp3",
    "takes": [
     {
-     "file": "qfg1-2111-erasmus.mp3",
+     "file": "erasmus/takes/134_72__mag534__1784466385.mp3",
      "voiceId": "mag_534",
      "voiceName": "Old Pip Quickroot",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "erasmus/takes/134_72__mag534__1786456161.mp3",
+     "voiceId": "mag_534",
+     "voiceName": "Old Pip Quickroot",
+     "stability": 0,
+     "chars": 25,
+     "ts": 1786456161
+    },
+    {
+     "file": "erasmus/takes/134_72__mag534__1786456185.mp3",
+     "voiceId": "mag_534",
+     "voiceName": "Old Pip Quickroot",
+     "stability": 0,
+     "chars": 35,
+     "ts": 1786456185
     }
    ]
   },
@@ -36759,7 +36775,7 @@
    "selected": "fenrus/takes/135_0__mag584__1784398943.mp3",
    "takes": [
     {
-     "file": "qfg1-1583-fenrus.mp3",
+     "file": "fenrus/takes/135_0__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -36779,7 +36795,7 @@
    "selected": "fenrus/takes/135_1__mag584__1784398943.mp3",
    "takes": [
     {
-     "file": "qfg1-1588-fenrus.mp3",
+     "file": "fenrus/takes/135_1__mag586__1784466385.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -36799,7 +36815,7 @@
    "selected": "fenrus/takes/135_2__mag584__1784398943.mp3",
    "takes": [
     {
-     "file": "qfg1-1589-fenrus.mp3",
+     "file": "fenrus/takes/135_2__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -36819,7 +36835,7 @@
    "selected": "fenrus/takes/133_3__mag584__1784398945.mp3",
    "takes": [
     {
-     "file": "qfg1-2044-fenrus.mp3",
+     "file": "fenrus/takes/133_3__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -36839,7 +36855,7 @@
    "selected": "fenrus/takes/133_4__mag584__1784398944.mp3",
    "takes": [
     {
-     "file": "qfg1-2048-fenrus.mp3",
+     "file": "fenrus/takes/133_4__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -36859,7 +36875,7 @@
    "selected": "fenrus/takes/133_5__mag584__1784398968.mp3",
    "takes": [
     {
-     "file": "qfg1-2052-fenrus.mp3",
+     "file": "fenrus/takes/133_5__mag586__1784466385.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -36879,7 +36895,7 @@
    "selected": "fenrus/takes/133_6__mag584__1784398968.mp3",
    "takes": [
     {
-     "file": "qfg1-2053-fenrus.mp3",
+     "file": "fenrus/takes/133_6__mag586__1784466385.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -36899,7 +36915,7 @@
    "selected": "fenrus/takes/133_7__mag584__1784398970.mp3",
    "takes": [
     {
-     "file": "qfg1-2056-fenrus.mp3",
+     "file": "fenrus/takes/133_7__mag586__1784466385.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -36919,7 +36935,7 @@
    "selected": "fenrus/takes/133_8__mag584__1784398969.mp3",
    "takes": [
     {
-     "file": "qfg1-2058-fenrus.mp3",
+     "file": "fenrus/takes/133_8__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -36939,7 +36955,7 @@
    "selected": "fenrus/takes/133_9__mag584__1784398970.mp3",
    "takes": [
     {
-     "file": "qfg1-2069-fenrus.mp3",
+     "file": "fenrus/takes/133_9__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -36959,7 +36975,7 @@
    "selected": "fenrus/takes/133_10__mag584__1784398971.mp3",
    "takes": [
     {
-     "file": "qfg1-2071-fenrus.mp3",
+     "file": "fenrus/takes/133_10__mag586__1784466385.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -36979,7 +36995,7 @@
    "selected": "fenrus/takes/133_11__mag584__1784398976.mp3",
    "takes": [
     {
-     "file": "qfg1-2073-fenrus.mp3",
+     "file": "fenrus/takes/133_11__mag586__1784466383.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -36999,7 +37015,7 @@
    "selected": "fenrus/takes/133_12__mag584__1784398975.mp3",
    "takes": [
     {
-     "file": "qfg1-2076-fenrus.mp3",
+     "file": "fenrus/takes/133_12__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37019,7 +37035,7 @@
    "selected": "fenrus/takes/134_13__mag584__1784399011.mp3",
    "takes": [
     {
-     "file": "qfg1-2079-fenrus.mp3",
+     "file": "fenrus/takes/134_13__mag586__1784466383.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37039,7 +37055,7 @@
    "selected": "fenrus/takes/134_14__mag584__1784399012.mp3",
    "takes": [
     {
-     "file": "qfg1-2081-fenrus.mp3",
+     "file": "fenrus/takes/134_14__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37059,7 +37075,7 @@
    "selected": "fenrus/takes/134_15__mag584__1784399012.mp3",
    "takes": [
     {
-     "file": "qfg1-2084-fenrus.mp3",
+     "file": "fenrus/takes/134_15__mag586__1784466383.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37079,7 +37095,7 @@
    "selected": "fenrus/takes/134_16__mag584__1784399012.mp3",
    "takes": [
     {
-     "file": "qfg1-2091-fenrus.mp3",
+     "file": "fenrus/takes/134_16__mag586__1784466383.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37099,7 +37115,7 @@
    "selected": "fenrus/takes/134_17__mag584__1784399012.mp3",
    "takes": [
     {
-     "file": "qfg1-2093-fenrus.mp3",
+     "file": "fenrus/takes/134_17__mag586__1784466385.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37119,7 +37135,7 @@
    "selected": "fenrus/takes/134_18__mag584__1784399014.mp3",
    "takes": [
     {
-     "file": "qfg1-2095-fenrus.mp3",
+     "file": "fenrus/takes/134_18__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37139,7 +37155,7 @@
    "selected": "fenrus/takes/134_19__mag584__1784399016.mp3",
    "takes": [
     {
-     "file": "qfg1-2096-fenrus.mp3",
+     "file": "fenrus/takes/134_19__mag586__1784466385.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37159,7 +37175,7 @@
    "selected": "fenrus/takes/134_20__mag584__1784399027.mp3",
    "takes": [
     {
-     "file": "qfg1-2099-fenrus.mp3",
+     "file": "fenrus/takes/134_20__mag586__1784466383.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37179,7 +37195,7 @@
    "selected": "fenrus/takes/134_21__mag584__1784398993.mp3",
    "takes": [
     {
-     "file": "qfg1-2101-fenrus.mp3",
+     "file": "fenrus/takes/134_21__mag586__1784466385.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37199,7 +37215,7 @@
    "selected": "fenrus/takes/134_22__mag584__1784398992.mp3",
    "takes": [
     {
-     "file": "qfg1-2104-fenrus.mp3",
+     "file": "fenrus/takes/134_22__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37219,7 +37235,7 @@
    "selected": "fenrus/takes/134_23__mag584__1784398989.mp3",
    "takes": [
     {
-     "file": "qfg1-2106-fenrus.mp3",
+     "file": "fenrus/takes/134_23__mag586__1784466385.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37239,7 +37255,7 @@
    "selected": "fenrus/takes/134_24__mag584__1784398989.mp3",
    "takes": [
     {
-     "file": "qfg1-2108-fenrus.mp3",
+     "file": "fenrus/takes/134_24__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37259,7 +37275,7 @@
    "selected": "fenrus/takes/134_25__mag584__1784398989.mp3",
    "takes": [
     {
-     "file": "qfg1-2110-fenrus.mp3",
+     "file": "fenrus/takes/134_25__mag586__1784466385.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37279,7 +37295,7 @@
    "selected": "fenrus/takes/134_26__mag584__1784398988.mp3",
    "takes": [
     {
-     "file": "qfg1-2112-fenrus.mp3",
+     "file": "fenrus/takes/134_26__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37299,7 +37315,7 @@
    "selected": "fenrus/takes/134_27__mag584__1784398989.mp3",
    "takes": [
     {
-     "file": "qfg1-2114-fenrus.mp3",
+     "file": "fenrus/takes/134_27__mag586__1784466385.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37319,7 +37335,7 @@
    "selected": "fenrus/takes/132_28__mag584__1784398985.mp3",
    "takes": [
     {
-     "file": "qfg1-2260-fenrus.mp3",
+     "file": "fenrus/takes/132_28__mag586__1784466385.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37339,7 +37355,7 @@
    "selected": "fenrus/takes/132_29__mag584__1784398982.mp3",
    "takes": [
     {
-     "file": "qfg1-2262-fenrus.mp3",
+     "file": "fenrus/takes/132_29__mag586__1784466383.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37359,7 +37375,7 @@
    "selected": "fenrus/takes/132_30__mag584__1784398982.mp3",
    "takes": [
     {
-     "file": "qfg1-2265-fenrus.mp3",
+     "file": "fenrus/takes/132_30__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37379,7 +37395,7 @@
    "selected": "fenrus/takes/132_31__mag584__1784398982.mp3",
    "takes": [
     {
-     "file": "qfg1-2267-fenrus.mp3",
+     "file": "fenrus/takes/132_31__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37399,7 +37415,7 @@
    "selected": "fenrus/takes/132_32__mag584__1784398981.mp3",
    "takes": [
     {
-     "file": "qfg1-2273-fenrus.mp3",
+     "file": "fenrus/takes/132_32__mag586__1784466383.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37419,7 +37435,7 @@
    "selected": "fenrus/takes/132_33__mag584__1784398981.mp3",
    "takes": [
     {
-     "file": "qfg1-2278-fenrus.mp3",
+     "file": "fenrus/takes/132_33__mag586__1784466385.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37439,7 +37455,7 @@
    "selected": "fenrus/takes/131_34__mag584__1784398981.mp3",
    "takes": [
     {
-     "file": "qfg1-2312-fenrus.mp3",
+     "file": "fenrus/takes/131_34__mag586__1784466385.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37459,7 +37475,7 @@
    "selected": "fenrus/takes/131_35__mag584__1784398977.mp3",
    "takes": [
     {
-     "file": "qfg1-2313-fenrus.mp3",
+     "file": "fenrus/takes/131_35__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37479,7 +37495,7 @@
    "selected": "fenrus/takes/30_36__mag584__1784398976.mp3",
    "takes": [
     {
-     "file": "qfg1-3600-fenrus.mp3",
+     "file": "fenrus/takes/30_36__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37499,7 +37515,7 @@
    "selected": "fenrus/takes/30_37__mag584__1784398977.mp3",
    "takes": [
     {
-     "file": "qfg1-3601-fenrus.mp3",
+     "file": "fenrus/takes/30_37__mag586__1784466383.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -37519,7 +37535,7 @@
    "selected": "fenrus/takes/30_38__mag584__1784398977.mp3",
    "takes": [
     {
-     "file": "qfg1-3602-fenrus.mp3",
+     "file": "fenrus/takes/30_38__mag586__1784466386.mp3",
      "voiceId": "mag_586",
      "voiceName": "Dexter Glitch",
      "ts": 0,
@@ -44275,14 +44291,19 @@
  },
  "warlock": {
   "96_0": {
-   "selected": "qfg1-3200-warlock.mp3",
+   "selected": "warlock/takes/96_0__mag511__1786455383.mp3",
    "takes": [
     {
-     "file": "qfg1-3200-warlock.mp3",
+     "file": "warlock/takes/96_0__mag511__1784466385.mp3",
      "voiceId": "mag_511",
      "voiceName": "Dorian Malice",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "warlock/takes/96_0__mag511__1786455383.mp3",
+     "voiceId": "mag_511",
+     "ts": 1786455383
     }
    ]
   },
@@ -44299,14 +44320,19 @@
    ]
   },
   "96_2": {
-   "selected": "qfg1-3207-warlock.mp3",
+   "selected": "warlock/takes/96_2__mag511__1786455385.mp3",
    "takes": [
     {
-     "file": "qfg1-3207-warlock.mp3",
+     "file": "warlock/takes/96_2__mag511__1784466385.mp3",
      "voiceId": "mag_511",
      "voiceName": "Dorian Malice",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "warlock/takes/96_2__mag511__1786455385.mp3",
+     "voiceId": "mag_511",
+     "ts": 1786455385
     }
    ]
   },
@@ -44515,26 +44541,36 @@
    ]
   },
   "96_20": {
-   "selected": "qfg1-3226-warlock.mp3",
+   "selected": "warlock/takes/96_20__mag511__1786455387.mp3",
    "takes": [
     {
-     "file": "qfg1-3226-warlock.mp3",
+     "file": "warlock/takes/96_20__mag511__1784466385.mp3",
      "voiceId": "mag_511",
      "voiceName": "Dorian Malice",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "warlock/takes/96_20__mag511__1786455387.mp3",
+     "voiceId": "mag_511",
+     "ts": 1786455387
     }
    ]
   },
   "96_21": {
-   "selected": "qfg1-3227-warlock.mp3",
+   "selected": "warlock/takes/96_21__mag511__1786455389.mp3",
    "takes": [
     {
-     "file": "qfg1-3227-warlock.mp3",
+     "file": "warlock/takes/96_21__mag511__1784466385.mp3",
      "voiceId": "mag_511",
      "voiceName": "Dorian Malice",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "warlock/takes/96_21__mag511__1786455389.mp3",
+     "voiceId": "mag_511",
+     "ts": 1786455389
     }
    ]
   },
@@ -44659,26 +44695,36 @@
    ]
   },
   "96_32": {
-   "selected": "qfg1-3238-warlock.mp3",
+   "selected": "warlock/takes/96_32__mag511__1786455390.mp3",
    "takes": [
     {
-     "file": "qfg1-3238-warlock.mp3",
+     "file": "warlock/takes/96_32__mag511__1784466386.mp3",
      "voiceId": "mag_511",
      "voiceName": "Dorian Malice",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "warlock/takes/96_32__mag511__1786455390.mp3",
+     "voiceId": "mag_511",
+     "ts": 1786455390
     }
    ]
   },
   "96_33": {
-   "selected": "qfg1-3239-warlock.mp3",
+   "selected": "warlock/takes/96_33__mag511__1786455394.mp3",
    "takes": [
     {
-     "file": "qfg1-3239-warlock.mp3",
+     "file": "warlock/takes/96_33__mag511__1784466385.mp3",
      "voiceId": "mag_511",
      "voiceName": "Dorian Malice",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "warlock/takes/96_33__mag511__1786455394.mp3",
+     "voiceId": "mag_511",
+     "ts": 1786455394
     }
    ]
   },
@@ -44731,14 +44777,19 @@
    ]
   },
   "96_38": {
-   "selected": "qfg1-3244-warlock.mp3",
+   "selected": "warlock/takes/96_38__mag511__1786455393.mp3",
    "takes": [
     {
-     "file": "qfg1-3244-warlock.mp3",
+     "file": "warlock/takes/96_38__mag511__1784466386.mp3",
      "voiceId": "mag_511",
      "voiceName": "Dorian Malice",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "warlock/takes/96_38__mag511__1786455393.mp3",
+     "voiceId": "mag_511",
+     "ts": 1786455393
     }
    ]
   },
@@ -44817,410 +44868,607 @@
  },
  "dryad": {
   "76_0": {
-   "selected": "qfg1-3287-dryad.mp3",
+   "selected": "dryad/takes/76_0__mag332__1786455395.mp3",
    "takes": [
     {
-     "file": "qfg1-3287-dryad.mp3",
+     "file": "dryad/takes/76_0__mag684__1784466386.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_0__mag162__1786454601.mp3",
+     "voiceId": "mag_162",
+     "voiceName": "Sasha Monroe",
+     "stability": 0,
+     "chars": 69,
+     "ts": 1786454601
+    },
+    {
+     "file": "dryad/takes/76_0__mag332__1786455395.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455395
     }
    ]
   },
   "76_1": {
-   "selected": "qfg1-3288-dryad.mp3",
+   "selected": "dryad/takes/76_1__mag332__1786455398.mp3",
    "takes": [
     {
-     "file": "qfg1-3288-dryad.mp3",
+     "file": "dryad/takes/76_1__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_1__mag162__1786454602.mp3",
+     "voiceId": "mag_162",
+     "voiceName": "Sasha Monroe",
+     "stability": 0,
+     "chars": 150,
+     "ts": 1786454602
+    },
+    {
+     "file": "dryad/takes/76_1__mag332__1786455398.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455398
     }
    ]
   },
   "76_2": {
-   "selected": "qfg1-3289-dryad.mp3",
+   "selected": "dryad/takes/76_2__mag332__1786455399.mp3",
    "takes": [
     {
-     "file": "qfg1-3289-dryad.mp3",
+     "file": "dryad/takes/76_2__mag684__1784466383.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_2__mag332__1786455399.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455399
     }
    ]
   },
   "76_3": {
-   "selected": "qfg1-3292-dryad.mp3",
+   "selected": "dryad/takes/76_3__mag332__1786455399.mp3",
    "takes": [
     {
-     "file": "qfg1-3292-dryad.mp3",
+     "file": "dryad/takes/76_3__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_3__mag332__1786455399.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455399
     }
    ]
   },
   "76_4": {
-   "selected": "qfg1-3294-dryad.mp3",
+   "selected": "dryad/takes/76_4__mag332__1786455869.mp3",
    "takes": [
     {
-     "file": "qfg1-3294-dryad.mp3",
+     "file": "dryad/takes/76_4__mag684__1784466383.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_4__mag332__1786455869.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455869
     }
    ]
   },
   "76_5": {
-   "selected": "qfg1-3295-dryad.mp3",
+   "selected": "dryad/takes/76_5__mag332__1786455405.mp3",
    "takes": [
     {
-     "file": "qfg1-3295-dryad.mp3",
+     "file": "dryad/takes/76_5__mag684__1784466383.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_5__mag332__1786455405.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455405
     }
    ]
   },
   "76_6": {
-   "selected": "qfg1-3296-dryad.mp3",
+   "selected": "dryad/takes/76_6__mag332__1786455408.mp3",
    "takes": [
     {
-     "file": "qfg1-3296-dryad.mp3",
+     "file": "dryad/takes/76_6__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_6__mag332__1786455408.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455408
     }
    ]
   },
   "76_7": {
-   "selected": "qfg1-3297-dryad.mp3",
+   "selected": "dryad/takes/76_7__mag332__1786455406.mp3",
    "takes": [
     {
-     "file": "qfg1-3297-dryad.mp3",
+     "file": "dryad/takes/76_7__mag684__1784466386.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_7__mag332__1786455406.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455406
     }
    ]
   },
   "76_8": {
-   "selected": "qfg1-3298-dryad.mp3",
+   "selected": "dryad/takes/76_8__mag332__1786455408.mp3",
    "takes": [
     {
-     "file": "qfg1-3298-dryad.mp3",
+     "file": "dryad/takes/76_8__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_8__mag332__1786455408.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455408
     }
    ]
   },
   "76_9": {
-   "selected": "qfg1-3299-dryad.mp3",
+   "selected": "dryad/takes/76_9__mag332__1786455410.mp3",
    "takes": [
     {
-     "file": "qfg1-3299-dryad.mp3",
+     "file": "dryad/takes/76_9__mag684__1784466386.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_9__mag332__1786455410.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455410
     }
    ]
   },
   "76_10": {
-   "selected": "qfg1-3305-dryad.mp3",
+   "selected": "dryad/takes/76_10__mag332__1786455412.mp3",
    "takes": [
     {
-     "file": "qfg1-3305-dryad.mp3",
+     "file": "dryad/takes/76_10__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_10__mag332__1786455412.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455412
     }
    ]
   },
   "76_11": {
-   "selected": "qfg1-3306-dryad.mp3",
+   "selected": "dryad/takes/76_11__mag332__1786455413.mp3",
    "takes": [
     {
-     "file": "qfg1-3306-dryad.mp3",
+     "file": "dryad/takes/76_11__mag684__1784466383.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_11__mag332__1786455413.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455413
     }
    ]
   },
   "76_12": {
-   "selected": "qfg1-3334-dryad.mp3",
+   "selected": "dryad/takes/76_12__mag332__1786455414.mp3",
    "takes": [
     {
-     "file": "qfg1-3334-dryad.mp3",
+     "file": "dryad/takes/76_12__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_12__mag332__1786455414.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455414
     }
    ]
   },
   "76_13": {
-   "selected": "qfg1-3335-dryad.mp3",
+   "selected": "dryad/takes/76_13__mag332__1786455416.mp3",
    "takes": [
     {
-     "file": "qfg1-3335-dryad.mp3",
+     "file": "dryad/takes/76_13__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_13__mag332__1786455416.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455416
     }
    ]
   },
   "76_14": {
-   "selected": "qfg1-3336-dryad.mp3",
+   "selected": "dryad/takes/76_14__mag332__1786454683.mp3",
    "takes": [
     {
-     "file": "qfg1-3336-dryad.mp3",
+     "file": "dryad/takes/76_14__mag684__1784466383.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_14__mag162__1786454608.mp3",
+     "voiceId": "mag_162",
+     "voiceName": "Sasha Monroe",
+     "stability": 0,
+     "chars": 66,
+     "ts": 1786454608
+    },
+    {
+     "file": "dryad/takes/76_14__mag332__1786454683.mp3",
+     "voiceId": "mag_332",
+     "voiceName": "Charlotte Winslow",
+     "stability": 0,
+     "chars": 66,
+     "ts": 1786454683
     }
    ]
   },
   "76_15": {
-   "selected": "qfg1-3340-dryad.mp3",
+   "selected": "dryad/takes/76_15__mag332__1786455419.mp3",
    "takes": [
     {
-     "file": "qfg1-3340-dryad.mp3",
+     "file": "dryad/takes/76_15__mag684__1784466386.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_15__mag332__1786455419.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455419
     }
    ]
   },
   "76_16": {
-   "selected": "qfg1-3341-dryad.mp3",
+   "selected": "dryad/takes/76_16__mag332__1786455419.mp3",
    "takes": [
     {
-     "file": "qfg1-3341-dryad.mp3",
+     "file": "dryad/takes/76_16__mag684__1784466386.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_16__mag332__1786455419.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455419
     }
    ]
   },
   "76_17": {
-   "selected": "qfg1-3342-dryad.mp3",
+   "selected": "dryad/takes/76_17__mag332__1786455425.mp3",
    "takes": [
     {
-     "file": "qfg1-3342-dryad.mp3",
+     "file": "dryad/takes/76_17__mag684__1784466383.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_17__mag332__1786455425.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455425
     }
    ]
   },
   "76_18": {
-   "selected": "qfg1-3343-dryad.mp3",
+   "selected": "dryad/takes/76_18__mag332__1786455426.mp3",
    "takes": [
     {
-     "file": "qfg1-3343-dryad.mp3",
+     "file": "dryad/takes/76_18__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_18__mag332__1786455426.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455426
     }
    ]
   },
   "76_19": {
-   "selected": "qfg1-3344-dryad.mp3",
+   "selected": "dryad/takes/76_19__mag332__1786455424.mp3",
    "takes": [
     {
-     "file": "qfg1-3344-dryad.mp3",
+     "file": "dryad/takes/76_19__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_19__mag332__1786455424.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455424
     }
    ]
   },
   "76_20": {
-   "selected": "qfg1-3345-dryad.mp3",
+   "selected": "dryad/takes/76_20__mag332__1786455424.mp3",
    "takes": [
     {
-     "file": "qfg1-3345-dryad.mp3",
+     "file": "dryad/takes/76_20__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_20__mag332__1786455424.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455424
     }
    ]
   },
   "76_21": {
-   "selected": "qfg1-3346-dryad.mp3",
+   "selected": "dryad/takes/76_21__mag332__1786455429.mp3",
    "takes": [
     {
-     "file": "qfg1-3346-dryad.mp3",
+     "file": "dryad/takes/76_21__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_21__mag332__1786455429.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455429
     }
    ]
   },
   "76_22": {
-   "selected": "qfg1-3347-dryad.mp3",
+   "selected": "dryad/takes/76_22__mag332__1786455429.mp3",
    "takes": [
     {
-     "file": "qfg1-3347-dryad.mp3",
+     "file": "dryad/takes/76_22__mag684__1784466386.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_22__mag332__1786455429.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455429
     }
    ]
   },
   "76_23": {
-   "selected": "qfg1-3348-dryad.mp3",
+   "selected": "dryad/takes/76_23__mag332__1786455429.mp3",
    "takes": [
     {
-     "file": "qfg1-3348-dryad.mp3",
+     "file": "dryad/takes/76_23__mag684__1784466386.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_23__mag332__1786455429.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455429
     }
    ]
   },
   "76_24": {
-   "selected": "qfg1-3349-dryad.mp3",
+   "selected": "dryad/takes/76_24__mag332__1786455430.mp3",
    "takes": [
     {
-     "file": "qfg1-3349-dryad.mp3",
+     "file": "dryad/takes/76_24__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_24__mag332__1786455430.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455430
     }
    ]
   },
   "76_25": {
-   "selected": "qfg1-3350-dryad.mp3",
+   "selected": "dryad/takes/76_25__mag332__1786455435.mp3",
    "takes": [
     {
-     "file": "qfg1-3350-dryad.mp3",
+     "file": "dryad/takes/76_25__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_25__mag332__1786455435.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455435
     }
    ]
   },
   "76_26": {
-   "selected": "qfg1-3353-dryad.mp3",
+   "selected": "dryad/takes/76_26__mag332__1786455433.mp3",
    "takes": [
     {
-     "file": "qfg1-3353-dryad.mp3",
+     "file": "dryad/takes/76_26__mag684__1784466386.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_26__mag332__1786455433.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455433
     }
    ]
   },
   "76_27": {
-   "selected": "qfg1-3354-dryad.mp3",
+   "selected": "dryad/takes/76_27__mag332__1786455434.mp3",
    "takes": [
     {
-     "file": "qfg1-3354-dryad.mp3",
+     "file": "dryad/takes/76_27__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_27__mag332__1786455434.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455434
     }
    ]
   },
   "76_28": {
-   "selected": "qfg1-3355-dryad.mp3",
+   "selected": "dryad/takes/76_28__mag332__1786455437.mp3",
    "takes": [
     {
-     "file": "qfg1-3355-dryad.mp3",
+     "file": "dryad/takes/76_28__mag684__1784466386.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_28__mag332__1786455437.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455437
     }
    ]
   },
   "76_29": {
-   "selected": "qfg1-3357-dryad.mp3",
+   "selected": "dryad/takes/76_29__mag332__1786455440.mp3",
    "takes": [
     {
-     "file": "qfg1-3357-dryad.mp3",
+     "file": "dryad/takes/76_29__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_29__mag332__1786455440.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455440
     }
    ]
   },
   "76_30": {
-   "selected": "qfg1-3358-dryad.mp3",
+   "selected": "dryad/takes/76_30__mag332__1786455442.mp3",
    "takes": [
     {
-     "file": "qfg1-3358-dryad.mp3",
+     "file": "dryad/takes/76_30__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_30__mag332__1786455442.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455442
     }
    ]
   },
   "76_31": {
-   "selected": "qfg1-3359-dryad.mp3",
+   "selected": "dryad/takes/76_31__mag332__1786455443.mp3",
    "takes": [
     {
-     "file": "qfg1-3359-dryad.mp3",
+     "file": "dryad/takes/76_31__mag684__1784466383.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_31__mag332__1786455443.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455443
     }
    ]
   },
   "76_32": {
-   "selected": "qfg1-3360-dryad.mp3",
+   "selected": "dryad/takes/76_32__mag332__1786455441.mp3",
    "takes": [
     {
-     "file": "qfg1-3360-dryad.mp3",
+     "file": "dryad/takes/76_32__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_32__mag332__1786455441.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455441
     }
    ]
   },
   "76_33": {
-   "selected": "qfg1-3361-dryad.mp3",
+   "selected": "dryad/takes/76_33__mag332__1786455446.mp3",
    "takes": [
     {
-     "file": "qfg1-3361-dryad.mp3",
+     "file": "dryad/takes/76_33__mag684__1784466385.mp3",
      "voiceId": "mag_684",
      "voiceName": "Avery Quinn",
      "ts": 0,
      "stability": 0.5
+    },
+    {
+     "file": "dryad/takes/76_33__mag332__1786455446.mp3",
+     "voiceId": "mag_332",
+     "ts": 1786455446
     }
    ]
   },
@@ -46914,7 +47162,7 @@
     {
      "file": "qfg1-4156-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -46926,7 +47174,7 @@
     {
      "file": "qfg1-4158-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -46938,7 +47186,7 @@
     {
      "file": "qfg1-4159-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -46950,7 +47198,7 @@
     {
      "file": "qfg1-4161-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -46962,7 +47210,7 @@
     {
      "file": "qfg1-4163-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -46974,7 +47222,7 @@
     {
      "file": "qfg1-4165-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -46986,7 +47234,7 @@
     {
      "file": "qfg1-4167-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -46998,7 +47246,7 @@
     {
      "file": "qfg1-4168-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47010,7 +47258,7 @@
     {
      "file": "qfg1-4170-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47022,7 +47270,7 @@
     {
      "file": "qfg1-4183-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47034,7 +47282,7 @@
     {
      "file": "qfg1-4184-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47046,7 +47294,7 @@
     {
      "file": "qfg1-4185-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47058,7 +47306,7 @@
     {
      "file": "qfg1-4188-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47070,7 +47318,7 @@
     {
      "file": "qfg1-4189-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47082,7 +47330,7 @@
     {
      "file": "qfg1-4190-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47094,7 +47342,7 @@
     {
      "file": "qfg1-4191-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47106,7 +47354,7 @@
     {
      "file": "qfg1-4192-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47118,7 +47366,7 @@
     {
      "file": "qfg1-4193-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47130,7 +47378,7 @@
     {
      "file": "qfg1-4194-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47142,7 +47390,7 @@
     {
      "file": "qfg1-4201-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47154,7 +47402,7 @@
     {
      "file": "qfg1-4211-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47166,7 +47414,7 @@
     {
      "file": "qfg1-4212-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47178,7 +47426,7 @@
     {
      "file": "qfg1-4213-bartender.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "ts": 0,
      "stability": 0.5
     }
@@ -47190,7 +47438,7 @@
     {
      "file": "_seg/qfg1-4158-bartender__s1.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "stability": 0.5,
      "ts": 0
     }
@@ -47202,7 +47450,7 @@
     {
      "file": "_seg/qfg1-4161-bartender__s1.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "stability": 0.5,
      "ts": 0
     }
@@ -47214,7 +47462,7 @@
     {
      "file": "_seg/qfg1-4163-bartender__s1.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "stability": 0.5,
      "ts": 0
     }
@@ -47226,7 +47474,7 @@
     {
      "file": "_seg/qfg1-4165-bartender__s1.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "stability": 0.5,
      "ts": 0
     }
@@ -47238,7 +47486,7 @@
     {
      "file": "_seg/qfg1-4170-bartender__s1.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "stability": 0.5,
      "ts": 0
     }
@@ -47250,7 +47498,7 @@
     {
      "file": "_seg/qfg1-4201-bartender__s1.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "stability": 0.5,
      "ts": 0
     }
@@ -47262,7 +47510,7 @@
     {
      "file": "_seg/qfg1-4211-bartender__s1.mp3",
      "voiceId": "mag_538",
-     "voiceName": "Wade “Red” Dawson",
+     "voiceName": "Wade \u201cRed\u201d Dawson",
      "stability": 0.5,
      "ts": 0
     }
