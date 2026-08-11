@@ -222,6 +222,8 @@
   "num": 2,
   "idx": 0,
   "text": "The software you are now using was produced\nthrough the efforts of many people:\ndesigners, artists, programmers, musicians,\nand lots of other hard-working folks.\n\nIf you make copies of this software for any\nreason other than to make a personal backup,\nyou are not only breaking the law, but raising\nthe cost of software for all legitimate users.\n\nPLEASE\nDO NOT MAKE ILLEGAL COPIES OF THIS GAME !",
-  "file": "qfg1-024-narrator.mp3"
+  "file": "qfg1-024-narrator.mp3",
+  "skip": true,
+  "skipReason": "boot-screen anti-piracy notice: a 26.5s narrator clip on the very first title screen, still running well into the intro (nothing stops a clip when the window is disposed)"
  }
 ]

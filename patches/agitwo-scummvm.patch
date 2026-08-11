@@ -582,7 +582,7 @@ index 95d4ad40..5684ecfb 100644
  	if (ttsMan && ConfMan.getBool("tts_enabled") && (!checkPreviousSaid || _previousSaid != text)) {
  		Common::String ttsMessage = text;
 diff --git a/engines/sci/engine/tts.cpp b/engines/sci/engine/tts.cpp
-index 7c16a9b5..8aa01aad 100644
+index 7c16a9b5..c562348d 100644
 --- a/engines/sci/engine/tts.cpp
 +++ b/engines/sci/engine/tts.cpp
 @@ -25,6 +25,7 @@
@@ -593,20 +593,29 @@ index 7c16a9b5..8aa01aad 100644
  
  namespace Sci {
  
-@@ -37,11 +38,17 @@ SciTTS::SciTTS() : _curMessage("") {
+@@ -36,12 +37,26 @@ SciTTS::SciTTS() : _curMessage("") {
+ 	}
  }
  
++// agitwo voice-over: a pre-generated clip replaces TTS when one exists.
++//
++// This is deliberately tried *before* shouldPerformTTS(). That heuristic
++// rejects any string containing no lowercase vowel, which is a reasonable
++// guard for a screen reader (it stops TTS from spelling out symbol jokes),
++// but it also silences every all-caps line, and a lot of those are real
++// dialogue we voiced on purpose: the Gargoyle's entire riddle scene, Erasmus'
++// laughs, Baba Yaga's "BE STILL!", and so on. The manifest lookup inside
++// playVoiceOver() is its own filter -- a clip only exists where we chose to
++// record one -- so the heuristic buys us nothing here and costs us 56 clips.
  void SciTTS::button(const Common::String &text) {
-+	// agitwo voice-over: pre-generated clip replaces TTS when available
-+	if (shouldPerformTTS(text) && Common::playVoiceOver(getMessage(text)))
++	if (Common::playVoiceOver(getMessage(text)))
 +		return;
  	if (_ttsMan != nullptr && shouldPerformTTS(text))
  		_ttsMan->say(getMessage(text), Common::TextToSpeechManager::QUEUE_NO_REPEAT);
  }
  
  void SciTTS::text(const Common::String &text) {
-+	// agitwo voice-over: pre-generated clip replaces TTS when available
-+	if (shouldPerformTTS(text) && Common::playVoiceOver(getMessage(text)))
++	if (Common::playVoiceOver(getMessage(text)))
 +		return;
  	if (_ttsMan != nullptr && shouldPerformTTS(text))
  		_ttsMan->say(getMessage(text), Common::TextToSpeechManager::INTERRUPT);

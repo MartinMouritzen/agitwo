@@ -1,0 +1,211 @@
+[
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 7,
+  "text": "Have you learned the Open spell yet?",
+  "speaker": "erasmus",
+  "voiceId": 534,
+  "file": "qfg1-4800-erasmus.mp3",
+  "template": "Have you learned the %s spell yet?",
+  "substitution": "Open"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 7,
+  "text": "Have you learned the Fetch spell yet?",
+  "speaker": "erasmus",
+  "voiceId": 534,
+  "file": "qfg1-4801-erasmus.mp3",
+  "template": "Have you learned the %s spell yet?",
+  "substitution": "Fetch"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 7,
+  "text": "Have you learned the Flame Dart spell yet?",
+  "speaker": "erasmus",
+  "voiceId": 534,
+  "file": "qfg1-4802-erasmus.mp3",
+  "template": "Have you learned the %s spell yet?",
+  "substitution": "Flame Dart"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 7,
+  "text": "Have you learned the Trigger spell yet?",
+  "speaker": "erasmus",
+  "voiceId": 534,
+  "file": "qfg1-4803-erasmus.mp3",
+  "template": "Have you learned the %s spell yet?",
+  "substitution": "Trigger"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 8,
+  "text": "Do you know how to cast the Open spell?",
+  "speaker": "erasmus",
+  "voiceId": 534,
+  "file": "qfg1-4804-erasmus.mp3",
+  "template": "Do you know how to cast the %s spell?",
+  "substitution": "Open"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 8,
+  "text": "Do you know how to cast the Fetch spell?",
+  "speaker": "erasmus",
+  "voiceId": 534,
+  "file": "qfg1-4805-erasmus.mp3",
+  "template": "Do you know how to cast the %s spell?",
+  "substitution": "Fetch"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 8,
+  "text": "Do you know how to cast the Flame Dart spell?",
+  "speaker": "erasmus",
+  "voiceId": 534,
+  "file": "qfg1-4806-erasmus.mp3",
+  "template": "Do you know how to cast the %s spell?",
+  "substitution": "Flame Dart"
+ },
+ {
+  "res": "text",
+  "num": 131,
+  "idx": 8,
+  "text": "Do you know how to cast the Trigger spell?",
+  "speaker": "erasmus",
+  "voiceId": 534,
+  "file": "qfg1-4807-erasmus.mp3",
+  "template": "Do you know how to cast the %s spell?",
+  "substitution": "Trigger"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 45,
+  "text": "Oh, you want some fruit?  I think I have some fruit somewhere around here.",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-4808-meep.mp3",
+  "template": "Oh, you want %s?  I think I have %s somewhere around here.",
+  "substitution": "some fruit"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 45,
+  "text": "Oh, you want a baby meep?  I think I have a baby meep somewhere around here.",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-4809-meep.mp3",
+  "template": "Oh, you want %s?  I think I have %s somewhere around here.",
+  "substitution": "a baby meep"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 45,
+  "text": "Oh, you want some green fur?  I think I have some green fur somewhere around here.",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-4810-meep.mp3",
+  "template": "Oh, you want %s?  I think I have %s somewhere around here.",
+  "substitution": "some green fur"
+ },
+ {
+  "res": "text",
+  "num": 60,
+  "idx": 45,
+  "text": "Oh, you want a magic spell scroll?  I think I have a magic spell scroll somewhere around here.",
+  "speaker": "meep",
+  "voiceId": 499,
+  "file": "qfg1-4811-meep.mp3",
+  "template": "Oh, you want %s?  I think I have %s somewhere around here.",
+  "substitution": "a magic spell scroll"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 25,
+  "text": "\"The password is 'Schwertfisch'.\"",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-4812-slink.mp3",
+  "template": "\"The password is '%s'.\"",
+  "substitution": "Schwertfisch"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 25,
+  "text": "\"The password is 'Ach du lieber'.\"",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-4813-slink.mp3",
+  "template": "\"The password is '%s'.\"",
+  "substitution": "Ach du lieber"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 25,
+  "text": "\"The password is 'Schweinhund'.\"",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-4814-slink.mp3",
+  "template": "\"The password is '%s'.\"",
+  "substitution": "Schweinhund"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 25,
+  "text": "\"The password is 'Antwerp'.\"",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-4815-slink.mp3",
+  "template": "\"The password is '%s'.\"",
+  "substitution": "Antwerp"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 25,
+  "text": "\"The password is 'Rheingold'.\"",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-4816-slink.mp3",
+  "template": "\"The password is '%s'.\"",
+  "substitution": "Rheingold"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 25,
+  "text": "\"The password is 'Deutschmark'.\"",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-4817-slink.mp3",
+  "template": "\"The password is '%s'.\"",
+  "substitution": "Deutschmark"
+ },
+ {
+  "res": "text",
+  "num": 334,
+  "idx": 25,
+  "text": "\"The password is 'Purple Saurus'.\"",
+  "speaker": "slink",
+  "voiceId": 517,
+  "file": "qfg1-4818-slink.mp3",
+  "template": "\"The password is '%s'.\"",
+  "substitution": "Purple Saurus"
+ }
+]

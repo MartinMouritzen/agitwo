@@ -1,0 +1,308 @@
+[
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 3,
+  "text": "\"Until you have done so, you are only intruding on my concentration.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3287-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 4,
+  "text": "\"You need to become a friend of the forest.  Harm not the gentle creatures or plants. See with all your senses the magic of the trees and wild places.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3288-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 5,
+  "text": "\"Wander and learn.  Then you too will be in harmony with the forest.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3289-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 8,
+  "text": "\"Give the seed to me.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3292-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 10,
+  "text": "She tells you:  \"It's not nice to fool Mother Nature.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3294-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 11,
+  "text": "\"Then you shall aid me, and I shall aid you in your quest.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3295-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 12,
+  "text": "\"Bring me a seed from the Spore Spitting Spirea of the North that I may plant it elsewhere in order to preserve these rare and magical plants.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3296-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 13,
+  "text": "\"Thus will you become a true friend of the forest.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3297-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 14,
+  "text": "\"I detect that you have in your possession such a seed.  Are you willing to give me the seed?\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3298-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 15,
+  "text": "\"Please.  Just answer my question.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3299-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 23,
+  "text": "\"Perhaps the farmer has dates in his field.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3305-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 24,
+  "text": "\"I beg your pardon?\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3306-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 52,
+  "text": "\"Have you brought the seed I requested?\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3334-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 53,
+  "text": "\"Well, Hero-to-be!  Are you yet a friend of the woods?\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3335-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 54,
+  "text": "\"I am the Dryad, keeper of the woods.  Are you one with the woods?\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3336-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 58,
+  "text": "\"Now this will boldly grow where none has grown before!\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3340-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 59,
+  "text": "\"Heed now my words, friend of the forest, and heed them well.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3341-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 60,
+  "text": "\"Friend, you must know that there is an evil in this valley which perverts the ways of nature.  The prophecy says that a hero will bring a young human from out this darkness.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3342-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 61,
+  "text": "\"If you are the one to accomplish this task, there is a potion to break enchantments which you must have the Healer make.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3343-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 62,
+  "text": "\"You must gather these ingredients:\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3344-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 63,
+  "text": "\"Flowers from Erana's Peace,\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3345-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 64,
+  "text": "\"Green Fur,\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3346-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 65,
+  "text": "\"Fairy Dust,\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3347-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 66,
+  "text": "\"a Magic Acorn,\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3348-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 67,
+  "text": "\"and Flying Water.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3349-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 68,
+  "text": "\"Farewell, friend.  I must return to my concentration.  May the forest forever surround you.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3350-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 71,
+  "text": "\"You did WHAT???\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3353-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 72,
+  "text": "\"You have destroyed the plant that was to be preserved!\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3354-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 73,
+  "text": "\"As you have destroyed, so shall you now become!\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3355-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 75,
+  "text": "\"You have attempted to harm a free creature of the forest!\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3357-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 76,
+  "text": "\"You shall now become a part of the forest!\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3358-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 77,
+  "text": "\"You have misused your skills, oh Magician!  You have used the Flame Dart on my forest.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3359-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 78,
+  "text": "\"You must be made less dangerous.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3360-dryad.mp3"
+ },
+ {
+  "res": "text",
+  "num": 76,
+  "idx": 79,
+  "text": "\"You dare to harm the Dryad of this forest!  You must be made less dangerous.\"",
+  "speaker": "dryad",
+  "voiceId": 332,
+  "file": "qfg1-3361-dryad.mp3"
+ }
+]
