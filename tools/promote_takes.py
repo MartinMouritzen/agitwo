@@ -49,14 +49,18 @@ def md5(path):
 def lab_keys():
     """(charId, labkey) -> clip filename, using the lab's own enumeration order.
 
-    Must stay identical to tools/wire_segments.py: per character, in source order,
-    first sighting of a clip wins, and the running index is per character, not per
-    text resource."""
+    Per character, in source order, first sighting of a clip wins, and the running index
+    is per character rather than per text resource.
+
+    It deliberately does NOT honour "skip". That flag means "do not put this line in the
+    manifest" (the boot-screen legal notices), not "this line does not exist" -- and the
+    lab's characters.json was enumerated with them counted. Skipping here shifts every
+    later index for that character, which for the narrator meant 2,376 of 3,811 lines
+    mapping to the wrong clip, and would have promoted takes onto their neighbours.
+    Verified against characters.json: without skip, 3,811/3,811 line texts match."""
     keyfile, percid = {}, {}
     for s in SOURCES:
         for e in json.load(open(os.path.join(ROOT, s))):
-            if e.get("skip"):
-                continue
             cid, f = e["speaker"], e["file"]
             st = percid.setdefault(cid, {"seen": set(), "i": 0})
             if f in st["seen"]:
@@ -169,12 +173,13 @@ def main():
         return 0
     plan = {p["file"]: p for p in
             json.load(open(os.path.join(ROOT, "voices-src/recast/segment-plan.json")))}
+    segkeys = list(json.load(open(os.path.join(DATA, "line_segments.json"))))
     seg_owner = {}
     for f, p in plan.items():
         for s in p["segments"]:
             seg_owner[os.path.basename(s["tmp"])] = f
 
-    promoted, restitched, skipped, problems = [], [], 0, []
+    promoted, restitched, skipped, problems, legacy = [], [], 0, [], []
     for bucket, lines in sorted(takes.items()):
         for key, rec in sorted(lines.items()):
             sel = rec.get("selected") or ""
@@ -189,15 +194,26 @@ def main():
                 # segment was re-recorded, so copy it over its _seg/ file and rebuild
                 # the game clip from the plan; a straight copy onto the game clip
                 # would throw away the other segments.
-                parts = key.split("~")
-                if len(parts) != 3:
+                # Shared-lab convention: "<lineKey>~g<i>" / "<lineKey>~c<i>". The line key
+                # alone does not say which character owns the line (a gm segment lives in
+                # the narrator bucket), so find the owning line through line_segments,
+                # whose keys ARE character-scoped.
+                labkey, _, which = key.rpartition("~")
+                if not labkey or not which[:1] in ("g", "c") or not which[1:].isdigit():
                     problems.append((bucket, key, "unparseable segment key"))
                     continue
-                cid, labkey, which = parts
-                clip = keyfile.get((cid, labkey))
+                cid = next((sk.split("~", 1)[0] for sk in segkeys
+                            if sk.split("~", 1)[1] == labkey), None)
+                clip = keyfile.get((cid, labkey)) if cid else None
                 entry = plan.get(clip) if clip else None
                 if not entry:
-                    problems.append((bucket, key, "segment take with no plan entry"))
+                    if labkey in segkeys:
+                        # Old character-scoped key from the retired lab fork, e.g.
+                        # "hero~55_0~c0". The shared lab never reads these, so it is
+                        # stale bookkeeping rather than something to promote.
+                        legacy.append((bucket, key))
+                    else:
+                        problems.append((bucket, key, "segment take with no plan entry"))
                     continue
                 want = "gm" if which.startswith("g") else "char"
                 idx = int(which[1:])
@@ -239,6 +255,8 @@ def main():
         if write:
             ok, why = restitch(plan[target])
             print("      %s" % why)
+    for b, k in legacy:
+        print("  legacy  %-13s %-16s (old lab-fork key; the shared lab does not read it)" % (b, k))
     for b, k, why in problems:
         print("  PROBLEM %-13s %-16s %s" % (b, k, why))
     print("\n%s %d clip(s); %d segment line(s); %d already current; %d problem(s)"

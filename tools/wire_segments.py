@@ -22,8 +22,8 @@ keyfile = {}
 percid = {}
 for s in ("voices-src/qfg1-lines.json", "voices-src/qfg1-intro-lines.json", "voices-src/full/qfg1-full-lines.json"):
     for e in json.load(open(os.path.join(ROOT, s))):
-        if e.get("skip"):
-            continue
+        # "skip" means "keep out of the manifest", not "does not exist". characters.json
+        # counted these, so skipping here shifts every later index for that character.
         cid = e["speaker"]; f = e["file"]
         st = percid.setdefault(cid, {"seen": set(), "i": 0})
         if f in st["seen"]:
@@ -48,10 +48,22 @@ for p in plan:
         clip = s["tmp"]  # "_seg/<stem>__s#.mp3", served via audio/qfg1/
         if not os.path.exists(os.path.join(VDIR, clip)):
             ok = False; missing.append((clip, "clip not generated")); continue
+        # Take keys use the PLAIN line key. Only line_segments is character-scoped
+        # (the lab tries `${id}~${key}` then falls back to `${key}`); segsFor() builds
+        # take keys as `${lineKey}~g<i>` / `${lineKey}~c<i>`, and uses the bare line key
+        # when the line has a single char segment. Writing `${cid}~${lineKey}~g0` here is
+        # what left every narrator half of a split line showing "Generate" with a
+        # perfectly good clip sitting under a key nothing reads.
+        nchar = sum(1 for x in p["segments"] if x["who"] == "char")
         if s["who"] == "gm":
-            segkey = f"{cid}~{labkey}~g{gi}"; gi += 1; bucket = "narrator"
+            segkey = f"{labkey}~g{gi}"; gi += 1; bucket = "narrator"
         else:
-            segkey = f"{cid}~{labkey}~c{ci}"; ci += 1; bucket = cid
+            segkey = labkey if nchar == 1 else f"{labkey}~c{ci}"
+            ci += 1; bucket = cid
+            if nchar == 1:
+                # That key is the line's own take (the stitched narrator+character clip
+                # the pack is built from). Do not overwrite it with the character half.
+                continue
         vid = s["voiceId"]
         takes.setdefault(bucket, {})[segkey] = {
             "selected": clip,
