@@ -1,0 +1,27 @@
+Version 1.1
+
+Fixed
+- The Gargoyle at Erasmus' tower was entirely silent: all 28 lines, including the
+  three riddles. So were Erasmus' laughs, Baba Yaga's "BE STILL!", the stableman
+  and Wolfgang's snoring. 56 clips in total existed but could never play, because
+  the voice lookup sat behind a check that skips any line written in capitals.
+- The title screen's anti-piracy notice and the read-the-manual notice were voiced
+  and kept playing well into the intro. Neither is voiced any more.
+- Lines the game fills in as you play could never match a clip, so several answers
+  were silent: Erasmus asking about the Open, Fetch, Flame Dart and Trigger spells,
+  the Meep's four offers, and all seven thieves' passwords.
+- One line listed in the index had no audio file behind it at all.
+
+Changed
+- Fenrus recast. The old voice swung between a deep male register and falsetto
+  between lines, which read as two different characters in one conversation.
+- The Dryad recast, from an androgynous narrator voice to one that suits the
+  forest guardian.
+- The Warlock's theatrical lines pulled back toward his normal register.
+- Erasmus' "Because newts can't talk!" lands as a laugh now rather than a sudden
+  falsetto.
+- The sheriff's wife's scream and the Hero's snoring are performed rather than read
+  out letter by letter.
+
+Added
+- macOS (Apple Silicon) and Linux builds.

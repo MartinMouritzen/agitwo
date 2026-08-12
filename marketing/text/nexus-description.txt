@@ -12,6 +12,25 @@ speech, you hear the narrator set the scene and then the character speak in thei
 own voice.
 
 
+WHAT'S NEW IN 1.1
+
+- The Gargoyle speaks. Erasmus' riddle gatekeeper was completely silent before,
+  all 28 of his lines, the whole "HE WHO WOULD THE WIZARD SEE FIRST MUST ANSWER
+  QUESTIONS THREE" scene. So were Erasmus' laughs, Baba Yaga's "BE STILL!", the
+  stableman and Wolfgang's snoring. 56 clips that existed but never played.
+- The copyright notice no longer talks over the intro. The title screen's
+  anti-piracy text and the read-the-manual notice were both being read aloud, and
+  kept going well into the opening scene.
+- Lines the game assembles as you play are voiced now: Erasmus asking whether you
+  have learned the Open, Fetch, Flame Dart or Trigger spell, the Meep offering you
+  fruit, a baby meep, green fur or a spell scroll, and Sneak telling you the
+  thieves' password.
+- New voices for Fenrus and the Dryad, and a steadier read for the Warlock.
+- The sheriff's wife's scream and the Hero's snoring are performed now instead of
+  being spelled out letter by letter.
+- macOS and Linux builds, alongside Windows.
+
+
 WHAT'S INCLUDED
 - A voice pack covering the complete script.
 - A bundled build of ScummVM with voice-over support, so there is nothing else to
