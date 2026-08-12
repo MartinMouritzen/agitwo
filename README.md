@@ -35,6 +35,8 @@ Clips are generated once from the extracted text and are keyed by the same hash 
 - `tools/promote_takes.py` - copy the Voice Lab's *selected* takes onto the game clips they belong to. Nothing else does this, so without it a recast made in the lab never reaches the pack.
 - `tools/preserve_aliased_takes.py` - repair tool: the lab imported the original pack as takes *by reference*, so a take row's file can be the shipped clip itself and rewriting that clip destroys the take. Restores them from a known-good pack.
 - `tools/sync.sh` - what the Voice Lab's sync button runs: promote, rebuild, sync every pack.
+- `tools/add_lines_to_lab.py` - put newly-voiced lines into the lab's line list. New clips are shipped but unauditionable until this runs.
+- `lab/data/qfg1/` - **data only.** QFG1 uses the shared Voice Lab in the parent repo (`games/qfg1ega/game.json` points at this folder); the per-game lab fork that used to live here was deleted 2026-08-12. Don't add one back: it keyed segment takes as `<charId>~<lineKey>~g0`, which the shared lab does not read, so every narrator half of a split line looked unvoiced.
 - `voices-src/` - the casting and speaker-tagging work: which character says each line, and which catalog voice plays them.
 - `text/` - extracted message dumps (game-derived; regenerable with the tools).
 - `web/` - landing page for the browser build.
