@@ -1,0 +1,16 @@
+Version 1.2
+
+Fixed
+- Twelve lines were silent because the game assembles them while you play, and one
+  of the pieces is the name you typed at character creation, so no fixed recording
+  could ever match. Sheriff Schultz's "Good luck in your quest, <your name>." is the
+  one every player hits, right after he asks who you are.
+
+  These now speak a generic version of the line, recognised by the parts that never
+  change:
+    - the Sheriff wishing you luck, and the two other lines that address you by name
+    - "You find some silver coins", counting your money, the Thieves' Guild payout
+    - the Healer listing what the Dispel Potion still needs
+    - the Adventurers' Guild book entries
+    - Erasmus grumbling after you beat him at Mage's Maze
+    - "Got any of those?" in the tavern card game

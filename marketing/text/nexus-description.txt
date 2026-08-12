@@ -12,6 +12,17 @@ speech, you hear the narrator set the scene and then the character speak in thei
 own voice.
 
 
+WHAT'S NEW IN 1.2
+
+- Lines the game builds while you play are voiced now. Twelve of them were silent
+  because the game assembles them at runtime and one of the pieces is the name you
+  typed at character creation. Sheriff Schultz's "Good luck in your quest, <your
+  name>." is the one everybody hits, right after he asks who you are. These now
+  speak a generic version of the line: the Sheriff wishing you luck, finding silver
+  coins, counting your money, the Thieves' Guild payout, the Healer listing what the
+  Dispel Potion still needs, the Guild book entries, Erasmus grumbling after you beat
+  him at Mage's Maze, and the tavern card game.
+
 WHAT'S NEW IN 1.1
 
 - The Gargoyle speaks. Erasmus' riddle gatekeeper was completely silent before,
