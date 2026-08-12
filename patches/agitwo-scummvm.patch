@@ -1,9 +1,9 @@
 diff --git a/audio/agitwo_voiceover.cpp b/audio/agitwo_voiceover.cpp
 new file mode 100644
-index 00000000..3dea391f
+index 00000000..56b18e5f
 --- /dev/null
 +++ b/audio/agitwo_voiceover.cpp
-@@ -0,0 +1,233 @@
+@@ -0,0 +1,307 @@
 +/* ScummVM - Graphic Adventure Engine
 + *
 + * ScummVM is the legal property of its developers, whose names
@@ -100,11 +100,25 @@ index 00000000..3dea391f
 +// directory the clips live in, and the handle of whatever is currently
 +// speaking so a new line interrupts the old one (mirrors the browser behavior).
 +namespace {
++// A line the game assembles at runtime ("Good luck in your quest, %s.") reaches us
++// with the substitution already in it, so it can never match a hash of the template
++// and was simply silent. A template records the hash of the fixed head and tail, and
++// we play a generic read of the line when both ends match. Head/tail are hashes, not
++// text, so the pack keeps the property the manifest has: no game text on disk.
++struct VoiceTemplate {
++	uint32 plen = 0;
++	String phash;
++	uint32 slen = 0;
++	String shash;
++	String clip;
++};
++
 +struct VoiceOverState {
 +	bool triedLoad = false;
 +	String loadedTarget;
 +	FSNode voicesDir;
 +	HashMap<String, String> map;      // hash -> clip filename
++	Array<VoiceTemplate> templates;
 +	Audio::SoundHandle handle;
 +	String lastHash;
 +};
@@ -183,6 +197,46 @@ index 00000000..3dea391f
 +	}
 +	delete root;
 +
++	// templates.json is optional: an older pack simply has no runtime-assembled lines.
++	FSNode tmplNode = dir.getChild("templates.json");
++	if (tmplNode.exists()) {
++		Common::ScopedPtr<SeekableReadStream> ts(tmplNode.createReadStream());
++		if (ts) {
++			const int64 size = ts->size();
++			if (size > 0 && size < (1 << 20)) {
++				char *buf = new char[size + 1];
++				const uint32 read = ts->read(buf, (uint32)size);
++				buf[read] = '\0';
++				String text(buf, read);
++				delete[] buf;
++				JSONValue *troot = JSON::parse(text);
++				if (troot && troot->isArray()) {
++					const JSONArray &arr = troot->asArray();
++					for (uint i = 0; i < arr.size(); i++) {
++						if (!arr[i] || !arr[i]->isObject())
++							continue;
++						const JSONObject &o = arr[i]->asObject();
++						VoiceTemplate t;
++						if (o.contains("plen") && o["plen"]->isIntegerNumber())
++							t.plen = (uint32)o["plen"]->asIntegerNumber();
++						if (o.contains("slen") && o["slen"]->isIntegerNumber())
++							t.slen = (uint32)o["slen"]->asIntegerNumber();
++						if (o.contains("phash") && o["phash"]->isString())
++							t.phash = o["phash"]->asString();
++						if (o.contains("shash") && o["shash"]->isString())
++							t.shash = o["shash"]->asString();
++						if (o.contains("clip") && o["clip"]->isString())
++							t.clip = o["clip"]->asString();
++						if (!t.clip.empty())
++							g_vo.templates.push_back(t);
++					}
++				}
++				delete troot;
++			}
++		}
++		debug(1, "agitwo: loaded %u line templates", (uint)g_vo.templates.size());
++	}
++
 +	debug(1, "agitwo: loaded voice manifest for %s (%u clips)",
 +	      target.c_str(), (uint)g_vo.map.size());
 +	return !g_vo.map.empty();
@@ -197,11 +251,32 @@ index 00000000..3dea391f
 +	if (!ensureManifestLoaded(target))
 +		return false;
 +
-+	const String hash = voiceOverHash(normalized);
-+	if (!g_vo.map.contains(hash))
++	String hash = voiceOverHash(normalized);
++	String clipName;
++	if (g_vo.map.contains(hash)) {
++		clipName = g_vo.map[hash];
++	} else {
++		// No exact clip. Try the runtime-assembled lines: hash the fixed head and
++		// tail of the displayed string and see if any template claims both ends.
++		for (uint i = 0; i < g_vo.templates.size(); i++) {
++			const VoiceTemplate &t = g_vo.templates[i];
++			if (normalized.size() < t.plen + t.slen)
++				continue;
++			if (voiceOverHash(String(normalized.c_str(), t.plen)) != t.phash)
++				continue;
++			if (voiceOverHash(String(normalized.c_str() + normalized.size() - t.slen, t.slen)) != t.shash)
++				continue;
++			clipName = t.clip;
++			// Key the "already speaking" check on the clip, not the text, or the
++			// same generic line would restart every time the count changes.
++			hash = t.clip;
++			break;
++		}
++	}
++	if (clipName.empty())
 +		return false;
 +
-+	debug(1, "agitwo: playing voice clip %s", g_vo.map[hash].c_str());
++	debug(1, "agitwo: playing voice clip %s", clipName.c_str());
 +
 +	Audio::Mixer *mixer = g_system->getMixer();
 +	if (!mixer)
@@ -212,8 +287,7 @@ index 00000000..3dea391f
 +		return true;
 +
 +#ifdef USE_MAD
-+	const String clip = g_vo.map[hash];
-+	FSNode clipNode = g_vo.voicesDir.getChild(clip);
++	FSNode clipNode = g_vo.voicesDir.getChild(clipName);
 +	SeekableReadStream *clipStream = clipNode.createReadStream();
 +	if (!clipStream)
 +		return false;
@@ -345,10 +419,10 @@ index 3a1e22f9..7d5f1df8 100644
  	std/std.o
 diff --git a/common/voiceover.cpp b/common/voiceover.cpp
 new file mode 100644
-index 00000000..d5907815
+index 00000000..746ba16b
 --- /dev/null
 +++ b/common/voiceover.cpp
-@@ -0,0 +1,80 @@
+@@ -0,0 +1,84 @@
 +/* ScummVM - Graphic Adventure Engine
 + *
 + * ScummVM is the legal property of its developers, whose names
@@ -415,11 +489,15 @@ index 00000000..d5907815
 +	const String hashStr = String::format("%016llx", (unsigned long long)hash);
 +	const String target = ConfMan.getActiveDomainName();
 +
++	// The normalized text goes over too, for the runtime-assembled lines: the page
++	// matches those on the hash of their fixed head and tail, which it cannot do
++	// from the whole-string hash alone. It is the text already on screen, so this
++	// exposes nothing the player is not reading; the pack on disk stays text-free.
 +	const int played = EM_ASM_INT({
 +		if (typeof window !== 'undefined' && window.agitwoPlayVoice)
-+			return window.agitwoPlayVoice(UTF8ToString($0), UTF8ToString($1)) ? 1 : 0;
++			return window.agitwoPlayVoice(UTF8ToString($0), UTF8ToString($1), UTF8ToString($2)) ? 1 : 0;
 +		return 0;
-+	}, target.c_str(), hashStr.c_str());
++	}, target.c_str(), hashStr.c_str(), normalized.c_str());
 +	return played != 0;
 +}
 +
@@ -485,10 +563,10 @@ index 00000000..9bb75ab4
 +
 +#endif
 diff --git a/dists/emscripten/custom_shell.html b/dists/emscripten/custom_shell.html
-index 1d655a2a..65e5f94a 100644
+index 1d655a2a..ee3cdae4 100644
 --- a/dists/emscripten/custom_shell.html
 +++ b/dists/emscripten/custom_shell.html
-@@ -207,6 +207,64 @@
+@@ -207,6 +207,98 @@
        }
      };
      Module.setStatus('Downloading ScummVM...');
@@ -498,8 +576,19 @@ index 1d655a2a..65e5f94a 100644
 +    // of the whitespace-normalized string. Clips + manifests live under voices/<target>/.
 +    (function () {
 +      var manifests = {};   // target -> Map(hash -> clip file) | null (missing) | 'loading'
++      var templates = {};   // target -> [{plen,phash,slen,shash,clip}, ...]
 +      var currentAudio = null;
 +      var currentHash = null;
++      // 64-bit FNV-1a, same as common/voiceover.cpp and tools/gen_voice_manifest.py.
++      var FNV_OFFSET = 0xcbf29ce484222325n, FNV_PRIME = 0x100000001b3n, MASK64 = 0xffffffffffffffffn;
++      function fnv1a64(s) {
++        var h = FNV_OFFSET;
++        for (var i = 0; i < s.length; i++) {
++          h ^= BigInt(s.charCodeAt(i) & 0xff);
++          h = (h * FNV_PRIME) & MASK64;
++        }
++        return h.toString(16).padStart(16, '0');
++      }
 +      function loadManifest(target) {
 +        if (manifests[target] !== undefined) return;
 +        manifests[target] = 'loading';
@@ -510,12 +599,35 @@ index 1d655a2a..65e5f94a 100644
 +            if (json) console.log('agitwo: loaded voice manifest for ' + target + ' (' + Object.keys(json).length + ' clips)');
 +          })
 +          .catch(function () { manifests[target] = null; });
++        // Optional: lines the game assembles at runtime, matched on their fixed ends.
++        templates[target] = [];
++        fetch('voices/' + target + '/templates.json')
++          .then(function (r) { return r.ok ? r.json() : null; })
++          .then(function (json) {
++            templates[target] = json || [];
++            if (json && json.length) console.log('agitwo: loaded ' + json.length + ' line templates');
++          })
++          .catch(function () { templates[target] = []; });
 +      }
-+      window.agitwoPlayVoice = function (target, hash) {
++      window.agitwoPlayVoice = function (target, hash, text) {
 +        var m = manifests[target];
 +        if (m === undefined) { loadManifest(target); return false; }
 +        if (m === 'loading' || m === null) return false;
 +        var clip = m.get(hash);
++        if (!clip && text) {
++          // Runtime-assembled line: the whole-string hash can never match, so look
++          // for a template whose fixed head and tail both hash to this string's.
++          var list = templates[target] || [];
++          for (var i = 0; i < list.length; i++) {
++            var t = list[i];
++            if (text.length < t.plen + t.slen) continue;
++            if (fnv1a64(text.slice(0, t.plen)) !== t.phash) continue;
++            if (fnv1a64(t.slen ? text.slice(text.length - t.slen) : '') !== t.shash) continue;
++            clip = t.clip;
++            hash = t.clip;   // keyed on the clip so a changing count does not restart it
++            break;
++          }
++        }
 +        if (!clip) return false;
 +        if (currentHash === hash && currentAudio && !currentAudio.ended) return true; // don't restart same line
 +        if (currentAudio) { currentAudio.pause(); currentAudio = null; }

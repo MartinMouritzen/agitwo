@@ -1,0 +1,98 @@
+[
+ {
+  "res": "text", "num": 300, "idx": 36,
+  "text": "Good luck in your quest, %s.",
+  "say": "Good luck in your quest, hero.",
+  "note": "%s is the name the player typed at character creation, so it can never be enumerated. Sheriff Schultz says this right after asking your name, so every player hears it.",
+  "speaker": "sheriff", "voiceId": 36,
+  "file": "qfg1-4900-sheriff.mp3"
+ },
+ {
+  "res": "text", "num": 91, "idx": 0,
+  "text": "%s, you're in big trouble!",
+  "say": "You're in big trouble!",
+  "note": "hero's name, at the START of the line, so this template has an empty prefix",
+  "speaker": "narrator", "voiceId": 545,
+  "file": "qfg1-4901-narrator.mp3"
+ },
+ {
+  "res": "text", "num": 171, "idx": 12,
+  "text": "He's dead, %s.",
+  "say": "He's dead.",
+  "note": "hero's name",
+  "speaker": "narrator", "voiceId": 545,
+  "file": "qfg1-4902-narrator.mp3"
+ },
+ {
+  "res": "text", "num": 84, "idx": 0,
+  "text": "By golly, It's %s!",
+  "say": "By golly!",
+  "note": "substitution unidentified (Antwerp room), so the generic read is kept short enough to fit whatever it is",
+  "speaker": "narrator", "voiceId": 545,
+  "file": "qfg1-4903-narrator.mp3"
+ },
+ {
+  "res": "text", "num": 331, "idx": 58,
+  "text": "\"Got any %d's?\"",
+  "say": "\"Got any of those?\"",
+  "note": "the Go Fish game in the tavern; 331.59 \"Go FISH!\" is the townsperson, so this is the other player",
+  "speaker": "townsperson", "voiceId": 294,
+  "file": "qfg1-4904-townsperson.mp3"
+ },
+ {
+  "res": "text", "num": 332, "idx": 38,
+  "text": "\"%d silvers.  Here you are.\"",
+  "say": "\"Here you are.\"",
+  "note": "Boris paying out at the Thieves' Guild fence; follows 332.37 which is also Boris",
+  "speaker": "boris", "voiceId": 264,
+  "file": "qfg1-4905-boris.mp3"
+ },
+ {
+  "res": "text", "num": 332, "idx": 39,
+  "text": "You now have %d gold and %d silver coins.",
+  "say": "You count your money.",
+  "note": "two substitutions; prefix/suffix matching spans both",
+  "speaker": "narrator", "voiceId": 545,
+  "file": "qfg1-4906-narrator.mp3"
+ },
+ {
+  "res": "text", "num": 210, "idx": 38,
+  "text": "You find %d silver coins, and carefully place them in your pouch.",
+  "say": "You find some silver coins, and carefully place them in your pouch.",
+  "note": "reads naturally with the count replaced by 'some'",
+  "speaker": "narrator", "voiceId": 545,
+  "file": "qfg1-4907-narrator.mp3"
+ },
+ {
+  "res": "text", "num": 32, "idx": 2,
+  "text": "\"Well, you seem to have beginner's luck.  It only took you %d game%s to win.  Hmph.  It usually takes at least %d tries for anyone less than a full Wizard to defeat me.\"",
+  "say": "\"Well, you seem to have beginner's luck.  Hmph.  It usually takes a good many more tries for anyone less than a full Wizard to defeat me.\"",
+  "note": "Erasmus losing at Mage's Maze; three substitutions, all counts",
+  "speaker": "erasmus", "voiceId": 534,
+  "file": "qfg1-4908-erasmus.mp3"
+ },
+ {
+  "res": "text", "num": 55, "idx": 3,
+  "text": "Let's see, to make the Dispel Potion I still need: %s %s %s %s %s",
+  "say": "Let's see, to make the Dispel Potion I still need more ingredients.",
+  "note": "five ingredient slots, so every subset would need its own clip; empty suffix",
+  "speaker": "healer", "voiceId": 44,
+  "file": "qfg1-4909-healer.mp3"
+ },
+ {
+  "res": "text", "num": 311, "idx": 2,
+  "text": "The writing on this page looks very recent.  It says \"I, %s, have come to Spielburg to become a Hero.\"",
+  "say": "The writing on this page looks very recent.  It says: \"I have come to Spielburg to become a Hero.\"",
+  "note": "the Adventurers' Guild book; hero's name mid-sentence",
+  "speaker": "narrator", "voiceId": 545,
+  "file": "qfg1-4910-narrator.mp3"
+ },
+ {
+  "res": "text", "num": 311, "idx": 3,
+  "text": "The %s entry was made several years ago.  It says: \"Baronet Barnard von Spielburg killed a Troll near the Flying Falls on this 23 day of Octember\".",
+  "say": "An earlier entry was made several years ago.  It says: \"Baronet Barnard von Spielburg killed a Troll near the Flying Falls on this 23 day of Octember\".",
+  "note": "script 311's string block holds 'previous' and 'last', so this one IS bounded - but a single generic read covers both and costs one clip instead of two",
+  "speaker": "narrator", "voiceId": 545,
+  "file": "qfg1-4911-narrator.mp3"
+ }
+]

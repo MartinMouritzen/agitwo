@@ -60,6 +60,20 @@ def build():
     return manifest, origin, skipped
 
 
+def template_clips():
+    """Clips reached only through templates.json, not through a manifest hash.
+
+    Runtime-assembled lines ("Good luck in your quest, %s.") are matched on their
+    fixed head and tail, so their clips have no manifest entry. They still have to be
+    in every pack: without this they look like orphans, get skipped by the sync and
+    deleted from the dist packs, leaving templates.json pointing at nothing.
+    """
+    path = os.path.join(ROOT, "voices-src/qfg1-generic.json")
+    if not os.path.exists(path):
+        return set()
+    return {e["file"] for e in json.load(open(path)) if not e.get("skip")}
+
+
 def md5(path):
     with open(path, "rb") as fh:
         return hashlib.md5(fh.read()).hexdigest()
@@ -74,7 +88,7 @@ def sync(pack_dir, manifest):
     exactly one file that way (the Dryad's 76_14) and shipped the wrong take.
     """
     master = os.path.join(ROOT, PACKS[0])
-    want = set(manifest.values())
+    want = set(manifest.values()) | template_clips()
     have = {f for f in os.listdir(pack_dir) if f.endswith(".mp3")}
     added = removed = refreshed = 0
     for f in sorted(want - have):
@@ -94,8 +108,8 @@ def sync(pack_dir, manifest):
 def main():
     write = "--write" in sys.argv
     manifest, origin, skipped = build()
-    print("manifest: %d hashes -> %d distinct clips (%d skipped)"
-          % (len(manifest), len(set(manifest.values())), skipped))
+    print("manifest: %d hashes -> %d distinct clips (%d skipped) + %d template clip(s)"
+          % (len(manifest), len(set(manifest.values())), skipped, len(template_clips())))
 
     ok = True
     for pack in PACKS:
@@ -108,7 +122,7 @@ def main():
             if a or r or u:
                 print("  %-46s sync +%d -%d ~%d" % (pack, a, r, u))
         have = {f for f in os.listdir(pdir) if f.endswith(".mp3")}
-        want = set(manifest.values())
+        want = set(manifest.values()) | template_clips()
         missing = sorted(want - have)
         tiny = sorted(f for f in (want & have)
                       if os.path.getsize(os.path.join(pdir, f)) < MIN_CLIP_BYTES)
