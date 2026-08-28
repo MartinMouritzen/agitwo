@@ -35,7 +35,10 @@ for p in plan:
     out = os.path.join(VDIR, p["file"])
     r = subprocess.run(
         ["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", listfile,
-         "-c:a", "libmp3lame", "-b:a", "128k", "-ar", "44100", "-ac", "1", out],
+         # 192k, not 128k: the segments are already 128k MP3, so re-encoding at the SAME
+         # bitrate is a worst-case lossy->lossy pass. Giving the second encoder headroom
+         # above the source keeps the stitched line as close to the segments as possible.
+         "-c:a", "libmp3lame", "-b:a", "192k", "-ar", "44100", "-ac", "1", out],
         capture_output=True, text=True)
     os.unlink(listfile)
     if r.returncode != 0 or not os.path.exists(out) or os.path.getsize(out) < 2000:
