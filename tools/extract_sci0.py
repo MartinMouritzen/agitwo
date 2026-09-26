@@ -86,16 +86,19 @@ def unpack_none(src, unpacked_size):
     return bytes(src[:unpacked_size])
 
 
-def unpack_lzw(src, unpacked_size):
+def unpack_lzw(src, unpacked_size, lzw1=False):
     """SCI0 LZW: LSB-first codes, 9..12 bits, codes 256=reset 257=end.
 
-    Port of DecompressorLZW::unpackLZW with _compression == kCompLZW.
+    With lzw1=True this is SCI01/SCI1 LZW1 instead: MSB-first codes, and the code size grows one
+    code early (the "early change" quirk). Port of DecompressorLZW::unpackLZW.
     """
     br = BitReader(src)
+    read = br.get_bits_msb if lzw1 else br.get_bits_lsb
+    early = 1 if lzw1 else 0
     dest = bytearray()
     code_bit_length = 9
     table_size = 258
-    code_limit = 512
+    code_limit = 512 - early
     string_offsets = [0] * 4096
     string_lengths = [0] * 4096
 
@@ -103,7 +106,7 @@ def unpack_lzw(src, unpacked_size):
         return len(dest) == unpacked_size and br.pos >= len(src)
 
     while not finished():
-        code = br.get_bits_lsb(code_bit_length)
+        code = read(code_bit_length)
         if code >= table_size:
             break  # corrupt stream
         if code == 257:  # terminator
@@ -111,7 +114,7 @@ def unpack_lzw(src, unpacked_size):
         if code == 256:  # reset
             code_bit_length = 9
             table_size = 258
-            code_limit = 512
+            code_limit = 512 - early
             continue
 
         new_string_offset = len(dest)
@@ -129,7 +132,7 @@ def unpack_lzw(src, unpacked_size):
             continue
         if table_size == code_limit and code_bit_length < 12:
             code_bit_length += 1
-            code_limit = 1 << code_bit_length
+            code_limit = (1 << code_bit_length) - early
         string_offsets[table_size] = new_string_offset
         string_lengths[table_size] = len(dest) - new_string_offset + 1
         table_size += 1
@@ -156,6 +159,9 @@ def unpack_huffman(src, unpacked_size):
                     return br.get_bits_msb(8) | 0x100
             else:
                 nxt = nodes[node + 1] >> 4
+            if nxt == 0:
+                # A zero hop never advances: the stream is not Huffman (wrong method numbering).
+                raise ValueError("Huffman: self-referencing node")
             node += nxt << 1
         return nodes[node] | (nodes[node + 1] << 8)
 
@@ -179,19 +185,67 @@ def read_map(game_dir):
     if path is None:
         raise FileNotFoundError("RESOURCE.MAP not found in %s" % game_dir)
     data = open(path, "rb").read()
-    entries = []
-    seen = set()
+    raw = []
     for i in range(0, len(data) - 5, 6):
         rid, raw_off = struct.unpack_from("<HI", data, i)
         if raw_off == 0xFFFFFFFF:
             break
-        rtype = rid >> 11
-        rnum = rid & 0x7FF
-        if (rtype, rnum) in seen:  # keep first occurrence, like ScummVM
-            continue
-        seen.add((rtype, rnum))
-        entries.append((rtype, rnum, raw_off >> 26, raw_off & 0x03FFFFFF))
-    return entries
+        raw.append((rid, raw_off))
+    # SCI0 packs the volume into the top 6 bits of the offset; SCI01 (e.g. QFG2) uses the top 4
+    # and a 28-bit offset. The map does not say which, so pick the split under which every
+    # entry's volume header carries the id the map claims (ScummVM detects it the same way).
+    for vol_shift in (26, 28):
+        entries, seen = [], set()
+        for rid, raw_off in raw:
+            rtype, rnum = rid >> 11, rid & 0x7FF
+            if (rtype, rnum) in seen:  # keep first occurrence, like ScummVM
+                continue
+            seen.add((rtype, rnum))
+            entries.append((rtype, rnum, raw_off >> vol_shift, raw_off & ((1 << vol_shift) - 1)))
+        if _entries_valid(game_dir, entries, raw):
+            return entries
+    raise ValueError("RESOURCE.MAP in %s matches neither the SCI0 nor the SCI01 layout" % game_dir)
+
+
+def _entries_valid(game_dir, entries, raw):
+    ids = {(rid >> 11, rid & 0x7FF): rid for rid, _ in raw}
+    vols = {}
+    for rtype, rnum, volume, offset in entries:
+        if volume not in vols:
+            p = find_file(game_dir, "RESOURCE.%03d" % volume)
+            vols[volume] = open(p, "rb").read() if p else None
+        vol = vols[volume]
+        if vol is None or offset + 8 > len(vol):
+            return False
+        if struct.unpack_from("<H", vol, offset)[0] != ids[(rtype, rnum)]:
+            return False
+    return True
+
+
+SCHEME = "sci0"   # set by detect_scheme()
+
+
+def detect_scheme(game_dir, entries):
+    """Pick the compression numbering by decoding the text resources both ways: only the right
+    one produces the declared size of mostly printable text."""
+    global SCHEME
+    best = None
+    for scheme in ("sci0", "sci1"):
+        SCHEME = scheme
+        cache, good = {}, 0
+        for rtype, rnum, volume, offset in entries:
+            if rtype != RES_TYPE_TEXT:
+                continue
+            try:
+                data = load_resource(game_dir, volume, offset, cache)
+            except Exception:
+                continue
+            if data and sum(32 <= b < 127 or b in (0, 10, 13) for b in data) > 0.95 * len(data):
+                good += 1
+        if best is None or good > best[1]:
+            best = (scheme, good)
+    SCHEME = best[0]
+    return SCHEME
 
 
 def load_resource(game_dir, volume, offset, vol_cache):
@@ -208,10 +262,19 @@ def load_resource(game_dir, volume, offset, vol_cache):
     src = vol[offset + 8 : offset + 8 + packed]
     if method == 0:
         return unpack_none(src, unpacked)
-    if method == 1:
-        return unpack_lzw(src, unpacked)
-    if method == 2:
-        return unpack_huffman(src, unpacked)
+    # The same method numbers mean different things per interpreter generation (ScummVM
+    # Resource::readResourceInfo): SCI0 has 1 = LZW, 2 = Huffman; SCI1 early (e.g. QFG2) has
+    # 1 = Huffman, 2 = LZW1.
+    if SCHEME == "sci1":
+        if method == 1:
+            return unpack_huffman(src, unpacked)
+        if method == 2:
+            return unpack_lzw(src, unpacked, lzw1=True)
+    else:
+        if method == 1:
+            return unpack_lzw(src, unpacked)
+        if method == 2:
+            return unpack_huffman(src, unpacked)
     print("warning: unsupported compression method %d at vol %d off %d"
           % (method, volume, offset), file=sys.stderr)
     return None
@@ -285,7 +348,10 @@ def main():
     vol_cache = {}
     out = []
     bad = 0
-    for rtype, rnum, volume, offset in read_map(args.game_dir):
+    entries = read_map(args.game_dir)
+    detect_scheme(args.game_dir, entries)
+    print("compression numbering: %s" % SCHEME, file=sys.stderr)
+    for rtype, rnum, volume, offset in entries:
         if rtype not in (RES_TYPE_SCRIPT, RES_TYPE_TEXT):
             continue
         data = load_resource(args.game_dir, volume, offset, vol_cache)

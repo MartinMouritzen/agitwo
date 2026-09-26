@@ -38,6 +38,48 @@ python3 extract_sci0.py <game_dir> [-o out.json] [--game-id qfg1]
 Output records: `{"game", "res": "text"|"script", "num": <resource number>,
 "idx": <0-based string index within the resource>, "text"}`
 
+### SCI01 / SCI1-early games (e.g. Quest for Glory II)
+
+The same tool reads them. The map's volume field is 4 bits instead of 6 (picked by checking that
+every entry's volume header carries the id the map claims), and compression methods are numbered
+differently: 1 = Huffman, 2 = LZW1 (most-significant-bit first, "early change" code size). The
+numbering is detected by decoding the text resources both ways.
+
+## extract_sci11.py (SCI1 late / SCI1.1 message games, e.g. QFG1 VGA, QFG3)
+
+Reads MESSAGE resources (from `RESOURCE.MAP` or a separate `MESSAGE.MAP` + `RESOURCE.MSG`),
+decompresses DCL (methods 18-20), parses message versions 3 and 4, and lets loose `NNN.MSG`
+patch files (e.g. the NRS fan patch) override the volume copies. Every record keeps its tuple
+(room, noun, verb, cond, seq) and its talker id, which names the speaker.
+
+```
+python3 extract_sci11.py <game_dir> [-o out.json] [--game-id qfg1vga]
+```
+
+## extract_sci11_talkers.py (talking-head portraits)
+
+Finds every Talker object in the scripts (selectors from vocab 997, class table from vocab 996,
+SCI1.1 heap objects) and composes its portrait: the frame view, with the eyes and mouth Props
+from the same script drawn at their nsLeft/nsTop. Colours come from palette 999, then the room
+picture's palette, then the view's own palette. Writes one PNG per talker plus `talkers.json`.
+
+```
+python3 extract_sci11_talkers.py <game_dir> <out_dir> [--scale 3]
+```
+
+## extract_sci0_sprites.py (SCI0 character sprites)
+
+Renders every named script object's view (the largest cel, since the starting cel is often only
+the animated head) from SCI0 EGA views. Writes one PNG per object plus `sprites.json`, so
+characters can be matched to sprites by name.
+
+```
+python3 extract_sci0_sprites.py <game_dir> <out_dir> [--scale 4]
+```
+
+Output from all of these is verbatim game data: keep it out of this public repo (the Voice Lab
+keeps it in the private `games/<id>/source/`).
+
 ## Notes
 
 - Strings are decoded as cp437; empty and non-human-readable (mostly
