@@ -45,6 +45,16 @@ every entry's volume header carries the id the map claims), and compression meth
 differently: 1 = Huffman, 2 = LZW1 (most-significant-bit first, "early change" code size). The
 numbering is detected by decoding the text resources both ways.
 
+## extract_sci1.py (SCI1 text games, e.g. Police Quest III)
+
+TEXT resources and SCI0-style script strings, read through the SCI1 map (type-offset header,
+6-byte entries) and 9-byte volume headers; compression 0, 1 (Huffman), 2 (LZW1), 3 (LZW1View,
+ported from ScummVM reorderView) and 18-20 (DCL). Same output records as extract_sci0.py.
+
+```
+python3 extract_sci1.py <game_dir> [-o out.json] [--game-id pq3]
+```
+
 ## extract_sci11.py (SCI1 late / SCI1.1 message games, e.g. QFG1 VGA, QFG3)
 
 Reads MESSAGE resources (from `RESOURCE.MAP` or a separate `MESSAGE.MAP` + `RESOURCE.MSG`),
@@ -70,7 +80,9 @@ python3 extract_sci11_talkers.py <game_dir> <out_dir> [--scale 3]
 ## extract_sci0_sprites.py (SCI0 character sprites)
 
 Renders every named script object's view (the largest cel, since the starting cel is often only
-the animated head) from SCI0 EGA views. Writes one PNG per object plus `sprites.json`, so
+the animated head) from SCI0 EGA views, or SCI1 VGA views with palette 999. `--render-map` renders
+hand-picked view/loop/cel choices; `--compose-map` composes inset portraits from named room
+objects (Police Quest III). Writes one PNG per object plus `sprites.json`, so
 characters can be matched to sprites by name.
 
 ```

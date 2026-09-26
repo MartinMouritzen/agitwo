@@ -173,6 +173,87 @@ def unpack_huffman(src, unpacked_size):
     return bytes(dest)
 
 
+def _rle_size(data, pos, dsize):
+    """Bytes of RLE control stream covering dsize output bytes (ScummVM getRLEsize)."""
+    out = size = 0
+    while out < dsize:
+        b = data[pos + size]
+        size += 1
+        out += 1
+        if b & 0xC0 in (0x00, 0x40):
+            out += b
+        elif b & 0xC0 == 0x80:
+            out += 1
+    return size
+
+
+def unpack_lzw1_view(src, unpacked_size):
+    """SCI1 method 3: LZW1, then undo the view "reordering" that split each cel's RLE control
+    bytes from its pixel bytes and packed the cel headers together. Port of ScummVM
+    DecompressorLZW::reorderView; the result is an ordinary SCI1 VGA view."""
+    s = unpack_lzw(src, unpacked_size, lzw1=True)
+    dest = bytearray(unpacked_size + 1024)
+    cellengths = struct.unpack_from("<H", s, 0)[0] + 2
+    loopheaders, lh_present = s[2], s[3]
+    lh_mask, unknown, pal_offset, cel_total = struct.unpack_from("<HHHH", s, 4)
+    seeker = 12
+    cc_lengths = [struct.unpack_from("<H", s, cellengths + 2 * c)[0] for c in range(cel_total)]
+    w = 0
+    dest[0], dest[1] = loopheaders, 0x80
+    struct.pack_into("<HHH", dest, 2, lh_mask, unknown, pal_offset)
+    writer = 8
+    lh_ptr = writer
+    writer += 2 * loopheaders
+    celcounts = s[seeker:seeker + lh_present]
+    seeker += lh_present
+    celindex, lh_last, cc_pos = 0, -1, [0] * cel_total
+    for loop in range(loopheaders):
+        if lh_mask & (1 << loop):
+            struct.pack_into("<H", dest, lh_ptr, max(lh_last, 0))
+            lh_ptr += 2
+            continue
+        lh_last = writer
+        struct.pack_into("<H", dest, lh_ptr, lh_last)
+        lh_ptr += 2
+        n = celcounts[w]
+        struct.pack_into("<HH", dest, writer, n, 0)
+        writer += 4
+        chptr = writer + 2 * n
+        for c in range(n):
+            struct.pack_into("<H", dest, writer, chptr)
+            writer += 2
+            cc_pos[celindex + c] = chptr
+            chptr += 8 + cc_lengths[celindex + c]
+        for c in range(n):          # buildCelHeaders
+            dest[writer:writer + 6] = s[seeker:seeker + 6]
+            seeker += 6
+            writer += 6
+            struct.pack_into("<H", dest, writer, s[seeker])
+            seeker += 1
+            writer += 2 + cc_lengths[celindex + c]
+        celindex += n
+        w += 1
+    rle = pix = cellengths + 2 * cel_total
+    for c in range(cel_total):
+        pix += _rle_size(s, pix, cc_lengths[c])
+    for c in range(cel_total):     # decodeRLE: interleave control bytes with their pixel bytes
+        ob, pos = cc_pos[c] + 8, 0
+        while pos < cc_lengths[c]:
+            b = s[rle]; rle += 1
+            dest[ob] = b; ob += 1; pos += 1
+            if b & 0xC0 in (0x00, 0x40):
+                dest[ob:ob + b] = s[pix:pix + b]; pix += b; ob += b; pos += b
+            elif b & 0xC0 == 0x80:
+                dest[ob] = s[pix]; pix += 1; ob += 1; pos += 1
+    if pal_offset:
+        dest[writer:writer + 3] = b"PAL"
+        writer += 3
+        dest[writer:writer + 256] = bytes(range(256))
+        writer += 256
+        dest[writer:writer + 4 * 256 + 4] = s[seeker - 4:seeker - 4 + 4 * 256 + 4]
+    return bytes(dest[:max(writer, unpacked_size)])
+
+
 # ---------------------------------------------------------------------------
 # RESOURCE.MAP / RESOURCE.00x parsing (SCI0)
 # ---------------------------------------------------------------------------

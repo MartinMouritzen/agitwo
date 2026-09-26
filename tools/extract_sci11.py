@@ -184,6 +184,13 @@ def load_resource(volume_bytes, offset):
         return data[:unpacked]
     if method in (18, 19, 20):
         return _explode(data, unpacked)
+    # From SCI1 on, method 1 is Huffman and 2 is LZW1 (ScummVM Resource::readResourceInfo);
+    # PQ1 VGA stores its messages this way. The decoders live in extract_sci0.py.
+    if method in (1, 2):
+        import extract_sci0
+        if method == 1:
+            return extract_sci0.unpack_huffman(data, unpacked)
+        return extract_sci0.unpack_lzw(data, unpacked, lzw1=True)
     raise ValueError(f"resource {rtype:#x}/{num}: unsupported compression {method}")
 
 

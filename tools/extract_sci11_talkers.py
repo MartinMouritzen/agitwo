@@ -147,8 +147,59 @@ def parse_palette(data):
     return colors
 
 
+def is_vga11(view):
+    """SCI1.1 views start with a header size word; SCI1 VGA views start with the loop count byte
+    and a flags byte (PQ1 VGA pairs SCI1.1 messages with SCI1 views, so both occur)."""
+    header = struct.unpack_from("<H", view, 0)[0] + 2
+    return 16 <= header <= 64 and len(view) > 14 and view[12] >= 16 and view[13] >= 32
+
+
+def decode_cel_vga(view, loop, cel):
+    """SCI1 VGA view (ScummVM kViewVga): LoopCount:BYTE Flags:BYTE Mirror:WORD Version:WORD
+    PaletteOffset:WORD LoopOffsets..., loops are CelCount:WORD ?:WORD CelOffsets..., cels are
+    Width:WORD Height:WORD DisplaceX:BYTE DisplaceY:BYTE ClearKey:BYTE ?:BYTE then RLE data."""
+    loops = view[0]
+    compressed = not (view[1] & 0x40)
+    mirror_bits = struct.unpack_from("<H", view, 2)[0]
+    pal_off = struct.unpack_from("<H", view, 6)[0]
+    loop = loop if loop < loops else 0
+    mirror = bool((mirror_bits >> loop) & 1)
+    lo = struct.unpack_from("<H", view, 8 + loop * 2)[0]
+    count = struct.unpack_from("<H", view, lo)[0]
+    cel = cel if cel < count else 0
+    co = struct.unpack_from("<H", view, lo + 4 + cel * 2)[0]
+    w, h = struct.unpack_from("<HH", view, co)
+    dx, dy = struct.unpack_from("<bB", view, co + 4)
+    key = view[co + 6]
+    n = w * h
+    if not compressed:
+        px = bytearray(view[co + 8: co + 8 + n])
+    else:
+        px = bytearray([key]) * n
+        r, i = co + 8, 0
+        while i < n and r < len(view):
+            b = view[r]; r += 1
+            run, kind = b & 0x3F, b & 0xC0
+            if kind in (0x00, 0x40):
+                run = min(run + (64 if kind == 0x40 else 0), n - i)
+                px[i:i + run] = view[r:r + run]; r += run
+            elif kind == 0x80:
+                run = min(run, n - i)
+                px[i:i + run] = bytes([view[r]]) * run; r += 1
+            else:
+                run = min(run, n - i)
+            i += run
+    if mirror:
+        px = bytearray(b"".join(bytes(px[y * w:(y + 1) * w][::-1]) for y in range(h)))
+        dx = -dx
+    pal = parse_palette(view[pal_off:]) if pal_off and pal_off != 0x100 else {}
+    return w, h, dx, dy, key, bytes(px), pal
+
+
 def decode_cel(view, loop, cel):
     """(width, height, displaceX, displaceY, clearKey, pixels, palette) for one cel."""
+    if not is_vga11(view):
+        return decode_cel_vga(view, loop, cel)
     header = struct.unpack_from("<H", view, 0)[0] + 2
     loops = view[2]
     pal_off = struct.unpack_from("<I", view, 8)[0]
@@ -205,6 +256,30 @@ def decode_cel(view, loop, cel):
     return w, h, dx, dy, key, bytes(px), parse_palette(view[pal_off:]) if pal_off else {}
 
 
+def misplaced(img, layer, pos):
+    """True when an eye/mouth layer would land on solid frame pixels it does not match: the frame
+    already holds that feature and the layer's position is wrong (PQ1 VGA's Marie). Layers that
+    fill a transparent hole, or that repaint the same pixels, are fine."""
+    ip, lp = img.load(), layer.load()
+    solid = diff = n = 0
+    under = {}
+    for y in range(0, layer.height, 2):
+        for x in range(0, layer.width, 2):
+            if lp[x, y][3] == 0:
+                continue
+            X, Y = pos[0] + x, pos[1] + y
+            if not (0 <= X < img.width and 0 <= Y < img.height):
+                continue
+            n += 1
+            if ip[X, Y][3]:
+                solid += 1
+                diff += sum(abs(a - b) for a, b in zip(ip[X, Y][:3], lp[x, y][:3])) / 3
+                under[ip[X, Y][:3]] = under.get(ip[X, Y][:3], 0) + 1
+    # A layer over a plain backdrop (QFG3's aardvark snout) is where it belongs.
+    backdrop = solid and max(under.values()) > 0.4 * solid
+    return n and solid > 0.95 * n and diff / solid > 40 and not backdrop
+
+
 def compose(game, parts, base_pal, scale):
     """Draw [(view, loop, cel, left, top)] in order onto one RGBA image.
 
@@ -225,9 +300,11 @@ def compose(game, parts, base_pal, scale):
     x0 = min(l[0] for l in layers); y0 = min(l[1] for l in layers)
     x1 = max(l[0] + l[2] for l in layers); y1 = max(l[1] + l[3] for l in layers)
     img = Image.new("RGBA", (x1 - x0, y1 - y0), (0, 0, 0, 0))
-    for left, top, w, h, key, px, palette in layers:
+    for i, (left, top, w, h, key, px, palette) in enumerate(layers):
         layer = Image.new("RGBA", (w, h))
         layer.putdata([(0, 0, 0, 0) if c == key else palette.get(c, (255, 0, 255)) + (255,) for c in px])
+        if i and misplaced(img, layer, (left - x0, top - y0)):
+            continue
         img.alpha_composite(layer, (left - x0, top - y0))
     # SCI draws on a 320x200 screen shown at 4:3, so every pixel is 1.2x taller than wide.
     return img.resize((img.width * scale, round(img.height * 1.2 * scale)), Image.NEAREST)

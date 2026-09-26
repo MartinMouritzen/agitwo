@@ -34,20 +34,37 @@ EGA = [(0, 0, 0), (0, 0, 170), (0, 170, 0), (0, 170, 170), (170, 0, 0), (170, 0,
 
 
 class Game:
+    """SCI0/SCI01 (EGA views) or SCI1 (VGA views, e.g. Police Quest III): the map tells them apart."""
+
     def __init__(self, game_dir):
         self.dir = game_dir
-        entries = sci0.read_map(game_dir)
-        sci0.detect_scheme(game_dir, entries)
-        self.index = {(t, n): (v, o) for t, n, v, o in entries}
         self.cache = {}
+        try:
+            entries = sci0.read_map(game_dir)
+            sci0.detect_scheme(game_dir, entries)
+            self.index = {(t, n): (v, o) for t, n, v, o in entries}
+            self.vga = False
+        except (ValueError, KeyError, struct.error):
+            import extract_sci11
+            self.index = extract_sci11.read_map(extract_sci11.find_file(game_dir, "RESOURCE.MAP"))
+            self.vga = True
+            import extract_sci11_talkers
+            pal = self.load(0x0B, 999)
+            self.palette = extract_sci11_talkers.parse_palette(pal) if pal else {}
 
     def load(self, rtype, num):
-        patch = sci0.find_file(self.dir, f"{PATCH_NAME[rtype]}.{num:03d}")
+        patch = sci0.find_file(self.dir, f"{PATCH_NAME[rtype]}.{num:03d}") if rtype in PATCH_NAME else None
+        if not patch and getattr(self, "vga", False):
+            ext = {T_VIEW: "V56", T_SCRIPT: "SCR", T_VOCAB: "VOC", 0x0B: "PAL"}.get(rtype)
+            patch = sci0.find_file(self.dir, f"{num}.{ext}") if ext else None
         if patch:
             raw = open(patch, "rb").read()
             return raw[2 + raw[1]:] if raw[1] < 0x80 else raw[2:]
         if (rtype, num) not in self.index:
             return None
+        if getattr(self, "vga", False):
+            import extract_sci1
+            return extract_sci1.load(self.dir, self.cache, *self.index[(rtype, num)])
         return sci0.load_resource(self.dir, *self.index[(rtype, num)], self.cache)
 
     def numbers(self, rtype):
@@ -117,9 +134,27 @@ def load_objects(game):
     return objects
 
 
+def render_vga(game, view, loop, cel, scale):
+    from PIL import Image
+    import extract_sci11_talkers as tk
+    w, h, dx, dy, key, px, pal = tk.decode_cel_vga(view, loop, cel)
+    if not (0 < w <= 320 and 0 < h <= 200):
+        return None
+    palette = dict(game.palette)
+    palette.update(pal)
+    img = Image.new("RGBA", (w, h))
+    img.putdata([(0, 0, 0, 0) if c == key else palette.get(c, (255, 0, 255)) + (255,) for c in px])
+    return img.resize((w * scale, round(h * 1.2 * scale)), Image.NEAREST)
+
+
 def render(game, view_no, loop, cel, scale):
     from PIL import Image
     view = game.load(T_VIEW, view_no)
+    if view and getattr(game, "vga", False):
+        try:
+            return render_vga(game, view, loop, cel, scale)
+        except (IndexError, struct.error):
+            return None
     if not view or len(view) < 8:
         return None
     loops = view[0]
@@ -150,6 +185,41 @@ def render(game, view_no, loop, cel, scale):
     return img.resize((w * scale, round(h * 1.2 * scale)), Image.NEAREST)
 
 
+def fit_hole(base, feat):
+    """Top-left position where feat covers the most hole pixels of base (transparent or pure
+    black), or None when no position fills at least 70% of the feature with hole."""
+    bw, bh = base.size
+    fw, fh = feat.size
+    if fw > bw or fh > bh:
+        return None
+    bpx = base.load()
+    fa = feat.getchannel("A").load()
+    opaque = [(x, y) for y in range(fh) for x in range(fw) if fa[x, y]]
+    if not opaque:
+        return None
+    hole = [[bpx[x, y][3] == 0 or bpx[x, y][:3] == (0, 0, 0) for x in range(bw)] for y in range(bh)]
+    step = max(1, min(fw, fh) // 12)
+    best, best_pos = 0, None
+    for oy in range(0, bh - fh + 1, step):
+        for ox in range(0, bw - fw + 1, step):
+            n = sum(1 for x, y in opaque[::3] if hole[oy + y][ox + x])
+            if n > best:
+                best, best_pos = n, (ox, oy)
+    if best_pos is None or best < 0.7 * len(opaque[::3]):
+        return None
+    ox0, oy0 = best_pos      # refine around the coarse hit
+    for oy in range(max(0, oy0 - step), min(bh - fh, oy0 + step) + 1):
+        for ox in range(max(0, ox0 - step), min(bw - fw, ox0 + step) + 1):
+            n = sum(1 for x, y in opaque[::3] if hole[oy + y][ox + x])
+            if n > best:
+                best, best_pos = n, (ox, oy)
+    return best_pos
+
+
+def sign(v):
+    return v - 0x10000 if v >= 0x8000 else v
+
+
 def best_cel(game, view_no, scale):
     """(loop, cel, image) of the cel with the most opaque pixels in the view."""
     view = game.load(T_VIEW, view_no)
@@ -178,9 +248,41 @@ def main():
     ap.add_argument("out_dir")
     ap.add_argument("--scale", type=int, default=4)
     ap.add_argument("--render-map", help="render exactly these view/loop/cel picks instead of scanning scripts")
+    ap.add_argument("--compose-map", help='compose {"portraits": {name: {"script": N, "objects": [names]}}} from script objects')
     a = ap.parse_args()
     game = Game(a.game_dir)
     os.makedirs(a.out_dir, exist_ok=True)
+    if a.compose_map:
+        # Inset portraits: the first object is the inset (usually a complete face). Some insets
+        # leave a hole (transparent, or solid black) where a separate head or mouth prop is drawn
+        # at runtime; the prop's own coordinates are only set by code, so each extra object is
+        # placed where it fills the most hole, and only if it really fills one.
+        from PIL import Image
+        picks = json.load(open(a.compose_map))["portraits"]
+        objs = load_objects(game)
+        for name, spec in picks.items():
+            imgs = []
+            for oname in spec["objects"]:
+                o = next((x for x in objs if x["script"] == spec["script"] and x.get("name") == oname), None)
+                if o is None:
+                    raise SystemExit(f"{name}: no object {oname!r} in script {spec['script']}")
+                p = o["props"]
+                img = render(game, p["view"], p.get("loop", 0), p.get("cel", 0), 1)
+                if img is None:
+                    raise SystemExit(f"{name}: {oname} does not render")
+                imgs.append(img)
+            base = imgs[0].copy()
+            at = spec.get("at", {})
+            for oname, feat in zip(spec["objects"][1:], imgs[1:]):
+                # "at" pins a feature to a measured position in the inset (holes that are a
+                # placeholder colour rather than transparent); otherwise fit it into a hole.
+                pos = tuple(at[oname]) if oname in at else fit_hole(base, feat)
+                if pos:
+                    base.alpha_composite(feat, pos)
+            base = base.resize((base.width * a.scale, base.height * a.scale), Image.NEAREST)
+            base.save(os.path.join(a.out_dir, f"{name}.png"))
+        print(f"{len(picks)} composed portraits -> {a.out_dir}", file=sys.stderr)
+        return
     if a.render_map:
         picks = json.load(open(a.render_map))["sprites"]
         for name, (view, loop, cel) in picks.items():
